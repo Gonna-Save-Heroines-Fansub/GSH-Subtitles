@@ -1,0 +1,396 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Italics - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback_Italics - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Onscreen_Text,Arial,26,&H00F0F8F1,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,115,115,0,0,1,0,3,5,0010,0010,0000,1
+Style: Status Text,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,-1,0,0,115,115,0,0,1,0,0,7,0010,0010,0042,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.98,0:00:05.40,Main,MICHIO,0000,0000,0000,,There aren't any monsters, but there's \Nsomething about this room that feels off.
+Dialogue: 0,0:00:05.40,0:00:06.64,Main,ROXANNE,0000,0000,0000,,It's a waiting room.
+Dialogue: 0,0:00:06.64,0:00:07.48,Main,MICHIO,0000,0000,0000,,A waiting room?
+Dialogue: 0,0:00:07.48,0:00:11.22,Main,ROXANNE,0000,0000,0000,,The first floor boss is beyond this door.
+Dialogue: 0,0:00:16.97,0:00:21.00,Main,MICHIO,0000,0000,0000,,So the path to the second floor will open
+Dialogue: 0,0:00:21.00,0:00:24.47,Main,MICHIO,0000,0000,0000,,if we defeat the boss on the \Nother side of this door?
+Dialogue: 0,0:00:24.47,0:00:25.24,Main,ROXANNE,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:25.66,0:00:30.50,Main,ROXANNE,0000,0000,0000,,Additionally, only one party can \Nenter the boss room at a time.
+Dialogue: 0,0:00:30.98,0:00:33.74,Main,MICHIO,0000,0000,0000,,What happens if two or more parties enter?
+Dialogue: 0,0:00:33.74,0:00:35.29,Main,ROXANNE,0000,0000,0000,,The boss doesn't appear,
+Dialogue: 0,0:00:35.29,0:00:38.91,Main,ROXANNE,0000,0000,0000,,and the door to the next \Nfloor can't be opened.
+Dialogue: 0,0:00:38.91,0:00:41.83,Main,ROXANNE,0000,0000,0000,,When there's more than one party,
+Dialogue: 0,0:00:41.83,0:00:44.02,Main,ROXANNE,0000,0000,0000,,they must wait their turn in this room.
+Dialogue: 0,0:00:44.56,0:00:48.27,Main,MICHIO,0000,0000,0000,,I see. That's why they call \Nthis the waiting room.
+Dialogue: 0,0:00:48.66,0:00:50.32,Main,ROXANNE,0000,0000,0000,,Are you ready?
+Dialogue: 0,0:00:50.78,0:00:55.78,Italics,MICHIO,0000,0000,0000,,She's always so eager to fight, but...
+Dialogue: 0,0:00:56.61,0:00:58.78,Main,MICHIO,0000,0000,0000,,Since it's called a boss,
+Dialogue: 0,0:00:58.78,0:01:00.77,Main,MICHIO,0000,0000,0000,,it must be strong, right?
+Dialogue: 0,0:01:01.29,0:01:02.95,Main,ROXANNE,0000,0000,0000,,We'll be fine.
+Dialogue: 0,0:01:02.95,0:01:07.29,Main,ROXANNE,0000,0000,0000,,A lowly first floor boss doesn't \Nstand a chance against you, Master.
+Dialogue: 0,0:01:07.58,0:01:09.56,Italics,MICHIO,0000,0000,0000,,Don't you think you're a little too excited?
+Dialogue: 0,0:01:10.46,0:01:11.30,Main,MICHIO,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:11.75,0:01:14.30,Main,ROXANNE,0000,0000,0000,,Looks like no one got here before us.
+Dialogue: 0,0:01:14.68,0:01:16.62,Main,MICHIO,0000,0000,0000,,So it opens automatically.
+Dialogue: 0,0:01:17.41,0:01:19.19,Main,ROXANNE,0000,0000,0000,,Shall we go?
+Dialogue: 0,0:01:20.30,0:01:21.34,Main,MICHIO,0000,0000,0000,,Yeah.
+Dialogue: 0,0:01:21.34,0:01:24.31,Main,ROXANNE,0000,0000,0000,,If we're lucky, we might get some equipment.
+Dialogue: 0,0:01:24.53,0:01:25.95,Main,MICHIO,0000,0000,0000,,Equipment?
+Dialogue: 0,0:01:25.95,0:01:30.60,Main,ROXANNE,0000,0000,0000,,Sometimes there's equipment left behind \Nif the previous party was wiped out.
+Dialogue: 0,0:01:30.60,0:01:35.53,Italics,MICHIO,0000,0000,0000,,What? Should you be calling that lucky?
+Dialogue: 0,0:01:41.28,0:01:46.07,Sign_Basic,ShowTitle,0000,0000,0000,,{\fad(1500,0)\fnTimes New Roman\b1\c&H8A0001&\bord3\3c&HFFFFFF&\blur3\shad0\fs30\fscy150}in the Labyrinth of Another World
+Dialogue: 0,0:01:42.82,0:01:46.07,Sign_Basic,ShowTitle,0000,0000,0000,,{\fad(1075,0)\pos(320,10)\bord3\an8\fnTimes New Roman\b1\fs44\fsp10\shad0\c&HFFFFFF&\3c&H2281EA&\blur3}H{\3c&H3463E2&}a{\3c&H4546D9&}r{\3c&H5728D1&}e{\3c&H680AC8&}m
+Dialogue: 0,0:03:11.30,0:03:14.46,Italics,MICHIO,0000,0000,0000,,It looks like an ordinary small room.
+Dialogue: 0,0:03:19.29,0:03:20.38,Main,ROXANNE,0000,0000,0000,,It's coming.
+Dialogue: 0,0:03:24.38,0:03:26.78,Main,MICHIO,0000,0000,0000,,So this is the first floor boss.
+Dialogue: 0,0:03:25.89,0:03:27.89,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(503,255)}Ood Wood: Lv 1
+Dialogue: 0,0:03:27.89,0:03:29.31,Main,ROXANNE,0000,0000,0000,,Here I go.
+Dialogue: 0,0:03:39.12,0:03:42.24,Italics,MICHIO,0000,0000,0000,,It's not flinching under our attacks.
+Dialogue: 0,0:03:42.47,0:03:44.70,Italics,MICHIO,0000,0000,0000,,How should we attack this thing?
+Dialogue: 0,0:03:48.57,0:03:49.99,Italics,MICHIO,0000,0000,0000,,Nice assist.
+Dialogue: 0,0:03:51.25,0:03:52.46,Italics,MICHIO,0000,0000,0000,,How was that?
+Dialogue: 0,0:03:56.66,0:03:59.17,Italics,MICHIO,0000,0000,0000,,It may only be the first floor, \Nbut it's still a boss.
+Dialogue: 0,0:03:59.17,0:04:01.13,Italics,MICHIO,0000,0000,0000,,It didn't go down in a single blow.
+Dialogue: 0,0:04:01.13,0:04:03.09,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(320,220)\4a&H44&}Ood Wood: Lv 1
+Dialogue: 0,0:04:01.40,0:04:02.70,Italics,MICHIO,0000,0000,0000,,In that case...
+Dialogue: 0,0:04:04.55,0:04:06.62,Main,MICHIO,0000,0000,0000,,How about this?
+Dialogue: 0,0:04:07.94,0:04:08.94,Main,MICHIO,0000,0000,0000,,Rush!
+Dialogue: 0,0:04:10.14,0:04:11.48,Italics,MICHIO,0000,0000,0000,,It's still standing?
+Dialogue: 0,0:04:15.56,0:04:18.07,Onscreen_Text,SIGN,0000,0000,0000,,{\fs16\pos(322,200)}Ood Wood: Lv 1
+Dialogue: 0,0:04:16.20,0:04:18.07,Italics,MICHIO,0000,0000,0000,,One more time.
+Dialogue: 0,0:04:18.07,0:04:19.49,Main,MICHIO,0000,0000,0000,,Rush!
+Dialogue: 0,0:04:25.85,0:04:28.70,Main,ROXANNE,0000,0000,0000,,Master, you're not hurt, are you?
+Dialogue: 0,0:04:29.39,0:04:31.87,Main,MICHIO,0000,0000,0000,,Nah. How about you?
+Dialogue: 0,0:04:32.52,0:04:33.79,Main,ROXANNE,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:04:33.79,0:04:37.38,Main,ROXANNE,0000,0000,0000,,Those attacks can be dodged easily \Nif you're watching closely.
+Dialogue: 0,0:04:37.81,0:04:41.38,Italics,MICHIO,0000,0000,0000,,Isn't that actually pretty impressive?
+Dialogue: 0,0:04:41.66,0:04:43.99,Italics,MICHIO,0000,0000,0000,,Humans can't move like that.
+Dialogue: 0,0:04:43.99,0:04:46.30,Italics,MICHIO,0000,0000,0000,,Is it a skill unique to beast warriors?
+Dialogue: 0,0:04:46.30,0:04:48.78,Main,ROXANNE,0000,0000,0000,,Oh, it's a leaf.
+Dialogue: 0,0:04:50.06,0:04:58.81,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\fs12\an7\1a&H20&\pos(228,23)}Party Job Settings
+Dialogue: 0,0:04:50.06,0:04:58.81,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\fs12\an7\1a&H20&\pos(228.667,51.334)}Kaga Michio\NRoxanne
+Dialogue: 0,0:04:50.06,0:04:58.81,Onscreen_Text,SIGN,0000,0000,0000,,{\fs14\shad0\pos(390,72)}Equipped Jobs\N{\fs8}1st Beast Warrior: Lv 6\NEffects: Moderate Agility Increase\NMinor Stamina Increase\NMinor Dexterity Increase\NSkill: Beast Attack
+Dialogue: 0,0:04:50.06,0:04:58.81,Onscreen_Text,SIGN,0000,0000,0000,,{\fs14\shad0\pos(516,72)}Jobs\N {\fs8}Warrior: Lv 1\N Monk: Lv 1\N Explorer: Lv 1\N Farmer: Lv 1\N{\1a&HFF&\t(5736,5777,1 \1a&H00&)}Herbalist: Lv 1
+Dialogue: 0,0:04:50.79,0:04:52.61,Italics,MICHIO,0000,0000,0000,,Beast Attack?
+Dialogue: 0,0:04:53.06,0:04:55.80,Italics,MICHIO,0000,0000,0000,,It doesn't seem related \Nto how quickly she moves.
+Dialogue: 0,0:04:56.37,0:04:58.81,Italics,MICHIO,0000,0000,0000,,Wait, what? She has a new job.
+Dialogue: 0,0:04:58.81,0:05:01.16,Main,MICHIO,0000,0000,0000,,Herbalist?
+Dialogue: 0,0:05:01.16,0:05:07.32,Main,ROXANNE,0000,0000,0000,,That's right. Herbalists use \Nthese to make medicines.
+Dialogue: 0,0:05:08.16,0:05:09.83,Main,MICHIO,0000,0000,0000,,Huh...
+Dialogue: 0,0:05:09.83,0:05:12.20,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(490,218)}Leaf
+Dialogue: 0,0:05:10.15,0:05:12.58,Italics,MICHIO,0000,0000,0000,,So it's like a medicinal herb, then.
+Dialogue: 0,0:05:12.58,0:05:13.76,Italics,MICHIO,0000,0000,0000,,More importantly...
+Dialogue: 0,0:05:14.88,0:05:19.38,Main,MICHIO,0000,0000,0000,,Roxanne, what kind of skill is Beast Attack?
+Dialogue: 0,0:05:19.38,0:05:21.44,Main,ROXANNE,0000,0000,0000,,It's a skill beast warriors have.
+Dialogue: 0,0:05:21.44,0:05:25.49,Main,ROXANNE,0000,0000,0000,,I've heard it's a technique that does \Na large amount of damage to monsters.
+Dialogue: 0,0:05:25.98,0:05:29.28,Main,ROXANNE,0000,0000,0000,,I'm sorry, though. I can't use it.
+Dialogue: 0,0:05:29.28,0:05:31.10,Main,MICHIO,0000,0000,0000,,What? You can't?
+Dialogue: 0,0:05:31.35,0:05:35.35,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\fs10\an7\1a&H20&\b0\pos(175,52)}Party Job Settings
+Dialogue: 0,0:05:31.35,0:05:35.35,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\fs10\an7\1a&H20&\b0\pos(200,221)}Item Box
+Dialogue: 0,0:05:31.35,0:05:35.35,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\fs10\fscx90\an7\1a&H20&\pos(176,117)\c&H959D99&}Kaga Michio\N{\c}Roxanne
+Dialogue: 0,0:05:31.35,0:05:35.35,Onscreen_Text,SIGN,0000,0000,0000,,{\fs10\shad0\fscx90\fscy150\pos(100,120)}Warrior: Lv 6\NEffects: Moderate Agility Increase\NMinor Stamina Increase\NMinor Dexterity Increase\NSkill: Beast Attack
+Dialogue: 0,0:05:31.60,0:05:35.35,Main,ROXANNE,0000,0000,0000,,Using skills requires you to say \Nthe appropriate incantation.
+Dialogue: 0,0:05:35.66,0:05:37.44,Main,MICHIO,0000,0000,0000,,You don't know the incantation?
+Dialogue: 0,0:05:37.44,0:05:41.52,Main,ROXANNE,0000,0000,0000,,No, I can imagine the incantation itself.
+Dialogue: 0,0:05:41.52,0:05:47.58,Main,ROXANNE,0000,0000,0000,,But unless you get the pronunciation, \Naccent, and minor nuances all perfect,
+Dialogue: 0,0:05:47.58,0:05:49.42,Main,ROXANNE,0000,0000,0000,,the incantation doesn't work.
+Dialogue: 0,0:05:50.16,0:05:51.37,Main,MICHIO,0000,0000,0000,,Is that right?
+Dialogue: 0,0:05:52.01,0:05:56.37,Italics,MICHIO,0000,0000,0000,,In my case, all my incantations are \Neither shortened or abbreviated.
+Dialogue: 0,0:05:56.83,0:05:59.64,Main,ROXANNE,0000,0000,0000,,You're always vulnerable \Nwhile speaking incantations,
+Dialogue: 0,0:05:59.64,0:06:04.38,Main,ROXANNE,0000,0000,0000,,so it's considered better for a beginner \Nlike me not to rely on my skills.
+Dialogue: 0,0:06:04.68,0:06:05.90,Main,MICHIO,0000,0000,0000,,I see.
+Dialogue: 0,0:06:06.34,0:06:09.58,Italics,MICHIO,0000,0000,0000,,Roxanne doesn't seem like a beginner to me.
+Dialogue: 0,0:06:11.91,0:06:14.39,Main,MICHIO,0000,0000,0000,,So the second floor is beyond this portal.
+Dialogue: 0,0:06:14.39,0:06:16.39,Main,ROXANNE,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:21.40,0:06:23.15,Onscreen_Text,SIGN,0000,0000,0000,,{\fad(0,250)\pos(320,168)}Vale Labyrinth, Second Floor
+Dialogue: 0,0:06:28.24,0:06:32.16,Main,MICHIO,0000,0000,0000,,Huh. It doesn't look any \Ndifferent from the first floor.
+Dialogue: 0,0:06:32.93,0:06:37.66,Main,MICHIO,0000,0000,0000,,Roxanne, can we head back to the first \Nfloor and fight that boss again?
+Dialogue: 0,0:06:37.66,0:06:39.43,Main,ROXANNE,0000,0000,0000,,Of course.
+Dialogue: 0,0:06:39.93,0:06:45.67,Italics,MICHIO,0000,0000,0000,,Roxanne acquired the herbalist job \Nby picking up that leaf earlier.
+Dialogue: 0,0:06:45.67,0:06:48.67,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\c&HC4C7C5&\pos(119.333,115.333)\fs18\frz339.3\frx354\fry344}Jobs\N Warrior: Lv 1\N Monk: Lv 1\N Explorer: Lv 1\N Farmer: Lv 1\N Herbalist: Lv 1
+Dialogue: 0,0:06:46.10,0:06:49.51,Italics,MICHIO,0000,0000,0000,,Which means if I pick a leaf, too...
+Dialogue: 0,0:06:54.78,0:06:55.68,Main,MICHIO,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:56.68,0:06:57.41,Main,MICHIO,0000,0000,0000,,What?
+Dialogue: 0,0:07:02.19,0:07:04.28,Main,MICHIO,0000,0000,0000,,I'm outside.
+Dialogue: 0,0:07:05.08,0:07:08.76,Italics,MICHIO,0000,0000,0000,,So you can't return to the \Nboss room from the next floor.
+Dialogue: 0,0:07:08.76,0:07:12.20,Italics,MICHIO,0000,0000,0000,,Of course. There was even a waiting room.
+Dialogue: 0,0:07:13.12,0:07:15.70,Main,ROXANNE,0000,0000,0000,,Um...
+Dialogue: 0,0:07:16.28,0:07:19.62,Italics,MICHIO,0000,0000,0000,,Crap. She'll lose respect \Nfor me as her master.
+Dialogue: 0,0:07:20.24,0:07:21.30,Main,MICHIO,0000,0000,0000,,I see.
+Dialogue: 0,0:07:21.30,0:07:22.16,Main,ROXANNE,0000,0000,0000,,What?
+Dialogue: 0,0:07:22.16,0:07:24.83,Main,MICHIO,0000,0000,0000,,So it can't be done that way.
+Dialogue: 0,0:07:24.83,0:07:27.33,Main,MICHIO,0000,0000,0000,,My experiment yielded intriguing results.
+Dialogue: 0,0:07:30.72,0:07:33.76,Main,ROXANNE,0000,0000,0000,,Oh, that was an experiment.
+Dialogue: 0,0:07:34.07,0:07:36.29,Italics,MICHIO,0000,0000,0000,,All right. She bought it.
+Dialogue: 0,0:07:39.27,0:07:41.27,Onscreen_Text,,0000,0000,0000,,{\fad(250,250)\shad0\pos(390,180)} Vale Labyrinth, First Floor\NBoss Waiting Room
+Dialogue: 0,0:07:42.11,0:07:44.09,Main,MICHIO,0000,0000,0000,,Let's go.
+Dialogue: 0,0:07:44.09,0:07:44.89,Main,ROXANNE,0000,0000,0000,,Yes, Master.
+Dialogue: 0,0:07:50.43,0:07:53.96,Italics,MICHIO,0000,0000,0000,,I feel more relaxed the second time around.
+Dialogue: 0,0:07:53.96,0:07:56.00,Italics,MICHIO,0000,0000,0000,,That said, I won't let my guard down.
+Dialogue: 0,0:07:56.00,0:07:57.62,Italics,MICHIO,0000,0000,0000,,Safety first.
+Dialogue: 0,0:07:58.87,0:08:00.62,Italics,MICHIO,0000,0000,0000,,Crap. Is that a spell?
+Dialogue: 0,0:08:05.76,0:08:06.63,Main,ROXANNE,0000,0000,0000,,What?
+Dialogue: 0,0:08:16.86,0:08:17.93,Main,MICHIO,0000,0000,0000,,Now!
+Dialogue: 0,0:08:24.32,0:08:26.20,Main,MICHIO,0000,0000,0000,,We managed to beat it somehow.
+Dialogue: 0,0:08:26.20,0:08:28.31,Main,ROXANNE,0000,0000,0000,,Yes, Master. Um...
+Dialogue: 0,0:08:28.31,0:08:29.44,Main,MICHIO,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:29.44,0:08:32.95,Main,ROXANNE,0000,0000,0000,,The magic circle seemed to \Ndisappear as it was being cast.
+Dialogue: 0,0:08:33.95,0:08:36.31,Main,MICHIO,0000,0000,0000,,Oh, that's...
+Dialogue: 0,0:08:38.06,0:08:39.82,Main,MICHIO,0000,0000,0000,,because of this sword.
+Dialogue: 0,0:08:39.99,0:08:41.75,Status Text,SIGN,0000,0000,0000,,{\fs12\pos(288,96)}{Missing}
+Dialogue: 0,0:08:39.99,0:08:41.75,Status Text,SIGN,0000,0000,0000,,{\fs13\pos(260,145)}Durandal
+Dialogue: 0,0:08:39.99,0:08:41.75,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(476,166)\1a&H20&\c&HFFFFFF&}Offensive Power x5
+Dialogue: 0,0:08:39.99,0:08:41.75,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(476,199)\1a&H20&\c&HFFFFFF&}HP Absorption
+Dialogue: 0,0:08:39.99,0:08:41.75,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(476,232)\1a&H20&\c&HFFFFFF&}MP Absorption
+Dialogue: 0,0:08:39.99,0:08:41.75,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(476,268)\1a&H20&\c&HFFFFFF&}Incantation Interruption
+Dialogue: 0,0:08:42.85,0:08:45.29,Main,ROXANNE,0000,0000,0000,,What an impressive sword you have, Master.
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs18\shad0\pos(285,55)}Equipped Jobs
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs16\shad0\pos(268,260)\1a&H20&}1st Explorer: Lv 13\N 2nd Hero: Lv 7\N 3rd Monk: Lv 3\N 4th Swordsman: Lv 8
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs18\shad0\pos(464,55)}Jobs
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(464,139)\1a&H20&}Swordsman: Lv 10
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(464,179)\1a&H20&}Villager: Lv 5
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(464,218)\1a&H20&}Monk: Lv 3
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(464,258)\1a&H20&}Thief: Lv 3
+Dialogue: 0,0:08:51.71,0:08:54.97,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\shad0\pos(464,299)\1a&H20&}Herbalist: Lv 1
+Dialogue: 0,0:08:51.71,0:09:00.72,Status Text,SIGN,0000,0000,0000,,{\fs16\pos(65,12.667)}Party Job Settings
+Dialogue: 0,0:08:51.71,0:09:00.72,Status Text,SIGN,0000,0000,0000,,{\pos(70,120)\fs14}Kaga Michio\N{\c&H8FA69E&}Roxanne
+Dialogue: 0,0:08:52.36,0:08:54.78,Italics,MICHIO,0000,0000,0000,,There it is.
+Dialogue: 0,0:08:54.97,0:09:00.72,Onscreen_Text,SIGN,0000,0000,0000,,{\an7\shad0\pos(178,142.667)\1a&H20&\fs20\fscy150}Herbalist: Lv 1\NSkill: Create Herbal Medicine
+Dialogue: 0,0:08:55.32,0:08:58.88,Italics,MICHIO,0000,0000,0000,,She said herbalists could make medicines.
+Dialogue: 0,0:09:01.20,0:09:02.90,Italics,MICHIO,0000,0000,0000,,Create Herbal Medicine.
+Dialogue: 0,0:09:07.35,0:09:08.52,Main,MICHIO,0000,0000,0000,,I did it.
+Dialogue: 0,0:09:08.52,0:09:11.57,Main,ROXANNE,0000,0000,0000,,What? Master, that's amazing.
+Dialogue: 0,0:09:11.57,0:09:12.84,Main,MICHIO,0000,0000,0000,,Don't tell anyone.
+Dialogue: 0,0:09:13.49,0:09:15.65,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(518,210)}Antidote Pill
+Dialogue: 0,0:09:14.00,0:09:15.65,Italics,MICHIO,0000,0000,0000,,Antidote?
+Dialogue: 0,0:09:16.40,0:09:19.66,Main,MICHIO,0000,0000,0000,,Do some monsters use poison attacks?
+Dialogue: 0,0:09:19.98,0:09:22.91,Main,ROXANNE,0000,0000,0000,,Yes. I've heard quite a few of them do.
+Dialogue: 0,0:09:22.91,0:09:26.67,Italics,MICHIO,0000,0000,0000,,I wish someone had told me that sooner.
+Dialogue: 0,0:09:35.28,0:09:36.82,Main,FEMALE EMPLOYEE,0000,0000,0000,,Thank you for waiting.
+Dialogue: 0,0:09:36.93,0:09:41.31,Onscreen_Text,SIGN RED,0000,0000,0000,,{\fs16\pos(170,140)\shad2}Strengthening Pill
+Dialogue: 0,0:09:37.30,0:09:41.31,Onscreen_Text,SIGN PURPLE,0000,0000,0000,,{\fs16\pos(266,45)\shad2}Nourishment Pill
+Dialogue: 0,0:09:37.68,0:09:41.31,Onscreen_Text,SIGN BLUE,0000,0000,0000,,{\fs16\pos(492,140)\shad2}Petrification Cure
+Dialogue: 0,0:09:38.05,0:09:41.31,Onscreen_Text,SIGN YELLOW,0000,0000,0000,,{\fs16\pos(464,260)\shad2}Paralysis Cure
+Dialogue: 0,0:09:39.06,0:09:41.31,Main,MICHIO,0000,0000,0000,,That's 640 nars for all of them.
+Dialogue: 0,0:09:43.41,0:09:44.10,Main,FEMALE EMPLOYEE,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:09:52.69,0:09:57.20,Italics,MICHIO,0000,0000,0000,,Anyway, I never get a discount here.
+Dialogue: 0,0:09:54.44,0:09:57.20,Onscreen_Text,SIGN,0000,0000,0000,,{\an7\b0\fs20\pos(194,19)}Character Settings
+Dialogue: 0,0:09:54.44,0:09:57.20,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(20,175)\shad0\b0\fs18\an7\c&H9B9F9C&}Status\N{\fscx95}Bonus Equipment\N Bonus Incantation\N{\fscx\c}Bonus Skills
+Dialogue: 0,0:09:54.44,0:09:57.20,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\pos(381,104)\fs16\1a&H20&}30% Sale Price Increase
+Dialogue: 0,0:09:54.44,0:09:57.20,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\pos(381,156)\fs16\1a&H20&\c&H979B98&}Bonus Weapon
+Dialogue: 0,0:09:54.44,0:09:57.20,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\pos(381,209)\fs16\1a&H20&}Incantation Reduction
+Dialogue: 0,0:09:54.44,0:09:57.20,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\pos(381,263)\fs16\1a&H20&}Critical Hit Chance
+Dialogue: 0,0:09:57.95,0:10:03.45,Italics,MICHIO,0000,0000,0000,,The slave merchant and innkeeper \Nboth offered me a 30% discount.
+Dialogue: 1,0:10:03.98,0:10:09.56,Italics,MICHIO,0000,0000,0000,,Come to think of it, the merchant job \Nhad a skill that helps with math.
+Dialogue: 0,0:10:08.46,0:10:16.97,Onscreen_Text,SIGN,0000,0000,0000,,{\b0\shad0\an7\fay.21\move(158,10,224,10)\fs24\fscx80\frx354\fry352\frz358.9}Party Job Settings
+Dialogue: 0,0:10:08.46,0:10:16.97,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\b0\an7\move(-14,83,52,83)\fs20\fay.21\fscx80\frx350\fry330}Kaga Michio\N{\c&H9A9D9A&}Roxanne
+Dialogue: 0,0:10:08.46,0:10:16.97,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\an7\fs30\fay.20\1a&H20&\fscx80\fscy150\move(103.333,170,169.333,170)\frx348\fry336}Merchant: Lv 1\NSkill: Calc
+Dialogue: 1,0:10:09.56,0:10:11.44,Italics,MICHIO,0000,0000,0000,,That's right, it's called Calc.
+Dialogue: 1,0:10:11.44,0:10:16.97,Italics,MICHIO,0000,0000,0000,,Skills related to haggling might \Nrely directly on the Calc skill.
+Dialogue: 0,0:10:16.97,0:10:26.98,Sign_Basic,SIGN TOP,0000,0000,0000,,{\pos(318,40)\an8\fnArial\b1\c&H1906CB&\4c&HC6D3DE&\bord1.5}Calc
+Dialogue: 0,0:10:16.97,0:10:26.98,Sign_Basic,SIGN BOTTOM RIGHT,0000,0000,0000,,{\pos(483.333,174)\an8\fs14\shad0\c&HDADDDA&}30% Discount
+Dialogue: 0,0:10:17.32,0:10:21.53,Italics,MICHIO,0000,0000,0000,,That must be how I performed complex \Ncalculations in an instant.
+Dialogue: 0,0:10:22.01,0:10:26.98,Italics,MICHIO,0000,0000,0000,,That explains why my 30% \Ndiscount doesn't work here.
+Dialogue: 0,0:10:27.68,0:10:31.73,Main,FEMALE EMPLOYEE,0000,0000,0000,,It looks like it's all here. \NThank you for your business.
+Dialogue: 0,0:10:33.17,0:10:35.12,Main,MICHIO,0000,0000,0000,,I got some medicine.
+Dialogue: 0,0:10:35.12,0:10:36.63,Main,MICHIO,0000,0000,0000,,There's still plenty of daylight left.
+Dialogue: 0,0:10:36.63,0:10:38.20,Main,MICHIO,0000,0000,0000,,Shall we head back into the labyrinth?
+Dialogue: 0,0:10:38.20,0:10:38.99,Main,ROXANNE,0000,0000,0000,,Yes, Master.
+Dialogue: 0,0:10:45.12,0:10:49.29,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\pos(320,164)}Vale Labyrinth, Second Floor
+Dialogue: 0,0:10:46.61,0:10:49.29,Main,ROXANNE,0000,0000,0000,,This way. They're very close.
+Dialogue: 0,0:10:55.88,0:10:59.63,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(524,85)\fs16}Needle Wood: Lv 2
+Dialogue: 0,0:10:56.33,0:10:59.63,Italics,MICHIO,0000,0000,0000,,Lv 2? It must be because \Nwe're on the second floor.
+Dialogue: 0,0:10:59.63,0:11:02.21,Main,MICHIO,0000,0000,0000,,Huh? There's something behind it.
+Dialogue: 0,0:11:03.22,0:11:04.23,Main,MICHIO,0000,0000,0000,,Identify.
+Dialogue: 0,0:11:04.51,0:11:05.89,Onscreen_Text,SIGN,0000,0000,0000,,{\fs18\pos(154,75)}Green Caterpillar: Lv 2
+Dialogue: 0,0:11:05.89,0:11:10.39,Italics,MICHIO,0000,0000,0000,,Gross! This must be a monster that \Nstarts appearing on the second floor.
+Dialogue: 0,0:11:11.21,0:11:13.01,Main,MICHIO,0000,0000,0000,,I'll handle the needle wood.
+Dialogue: 0,0:11:13.01,0:11:15.82,Main,ROXANNE,0000,0000,0000,,Then I'll draw the green caterpillar to me.
+Dialogue: 0,0:11:17.11,0:11:20.43,Italics,MICHIO,0000,0000,0000,,Let's see how strong Lv 2 monsters are.
+Dialogue: 0,0:11:22.13,0:11:26.20,Italics,MICHIO,0000,0000,0000,,A one-shot? \NWell, I guess I've leveled up, too.
+Dialogue: 0,0:11:33.65,0:11:36.61,Italics,MICHIO,0000,0000,0000,,As usual, they're not even \Nclose to hitting her.
+Dialogue: 0,0:11:37.95,0:11:38.91,Italics,MICHIO,0000,0000,0000,,Unlike the needle woods,
+Dialogue: 0,0:11:38.91,0:11:42.14,Italics,MICHIO,0000,0000,0000,,it's easy to differentiate between the \Nfront and back of these creatures.
+Dialogue: 0,0:11:42.14,0:11:45.44,Italics,MICHIO,0000,0000,0000,,I can safely attack from behind.
+Dialogue: 0,0:11:48.72,0:11:50.60,Italics,MICHIO,0000,0000,0000,,Another one-shot.
+Dialogue: 0,0:11:51.10,0:11:53.48,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(184.667,250.667)}Thread
+Dialogue: 0,0:11:54.94,0:11:59.00,Main,MICHIO,0000,0000,0000,,Did two monsters appear just now \Nbecause we're on the second floor?
+Dialogue: 0,0:11:59.00,0:12:00.33,Main,ROXANNE,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:00.33,0:12:03.93,Main,MICHIO,0000,0000,0000,,Does that mean three will \Nshow up on the third floor?
+Dialogue: 0,0:12:03.93,0:12:04.61,Main,ROXANNE,0000,0000,0000,,No.
+Dialogue: 0,0:12:04.91,0:12:07.63,Main,ROXANNE,0000,0000,0000,,Monsters start appearing in groups of \Nthree starting on the fourth floor
+Dialogue: 0,0:12:07.63,0:12:10.58,Main,ROXANNE,0000,0000,0000,,and in groups of four starting \Non the eighth floor.
+Dialogue: 0,0:12:10.84,0:12:17.59,Italics,MICHIO,0000,0000,0000,,Then it's probably five on the 16th \Nfloor and six on the 32nd floor.
+Dialogue: 0,0:12:19.46,0:12:20.46,Main,ROXANNE,0000,0000,0000,,There they are.
+Dialogue: 0,0:12:23.03,0:12:25.22,Main,MICHIO,0000,0000,0000,,This time it's two caterpillars.
+Dialogue: 0,0:12:25.69,0:12:28.47,Italics,MICHIO,0000,0000,0000,,They haven't noticed us yet. In that case...
+Dialogue: 0,0:12:28.47,0:12:30.23,Main,MICHIO,0000,0000,0000,,He who strikes first, wins.
+Dialogue: 0,0:12:30.23,0:12:30.97,Main,ROXANNE,0000,0000,0000,,Yes, Master.
+Dialogue: 0,0:12:31.68,0:12:34.00,Main,ROXANNE,0000,0000,0000,,I'll attract the attention \Nof the one in front.
+Dialogue: 0,0:12:34.00,0:12:35.15,Main,MICHIO,0000,0000,0000,,All you.
+Dialogue: 0,0:12:42.49,0:12:44.04,Main,ROXANNE,0000,0000,0000,,Master, something's coming.
+Dialogue: 0,0:12:44.04,0:12:44.70,Main,MICHIO,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:58.08,0:12:59.84,Italics,MICHIO,0000,0000,0000,,It's aiming for me?
+Dialogue: 0,0:13:02.30,0:13:03.53,Main,ROXANNE,0000,0000,0000,,Master!
+Dialogue: 0,0:13:03.53,0:13:05.72,Italics,MICHIO,0000,0000,0000,,Crap! Roxanne won't make it in time.
+Dialogue: 0,0:13:05.99,0:13:08.14,Italics,MICHIO,0000,0000,0000,,Then I'll take the blow.
+Dialogue: 0,0:13:10.10,0:13:12.56,Italics,MICHIO,0000,0000,0000,,Thanks for coming all the way over to me.
+Dialogue: 0,0:13:12.56,0:13:14.39,Italics,MICHIO,0000,0000,0000,,Now let me return the favor!
+Dialogue: 0,0:13:20.79,0:13:22.05,Main,ROXANNE,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:13:22.05,0:13:25.65,Main,ROXANNE,0000,0000,0000,,It circled around into a position that \Nallowed it to attack both of us at once.
+Dialogue: 0,0:13:26.13,0:13:27.52,Main,MICHIO,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:13:27.52,0:13:30.04,Main,MICHIO,0000,0000,0000,,More importantly, those threads are a pain.
+Dialogue: 0,0:13:30.04,0:13:33.70,Main,MICHIO,0000,0000,0000,,Let's prioritize taking out those \Ngreen caterpillars first from now on.
+Dialogue: 0,0:13:34.25,0:13:35.62,Main,ROXANNE,0000,0000,0000,,You're right.
+Dialogue: 0,0:13:36.16,0:13:38.12,Onscreen_Text,SIGN,0000,0000,0000,,{\fad(225,250)\shad0\pos(320,175)\c&HFFFFFF&}Vale, Vale Plaza
+Dialogue: 0,0:13:42.63,0:13:47.40,Italics,MICHIO,0000,0000,0000,,The question is what we'll do if we \Nencounter a large number of those enemies.
+Dialogue: 0,0:13:47.40,0:13:49.59,Italics,MICHIO,0000,0000,0000,,Since we can't use multi-target spells,
+Dialogue: 0,0:13:49.59,0:13:54.14,Italics,MICHIO,0000,0000,0000,,we either have to take them out one at a \Ntime or devise another way to handle them.
+Dialogue: 0,0:13:54.14,0:13:56.19,Italics,MICHIO,0000,0000,0000,,If that labyrinth is too dangerous for us,
+Dialogue: 0,0:13:56.19,0:13:59.49,Italics,MICHIO,0000,0000,0000,,then we could always travel \Nto a different, safer one.
+Dialogue: 0,0:13:59.49,0:14:02.14,Italics,MICHIO,0000,0000,0000,,But I shouldn't take the easy way out \Nand get in the habit of running away.
+Dialogue: 0,0:14:05.74,0:14:06.66,Main,MICHIO,0000,0000,0000,,Roxanne.
+Dialogue: 0,0:14:13.97,0:14:15.44,Main,ROXANNE,0000,0000,0000,,Master?
+Dialogue: 0,0:14:16.13,0:14:18.27,Main,MICHIO,0000,0000,0000,,Don't stare.
+Dialogue: 0,0:14:18.27,0:14:19.92,Main,ROXANNE,0000,0000,0000,,What? Yes, Master.
+Dialogue: 0,0:14:20.31,0:14:24.43,Main,MICHIO,0000,0000,0000,,You see the man standing behind \Nthat building up ahead?
+Dialogue: 0,0:14:25.69,0:14:26.73,Main,ROXANNE,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:26.73,0:14:28.82,Main,MICHIO,0000,0000,0000,,What's he looking at?
+Dialogue: 0,0:14:29.29,0:14:30.50,Main,ROXANNE,0000,0000,0000,,Um...
+Dialogue: 0,0:14:35.18,0:14:37.34,Main,ROXANNE,0000,0000,0000,,The trading house I came from.
+Dialogue: 0,0:14:37.97,0:14:42.19,Main,ROXANNE,0000,0000,0000,,What is he doing? \NHe doesn't look like a customer.
+Dialogue: 0,0:14:42.44,0:14:45.60,Main,MICHIO,0000,0000,0000,,He's not a customer, \Nand he's not here to make a deal.
+Dialogue: 0,0:14:46.23,0:14:47.19,Italics,MICHIO,0000,0000,0000,,Identify.
+Dialogue: 0,0:14:47.44,0:14:52.45,Onscreen_Text,SIGN,0000,0000,0000,,{\pos(166,90)\c&HFFFFFF&\1a&H20&}Bandit: Lv 3
+Dialogue: 0,0:14:48.53,0:14:51.43,Main,MICHIO,0000,0000,0000,,Listen to me, Roxanne. That guy...
+Dialogue: 0,0:14:53.04,0:14:54.14,Main,MICHIO,0000,0000,0000,,is a bandit.
+Dialogue: 0,0:15:00.46,0:15:02.96,Onscreen_Text,SIGN,0000,0000,0000,,{\fad(225,0)\shad0\pos(12,175)\c&HFFFFFF&\an4\fs30}Vale\NAlan's Mansion
+Dialogue: 0,0:15:06.56,0:15:09.84,Main,ALAN,0000,0000,0000,,Someone's watching this trading house?
+Dialogue: 0,0:15:10.31,0:15:13.80,Main,MICHIO,0000,0000,0000,,Yeah. He was a shady-looking guy,
+Dialogue: 0,0:15:13.80,0:15:16.10,Main,MICHIO,0000,0000,0000,,so I thought I'd let you know.
+Dialogue: 0,0:15:16.10,0:15:19.12,Main,ALAN,0000,0000,0000,,I appreciate you taking the time to do that.
+Dialogue: 0,0:15:19.12,0:15:22.10,Main,ALAN,0000,0000,0000,,Sometimes my business earns \Nme the ire of others,
+Dialogue: 0,0:15:22.10,0:15:26.51,Main,ALAN,0000,0000,0000,,so it's not unusual, but I'll be careful.
+Dialogue: 0,0:15:26.51,0:15:29.13,Italics,MICHIO,0000,0000,0000,,He's not taking my warning very seriously.
+Dialogue: 0,0:15:29.13,0:15:34.12,Main,ROXANNE,0000,0000,0000,,U-Um, the person keeping watch \Nout front is a bandit.
+Dialogue: 0,0:15:35.04,0:15:37.12,Main,ALAN,0000,0000,0000,,A bandit, you say?
+Dialogue: 0,0:15:37.41,0:15:38.66,Main,MICHIO,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:38.66,0:15:40.42,Main,ALAN,0000,0000,0000,,How do you know that?
+Dialogue: 0,0:15:40.42,0:15:42.44,Italics,MICHIO,0000,0000,0000,,Of course he wants to know.
+Dialogue: 0,0:15:42.44,0:15:46.88,Italics,MICHIO,0000,0000,0000,,Normally you can't identify someone \Nas a bandit just by looking at them.
+Dialogue: 0,0:15:46.88,0:15:50.63,Main,MICHIO,0000,0000,0000,,I may have learned a thing or two while \Ntrying to raise the money to buy Roxanne.
+Dialogue: 0,0:15:51.55,0:15:59.00,Main,ALAN,0000,0000,0000,,I see. It's not as though I \Nhave no idea who he might be.
+Dialogue: 0,0:16:01.68,0:16:05.65,Main,ALAN,0000,0000,0000,,This issue is actually related to you, sir.
+Dialogue: 0,0:16:07.88,0:16:11.25,Main,ALAN,0000,0000,0000,,It's about the young man you sold to me.
+Dialogue: 0,0:16:11.25,0:16:13.66,Main,ALAN,0000,0000,0000,,The one who committed theft in his village.
+Dialogue: 0,0:16:14.42,0:16:15.70,Italics,MICHIO,0000,0000,0000,,Him, huh?
+Dialogue: 0,0:16:17.09,0:16:18.91,Main,MICHIO,0000,0000,0000,,What about him?
+Dialogue: 0,0:16:18.91,0:16:21.03,Main,ALAN,0000,0000,0000,,He was sold yesterday.
+Dialogue: 0,0:16:21.03,0:16:22.03,Main,MICHIO,0000,0000,0000,,Oh?
+Dialogue: 0,0:16:22.03,0:16:25.47,Main,ALAN,0000,0000,0000,,He was purchased by a man \Naccompanied by two others.
+Dialogue: 0,0:16:25.47,0:16:31.16,Main,ALAN,0000,0000,0000,,He said he needed time to prepare \Nand would be back tomorrow.
+Dialogue: 0,0:16:31.16,0:16:33.68,Main,MICHIO,0000,0000,0000,,Is that unusual?
+Dialogue: 0,0:16:33.68,0:16:36.01,Main,ALAN,0000,0000,0000,,It's not as though it never happens,
+Dialogue: 0,0:16:36.01,0:16:40.43,Main,ALAN,0000,0000,0000,,but now that I think about it, \Nit did seem a little strange.
+Dialogue: 0,0:16:40.80,0:16:42.78,Main,ALAN,0000,0000,0000,,The customer had two others with him.
+Dialogue: 0,0:16:42.78,0:16:45.36,Main,ALAN,0000,0000,0000,,While one of them was asking me questions,
+Dialogue: 0,0:16:45.36,0:16:48.69,Main,ALAN,0000,0000,0000,,the other was saying something to that man.
+Dialogue: 0,0:16:49.03,0:16:55.20,Main,ALAN,0000,0000,0000,,Ordinary people have no interest in \Nthe Thief's Bandanna that man stole.
+Dialogue: 0,0:16:55.70,0:16:59.20,Main,MICHIO,0000,0000,0000,,You're saying he had connections \Nto bandits beforehand?
+Dialogue: 0,0:16:59.52,0:17:02.70,Main,ALAN,0000,0000,0000,,It's a natural assumption to make.
+Dialogue: 0,0:17:03.29,0:17:05.39,Main,MICHIO,0000,0000,0000,,What's he doing now?
+Dialogue: 0,0:17:05.96,0:17:08.39,Main,ALAN,0000,0000,0000,,He's in a room in the back.
+Dialogue: 0,0:17:08.39,0:17:10.38,Main,MICHIO,0000,0000,0000,,Can he come and go freely?
+Dialogue: 0,0:17:10.38,0:17:15.47,Main,ALAN,0000,0000,0000,,Since he's already been paid \Nfor, I no longer own him.
+Dialogue: 0,0:17:15.47,0:17:20.22,Main,ALAN,0000,0000,0000,,At the buyer's request, \Nhe's in a room without a lock.
+Dialogue: 0,0:17:20.22,0:17:24.16,Main,MICHIO,0000,0000,0000,,Then could he slip out after \Neveryone's gone to sleep,
+Dialogue: 0,0:17:24.16,0:17:26.98,Main,MICHIO,0000,0000,0000,,open the front door, and let the bandits in?
+Dialogue: 0,0:17:27.20,0:17:30.18,Main,ALAN,0000,0000,0000,,It's both possible and likely.
+Dialogue: 0,0:17:31.43,0:17:34.99,Main,MICHIO,0000,0000,0000,,How can you be so calm \Nwhen you know all that?
+Dialogue: 0,0:17:35.23,0:17:37.38,Main,ALAN,0000,0000,0000,,Even in the middle of the night,
+Dialogue: 0,0:17:37.38,0:17:42.32,Main,ALAN,0000,0000,0000,,it's hard to imagine all those bandits \Nraiding a trading house in the middle of town,
+Dialogue: 0,0:17:42.32,0:17:45.00,Main,ALAN,0000,0000,0000,,and I have my combat slaves, as well.
+Dialogue: 0,0:17:45.38,0:17:48.70,Main,ALAN,0000,0000,0000,,I don't intend to be beaten \Nby a bunch of bandits.
+Dialogue: 0,0:17:50.66,0:17:51.67,Main,MICHIO,0000,0000,0000,,I see.
+Dialogue: 0,0:17:52.80,0:17:54.52,Main,MICHIO,0000,0000,0000,,Let's go, Roxanne.
+Dialogue: 0,0:17:57.25,0:18:01.01,Main,MICHIO,0000,0000,0000,,We warned him. It's their problem now.
+Dialogue: 0,0:18:04.81,0:18:08.15,Main,ROXANNE,0000,0000,0000,,Though I was sold here as a slave,
+Dialogue: 0,0:18:08.15,0:18:10.48,Main,ROXANNE,0000,0000,0000,,I did receive a lot of care, as well.
+Dialogue: 0,0:18:10.48,0:18:13.23,Main,ROXANNE,0000,0000,0000,,There was one old woman, in particular, \Nwho was very kind to me.
+Dialogue: 0,0:18:13.79,0:18:15.36,Main,MICHIO,0000,0000,0000,,You're worried about her?
+Dialogue: 0,0:18:17.46,0:18:18.36,Main,ROXANNE,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:23.20,0:18:25.48,Main,MICHIO,0000,0000,0000,,Well, Mr. Alan?
+Dialogue: 0,0:18:25.48,0:18:28.62,Main,MICHIO,0000,0000,0000,,Why not hire me as a bodyguard?
+Dialogue: 0,0:18:29.08,0:18:32.13,Main,ALAN,0000,0000,0000,,Hire you?
+Dialogue: 0,0:18:32.13,0:18:33.36,Main,MICHIO,0000,0000,0000,,That's right.
+Dialogue: 0,0:18:33.36,0:18:38.35,Main,MICHIO,0000,0000,0000,,It'd leave a bad taste in my mouth if \Nthe slave I sold you did you dirty.
+Dialogue: 0,0:18:38.35,0:18:41.00,Italics,MICHIO,0000,0000,0000,,And besides, \Nthere's something I want to test.
+Dialogue: 0,0:18:41.00,0:18:42.44,Main,ROXANNE,0000,0000,0000,,Master.
+Dialogue: 0,0:18:44.16,0:18:45.71,Main,ROXANNE,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:46.69,0:18:48.01,Main,MICHIO,0000,0000,0000,,It's okay.
+Dialogue: 0,0:18:51.51,0:18:54.84,Main,ALAN,0000,0000,0000,,In that case, I'd like to hire you.
+Dialogue: 0,0:18:54.84,0:18:56.65,Main,ALAN,0000,0000,0000,,Regarding your pay...
+Dialogue: 0,0:18:56.93,0:19:01.30,Main,ALAN,0000,0000,0000,,How does 1,000 nars sound?
+Dialogue: 0,0:19:01.30,0:19:06.66,Main,ALAN,0000,0000,0000,,Naturally, any equipment or intelligence cards \Ndropped by the bandits you defeat are yours.
+Dialogue: 0,0:19:07.13,0:19:08.41,Main,MICHIO,0000,0000,0000,,We have a deal.
+Dialogue: 0,0:19:14.20,0:19:18.50,Main,ALAN,0000,0000,0000,,You won't be spotted by the \Nlookout out front from here.
+Dialogue: 0,0:19:18.50,0:19:21.65,Main,MICHIO,0000,0000,0000,,Then I'll use this door to enter tonight.
+Dialogue: 0,0:19:21.65,0:19:23.68,Main,ALAN,0000,0000,0000,,I'll be waiting for you.
+Dialogue: 0,0:19:30.44,0:19:31.34,Main,ROXANNE,0000,0000,0000,,Um...
+Dialogue: 0,0:19:32.64,0:19:35.56,Main,ROXANNE,0000,0000,0000,,I'm sorry for being selfish.
+Dialogue: 0,0:19:35.56,0:19:38.23,Main,MICHIO,0000,0000,0000,,I'm the one who suggested \Nhe hire me as a bodyguard.
+Dialogue: 0,0:19:38.23,0:19:41.99,Main,ROXANNE,0000,0000,0000,,But I told him the lookout was a bandit.
+Dialogue: 0,0:19:41.99,0:19:43.98,Main,MICHIO,0000,0000,0000,,Oh, that.
+Dialogue: 0,0:19:44.83,0:19:46.66,Italics,MICHIO,0000,0000,0000,,I was able to smooth things over,
+Dialogue: 0,0:19:46.66,0:19:49.49,Italics,MICHIO,0000,0000,0000,,and I didn't tell her \Nbeforehand not to tell him.
+Dialogue: 0,0:19:50.12,0:19:51.50,Main,MICHIO,0000,0000,0000,,Well, you know.
+Dialogue: 0,0:19:52.42,0:19:55.50,Main,MICHIO,0000,0000,0000,,It's fine. Just be careful in the future.
+Dialogue: 0,0:19:55.78,0:20:00.01,Main,MICHIO,0000,0000,0000,,Your concerns are my concerns, too.
+Dialogue: 0,0:20:02.08,0:20:03.01,Main,ROXANNE,0000,0000,0000,,Yes, Master.
+Dialogue: 0,0:20:03.68,0:20:05.30,Main,ROXANNE,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:07.01,0:20:11.02,Onscreen_Text,SIGN,0000,0000,0000,,{\c&HFFFFFF&}Vale, Vale Restaurant
+Dialogue: 0,0:20:26.03,0:20:29.91,Status Text,SIGN,0000,0000,0000,,{\fad(0,125)\pos(239,20)\bord4\3c&H8C8989&}Error\N\N{\b1\fs12\3c&HA2A5A3&\c&HD2D4D4&}Image cannot be displayed.
+Dialogue: 0,0:20:29.79,0:20:32.04,Main,ROXANNE,0000,0000,0000,,Master.
+Dialogue: 0,0:20:34.15,0:20:38.35,Main,ROXANNE,0000,0000,0000,,Master, good morning.
+Dialogue: 0,0:20:38.35,0:20:40.32,Main,ROXANNE,0000,0000,0000,,It's nearly time.
+Dialogue: 0,0:20:42.72,0:20:44.80,Main,MICHIO,0000,0000,0000,,Good morning, Roxanne.
+Dialogue: 0,0:20:49.56,0:20:51.46,Main,MICHIO,0000,0000,0000,,I'll be back.
+Dialogue: 0,0:20:52.28,0:20:53.43,Main,MICHIO,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:20:54.63,0:20:56.44,Main,ROXANNE,0000,0000,0000,,I'm going with you.
+Dialogue: 0,0:20:56.82,0:20:57.54,Main,MICHIO,0000,0000,0000,,What?
+Dialogue: 0,0:20:58.20,0:20:59.26,Main,ROXANNE,0000,0000,0000,,I'm going, too.
+Dialogue: 0,0:21:02.16,0:21:06.20,Main,MICHIO,0000,0000,0000,,Fine, but stay in the \Nback as much as possible.
+Dialogue: 0,0:21:06.67,0:21:07.42,Main,ROXANNE,0000,0000,0000,,Yes, Master.
+Dialogue: 0,0:21:08.20,0:21:14.21,Onscreen_Text,SIGN,0000,0000,0000,,{\shad0\pos(25,175)\c&HFFFFFF&\an4\fs30}Vale\NAlan's Mansion, Rear Entrance
+Dialogue: 0,0:21:22.37,0:21:24.11,Main,ALAN,0000,0000,0000,,I've been waiting for you.
+Dialogue: 0,0:21:40.96,0:21:44.74,Main,ALAN,0000,0000,0000,,Don't be alarmed. \NThese are my combat slaves.
+Dialogue: 0,0:21:45.17,0:21:46.49,Main,MICHIO,0000,0000,0000,,I see.
+Dialogue: 0,0:21:46.74,0:21:52.80,Main,ALAN,0000,0000,0000,,Mr. Michio, please wait with \Nus here until they act.
+Dialogue: 0,0:21:52.80,0:21:53.98,Main,MICHIO,0000,0000,0000,,Got it.
+Dialogue: 0,0:21:57.50,0:21:58.52,Main,ALAN,0000,0000,0000,,Now, then...
+Dialogue: 0,0:22:07.01,0:22:10.02,Sign_Basic,ShowTitle,0000,0000,0000,,{\fnTimes New Roman\b1\c&H8A0001&\bord3\3c&HFFFFFF&\blur3\shad0\fs30\fscy150}in the Labyrinth of Another World
+Dialogue: 0,0:22:07.01,0:22:10.02,Sign_Basic,ShowTitle,0000,0000,0000,,{\pos(320,10)\bord3\an8\fnTimes New Roman\b1\fs44\fsp10\shad0\c&HFFFFFF&\3c&H2281EA&\blur3}H{\3c&H3463E2&}a{\3c&H4546D9&}r{\3c&H5728D1&}e{\3c&H680AC8&}m

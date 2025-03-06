@@ -1,0 +1,418 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: kadokawapictures  [http://www.crunchyroll.com/user/kadokawapictures]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Italics - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback_Italics - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Onscreen_Text,Arial,26,&H00F0F8F1,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,115,115,0,0,1,0,3,5,0010,0010,0000,1
+Style: Status Text,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,-1,0,0,115,115,0,0,1,0,0,7,0010,0010,0042,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.48,Onscreen_Text,SIGN,0000,0000,0000,,{\c&HFFFFFF&\shad0\pos(320,290)\fs40}Quratar
+Dialogue: 0,0:00:10.11,0:00:12.13,Main,ONESTA,0000,0000,0000,,Are you looking for something?
+Dialogue: 0,0:00:10.99,0:00:14.61,Status Text,SIGN,0000,0000,0000,,{\fs8\pos(443.333,204.667)\1a&H20&}Identify
+Dialogue: 0,0:00:10.99,0:00:14.61,Status Text,SIGN,0000,0000,0000,,{\fs7\1a&H20&\pos(428,230)}Onesta
+Dialogue: 0,0:00:10.99,0:00:14.61,Status Text,SIGN,0000,0000,0000,,{\an8\pos(543,275)\b1\1a&H30&}<Female 37 Years Old>\NMerchant: Lv 44
+Dialogue: 0,0:00:12.13,0:00:14.61,Main,ONESTA,0000,0000,0000,,Or are you perhaps looking \Nfor a place to live?
+Dialogue: 0,0:00:14.61,0:00:17.53,Main,MICHIO,0000,0000,0000,,Actually, I thought you'd be selling weapons.
+Dialogue: 0,0:00:17.81,0:00:21.60,Main,ONESTA,0000,0000,0000,,I'm sorry, but this is a hardware store.
+Dialogue: 0,0:00:21.60,0:00:22.79,Main,ONESTA,0000,0000,0000,,We don't carry weapons.
+Dialogue: 0,0:00:23.20,0:00:27.42,Main,ONESTA,0000,0000,0000,,If you're looking for a weapon shop, there's \None on the street with the knights' station.
+Dialogue: 0,0:00:27.42,0:00:30.42,Main,MICHIO,0000,0000,0000,,Thanks. I'll be back to \Ndo some shopping later.
+Dialogue: 0,0:00:30.42,0:00:32.92,Main,ONESTA,0000,0000,0000,,I'll be waiting for you.
+Dialogue: 0,0:00:33.37,0:00:36.21,Main,MICHIO,0000,0000,0000,,She asked if we were looking \Nfor a place to live.
+Dialogue: 0,0:00:36.21,0:00:38.18,Main,MICHIO,0000,0000,0000,,Is that place also a real estate agency?
+Dialogue: 0,0:00:38.18,0:00:42.60,Main,ROXANNE,0000,0000,0000,,Possibly. I don't know what \Nthe market is like in Quratar,
+Dialogue: 0,0:00:42.60,0:00:47.00,Main,ROXANNE,0000,0000,0000,,but a room can be rented for a \Nyear for 10,000 to 30,000 nars.
+Dialogue: 0,0:00:47.00,0:00:50.69,Main,ROXANNE,0000,0000,0000,,For 50,000 nars, you can rent a large house.
+Dialogue: 0,0:00:50.69,0:00:54.93,Main,MICHIO,0000,0000,0000,,That's cheaper than staying \Nlong term at the inn.
+Dialogue: 0,0:00:54.93,0:00:56.95,Main,MICHIO,0000,0000,0000,,Can anyone rent a place?
+Dialogue: 0,0:00:56.95,0:01:00.55,Main,ROXANNE,0000,0000,0000,,Probably, if the town is large enough.
+Dialogue: 0,0:01:01.00,0:01:06.07,Main,ROXANNE,0000,0000,0000,,I've heard a lot of Explorers live \Neither here or in the Imperial City.
+Dialogue: 0,0:01:06.07,0:01:07.58,Main,MICHIO,0000,0000,0000,,Huh.
+Dialogue: 0,0:01:08.13,0:01:15.63,Main,ROXANNE,0000,0000,0000,,But in your case, since you have access to \Nspells, you could probably live anywhere.
+Dialogue: 0,0:01:15.63,0:01:17.22,Italics,MICHIO,0000,0000,0000,,Is she talking about Teleport?
+Dialogue: 0,0:01:17.96,0:01:20.98,Main,MICHIO,0000,0000,0000,,I don't want people to know I can cast magic.
+Dialogue: 0,0:01:20.98,0:01:24.73,Main,MICHIO,0000,0000,0000,,I should live someplace it wouldn't \Nbe strange for an Explorer to live.
+Dialogue: 0,0:01:24.73,0:01:27.73,Main,ROXANNE,0000,0000,0000,,We'll be fine. Leave it to me.
+Dialogue: 0,0:01:27.73,0:01:32.31,Main,MICHIO,0000,0000,0000,,I'm counting on your help \Nwhen the time comes.
+Dialogue: 0,0:01:38.28,0:01:43.07,Sign_Basic,ShowTitle,0000,0000,0000,,{\fad(1500,0)\fnTimes New Roman\b1\c&H8A0001&\bord3\3c&HFFFFFF&\blur3\shad0\fs30\fscy150}in the Labyrinth of Another World
+Dialogue: 0,0:01:39.82,0:01:43.07,Sign_Basic,ShowTitle,0000,0000,0000,,{\fad(1075,0)\pos(320,10)\bord3\an8\fnTimes New Roman\b1\fs44\fsp10\shad0\c&HFFFFFF&\3c&H2281EA&\blur3}H{\3c&H3463E2&}a{\3c&H4546D9&}r{\3c&H5728D1&}e{\3c&H680AC8&}m
+Dialogue: 0,0:03:02.95,0:03:06.95,Onscreen_Text,SIGN,0000,0000,0000,,{\c&HFFFFFF&\shad0\bord1\blur2}Quratar Weapon Shop
+Dialogue: 0,0:03:06.95,0:03:08.33,Italics,MICHIO,0000,0000,0000,,Identify.
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN TOP,0000,0000,0000,,{\fs20\move(102,140,102,169)}Rod
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN TOP,0000,0000,0000,,{\fs20\an8\move(195,8,195,38)}Rod\NEmpty\NEmpty\NEmpty
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN TOP,0000,0000,0000,,{\fs20\move(354,102,354,130)}Rod
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN TOP,0000,0000,0000,,{\fs20\move(458,72,458,100)}Rod
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN MIDDLE,0000,0000,0000,,{\fs18\move(213,251,213,280)}Cane\NEmpty
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN MIDDLE,0000,0000,0000,,{\fs12\move(308,152,308,180)}Cane\NEmpty\NEmpty
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN MIDDLE,0000,0000,0000,,{\fs16\shad1.5\move(394,186,394,214)}Cane
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN MIDDLE,0000,0000,0000,,{\fs20\move(484,148,484,176)}Cane
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN BOTTOM,0000,0000,0000,,{\fs16\move(514,254,514,282)}Wand
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN BOTTOM,0000,0000,0000,,{\fs16\move(332,296,332,324)}Wand
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN BOTTOM,0000,0000,0000,,{\fs16\move(416,244,416,272)}Wand\NEmpty
+Dialogue: 0,0:03:08.33,0:03:17.84,Onscreen_Text,SIGN BOTTOM,0000,0000,0000,,{\fs16\move(260,297,260,325)}Wand
+Dialogue: 1,0:03:08.56,0:03:13.48,Italics,MICHIO,0000,0000,0000,,So the maximum number of empty skill \Nslots is different depending on the type.
+Dialogue: 1,0:03:13.48,0:03:16.37,Italics,MICHIO,0000,0000,0000,,They probably get more expensive \Nthe farther back you go.
+Dialogue: 1,0:03:16.37,0:03:17.84,Italics,MICHIO,0000,0000,0000,,I'll start with something for a beginner.
+Dialogue: 1,0:03:18.24,0:03:20.00,Main,MICHIO,0000,0000,0000,,This one looks good.
+Dialogue: 0,0:03:20.00,0:03:22.33,Main,ROXANNE,0000,0000,0000,,You can judge the quality of implements?
+Dialogue: 0,0:03:22.33,0:03:24.22,Main,ROXANNE,0000,0000,0000,,Impressive, Master.
+Dialogue: 0,0:03:24.46,0:03:27.22,Italics,MICHIO,0000,0000,0000,,Yeah, don't worry. \NI don't understand it, either.
+Dialogue: 0,0:03:30.94,0:03:38.57,Onscreen_Text,SIGN LEFT,0000,0000,0000,,{\fs16\pos(142,140)}Steel Staff
+Dialogue: 0,0:03:30.94,0:03:38.57,Onscreen_Text,SIGN MIDDLE,0000,0000,0000,,{\fs16\pos(320,140)}Iron Staff
+Dialogue: 0,0:03:30.94,0:03:38.57,Onscreen_Text,SIGN RIGHT,0000,0000,0000,,{\fs16\pos(492,140)}Wooden Staff
+Dialogue: 0,0:03:31.18,0:03:33.92,Italics,MICHIO,0000,0000,0000,,Wooden staves, iron staves.
+Dialogue: 0,0:03:33.92,0:03:36.04,Italics,MICHIO,0000,0000,0000,,They've even got steel staves.
+Dialogue: 0,0:03:36.04,0:03:38.57,Italics,MICHIO,0000,0000,0000,,There are so many types. I don't \Nknow how to tell them apart.
+Dialogue: 0,0:03:39.28,0:03:43.04,Italics,MICHIO,0000,0000,0000,,It's probably strange for an Explorer \Nor Adventurer to purchase a staff,
+Dialogue: 0,0:03:43.04,0:03:45.46,Italics,MICHIO,0000,0000,0000,,so I'm hesitant to ask an employee.
+Dialogue: 0,0:03:45.46,0:03:50.08,Italics,MICHIO,0000,0000,0000,,I'll take the one-third odds and buy a \Nwooden staff so I can get out of here quickly.
+Dialogue: 0,0:03:50.08,0:03:52.58,Onscreen_Text,SIGN,0000,0000,0000,,{\c&HFFFFFF&\shad0\pos(320,175)\bord1\blur2\3a&H80&}Quratar Outskirts
+Dialogue: 0,0:03:54.84,0:03:58.72,Main,MICHIO,0000,0000,0000,,There are quiet residential neighborhoods \Njust outside the town center.
+Dialogue: 0,0:03:58.72,0:04:01.73,Main,MICHIO,0000,0000,0000,,It's not too big, but there's \Na shopping district, too.
+Dialogue: 0,0:04:01.73,0:04:03.22,Main,MICHIO,0000,0000,0000,,It's a nice place.
+Dialogue: 0,0:04:03.22,0:04:05.84,Main,ROXANNE,0000,0000,0000,,Yes. I think it's a nice town.
+Dialogue: 0,0:04:07.64,0:04:09.10,Main,MICHIO,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:10.20,0:04:11.10,Main,MICHIO,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:04:11.39,0:04:14.08,Main,MICHIO,0000,0000,0000,,I asked you for directions earlier.
+Dialogue: 0,0:04:14.08,0:04:15.31,Main,ONESTA,0000,0000,0000,,Welcome.
+Dialogue: 0,0:04:15.82,0:04:17.82,Main,ONESTA,0000,0000,0000,,Were you able to find the weapon shop?
+Dialogue: 0,0:04:17.82,0:04:19.20,Main,MICHIO,0000,0000,0000,,Yes, thanks to you.
+Dialogue: 0,0:04:19.20,0:04:20.78,Main,ONESTA,0000,0000,0000,,I'm glad to hear that.
+Dialogue: 0,0:04:21.04,0:04:22.96,Main,MICHIO,0000,0000,0000,,I'd like to ask you something.
+Dialogue: 0,0:04:22.96,0:04:25.53,Main,MICHIO,0000,0000,0000,,Can anyone live in this town?
+Dialogue: 0,0:04:25.82,0:04:31.55,Main,ONESTA,0000,0000,0000,,Yes. We'll check your Intelligence Card, \Nbut there aren't any restrictions.
+Dialogue: 0,0:04:31.55,0:04:33.66,Italics,MICHIO,0000,0000,0000,,My card displays my first job.
+Dialogue: 0,0:04:34.01,0:04:35.67,Italics,MICHIO,0000,0000,0000,,That shouldn't be a problem.
+Dialogue: 0,0:04:35.67,0:04:39.04,Main,ONESTA,0000,0000,0000,,All kinds of people become Explorers.
+Dialogue: 0,0:04:39.04,0:04:43.56,Main,ONESTA,0000,0000,0000,,In this town it's considered taboo \Nto look into someone's past.
+Dialogue: 0,0:04:43.56,0:04:45.57,Main,ONESTA,0000,0000,0000,,Here we oversee district six.
+Dialogue: 0,0:04:45.57,0:04:48.32,Main,ONESTA,0000,0000,0000,,It's a nice place upstream.
+Dialogue: 0,0:04:48.32,0:04:51.34,Main,ONESTA,0000,0000,0000,,If you'd like to acquire \Na residence, let me know.
+Dialogue: 0,0:04:51.34,0:04:52.35,Main,MICHIO,0000,0000,0000,,District six?
+Dialogue: 0,0:04:52.35,0:04:57.45,Main,ONESTA,0000,0000,0000,,This town is divided along the six roads \Nthat extend from the center of the town.
+Dialogue: 0,0:04:52.35,0:05:03.99,Sign_Basic,SIGN MIDDLE,0000,0000,0000,,{\an5\b1\fnArial\fs18\4c&HFFFFFF&\pos(320,186)}Labyrinth
+Dialogue: 0,0:04:52.35,0:05:03.99,Sign_Basic,SIGN,0000,0000,0000,,{\an5\b1\fnArial\fs18\4c&HFFFFFF&\pos(259.333,161.333)}Explorers\NGuild
+Dialogue: 0,0:04:52.35,0:05:03.99,Sign_Basic,SIGN,0000,0000,0000,,{\an5\b1\fnArial\fs18\4c&HFFFFFF&\pos(319.333,113.333)}Hardware Store
+Dialogue: 0,0:04:52.35,0:05:03.99,Sign_Basic,SIGN,0000,0000,0000,,{\an5\b1\fnArial\fs18\4c&HFFFFFF&\pos(382.667,215.333)}Knights'\NStation
+Dialogue: 0,0:04:57.45,0:05:01.38,Main,ONESTA,0000,0000,0000,,They're numbered counterclockwise \Nstarting at district one.
+Dialogue: 0,0:05:01.38,0:05:03.27,Main,ONESTA,0000,0000,0000,,This is district six.
+Dialogue: 0,0:05:03.99,0:05:05.59,Italics,MICHIO,0000,0000,0000,,I see.
+Dialogue: 0,0:05:05.59,0:05:07.41,Main,ONESTA,0000,0000,0000,,Are you an Explorer?
+Dialogue: 0,0:05:07.41,0:05:08.49,Main,MICHIO,0000,0000,0000,,Yes.
+Dialogue: 0,0:05:08.49,0:05:10.99,Main,ONESTA,0000,0000,0000,,What kind of home are you looking for?
+Dialogue: 0,0:05:10.99,0:05:13.04,Italics,MICHIO,0000,0000,0000,,I'm not sure how to answer that.
+Dialogue: 0,0:05:13.44,0:05:16.44,Main,MICHIO,0000,0000,0000,,Actually, could you tell me what \Nkind of places are available?
+Dialogue: 0,0:05:16.44,0:05:19.16,Main,MICHIO,0000,0000,0000,,As long as I can rent it for \Njust over 40,000 nars a year,
+Dialogue: 0,0:05:19.16,0:05:21.00,Main,MICHIO,0000,0000,0000,,I don't have any particular requirements.
+Dialogue: 0,0:05:21.00,0:05:23.02,Main,ONESTA,0000,0000,0000,,Will it be the two of you living there?
+Dialogue: 0,0:05:23.02,0:05:25.47,Main,MICHIO,0000,0000,0000,,For now, but in the future...
+Dialogue: 0,0:05:26.60,0:05:29.35,Main,ONESTA,0000,0000,0000,,I see. You are an Explorer, after all.
+Dialogue: 0,0:05:29.70,0:05:31.58,Italics,MICHIO,0000,0000,0000,,Why'd she smirk like that?
+Dialogue: 0,0:05:31.58,0:05:34.52,Italics,MICHIO,0000,0000,0000,,Did she realize Roxanne is a slave?
+Dialogue: 0,0:05:36.94,0:05:37.91,Main,ROXANNE,0000,0000,0000,,Um...
+Dialogue: 0,0:05:38.70,0:05:41.60,Italics,MICHIO,0000,0000,0000,,Maybe it's because she manages a district,
+Dialogue: 0,0:05:41.60,0:05:43.98,Italics,MICHIO,0000,0000,0000,,but that was the face of someone who knows.
+Dialogue: 0,0:05:44.37,0:05:48.18,Main,ONESTA,0000,0000,0000,,I see. You've got a nice girl here.
+Dialogue: 0,0:05:48.18,0:05:50.24,Main,ONESTA,0000,0000,0000,,Would you prefer someplace \Nnear the labyrinth?
+Dialogue: 0,0:05:50.63,0:05:52.40,Main,MICHIO,0000,0000,0000,,I don't have a preference.
+Dialogue: 0,0:05:52.40,0:05:55.61,Main,ONESTA,0000,0000,0000,,For an Explorer looking to \Nrent for just over 40,000,
+Dialogue: 0,0:05:55.61,0:05:58.23,Main,ONESTA,0000,0000,0000,,I've got some apartments \Navailable near the labyrinth
+Dialogue: 0,0:05:58.23,0:06:01.08,Main,ONESTA,0000,0000,0000,,or detached homes if you're okay \Nwith someplace farther away.
+Dialogue: 0,0:06:01.08,0:06:03.17,Main,MICHIO,0000,0000,0000,,I don't mind living a little farther away.
+Dialogue: 0,0:06:03.17,0:06:05.01,Main,ONESTA,0000,0000,0000,,Since you're not an Adventurer,
+Dialogue: 0,0:06:05.01,0:06:08.41,Main,ONESTA,0000,0000,0000,,I presume you'd prefer a home \Nmade with shielding cement.
+Dialogue: 0,0:06:08.41,0:06:10.55,Main,MICHIO,0000,0000,0000,,Shielding cement, huh?
+Dialogue: 0,0:06:11.00,0:06:15.50,Main,ROXANNE,0000,0000,0000,,Field Walk can't be used on walls \Nmade from shielding cement.
+Dialogue: 0,0:06:15.50,0:06:17.97,Main,ROXANNE,0000,0000,0000,,They're probably inconvenient \Nfor Adventurers.
+Dialogue: 0,0:06:20.40,0:06:22.92,Italics,MICHIO,0000,0000,0000,,I was planning to use \NTeleport to get around,
+Dialogue: 0,0:06:22.92,0:06:25.32,Italics,MICHIO,0000,0000,0000,,but I've encountered something \NI'm not familiar with.
+Dialogue: 0,0:06:25.76,0:06:30.21,Main,ONESTA,0000,0000,0000,,It's not impossible to get around \Nif you install a sturdy partition,
+Dialogue: 0,0:06:30.21,0:06:33.64,Main,ONESTA,0000,0000,0000,,so you'll be fine, even if you become \Nan Adventurer in the future.
+Dialogue: 0,0:06:33.64,0:06:35.49,Main,MICHIO,0000,0000,0000,,Could you show us the place first?
+Dialogue: 0,0:06:35.74,0:06:39.00,Main,ONESTA,0000,0000,0000,,Very well. Let me get ready.
+Dialogue: 0,0:06:39.00,0:06:41.20,Italics,MICHIO,0000,0000,0000,,Nice assist, Roxanne.
+Dialogue: 0,0:06:41.20,0:06:42.75,Italics,ROXANNE,0000,0000,0000,,You can count on me.
+Dialogue: 0,0:06:43.60,0:06:46.76,Main,MICHIO,0000,0000,0000,,Huh. It's pretty big.
+Dialogue: 0,0:06:46.76,0:06:51.26,Onscreen_Text,SIGN,0000,0000,0000,,{\c&HFFFFFF&\shad0\pos(320,175)\bord1\blur2\3a&H80&}Quratar Outskirts
+Dialogue: 0,0:06:51.26,0:06:53.42,Main,ROXANNE,0000,0000,0000,,Is this area the yard?
+Dialogue: 0,0:06:53.42,0:06:54.39,Main,ONESTA,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:54.39,0:06:56.93,Main,ONESTA,0000,0000,0000,,You're welcome to use it as you like.
+Dialogue: 0,0:06:56.93,0:06:59.21,Main,MICHIO,0000,0000,0000,,It's pretty neglected, though.
+Dialogue: 0,0:06:59.21,0:07:03.10,Main,ROXANNE,0000,0000,0000,,That's rosemary. \NIt doesn't look too healthy.
+Dialogue: 0,0:07:04.23,0:07:09.80,Italics,MICHIO,0000,0000,0000,,I see. A neglected yard reduces \Nthe value of the property.
+Dialogue: 0,0:07:09.80,0:07:13.32,Italics,MICHIO,0000,0000,0000,,Roxanne deliberately said \Nit doesn't look healthy.
+Dialogue: 0,0:07:13.32,0:07:14.45,Italics,MICHIO,0000,0000,0000,,In that case...
+Dialogue: 0,0:07:14.80,0:07:17.60,Main,MICHIO,0000,0000,0000,,It'll be tough to fix considering \Nhow withered it is.
+Dialogue: 0,0:07:17.60,0:07:18.95,Main,ROXANNE,0000,0000,0000,,You're right.
+Dialogue: 0,0:07:19.22,0:07:23.56,Main,ONESTA,0000,0000,0000,,Without anyone to take care \Nof it, it's bound to happen.
+Dialogue: 0,0:07:23.56,0:07:25.64,Main,ONESTA,0000,0000,0000,,It should be fine.
+Dialogue: 0,0:07:25.64,0:07:29.17,Main,ONESTA,0000,0000,0000,,It's even possible for you to \Nimmediately begin growing other herbs.
+Dialogue: 0,0:07:29.17,0:07:32.47,Main,ROXANNE,0000,0000,0000,,In that case, would you be \Nwilling to share seeds with us?
+Dialogue: 0,0:07:32.47,0:07:36.44,Main,ONESTA,0000,0000,0000,,If you'll tend the yard, \NI'd be willing to give you some.
+Dialogue: 0,0:07:36.44,0:07:39.31,Main,ONESTA,0000,0000,0000,,We have hoes at the shop.
+Dialogue: 0,0:07:39.31,0:07:41.68,Italics,MICHIO,0000,0000,0000,,She's making us buy a hoe?
+Dialogue: 0,0:07:41.68,0:07:44.20,Italics,MICHIO,0000,0000,0000,,She takes every opportunity to make a profit.
+Dialogue: 0,0:07:44.20,0:07:45.81,Italics,MICHIO,0000,0000,0000,,One more push.
+Dialogue: 0,0:07:46.44,0:07:49.07,Main,MICHIO,0000,0000,0000,,It'll probably have to be dug up once.
+Dialogue: 0,0:07:49.07,0:07:51.57,Main,ROXANNE,0000,0000,0000,,It'll be a lot of work.
+Dialogue: 0,0:07:53.52,0:07:58.11,Main,ONESTA,0000,0000,0000,,The windows were repaired and the \Nhouse was cleaned just recently.
+Dialogue: 0,0:07:58.11,0:08:01.79,Main,ONESTA,0000,0000,0000,,You could start living in it right away, \Nonce you moved some furniture in.
+Dialogue: 0,0:08:02.05,0:08:04.75,Italics,MICHIO,0000,0000,0000,,She's not willing to make \Nany more concessions.
+Dialogue: 0,0:08:05.20,0:08:08.52,Italics,MICHIO,0000,0000,0000,,Just getting free seeds is a decent haul.
+Dialogue: 0,0:08:15.11,0:08:18.49,Main,ONESTA,0000,0000,0000,,The previous resident made \Na variety of adjustments.
+Dialogue: 0,0:08:18.49,0:08:21.39,Main,ONESTA,0000,0000,0000,,Feel free to remodel the \Ninside however you want.
+Dialogue: 0,0:08:21.78,0:08:25.97,Main,ONESTA,0000,0000,0000,,They performed a lot of revisions \Nto the flush in particular.
+Dialogue: 0,0:08:26.60,0:08:31.15,Main,ONESTA,0000,0000,0000,,The waste water flows into the gutter outside \Nwhen you pour water into the container on top.
+Dialogue: 0,0:08:31.15,0:08:33.55,Main,ONESTA,0000,0000,0000,,Since it takes in water \Nfrom the nearby river,
+Dialogue: 0,0:08:33.55,0:08:35.78,Main,,0000,0000,0000,,the gutter itself isn't particularly dirty,
+Dialogue: 0,0:08:36.28,0:08:39.78,Main,ONESTA,0000,0000,0000,,but it's rather inconvenient \Nto get water at this location.
+Dialogue: 0,0:08:39.78,0:08:44.41,Main,ONESTA,0000,0000,0000,,The previous resident was attempting to \Nbuild something else, too, but I stopped them.
+Dialogue: 0,0:08:44.41,0:08:46.96,Main,MICHIO,0000,0000,0000,,What? There's another bathroom?
+Dialogue: 0,0:08:46.96,0:08:48.75,Main,ONESTA,0000,0000,0000,,It's in the room back there.
+Dialogue: 0,0:08:50.24,0:08:52.87,Italics,MICHIO,0000,0000,0000,,It's only connected to the sewage outlet.
+Dialogue: 0,0:08:52.87,0:08:55.99,Italics,MICHIO,0000,0000,0000,,Nobody needs a toilet right \Nnext to another toilet.
+Dialogue: 0,0:08:55.99,0:08:58.76,Italics,MICHIO,0000,0000,0000,,Were they trying to build a laundry room?
+Dialogue: 0,0:08:58.76,0:09:01.46,Main,ROXANNE,0000,0000,0000,,I have some questions about the kitchen.
+Dialogue: 0,0:09:01.46,0:09:02.93,Main,ONESTA,0000,0000,0000,,Go ahead. Ask me anything.
+Dialogue: 0,0:09:03.39,0:09:05.58,Main - Top,ROXANNE,0000,0000,0000,,This area must be for cooking with fire.
+Dialogue: 0,0:09:03.39,0:09:08.37,Italics,MICHIO,0000,0000,0000,,Roxanne said she could cook. She's probably \Ncurious to know how easy it is to use.
+Dialogue: 0,0:09:05.58,0:09:10.48,Main - Top,ONESTA,0000,0000,0000,,Yes. This wall is made using \Nfire resistant materials.
+Dialogue: 0,0:09:08.37,0:09:11.78,Italics,MICHIO,0000,0000,0000,,In which case, I should test it while I can.
+Dialogue: 0,0:09:10.48,0:09:11.78,Main - Top,ONESTA,0000,0000,0000,,If you'd look this way...
+Dialogue: 0,0:09:11.78,0:09:14.31,Main,MICHIO,0000,0000,0000,,Roxanne, I'm going to check \Nout the second floor.
+Dialogue: 0,0:09:15.20,0:09:16.15,Main,ROXANNE,0000,0000,0000,,Understood.
+Dialogue: 0,0:09:16.53,0:09:19.02,Italics,MICHIO,0000,0000,0000,,I can make water using magic.
+Dialogue: 0,0:09:19.02,0:09:23.29,Italics,MICHIO,0000,0000,0000,,But if this shielding cement stuff \Nprevents me from using Teleport,
+Dialogue: 0,0:09:23.29,0:09:25.29,Italics,MICHIO,0000,0000,0000,,that'll affect the home's convenience.
+Dialogue: 0,0:09:26.67,0:09:33.17,Onscreen_Text,SIGN,0000,0000,0000,,{\fs14\an8\pos(320,228)\shad0}[Party]\N• Kaga Michio\N{\t(5235,5276,1 \alpha&HFF&)}• Roxanne
+Dialogue: 0,0:09:26.93,0:09:29.66,Italics,MICHIO,0000,0000,0000,,So this is what happens \Nwhen I use it in a party.
+Dialogue: 0,0:09:29.66,0:09:33.17,Italics,MICHIO,0000,0000,0000,,Since Teleport affects my whole party, \NI should disband mine temporarily.
+Dialogue: 0,0:09:33.84,0:09:35.45,Italics,MICHIO,0000,0000,0000,,I'll start with the room in front.
+Dialogue: 0,0:09:37.24,0:09:39.09,Italics,MICHIO,0000,0000,0000,,And then check the one in the back.
+Dialogue: 0,0:09:42.98,0:09:45.80,Italics,MICHIO,0000,0000,0000,,This room on the second \Nfloor is the biggest one.
+Dialogue: 0,0:09:45.80,0:09:48.06,Italics,MICHIO,0000,0000,0000,,This would make a good bedroom.
+Dialogue: 0,0:09:48.33,0:09:51.48,Italics,MICHIO,0000,0000,0000,,Okay. Teleport to the adjacent room.
+Dialogue: 0,0:09:52.23,0:09:54.04,Italics,MICHIO,0000,0000,0000,,Come on, let me through.
+Dialogue: 0,0:09:52.23,0:09:54.48,Onscreen_Text,SIGN,0000,0000,0000,,{\fs12\pos(327,150)}Adjacent Room
+Dialogue: 0,0:09:57.28,0:09:58.81,Italics,MICHIO,0000,0000,0000,,It worked.
+Dialogue: 0,0:09:58.81,0:10:01.84,Italics,MICHIO,0000,0000,0000,,This Bonus Incantation is even \Nmore impressive than I thought.
+Dialogue: 0,0:10:01.84,0:10:04.06,Italics,MICHIO,0000,0000,0000,,It can go anywhere without limitations.
+Dialogue: 0,0:10:04.06,0:10:06.87,Italics,MICHIO,0000,0000,0000,,I can go anywhere I've seen in person before.
+Dialogue: 0,0:10:07.31,0:10:09.77,Italics,MICHIO,0000,0000,0000,,But it comes with some drawbacks.
+Dialogue: 0,0:10:09.77,0:10:12.55,Italics,MICHIO,0000,0000,0000,,If I go someplace I'm not \Nsupposed to be able to enter,
+Dialogue: 0,0:10:12.55,0:10:15.51,Italics,MICHIO,0000,0000,0000,,people will wonder how I got there.
+Dialogue: 0,0:10:15.95,0:10:19.05,Italics,MICHIO,0000,0000,0000,,I should confirm my destination \Neither isn't being watched
+Dialogue: 0,0:10:19.05,0:10:23.23,Italics,MICHIO,0000,0000,0000,,or is someplace I can reach using other \Ntransport magic before I use Teleport.
+Dialogue: 0,0:10:24.08,0:10:25.44,Main,ONESTA,0000,0000,0000,,How was it?
+Dialogue: 0,0:10:25.44,0:10:27.56,Main,MICHIO,0000,0000,0000,,It's not a bad house.
+Dialogue: 0,0:10:29.00,0:10:30.48,Main,ONESTA,0000,0000,0000,,What do you think?
+Dialogue: 0,0:10:30.48,0:10:33.16,Main,ONESTA,0000,0000,0000,,The yard is a bit neglected,
+Dialogue: 0,0:10:33.16,0:10:36.22,Main,ONESTA,0000,0000,0000,,and the house costs 45,000 nars annually.
+Dialogue: 0,0:10:36.22,0:10:38.45,Italics,MICHIO,0000,0000,0000,,It's not a bad price, either.
+Dialogue: 0,0:10:41.36,0:10:43.83,Main,MICHIO,0000,0000,0000,,Fine. We'll rent this house.
+Dialogue: 0,0:10:44.16,0:10:49.33,Main,ONESTA,0000,0000,0000,,Thank you. Your Intelligence Card \Nwill be checked by the knights.
+Dialogue: 0,0:10:49.33,0:10:51.54,Main,ONESTA,0000,0000,0000,,Let's return to town.
+Dialogue: 0,0:10:51.54,0:10:53.54,Main,ONESTA,0000,0000,0000,,I'll write up a contract for you.
+Dialogue: 0,0:10:55.44,0:10:59.07,Italics,MICHIO,0000,0000,0000,,This will be my and Roxanne's home.
+Dialogue: 0,0:11:02.71,0:11:05.47,Italics,MICHIO,0000,0000,0000,,I passed the Intelligence Card check.
+Dialogue: 0,0:11:06.46,0:11:08.61,Italics,MICHIO,0000,0000,0000,,We signed the contract without issue, too.
+Dialogue: 0,0:11:08.61,0:11:12.38,Italics,MICHIO,0000,0000,0000,,What else do we need to live in that house?
+Dialogue: 0,0:11:14.39,0:11:16.52,Main,MICHIO,0000,0000,0000,,I haven't seen this shape in a while.
+Dialogue: 0,0:11:16.52,0:11:19.32,Main,ONESTA,0000,0000,0000,,That's for cooking with high heat.
+Dialogue: 0,0:11:19.59,0:11:20.12,Main,MICHIO,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:20.12,0:11:22.66,Main,ONESTA,0000,0000,0000,,We're the only shop around \Nhere that sells them,
+Dialogue: 0,0:11:22.66,0:11:25.10,Main,ONESTA,0000,0000,0000,,so you may not have seen them often.
+Dialogue: 0,0:11:25.78,0:11:28.28,Main,MICHIO,0000,0000,0000,,Oh, uh, but...
+Dialogue: 0,0:11:29.33,0:11:30.76,Main,ROXANNE,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:11:31.67,0:11:35.46,Main,ROXANNE,0000,0000,0000,,If we pay for that pot along with our \Nrent, you'll give us a discount, right?
+Dialogue: 0,0:11:35.86,0:11:37.40,Main,ROXANNE,0000,0000,0000,,Right?
+Dialogue: 0,0:11:37.40,0:11:39.17,Main,ONESTA,0000,0000,0000,,Uh, yes.
+Dialogue: 0,0:11:39.60,0:11:40.96,Main,MICHIO,0000,0000,0000,,Thanks for your help.
+Dialogue: 0,0:11:40.96,0:11:42.87,Main,ROXANNE,0000,0000,0000,,Thank you.
+Dialogue: 0,0:11:42.87,0:11:46.46,Main,ONESTA,0000,0000,0000,,No, thank you. I look forward \Nto seeing you around.
+Dialogue: 0,0:11:47.60,0:11:51.07,Main,ROXANNE,0000,0000,0000,,I'm glad we got a discount, Master.
+Dialogue: 0,0:11:51.07,0:11:53.48,Main,MICHIO,0000,0000,0000,,Yeah, thanks to you.
+Dialogue: 0,0:11:54.11,0:11:58.86,Italics,MICHIO,0000,0000,0000,,It was actually my 30% off skill, \Nbut let's go with that.
+Dialogue: 0,0:11:59.19,0:12:01.53,Main,MICHIO,0000,0000,0000,,We can buy the things we need tomorrow.
+Dialogue: 0,0:12:01.53,0:12:04.00,Main,ROXANNE,0000,0000,0000,,Miscellaneous items, yes,
+Dialogue: 0,0:12:04.00,0:12:07.16,Main,ROXANNE,0000,0000,0000,,but I think we should \Nlook at furniture today.
+Dialogue: 0,0:12:07.41,0:12:11.64,Main,MICHIO,0000,0000,0000,,Even if we buy it tomorrow, there's no \Nguarantee it'll be delivered tomorrow, too.
+Dialogue: 0,0:12:11.64,0:12:13.43,Main,MICHIO,0000,0000,0000,,You're right. Let's go.
+Dialogue: 0,0:12:13.43,0:12:14.12,Main,ROXANNE,0000,0000,0000,,Yes, Master.
+Dialogue: 0,0:12:17.54,0:12:21.04,Main,MICHIO,0000,0000,0000,,The furniture store employee said they'd \Ndeliver our furniture by tomorrow,
+Dialogue: 0,0:12:21.04,0:12:24.13,Main,MICHIO,0000,0000,0000,,so we'd better be here by the afternoon.
+Dialogue: 0,0:12:24.36,0:12:28.82,Main,MICHIO,0000,0000,0000,,It's all used stuff, but apparently \Nthey'll make a new mattress for us.
+Dialogue: 0,0:12:30.13,0:12:31.06,Main,MICHIO,0000,0000,0000,,Roxanne?
+Dialogue: 0,0:12:31.46,0:12:33.63,Main,ROXANNE,0000,0000,0000,,What? Um...
+Dialogue: 0,0:12:33.63,0:12:40.39,Main,ROXANNE,0000,0000,0000,,Weren't we told this house was \Nmade with shielding cement?
+Dialogue: 0,0:12:40.39,0:12:43.65,Main,MICHIO,0000,0000,0000,,I waited to decide if we'd buy this house \Nuntil after checking to see if I could use that.
+Dialogue: 0,0:12:45.07,0:12:46.99,Main,ROXANNE,0000,0000,0000,,That's incredible, isn't it?
+Dialogue: 0,0:12:47.31,0:12:48.84,Main,MICHIO,0000,0000,0000,,Don't tell anyone.
+Dialogue: 0,0:12:48.84,0:12:50.83,Main,MICHIO,0000,0000,0000,,Come on, let's go back to Vale.
+Dialogue: 0,0:12:50.83,0:12:51.72,Main,ROXANNE,0000,0000,0000,,Yes, Master.
+Dialogue: 0,0:12:51.72,0:12:53.46,Main,MICHIO,0000,0000,0000,,Is what I should be saying, but...
+Dialogue: 0,0:12:56.96,0:13:02.96,Onscreen_Text,SIGN,0000,0000,0000,,{\c&HFFFFFF&\pos(320,165)}Vale Labyrinth, Third Floor
+Dialogue: 0,0:13:02.96,0:13:07.06,Main,MICHIO,0000,0000,0000,,Since I got a new weapon, \NI want to test it out.
+Dialogue: 0,0:13:07.06,0:13:09.72,Italics,MICHIO,0000,0000,0000,,More like I've been itching to \Nuse it and can't wait any longer.
+Dialogue: 0,0:13:12.24,0:13:13.23,Main,ROXANNE,0000,0000,0000,,There's one.
+Dialogue: 0,0:13:13.48,0:13:15.73,Onscreen_Text,SIGN,0000,0000,0000,,{\fs14\pos(151,135)\shad0\1a&H20}Green Caterpillar: Lv 3
+Dialogue: 0,0:13:15.96,0:13:17.85,Italics,MICHIO,0000,0000,0000,,The perfect enemy.
+Dialogue: 0,0:13:18.31,0:13:21.86,Italics,MICHIO,0000,0000,0000,,One the second floor it took four \Ncasts of fire magic to take these out.
+Dialogue: 0,0:13:22.20,0:13:26.74,Italics,MICHIO,0000,0000,0000,,In other words, they should be able \Nto withstand more on the third floor.
+Dialogue: 0,0:13:27.42,0:13:28.99,Main,MICHIO,0000,0000,0000,,Fireball!
+Dialogue: 0,0:13:30.08,0:13:32.41,Main,MICHIO,0000,0000,0000,,Second shot. Fireball!
+Dialogue: 0,0:13:35.76,0:13:37.54,Italics,MICHIO,0000,0000,0000,,Is he trying to jump on me?
+Dialogue: 0,0:13:37.88,0:13:40.17,Italics,MICHIO,0000,0000,0000,,Before it reaches me, I'll fire off one more.
+Dialogue: 0,0:13:44.63,0:13:46.38,Main,MICHIO,0000,0000,0000,,Three shots.
+Dialogue: 0,0:13:46.38,0:13:48.39,Main,ROXANNE,0000,0000,0000,,Impressive, Master.
+Dialogue: 0,0:13:53.67,0:13:55.40,Main,MICHIO,0000,0000,0000,,One night in a two-person room.
+Dialogue: 0,0:13:55.40,0:13:57.01,Main,MICHIO,0000,0000,0000,,I'd like some hot water and a lantern, too.
+Dialogue: 0,0:13:57.01,0:13:57.89,Main,INNKEEPER,0000,0000,0000,,Sure thing.
+Dialogue: 0,0:13:58.35,0:14:01.10,Italics,MICHIO,0000,0000,0000,,This is our last night at this inn.
+Dialogue: 0,0:14:03.28,0:14:08.00,Italics,MICHIO,0000,0000,0000,,I stayed here while desperately \Nearning enough money to buy Roxanne.
+Dialogue: 0,0:14:08.00,0:14:12.28,Italics,MICHIO,0000,0000,0000,,It's the room we first entered \Ntogether after I bought her.
+Dialogue: 0,0:14:12.85,0:14:15.79,Italics,MICHIO,0000,0000,0000,,It's also where we spent \Nour first night together.
+Dialogue: 0,0:14:18.74,0:14:21.77,Italics,MICHIO,0000,0000,0000,,This place fills me with powerful emotions.
+Dialogue: 0,0:14:21.77,0:14:23.02,Main,ROXANNE,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:14:24.77,0:14:29.20,Italics,MICHIO,0000,0000,0000,,Roxanne was nervous at first, but now...
+Dialogue: 0,0:14:45.72,0:14:46.76,Main,MICHIO,0000,0000,0000,,Is that the right amount of pressure?
+Dialogue: 0,0:14:48.43,0:14:51.62,Main,ROXANNE,0000,0000,0000,,Yes, I think so.
+Dialogue: 0,0:14:51.62,0:14:56.13,Main,MICHIO,0000,0000,0000,,I see. In that case, I'll clean \Nevery last bit of you like this.
+Dialogue: 0,0:14:58.12,0:15:00.92,Status Text,SIGN,0000,0000,0000,,{\pos(239,20)\bord4\3c&H8C8989&}Error\N\N{\b1\fs12\3c&HA2A5A3&\c&HD2D4D4&}Image cannot be displayed.
+Dialogue: 0,0:14:59.16,0:15:00.92,Main,ROXANNE,0000,0000,0000,,Master...
+Dialogue: 0,0:15:00.92,0:15:04.34,Italics,MICHIO,0000,0000,0000,,So there isn't a micron of grime left.
+Dialogue: 0,0:15:04.34,0:15:07.51,Status Text,SIGN,0000,0000,0000,,{\pos(239,20)\bord4\3c&H8C8989&}Error\N\N{\b1\fs12\3c&HA2A5A3&\c&HD2D4D4&}Image cannot be displayed.
+Dialogue: 0,0:15:04.56,0:15:07.51,Italics,MICHIO,0000,0000,0000,,Not a picogram of dirt.
+Dialogue: 0,0:15:07.51,0:15:11.30,Italics,MICHIO,0000,0000,0000,,Thoroughly, carefully, and delicately.
+Dialogue: 0,0:15:12.20,0:15:13.66,Main,ROXANNE,0000,0000,0000,,Master.
+Dialogue: 0,0:15:15.68,0:15:19.02,Italics,MICHIO,0000,0000,0000,,Again and again and again.
+Dialogue: 0,0:15:19.02,0:15:23.40,Main,ROXANNE,0000,0000,0000,,Not there, Master.
+Dialogue: 0,0:15:31.25,0:15:33.87,Main,MICHIO,0000,0000,0000,,Roxanne? Are you all right?
+Dialogue: 0,0:15:37.56,0:15:40.04,Main,ROXANNE,0000,0000,0000,,Yes, I think...
+Dialogue: 0,0:15:43.88,0:15:45.16,Main,ROXANNE,0000,0000,0000,,...so.
+Dialogue: 0,0:15:51.49,0:15:59.22,Main,ROXANNE,0000,0000,0000,,I'm sorry. I've never felt \Nanything like this before. I...
+Dialogue: 0,0:16:01.31,0:16:02.56,Status Text,SIGN,0000,0000,0000,,{\fad(0,500)\pos(239,20)\bord4\3c&H8C8989&}Error\N\N{\b1\fs12\3c&HA2A5A3&\c&HD2D4D4&}Image cannot be displayed.
+Dialogue: 0,0:16:05.83,0:16:09.32,Main,MICHIO,0000,0000,0000,,Roxanne, you're warm.
+Dialogue: 0,0:16:11.91,0:16:14.79,Main,ROXANNE,0000,0000,0000,,I feel warm, too.
+Dialogue: 0,0:16:20.68,0:16:24.49,Main,MICHIO,0000,0000,0000,,Well, I hate to say goodbye, \Nbut shall we go?
+Dialogue: 0,0:16:24.49,0:16:25.74,Main,ROXANNE,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:26.71,0:16:31.21,Main,ROXANNE,0000,0000,0000,,This is the first place \Nwhere you took care of me,
+Dialogue: 0,0:16:31.21,0:16:34.26,Main,ROXANNE,0000,0000,0000,,but you'll take care of me plenty \Nmore times in the future.
+Dialogue: 0,0:16:34.26,0:16:37.68,Italics,MICHIO,0000,0000,0000,,Roxanne, you're killing me.
+Dialogue: 0,0:16:38.34,0:16:41.84,Italics,MICHIO,0000,0000,0000,,We don't need to pick up where \Nwe left off last night right now.
+Dialogue: 0,0:16:41.84,0:16:44.55,Italics,MICHIO,0000,0000,0000,,Roxanne always accepts my advances.
+Dialogue: 0,0:16:45.43,0:16:49.73,Italics,MICHIO,0000,0000,0000,,I'm not the person I was \Nbefore I made her mine.
+Dialogue: 0,0:16:52.59,0:16:54.06,Main,MICHIO,0000,0000,0000,,I'm ending my extended stay today.
+Dialogue: 0,0:16:54.06,0:16:55.96,Main,MICHIO,0000,0000,0000,,I've removed all my stuff.
+Dialogue: 0,0:16:55.96,0:16:57.49,Main,INNKEEPER,0000,0000,0000,,I see. Thank you.
+Dialogue: 0,0:16:57.98,0:16:59.99,Main,MICHIO,0000,0000,0000,,Thanks for having me.
+Dialogue: 0,0:17:00.34,0:17:02.00,Main,INNKEEPER,0000,0000,0000,,If you'd told me yesterday,
+Dialogue: 0,0:17:02.00,0:17:04.21,Main,INNKEEPER,0000,0000,0000,,I would've provided a lantern free of charge.
+Dialogue: 0,0:17:05.12,0:17:06.46,Italics,MICHIO,0000,0000,0000,,Just a lantern?
+Dialogue: 0,0:17:11.70,0:17:12.84,Main,MICHIO,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:13.54,0:17:14.89,Main,MICHIO,0000,0000,0000,,Waterwall.
+Dialogue: 0,0:17:19.63,0:17:21.47,Main,MICHIO,0000,0000,0000,,Is that enough?
+Dialogue: 0,0:17:21.47,0:17:24.12,Main,ROXANNE,0000,0000,0000,,Yes, thank you.
+Dialogue: 0,0:17:24.12,0:17:27.48,Main,ROXANNE,0000,0000,0000,,I'll start scrubbing now.
+Dialogue: 0,0:17:27.48,0:17:29.22,Italics,MICHIO,0000,0000,0000,,In that case...
+Dialogue: 0,0:17:29.73,0:17:31.73,Main,MICHIO,0000,0000,0000,,I'm going to check out the Quratar labyrinth.
+Dialogue: 0,0:17:32.23,0:17:33.74,Main,ROXANNE,0000,0000,0000,,See you later.
+Dialogue: 0,0:17:33.74,0:17:37.74,Onscreen_Text,SIGN,0000,0000,0000,,{\c&HFFFFFF&\shad0\pos(320,198)}Quratar Knights' Station
+Dialogue: 0,0:17:40.02,0:17:41.60,Main,MOB,0000,0000,0000,,Entry fee for six.
+Dialogue: 0,0:17:41.60,0:17:42.88,Main,MOB,0000,0000,0000,,That will be six silver coins.
+Dialogue: 0,0:17:42.88,0:17:44.16,Main,MOB,0000,0000,0000,,Entry fee for five.
+Dialogue: 0,0:17:44.16,0:17:47.75,Main,KNIGHT 1,0000,0000,0000,,Can I interest you in a map \Nof the Quratar Labyrinth?
+Dialogue: 0,0:17:48.16,0:17:50.44,Main,KNIGHT 1,0000,0000,0000,,Twenty nars per floor.
+Dialogue: 0,0:17:50.44,0:17:53.97,Main,KNIGHT 1,0000,0000,0000,,A thousand nars for a book of all floors.
+Dialogue: 0,0:17:53.97,0:17:56.51,Italics,MICHIO,0000,0000,0000,,These knights sure are business-minded.
+Dialogue: 0,0:18:00.22,0:18:00.72,Onscreen_Text,SIGN LEFT,0000,0000,0000,,{\fs14\pos(176,132)}Explorer
+Dialogue: 0,0:18:00.22,0:18:00.72,Onscreen_Text,SIGN MIDDLE,0000,0000,0000,,{\fs14\pos(332,132)}Knight
+Dialogue: 0,0:18:00.22,0:18:00.72,Onscreen_Text,SIGN RIGHT,0000,0000,0000,,{\fs14\pos(438,132)}Knight
+Dialogue: 0,0:18:00.72,0:18:03.48,Italics,MICHIO,0000,0000,0000,,There's an Explorer here, \Nin addition to the knights.
+Dialogue: 0,0:18:03.48,0:18:05.84,Italics,MICHIO,0000,0000,0000,,They have guides here, too?
+Dialogue: 0,0:18:05.84,0:18:07.23,Main,KNIGHT 2,0000,0000,0000,,Next person, please.
+Dialogue: 0,0:18:07.63,0:18:08.94,Main,MICHIO,0000,0000,0000,,Entry fee for one.
+Dialogue: 0,0:18:09.47,0:18:10.92,Main,KNIGHT 2,0000,0000,0000,,That'll be one silver coin.
+Dialogue: 0,0:18:16.40,0:18:21.87,Onscreen_Text,SIGN,0000,0000,0000,,{\fad(975,0)\c&HFFFFFF&\pos(320,160)}Quratar Labyrinth, First Floor
+Dialogue: 0,0:18:23.87,0:18:26.74,Italics,MICHIO,0000,0000,0000,,Its basic construction is the same as Vale's.
+Dialogue: 0,0:18:27.24,0:18:29.87,Italics,MICHIO,0000,0000,0000,,If there's anything different about this one,
+Dialogue: 0,0:18:30.39,0:18:31.88,Italics,MICHIO,0000,0000,0000,,it's that it's crowded.
+Dialogue: 0,0:18:31.88,0:18:34.31,Italics,MICHIO,0000,0000,0000,,Can people really farm monsters like this?
+Dialogue: 0,0:18:41.39,0:18:44.34,Italics,MICHIO,0000,0000,0000,,This area is away from the other parties.
+Dialogue: 0,0:18:44.34,0:18:45.39,Italics,MICHIO,0000,0000,0000,,Now's my only chance.
+Dialogue: 0,0:18:49.48,0:18:50.30,Italics,MICHIO,0000,0000,0000,,Teleport.
+Dialogue: 0,0:18:56.24,0:18:57.76,Main,MICHIO,0000,0000,0000,,I'm back, Roxanne.
+Dialogue: 0,0:19:01.98,0:19:04.99,Main,MICHIO,0000,0000,0000,,Going forward, we should be \Nable to enter without paying.
+Dialogue: 0,0:19:05.96,0:19:08.94,Main,ROXANNE,0000,0000,0000,,Welcome back, Master.
+Dialogue: 0,0:19:09.84,0:19:12.50,Italics,MICHIO,0000,0000,0000,,If she were wearing a maid \Noutfit, this would be perfect.
+Dialogue: 0,0:19:12.91,0:19:16.46,Main,MICHIO,0000,0000,0000,,Did you learn that greeting \Nat the trading house in Vale?
+Dialogue: 0,0:19:16.46,0:19:20.84,Main,ROXANNE,0000,0000,0000,,Yes. Was it strange?
+Dialogue: 0,0:19:21.32,0:19:23.80,Main,MICHIO,0000,0000,0000,,No, it's fantastic.
+Dialogue: 0,0:19:26.30,0:19:27.77,Main,ROXANNE,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:31.23,0:19:37.51,Main,ROXANNE,0000,0000,0000,,Um, I'm dirty since I was in \Nthe middle of cleaning, so...
+Dialogue: 0,0:19:38.71,0:19:42.19,Main,MICHIO,0000,0000,0000,,You'll wipe up anything \Nthat gets dirty, right?
+Dialogue: 0,0:19:42.19,0:19:43.74,Main,ROXANNE,0000,0000,0000,,Of course.
+Dialogue: 0,0:19:47.51,0:19:51.25,Main,FURNITURE STORE MAN,0000,0000,0000,,I've come to deliver the \Nfurniture you purchased.
+Dialogue: 0,0:19:52.28,0:19:53.86,Main,MICHIO,0000,0000,0000,,How inconvenient.
+Dialogue: 0,0:19:55.17,0:19:57.00,Main,FURNITURE STORE MAN,0000,0000,0000,,I'll deliver your items to their rooms.
+Dialogue: 0,0:19:57.00,0:19:59.09,Main,FURNITURE STORE MAN,0000,0000,0000,,Is this what you wanted?
+Dialogue: 0,0:19:59.09,0:20:02.04,Italics,MICHIO,0000,0000,0000,,I don't want him coming all \Nthe way into the house.
+Dialogue: 0,0:20:02.04,0:20:03.28,Main,MICHIO,0000,0000,0000,,It's all right.
+Dialogue: 0,0:20:03.28,0:20:05.26,Main,FURNITURE STORE MAN,0000,0000,0000,,Very well. Excuse me.
+Dialogue: 0,0:20:05.80,0:20:06.44,Main,FURNITURE STORE MAN,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:06.44,0:20:09.99,Italics,MICHIO,0000,0000,0000,,We'd be in trouble if anyone \Nother than me could use Teleport.
+Dialogue: 0,0:20:09.99,0:20:13.02,Italics,MICHIO,0000,0000,0000,,The two of us can manage to move \Nthe furniture into each room.
+Dialogue: 0,0:20:13.95,0:20:16.02,Main,MICHIO,0000,0000,0000,,That should do it.
+Dialogue: 0,0:20:18.98,0:20:21.86,Main,ROXANNE,0000,0000,0000,,Nice work, Master.
+Dialogue: 0,0:20:22.24,0:20:25.37,Main,MICHIO,0000,0000,0000,,The mattress feels nice since it's new.
+Dialogue: 0,0:20:33.00,0:20:36.11,Main,MICHIO,0000,0000,0000,,No one else is coming today, right?
+Dialogue: 0,0:20:37.44,0:20:40.46,Main,ROXANNE,0000,0000,0000,,I don't think so.
+Dialogue: 0,0:20:40.46,0:20:43.52,Main,MICHIO,0000,0000,0000,,Then the first thing we need to do...
+Dialogue: 0,0:20:46.47,0:20:48.47,Status Text,SIGN,0000,0000,0000,,{\pos(239,20)\bord4\3c&H8C8989&}Error\N\N{\b1\fs12\3c&HA2A5A3&\c&HD2D4D4&}Image cannot be displayed.
+Dialogue: 0,0:20:46.92,0:20:50.41,Main,MICHIO,0000,0000,0000,,Is take the bed for a test drive.
+Dialogue: 0,0:20:51.79,0:20:53.34,Main,MICHIO,0000,0000,0000,,What do you think, Roxanne?
+Dialogue: 0,0:20:54.40,0:20:57.48,Main,ROXANNE,0000,0000,0000,,Um, certainly.
+Dialogue: 0,0:21:06.57,0:21:13.08,Status Text,SIGN,0000,0000,0000,,{\pos(239,20)\bord4\3c&H8C8989&}Error\N\N{\b1\fs12\3c&HA2A5A3&\c&HD2D4D4&}Image cannot be displayed.
+Dialogue: 0,0:21:07.90,0:21:10.08,Main,ROXANNE,0000,0000,0000,,That's not the right spot.
+Dialogue: 0,0:21:10.08,0:21:14.18,Main,MICHIO,0000,0000,0000,,Sorry, Roxanne. I can't tell without a light.
+Dialogue: 0,0:21:14.74,0:21:16.24,Main,MICHIO,0000,0000,0000,,Here it is.
+Dialogue: 0,0:21:19.50,0:21:23.88,Status Text,SIGN,0000,0000,0000,,{\pos(239,20)\bord4\3c&H8C8989&}Error\N\N{\b1\fs12\3c&HA2A5A3&\c&HD2D4D4&}Image cannot be displayed.
+Dialogue: 0,0:21:19.79,0:21:22.37,Main,MICHIO,0000,0000,0000,,There should be a candle \Naround here somewhere.
+Dialogue: 0,0:21:22.37,0:21:23.88,Main,MICHIO,0000,0000,0000,,Where did it go?
+Dialogue: 0,0:21:23.88,0:21:26.80,Main,ROXANNE,0000,0000,0000,,We don't have a candlestick.
+Dialogue: 0,0:21:26.80,0:21:30.20,Main,MICHIO,0000,0000,0000,,We should've bought one today.
+Dialogue: 0,0:21:30.20,0:21:31.63,Main,ROXANNE,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:21:31.63,0:21:35.97,Main,ROXANNE,0000,0000,0000,,Candles aren't cheap, so I \Nthought we wouldn't need any.
+Dialogue: 0,0:21:38.56,0:21:40.80,Main,MICHIO,0000,0000,0000,,If we don't have any, then we don't have any.
+Dialogue: 0,0:21:40.80,0:21:43.63,Main,MICHIO,0000,0000,0000,,But the darkness will allow \Nme to focus on my movements.
+Dialogue: 0,0:21:43.63,0:21:45.99,Italics,MICHIO,0000,0000,0000,,Starting today, these sounds \Nof hers are all mine.
+Dialogue: 0,0:21:46.64,0:21:49.50,Main,ROXANNE,0000,0000,0000,,Master, right there!
+Dialogue: 0,0:21:57.12,0:22:00.57,Italics,MICHIO,0000,0000,0000,,Naturally, the bed felt excellent to use.
+Dialogue: 0,0:22:06.97,0:22:09.97,Sign_Basic,ShowTitle,0000,0000,0000,,{\fnTimes New Roman\b1\c&H8A0001&\bord3\3c&HFFFFFF&\blur3\shad0\fs30\fscy150}in the Labyrinth of Another World
+Dialogue: 0,0:22:06.97,0:22:09.97,Sign_Basic,ShowTitle,0000,0000,0000,,{\pos(320,10)\bord3\an8\fnTimes New Roman\b1\fs44\fsp10\shad0\c&HFFFFFF&\3c&H2281EA&\blur3}H{\3c&H3463E2&}a{\3c&H4546D9&}r{\3c&H5728D1&}e{\3c&H680AC8&}m
