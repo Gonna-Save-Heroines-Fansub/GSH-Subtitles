@@ -538,10 +538,10 @@ Dialogue: 1,0:03:31.28,0:03:31.32,DedzuyaSigns,,0,0,0,,{\an2\pos(1239.6,162.075)
 Dialogue: 1,0:03:31.32,0:03:31.36,DedzuyaSigns,,0,0,0,,{\an2\pos(1237.365,167.265)\fscx100.43\fscy100.43\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur1.5}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
 Dialogue: 1,0:03:31.36,0:03:31.40,DedzuyaSigns,,0,0,0,,{\an2\pos(1232.715,164.13)\fscx99.39\fscy99.39\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur1.5}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
 Dialogue: 1,0:03:31.40,0:03:32.98,DedzuyaSigns,,0,0,0,,{\an2\pos(1235.88,165.375)\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur1.05}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
-Dialogue: 0,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(320,781.5)\fnBaqacents SemiBold\fs81\fsp0.75\bord3.6\3c&HFFFFFF&\1a&HFF&\blur0.6\fad(1000,500)\t(0,1000,\1a&H00&)\t(5010,0,\1a&HFF&)}Masato {\fnAmble\fs72\b1\c&H000000&\3c&H000000&}este
-Dialogue: 1,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(320,781.5)\fnBaqacents SemiBold\fs81\fsp0.75\c&HD68E42&\blur0.75\fad(1000,500)}Masato {\fnAmble\fs72\b1\c&HFFFFFF&}este
-Dialogue: 0,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(620,862.5)\fnBaqacents SemiBold\fs81\fsp0.75\bord3.6\3c&HFFFFFF&\1a&HFF&\blur0.6\fad(1000,500)\t(0,1000,\1a&H00&)\t(5010,0,\1a&HFF&)}hotărât să facă bani!
-Dialogue: 1,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(620,862.5)\fnBaqacents SemiBold\fs81\fsp0.75\c&H6E01E4&\blur0.75\fad(1000,500)}hotărât {\c&H80A61A&}să facă {\c&H0096F2&}bani{\c&H18C28B&}!
+Dialogue: 0,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(320,781.5)\fnBaqacents SemiBold\fs81\fsp0.75\bord3.4\3c&HFFFFFF&\1a&HFF&\blur0.6\fad(1000,500)\t(0,1000,\1a&H00&)\t(5010,0,\1a&HFF&)}Masato {\fnAmble\fs72\b1\c&H000000&\3c&H000000&}este
+Dialogue: 1,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(320,781.5)\fnBaqacents SemiBold\fs81\fsp0.75\c&HD68E42&\blur0.6\fad(1000,500)}Masato {\fnAmble\fs72\b1\c&HFFFFFF&}este
+Dialogue: 0,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(620,862.5)\fnBaqacents SemiBold\fs81\fsp0.75\bord3.4\3c&HFFFFFF&\1a&HFF&\blur0.6\fad(1000,500)\t(0,1000,\1a&H00&)\t(5010,0,\1a&HFF&)}hotărât să facă bani!
+Dialogue: 1,0:03:33.98,0:03:39.49,DedzuyaSigns,,0,0,0,,{\an2\pos(620,862.5)\fnBaqacents SemiBold\fs81\fsp0.75\c&H6E01E4&\blur0.6\fad(1000,500)}hotărât {\c&H80A61A&}să facă {\c&H0096F2&}bani{\c&H18C28B&}!
 Comment: 0,0:02:02.98,0:02:03.02,OP TL,,0,0,0,,{OP first frame}
 Dialogue: 4,0:02:02.98,0:02:08.15,OP TL,,0,0,0,,{\c&H000000&\blur0.75\fad(200,0)}Revoluție
 Dialogue: 5,0:02:02.98,0:02:08.15,OP TL,,0,0,0,,{\bord0\blur0.75\fad(200,0)}Revoluție
