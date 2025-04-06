@@ -1,0 +1,535 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption,Arial,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-2,Arial,40,&H0080FFFF,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-3,Arial,33,&H0065CEC3,&H0065CEC3,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-4,Arial,33,&H00816CAE,&H00816CAE,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-5,Arial,33,&H00965CDD,&H00965CDD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle-2,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Song,Swis721 BT,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-6,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-7,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-8,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-9,Arial,56,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-10,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-11,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-12,Swis721 BT,40,&H005B7CEE,&H005B7CEE,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-13,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-14,Swis721 BT,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-15,Swis721 BT,56,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-16,Arial,40,&H00D686FB,&H00D686FB,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-17,Arial,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-18,Arial,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-19,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-20,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-21,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-22,Arial,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.96,0:00:05.46,Subtitle,,0,0,0,,Massacre your weary mind with Gungnir!
+Dialogue: 0,0:00:05.46,0:00:09.75,Subtitle,,0,0,0,,"Revive the Dead" energy drink that will stab it all\Nto death with a single blow, matter how sleepy you are!
+Dialogue: 0,0:00:09.75,0:00:11.71,Subtitle,,0,0,0,,Now on sale!
+Dialogue: 0,0:00:12.08,0:00:13.33,Subtitle,,0,0,0,,Cut!
+Dialogue: 0,0:00:13.33,0:00:15.92,Subtitle,,0,0,0,,That's all the shooting we'll do for today.
+Dialogue: 0,0:00:16.58,0:00:18.71,Subtitle,,0,0,0,,Thanks for your hard work, everyone.
+Dialogue: 0,0:00:18.71,0:00:20.42,Subtitle,,0,0,0,,I'm going to head home.
+Dialogue: 0,0:00:21.50,0:00:23.38,Subtitle,,0,0,0,,Mutsumi-chan sure is great.
+Dialogue: 0,0:00:23.38,0:00:25.67,Subtitle,,0,0,0,,She's sweet-natured and cute to boot.
+Dialogue: 0,0:00:25.67,0:00:28.04,Subtitle,,0,0,0,,She'll be an exceptional talent in the future.
+Dialogue: 0,0:00:28.04,0:00:29.50,Subtitle,,0,0,0,,She's got huge tits, too.
+Dialogue: 0,0:00:29.50,0:00:32.21,Subtitle,,0,0,0,,I agree! I'm looking forward to her future...
+Dialogue: 0,0:00:32.21,0:00:33.67,Subtitle,,0,0,0,,and she's got huge tits.
+Dialogue: 0,0:00:46.58,0:00:50.67,Subtitle,,0,0,0,,I've been so busy lately\NI haven't seen Takuma-kun at all.
+Dialogue: 0,0:00:53.88,0:00:55.75,Subtitle,,0,0,0,,I'm so jealous of them...
+Dialogue: 0,0:00:56.17,0:00:58.58,Subtitle,,0,0,0,,They got to go on a date with him.
+Dialogue: 0,0:01:06.50,0:01:10.63,Subtitle,,0,0,0,,A demon was summoned today\Njust as Father's oracle predicted,
+Dialogue: 0,0:01:10.63,0:01:12.50,Subtitle,,0,0,0,,but what will happen from here on?
+Dialogue: 0,0:01:12.50,0:01:13.88,Subtitle,,0,0,0,,Who knows...
+Dialogue: 0,0:01:14.54,0:01:17.71,Subtitle,,0,0,0,,Even if the malevolent gods\Nare coming down to Midgard,
+Dialogue: 0,0:01:17.71,0:01:23.33,Subtitle,,0,0,0,,since they must possess a human vessel,\Nthey can only use level one abilities.
+Dialogue: 0,0:01:23.33,0:01:29.25,Subtitle,,0,0,0,,But the only ones who can properly fight right now\Nare Natsuki-chan, Itsuyo-chan, and I.
+Dialogue: 0,0:01:29.25,0:01:30.88,Subtitle-2,,0,0,0,,Hold your horses...\N{\rSubtitle}We can never be too careful.{\r}
+Dialogue: 0,0:01:30.88,0:01:31.75,Subtitle,,0,0,0,,We can never be too careful.
+Dialogue: 0,0:01:32.25,0:01:34.08,Subtitle,,0,0,0,,Well then, is it finally time?
+Dialogue: 0,0:01:34.08,0:01:34.79,Subtitle,,0,0,0,,Yes.
+Dialogue: 0,0:01:34.79,0:01:37.21,Subtitle,,0,0,0,,Looks like the time to invoke it has come.
+Dialogue: 0,0:01:37.42,0:01:40.17,Subtitle,,0,0,0,,Val love: "Date with an Idol"!
+Dialogue: 0,0:01:41.75,0:01:46.88,Song,,0,0,0,,Still unseen by anyone
+Dialogue: 0,0:01:46.88,0:01:49.75,Song,,0,0,0,,In the midst of my dreams
+Dialogue: 0,0:01:49.75,0:01:57.71,Song,,0,0,0,,The sweet desire I found is here today as well
+Dialogue: 0,0:02:00.71,0:02:06.04,Song,,0,0,0,,From inside of me
+Dialogue: 0,0:02:06.04,0:02:10.92,Song,,0,0,0,,Someone screams at you to notice
+Dialogue: 0,0:02:12.54,0:02:17.75,Song,,0,0,0,,We stare at one another, at an irritating distance
+Dialogue: 0,0:02:17.75,0:02:21.00,Song,,0,0,0,,Alone, I endure
+Dialogue: 0,0:02:21.00,0:02:23.96,Song,,0,0,0,,The onslaught of sadness
+Dialogue: 0,0:02:23.96,0:02:28.92,Song,,0,0,0,,Though I want to tell you this feeling of love
+Dialogue: 0,0:02:30.08,0:02:34.04,Song,,0,0,0,,I can't say a word
+Dialogue: 0,0:02:34.04,0:02:40.79,Song,,0,0,0,,Though you're always at my side
+Dialogue: 0,0:02:41.08,0:02:46.08,Song,,0,0,0,,Still unseen by anyone
+Dialogue: 0,0:02:46.08,0:02:49.13,Song,,0,0,0,,In the midst of my dreams
+Dialogue: 0,0:02:49.13,0:02:52.96,Song,,0,0,0,,A strong emotion set aflame
+Dialogue: 0,0:02:52.96,0:02:59.38,Song,,0,0,0,,I won't hesitate, I don't want to hesitate
+Dialogue: 0,0:02:59.38,0:03:04.33,Song,,0,0,0,,I'll believe in now, and take a step forward
+Dialogue: 0,0:03:04.71,0:03:08.83,Song,,0,0,0,,For the sake of myself
+Dialogue: 0,0:03:16.63,0:03:20.08,Subtitle,,0,0,0,,Thank you for taking the trouble to\Ncome with me, Takuma-kun...
+Dialogue: 0,0:03:20.42,0:03:23.50,Subtitle,,0,0,0,,I just had to try the pudding at this place!
+Dialogue: 0,0:03:23.79,0:03:26.96,Subtitle,,0,0,0,,Ta...Takuma-kun, you take a bite, too. It's yummy.
+Dialogue: 0,0:03:26.96,0:03:28.54,Subtitle,,0,0,0,,O-okay.
+Dialogue: 0,0:03:32.88,0:03:33.96,Subtitle,,0,0,0,,What's wrong?
+Dialogue: 0,0:03:33.96,0:03:37.83,Subtitle,,0,0,0,,I-I was just thinking about\Nhow nice the weather is today.
+Dialogue: 0,0:03:39.58,0:03:42.54,Subtitle,,0,0,0,,Takuma-kun, you really are cool.
+Dialogue: 0,0:03:42.54,0:03:46.83,Subtitle,,0,0,0,,I absolutely have to succeed\Nin this chance they've made for me!
+Dialogue: 0,0:03:47.75,0:03:49.96,Subtitle-2,,0,0,0,,I'm rooting for you, MUTSUMI...\N{\rSubtitle}Val Love, "Date with an Idol"...{\r}
+Dialogue: 0,0:03:49.96,0:03:52.04,Subtitle-2,,0,0,0,,I mean, Mutsumi-san.\N{\rSubtitle}A scandal can be disastrous for an idol!{\r}
+Dialogue: 0,0:03:52.04,0:03:52.50,Subtitle-2,,0,0,0,,Thanks to the memories of today,\N{\rSubtitle}A scandal can be disastrous for an idol!{\r}
+Dialogue: 0,0:03:52.50,0:03:54.21,Subtitle-2,,0,0,0,,Thanks to the memories of today,\N{\rSubtitle}Even more so since this is a date, so I can't be seen.{\r}
+Dialogue: 0,0:03:54.21,0:03:55.08,Subtitle-2,,0,0,0,,I can keep going in the harsh world of entertainment...\N{\rSubtitle}Even more so since this is a date, so I can't be seen.{\r}
+Dialogue: 0,0:03:55.08,0:03:56.83,Subtitle-2,,0,0,0,,I can keep going in the harsh world of entertainment...\N{\rSubtitle}If I can go on this date and get home{\r}
+Dialogue: 0,0:03:56.83,0:03:57.29,Subtitle,,0,0,0,,If I can go on this date and get home
+Dialogue: 0,0:03:57.29,0:03:59.29,Subtitle,,0,0,0,,without being exposed the entire day,\Nthen it's a success!
+Dialogue: 0,0:04:00.88,0:04:04.46,Subtitle,,0,0,0,,I have to make absolutely sure\NI'm not exposed as an idol today.
+Dialogue: 0,0:04:04.88,0:04:08.83,Subtitle,,0,0,0,,Really? Yamada-senpai, you're actually friends\Nwith the idol MUTSUMI-chan?
+Dialogue: 0,0:04:09.83,0:04:11.83,Subtitle,,0,0,0,,Yeah, it's true!
+Dialogue: 0,0:04:11.83,0:04:14.21,Subtitle,,0,0,0,,We've even exchanged contact info!
+Dialogue: 0,0:04:14.42,0:04:17.54,Subtitle,,0,0,0,,That guy must be in the same class as Takuma-kun.
+Dialogue: 0,0:04:18.13,0:04:21.75,Subtitle,,0,0,0,,She's the latest up-and-coming idol, MUTSUMI!
+Dialogue: 0,0:04:21.75,0:04:24.63,Subtitle,,0,0,0,,She's attractive, has a pure personality...
+Dialogue: 0,0:04:24.63,0:04:26.13,Subtitle,,0,0,0,,and she's got huge tits!
+Dialogue: 0,0:04:26.13,0:04:29.38,Subtitle,,0,0,0,,I'm seriously jealous you're friends with a girl like that!
+Dialogue: 0,0:04:29.92,0:04:32.79,Subtitle,,0,0,0,,You're friends with Yamada-san?
+Dialogue: 0,0:04:32.79,0:04:36.04,Subtitle,,0,0,0,,I may have talked to him in the hallway once... Maybe.
+Dialogue: 0,0:04:36.42,0:04:39.58,Subtitle,,0,0,0,,But speaking of Hokuou Academy,\Nthat guy's there too, right?
+Dialogue: 0,0:04:39.58,0:04:41.92,Subtitle,,0,0,0,,Uhh...er... Takuma Akutsu!
+Dialogue: 0,0:04:42.04,0:04:42.75,Subtitle,,0,0,0,,Jolt!
+Dialogue: 0,0:04:43.21,0:04:45.54,Subtitle,,0,0,0,,The murder of fifty people\Nin front of Tokorozawa Station,
+Dialogue: 0,0:04:45.54,0:04:47.29,Subtitle,,0,0,0,,that explosion on the Omekaido Highway...
+Dialogue: 0,0:04:47.29,0:04:49.63,Subtitle,,0,0,0,,The serial akuma incidents, etc, etc!
+Dialogue: 0,0:04:49.63,0:04:51.96,Subtitle,,0,0,0,,The Takuma Akutsu who's\Nthe mastermind of all those incidents,
+Dialogue: 0,0:04:51.96,0:04:55.08,Subtitle,,0,0,0,,and whose parents are evading arrest\Nas members of a crime syndicate!
+Dialogue: 0,0:04:55.08,0:04:57.25,Subtitle,,0,0,0,,They have to be the deeds of Akuma!
+Dialogue: 0,0:04:58.50,0:05:01.21,Subtitle,,0,0,0,,Your parents were part of a crime syndicate?
+Dialogue: 0,0:05:01.21,0:05:02.92,Subtitle,,0,0,0,,They were just office workers.
+Dialogue: 0,0:05:03.08,0:05:06.79,Subtitle,,0,0,0,,I get dropped out of the window\Nby that Akuma every day, man...
+Dialogue: 0,0:05:06.79,0:05:08.21,Subtitle,,0,0,0,,It sucks.
+Dialogue: 0,0:05:08.21,0:05:10.42,Subtitle,,0,0,0,,But you were the toughest guy in junior high!
+Dialogue: 0,0:05:10.42,0:05:11.71,Subtitle,,0,0,0,,That's crazy!
+Dialogue: 0,0:05:11.71,0:05:15.58,Subtitle,,0,0,0,,He better show off while he still can, cuz...
+Dialogue: 0,0:05:16.67,0:05:18.83,Subtitle,,0,0,0,,I apologize for showing off!
+Dialogue: 0,0:05:19.38,0:05:21.21,Subtitle,,0,0,0,,Yamada-senpai?!
+Dialogue: 0,0:05:21.21,0:05:22.42,Subtitle,,0,0,0,,Um...
+Dialogue: 0,0:05:22.42,0:05:24.00,Subtitle,,0,0,0,,Hey, did you see what happened?
+Dialogue: 0,0:05:24.38,0:05:28.17,Subtitle,,0,0,0,,That huge guy just threw someone\Nout of the window. Horrible.
+Dialogue: 0,0:05:28.17,0:05:31.79,Subtitle,,0,0,0,,He sure looks like the type that'd\Nfreakin' throw someone out of a window.
+Dialogue: 0,0:05:31.79,0:05:33.54,Subtitle,,0,0,0,,We should call the police.
+Dialogue: 0,0:05:33.71,0:05:36.75,Subtitle,,0,0,0,,Huh? No... You didn't do anything!
+Dialogue: 0,0:05:36.75,0:05:38.08,Subtitle,,0,0,0,,It's fine.
+Dialogue: 0,0:05:39.00,0:05:40.58,Subtitle,,0,0,0,,I'm used to this.
+Dialogue: 0,0:05:42.88,0:05:44.54,Subtitle,,0,0,0,,Should we leave soon?
+Dialogue: 0,0:05:44.54,0:05:45.67,Subtitle,,0,0,0,,Yeah.
+Dialogue: 0,0:05:45.92,0:05:50.38,Subtitle,,0,0,0,,No one noticed me because all the attention\Nwas on Takuma-kun, but...
+Dialogue: 0,0:05:50.38,0:05:53.33,Subtitle,,0,0,0,,I wonder if it's making him feel bad.
+Dialogue: 0,0:05:53.71,0:05:55.71,Subtitle,,0,0,0,,No! I can't lose my nerve!
+Dialogue: 0,0:05:55.71,0:05:59.04,Subtitle,,0,0,0,,After all that, I should give him\Ngood memories of today!
+Dialogue: 0,0:05:59.04,0:06:00.63,Subtitle,,0,0,0,,You gotta fight, Mutsumi!
+Dialogue: 0,0:06:01.71,0:06:04.00,Subtitle,,0,0,0,,Takuma-kun, let's have fun today!
+Dialogue: 0,0:06:04.00,0:06:05.58,Subtitle,,0,0,0,,Is there anywhere you'd like to go?
+Dialogue: 0,0:06:05.58,0:06:09.67,Subtitle,,0,0,0,,Oh... since you asked,\Nthere is a place I want to stop by.
+Dialogue: 0,0:06:10.92,0:06:12.33,Subtitle,,0,0,0,,National Mock Exam?
+Dialogue: 0,0:06:12.33,0:06:13.83,Subtitle,,0,0,0,,Y-yes.
+Dialogue: 0,0:06:13.83,0:06:17.96,Subtitle,,0,0,0,,There's a national mock exam next week,\Nso I have to study for it.
+Dialogue: 0,0:06:17.96,0:06:22.42,Subtitle,,0,0,0,,I did a pathetic job on the last midterms,\Nso I need to give it my all.
+Dialogue: 0,0:06:22.92,0:06:25.38,Subtitle,,0,0,0,,That's impressive, Takuma-kun.
+Dialogue: 0,0:06:26.71,0:06:31.38,Subtitle,,0,0,0,,You decided what you would do on your own,\Nand you're giving it all you can...
+Dialogue: 0,0:06:31.38,0:06:32.67,Subtitle,,0,0,0,,I admire you.
+Dialogue: 0,0:06:33.54,0:06:35.42,Subtitle,,0,0,0,,But Mutsumi-san, you're...
+Dialogue: 0,0:06:35.42,0:06:39.83,Subtitle,,0,0,0,,When I was a child,\NI was attacked by a very scary akuma.
+Dialogue: 0,0:06:39.83,0:06:43.71,Subtitle,,0,0,0,,Ever since then, I've been so frightened and nervous,\Nand I've lost my confidence.
+Dialogue: 0,0:06:43.71,0:06:46.08,Subtitle,,0,0,0,,I can't do anything on my own anymore.
+Dialogue: 0,0:06:46.33,0:06:48.79,Subtitle,,0,0,0,,Wh-what? That can't be right...
+Dialogue: 0,0:06:48.79,0:06:53.67,Subtitle,,0,0,0,,Both me and Itsuyo-chan were saved by\NNatsuki-chan when we were children.
+Dialogue: 0,0:06:53.67,0:06:55.29,Subtitle,,0,0,0,,The Student Council President, too?
+Dialogue: 0,0:06:55.96,0:07:02.00,Subtitle,,0,0,0,,Yeah! It's unimaginable now, but in the past\NItsuyo-chan clung to Natsuki-chan.
+Dialogue: 0,0:07:03.50,0:07:05.96,Subtitle,,0,0,0,,What's going on? I got chills all of a sudden...
+Dialogue: 0,0:07:05.96,0:07:07.25,Subtitle,,0,0,0,,Is it a cold?
+Dialogue: 0,0:07:07.54,0:07:11.83,Subtitle,,0,0,0,,Worry more about what's going on with\Nyour own head instead of other people, Natsuki.
+Dialogue: 0,0:07:11.83,0:07:13.79,Subtitle,,0,0,0,,And you got that one wrong.
+Dialogue: 0,0:07:15.04,0:07:19.00,Subtitle,,0,0,0,,You should be more patient\Nsince you're the one helping me study.
+Dialogue: 0,0:07:19.00,0:07:22.75,Subtitle,,0,0,0,,Are you able to sleep by yourself now, Itsuyo-chan?
+Dialogue: 0,0:07:23.21,0:07:25.50,Subtitle,,0,0,0,,You're always bringing up the past...
+Dialogue: 0,0:07:25.50,0:07:28.96,Subtitle,,0,0,0,,Is that how you speak to an elder sister?
+Dialogue: 0,0:07:28.96,0:07:32.88,Subtitle,,0,0,0,,What do you mean "elder"?\NWe're triplets, so that doesn't matter, dummy!
+Dialogue: 0,0:07:33.29,0:07:36.13,Subtitle,,0,0,0,,Only dummies call other people dummy, you dummy!
+Dialogue: 0,0:07:36.13,0:07:37.38,Subtitle,,0,0,0,,What'd you say?!
+Dialogue: 0,0:07:37.38,0:07:39.88,Subtitle,,0,0,0,,Hey, you two stop fighting.
+Dialogue: 0,0:07:40.54,0:07:43.17,Subtitle,,0,0,0,,I became an idol unwillingly.
+Dialogue: 0,0:07:43.17,0:07:47.83,Subtitle,,0,0,0,,Someone needed to become an idol so that\Nwe could get more opportunities for dates,
+Dialogue: 0,0:07:47.83,0:07:49.33,Subtitle,,0,0,0,,no one wanted to do it...
+Dialogue: 0,0:07:49.63,0:07:51.33,Subtitle,,0,0,0,,"How about Mutsumi?"
+Dialogue: 0,0:07:51.33,0:07:52.58,Subtitle,,0,0,0,,"Mutsumi would be great!"
+Dialogue: 0,0:07:52.58,0:07:54.58,Subtitle,,0,0,0,,"Okay, we're counting on you Mutsumi-chan!"
+Dialogue: 0,0:07:54.58,0:07:56.00,Subtitle,,0,0,0,,"What?!"
+Dialogue: 0,0:07:56.50,0:07:58.46,Subtitle,,0,0,0,,That's unfortunate.
+Dialogue: 0,0:07:58.46,0:08:02.38,Subtitle,,0,0,0,,If it were me, I could never do a job where\NI'd be in contact with so many people...
+Dialogue: 0,0:08:02.71,0:08:04.42,Subtitle,,0,0,0,,I'd probably die!
+Dialogue: 0,0:08:05.46,0:08:07.46,Subtitle,,0,0,0,,I really hated it at first.
+Dialogue: 0,0:08:07.46,0:08:10.88,Subtitle,,0,0,0,,But you know, now I'm glad I became an idol.
+Dialogue: 0,0:08:11.42,0:08:13.88,Subtitle,,0,0,0,,Thanks to all of my fans' support
+Dialogue: 0,0:08:13.88,0:08:17.46,Subtitle,,0,0,0,,I've gained my confidence back little by little,\Nand I'm able to keep going.
+Dialogue: 0,0:08:17.46,0:08:19.46,Subtitle,,0,0,0,,So I understand now.
+Dialogue: 0,0:08:19.75,0:08:22.08,Subtitle,,0,0,0,,I understand I can't just be protected all of the time.
+Dialogue: 0,0:08:22.83,0:08:25.17,Subtitle,,0,0,0,,I have to get stronger.
+Dialogue: 0,0:08:25.17,0:08:27.50,Subtitle,,0,0,0,,I have to work hard for my family.
+Dialogue: 0,0:08:30.08,0:08:31.58,Subtitle,,0,0,0,,I'm sorry.
+Dialogue: 0,0:08:31.92,0:08:33.13,Subtitle,,0,0,0,,Mom...
+Dialogue: 0,0:08:34.13,0:08:35.54,Subtitle,,0,0,0,,It's all...
+Dialogue: 0,0:08:35.92,0:08:37.33,Subtitle,,0,0,0,,my fault...
+Dialogue: 0,0:08:42.04,0:08:43.29,Subtitle,,0,0,0,,Takuma-kun?
+Dialogue: 0,0:08:43.88,0:08:46.08,Subtitle,,0,0,0,,I'm going to go buy this.
+Dialogue: 0,0:08:47.21,0:08:48.63,Subtitle,,0,0,0,,Takuma-kun.
+Dialogue: 0,0:08:50.63,0:08:52.25,Subtitle,,0,0,0,,He does look similar...
+Dialogue: 0,0:08:52.54,0:08:55.38,Subtitle,,0,0,0,,He looks like the akuma who attacked me as a child.
+Dialogue: 0,0:08:55.38,0:08:58.92,Subtitle,,0,0,0,,Why? I was so afraid back then, but...
+Dialogue: 0,0:08:59.46,0:09:03.38,Subtitle,,0,0,0,,When I look at Takuma-kun, my heart kind of races...
+Dialogue: 0,0:09:03.38,0:09:04.42,Subtitle,,0,0,0,,Mutsumi-san?
+Dialogue: 0,0:09:05.67,0:09:07.54,Subtitle,,0,0,0,,I'm done buying this.
+Dialogue: 0,0:09:07.54,0:09:10.29,Subtitle,,0,0,0,,S-sorry, I spaced out!
+Dialogue: 0,0:09:10.75,0:09:13.08,Subtitle,,0,0,0,,Oh no, this is bad! I got so excited...
+Dialogue: 0,0:09:13.08,0:09:16.38,Subtitle,,0,0,0,,I mean, Takuma-kun was just too cool!
+Dialogue: 0,0:09:16.92,0:09:18.96,Subtitle,,0,0,0,,Well then, where are we going next?
+Dialogue: 0,0:09:18.96,0:09:22.92,Subtitle,,0,0,0,,I-I'd like to go home soon. I want to study.
+Dialogue: 0,0:09:22.92,0:09:23.71,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:09:23.71,0:09:26.83,Subtitle,,0,0,0,,Y-you need to take a break\Nfrom studying sometimes!
+Dialogue: 0,0:09:28.21,0:09:34.79,Subtitle,,0,0,0,,I mean, it's not so much that I want to hurry home,\Nbut I j-just don't w-want to be here anymore!
+Dialogue: 0,0:09:35.83,0:09:39.04,Subtitle,,0,0,0,,He doesn't want to spend any more time with me?!
+Dialogue: 0,0:09:39.58,0:09:41.00,Subtitle,,0,0,0,,Mutsumi-san?
+Dialogue: 0,0:09:41.00,0:09:45.29,Subtitle,,0,0,0,,No way... that's mean... but... I feel kind of happy.
+Dialogue: 0,0:09:45.29,0:09:46.50,Subtitle,,0,0,0,,Mutsumi-san?!
+Dialogue: 0,0:09:46.50,0:09:49.17,Subtitle,,0,0,0,,A-anyways, let's go hang out somewhere!
+Dialogue: 0,0:09:49.17,0:09:51.71,Subtitle,,0,0,0,,N-no. I'm going home!
+Dialogue: 0,0:09:52.04,0:09:56.00,Subtitle,,0,0,0,,Ugh. What they hell are they doing?
+Dialogue: 0,0:09:56.29,0:09:58.79,Subtitle,,0,0,0,,Well, I guess this is supposed to be a date...
+Dialogue: 0,0:09:58.79,0:10:01.83,Subtitle,,0,0,0,,And it's with that same pathetic "lover" ...
+Dialogue: 0,0:10:02.21,0:10:04.04,Subtitle,,0,0,0,,In any case...
+Dialogue: 0,0:10:04.25,0:10:05.54,Subtitle,,0,0,0,,That woman...
+Dialogue: 0,0:10:05.54,0:10:08.38,Subtitle,,0,0,0,,she's got that meat in all the good places...
+Dialogue: 0,0:10:10.29,0:10:12.42,Subtitle,,0,0,0,,I want to devour her.
+Dialogue: 0,0:10:13.13,0:10:15.00,Subtitle,,0,0,0,,What's that guy grinning at?
+Dialogue: 0,0:10:15.00,0:10:16.08,Subtitle,,0,0,0,,Scary...
+Dialogue: 0,0:10:17.83,0:10:20.63,Subtitle,,0,0,0,,Are you looking for a seat, ladies?
+Dialogue: 0,0:10:20.63,0:10:22.29,Subtitle,,0,0,0,,This table has just opened up.
+Dialogue: 0,0:10:24.42,0:10:27.92,Subtitle,,0,0,0,,I should talk to them and interrupt the date for now.
+Dialogue: 0,0:10:27.92,0:10:29.33,Subtitle-2,,0,0,0,,Come on, let's go somewhere!\N{\rSubtitle}It'd be a pain in the ass to level up even more.{\r}
+Dialogue: 0,0:10:29.33,0:10:30.50,Subtitle-2,,0,0,0,,N-no, I can't...\N{\rSubtitle}It'd be a pain in the ass to level up even more.{\r}
+Dialogue: 0,0:10:30.50,0:10:31.33,Subtitle-2,,0,0,0,,But it'd be so much fun!\N{\rSubtitle}It'd be a pain in the ass to level up even more.{\r}
+Dialogue: 0,0:10:31.33,0:10:31.63,Subtitle-2,,0,0,0,,But it'd be so much fun!
+Dialogue: 0,0:10:31.63,0:10:32.63,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:10:38.33,0:10:40.79,Subtitle,,0,0,0,,On second thought...
+Dialogue: 0,0:10:42.04,0:10:44.96,Subtitle,,0,0,0,,Look, they're doing a live show on the street!
+Dialogue: 0,0:10:44.96,0:10:47.88,Subtitle,,0,0,0,,It looks like the show will have\Nsome really good vibes, so...
+Dialogue: 0,0:10:47.88,0:10:53.88,Subtitle,,0,0,0,,The idol MUTSUMI-chan is here!
+Dialogue: 0,0:10:54.13,0:10:55.67,Subtitle,,0,0,0,,MUTSUMI-chan? For real?!
+Dialogue: 0,0:10:55.67,0:10:56.92,Subtitle,,0,0,0,,She's in this area!
+Dialogue: 0,0:10:56.92,0:10:57.92,Subtitle-2,,0,0,0,,This isn't the time for a live show!\N{\rSubtitle}She's in this area!{\r}
+Dialogue: 0,0:10:57.92,0:10:59.00,Subtitle-2,,0,0,0,,This isn't the time for a live show!
+Dialogue: 0,0:10:59.17,0:11:00.75,Subtitle,,0,0,0,,Find her, guys!
+Dialogue: 0,0:11:00.75,0:11:03.17,Subtitle,,0,0,0,,You can get her autograph!
+Dialogue: 0,0:11:03.17,0:11:05.21,Subtitle,,0,0,0,,Wh-why is that thing here?
+Dialogue: 0,0:11:05.21,0:11:07.25,Subtitle,,0,0,0,,Mutsumi-san, what is that?
+Dialogue: 0,0:11:07.25,0:11:08.96,Subtitle,,0,0,0,,It's the akuma, Gjallarhorn...
+Dialogue: 0,0:11:08.96,0:11:11.58,Subtitle,,0,0,0,,It's a low-level akuma with no battle ability,
+Dialogue: 0,0:11:11.58,0:11:14.63,Subtitle,,0,0,0,,but at any rate, it loves gossip\Nand when it finds someone's weakness,
+Dialogue: 0,0:11:14.63,0:11:16.63,Subtitle,,0,0,0,,it has the ability to rile up everyone around him\Nand go around causing commotions.
+Dialogue: 0,0:11:16.63,0:11:17.67,Subtitle-2,,0,0,0,,And you can take a picture with her, too!\N{\rSubtitle}it has the ability to rile up everyone around him{\r}\N{\rSubtitle}and go around causing commotions.{\r}
+Dialogue: 0,0:11:17.67,0:11:20.58,Subtitle-2,,0,0,0,,And you can take a picture with her, too!\N{\rSubtitle}It's commonly known as the "Loud-Ass Bastard!"{\r}
+Dialogue: 0,0:11:20.58,0:11:22.50,Subtitle,,0,0,0,,A gossip-loving akuma?!
+Dialogue: 0,0:11:22.79,0:11:25.13,Subtitle-2,,0,0,0,,Are you the idol MUTSUMI-chan?!\N{\rSubtitle}Just causing a stir won't fail Val love:{\r}\N{\rSubtitle}"Date with an Idol"...{\r}
+Dialogue: 0,0:11:25.13,0:11:25.79,Subtitle,,0,0,0,,Just causing a stir won't fail Val love:\N"Date with an Idol"...
+Dialogue: 0,0:11:25.79,0:11:26.75,Subtitle-2,,0,0,0,,Uh, well, this is my personal time...\N{\rSubtitle}Just causing a stir won't fail Val love:{\r}\N{\rSubtitle}"Date with an Idol"...{\r}
+Dialogue: 0,0:11:26.75,0:11:28.88,Subtitle-2,,0,0,0,,Uh, well, this is my personal time...\N{\rSubtitle}but if they talk to me and realize who I am,{\r}\N{\rSubtitle}then we're out!{\r}
+Dialogue: 0,0:11:28.88,0:11:30.67,Subtitle,,0,0,0,,but if they talk to me and realize who I am,\Nthen we're out!
+Dialogue: 0,0:11:30.88,0:11:34.92,Subtitle,,0,0,0,,What do I do? At this rate, the date that\Nwe worked so hard for will be a waste!
+Dialogue: 0,0:11:34.92,0:11:37.75,Subtitle,,0,0,0,,I can't do this. If those people find us...
+Dialogue: 0,0:11:38.50,0:11:41.42,Subtitle,,0,0,0,,I'm gonna puke just thinking about it!\NI gotta get out of...
+Dialogue: 0,0:11:43.38,0:11:45.54,Subtitle,,0,0,0,,I have to do my best for my family.
+Dialogue: 0,0:11:56.79,0:11:58.29,Subtitle,,0,0,0,,Someone just booked it outta here!
+Dialogue: 0,0:11:58.29,0:11:58.63,Subtitle-2,,0,0,0,,Get 'em!
+Dialogue: 0,0:11:58.63,0:11:59.92,Subtitle,,0,0,0,,T...Takuma-kun?\N{\rSubtitle-2}Get 'em!{\r}
+Dialogue: 0,0:12:00.42,0:12:03.88,Subtitle,,0,0,0,,Th-they'll find us if we stay here.\NLet's just run away for now!
+Dialogue: 0,0:12:03.88,0:12:04.75,Subtitle,,0,0,0,,Okay!
+Dialogue: 0,0:12:05.29,0:12:09.67,Subtitle,,0,0,0,,That's right. I'm going to give Takuma-kun\Nfun memories of today!
+Dialogue: 0,0:12:10.04,0:12:12.13,Subtitle,,0,0,0,,If we keep this up, it's definitely...
+Dialogue: 0,0:12:12.13,0:12:14.04,Subtitle,,0,0,0,,They went this way!
+Dialogue: 0,0:12:14.04,0:12:16.46,Subtitle,,0,0,0,,Was she with a guy?! I'm gonna murder 'im!
+Dialogue: 0,0:12:16.46,0:12:18.92,Subtitle,,0,0,0,,It's definitely going to be a bad day!
+Dialogue: 0,0:12:19.25,0:12:23.96,Subtitle,,0,0,0,,But... I can't believe we're being chased by fans\Nwhile holding hands with Takuma-kun.
+Dialogue: 0,0:12:24.25,0:12:29.25,Subtitle,,0,0,0,,This is kinda... making me really excited!
+Dialogue: 0,0:12:30.67,0:12:33.92,Subtitle,,0,0,0,,Okay! If we can get outside through this rear entrance...
+Dialogue: 0,0:12:34.21,0:12:36.04,Subtitle,,0,0,0,,Hey, have you found them yet?!
+Dialogue: 0,0:12:36.04,0:12:37.17,Subtitle,,0,0,0,,Keep looking!
+Dialogue: 0,0:12:37.75,0:12:39.21,Subtitle,,0,0,0,,We're caught here!
+Dialogue: 0,0:12:39.21,0:12:41.54,Subtitle,,0,0,0,,MUTSUMI-chan is over here!
+Dialogue: 0,0:12:41.54,0:12:43.46,Subtitle,,0,0,0,,Alright! I'm gonna get an autograph!
+Dialogue: 0,0:12:44.38,0:12:45.67,Subtitle,,0,0,0,,She's here! She's here!
+Dialogue: 0,0:12:45.67,0:12:46.92,Subtitle,,0,0,0,,She isn't here...
+Dialogue: 0,0:12:47.17,0:12:50.00,Subtitle,,0,0,0,,Hey you jerk, was that really MUTSUMI-chan?
+Dialogue: 0,0:12:50.00,0:12:52.46,Subtitle,,0,0,0,,She is around here for sure!
+Dialogue: 0,0:12:52.79,0:12:55.21,Subtitle,,0,0,0,,We immediately hid, but...
+Dialogue: 0,0:12:55.88,0:12:58.67,Subtitle,,0,0,0,,What do we do now?!
+Dialogue: 0,0:12:59.54,0:13:03.63,Subtitle,,0,0,0,,Ah, but I'm being held by Takuma-kun...
+Dialogue: 0,0:13:04.42,0:13:06.54,Subtitle,,0,0,0,,Hey, did you find MUTSUMI-chan?
+Dialogue: 0,0:13:06.54,0:13:07.79,Subtitle,,0,0,0,,She's not over here...
+Dialogue: 0,0:13:07.79,0:13:10.00,Subtitle,,0,0,0,,I'm sure she came in through\Nthe rear entrance, though.
+Dialogue: 0,0:13:10.00,0:13:11.92,Subtitle,,0,0,0,,Okay, let's look again!
+Dialogue: 0,0:13:13.17,0:13:15.08,Subtitle,,0,0,0,,Takuma-kun, are you okay?
+Dialogue: 0,0:13:15.08,0:13:16.92,Subtitle,,0,0,0,,You're not feeling bad, are you?
+Dialogue: 0,0:13:16.92,0:13:20.17,Subtitle,,0,0,0,,Y-yes. I'll be fine.
+Dialogue: 0,0:13:21.92,0:13:24.83,Subtitle,,0,0,0,,Go find her! I'm gonna murder that guy!
+Dialogue: 0,0:13:25.29,0:13:27.71,Subtitle,,0,0,0,,I can't believe things have come to this...
+Dialogue: 0,0:13:27.71,0:13:31.71,Subtitle,,0,0,0,,There are so many fans on the other side\Nof this thin metal sheet separating us.
+Dialogue: 0,0:13:31.71,0:13:34.42,Subtitle,,0,0,0,,If Takuma-kun were a rude person, then...
+Dialogue: 0,0:13:35.29,0:13:38.71,Subtitle,,0,0,0,,Your chest is huge, Mutsumi-san.
+Dialogue: 0,0:13:38.71,0:13:42.50,Subtitle,,0,0,0,,Shall we open the door and let your fans see?
+Dialogue: 0,0:13:42.50,0:13:45.75,Subtitle,,0,0,0,,N-no, I'll do anything...
+Dialogue: 0,0:13:45.75,0:13:47.63,Subtitle,,0,0,0,,You'll do... anything?
+Dialogue: 0,0:13:47.63,0:13:49.29,Subtitle,,0,0,0,,Anything you want!
+Dialogue: 0,0:13:49.29,0:13:50.88,Subtitle,,0,0,0,,Mutsumi-san?
+Dialogue: 0,0:13:52.13,0:13:53.46,Subtitle,,0,0,0,,Yes?!
+Dialogue: 0,0:13:53.46,0:13:57.00,Subtitle,,0,0,0,,Uh... How do you suppose we can\Nbreak free of this situation?
+Dialogue: 0,0:13:57.00,0:13:59.04,Subtitle,,0,0,0,,Oh... That's what you want to say...
+Dialogue: 0,0:13:59.25,0:14:01.58,Subtitle,,0,0,0,,What?! She seems disappointed somehow.
+Dialogue: 0,0:14:01.58,0:14:03.67,Subtitle,,0,0,0,,Did I do something wrong again?
+Dialogue: 0,0:14:03.83,0:14:06.00,Subtitle,,0,0,0,,Er, well...
+Dialogue: 0,0:14:06.13,0:14:08.17,Subtitle,,0,0,0,,I have an idea.
+Dialogue: 0,0:14:08.17,0:14:14.21,Subtitle,,0,0,0,,Depending on my sacred sword "wing" level,\Nit's possible to enhance my flight ability.
+Dialogue: 0,0:14:14.21,0:14:16.42,Subtitle,,0,0,0,,Right now I'm still at a low level,
+Dialogue: 0,0:14:16.42,0:14:20.54,Subtitle,,0,0,0,,but I think I can at least get through\Nthe people outside instantly.
+Dialogue: 0,0:14:20.54,0:14:22.29,Subtitle,,0,0,0,,So, um...
+Dialogue: 0,0:14:24.67,0:14:25.83,Subtitle,,0,0,0,,I...
+Dialogue: 0,0:14:26.17,0:14:29.63,Subtitle,,0,0,0,,I want you to kiss me.
+Dialogue: 0,0:14:33.33,0:14:35.63,Subtitle,,0,0,0,,U-understood.
+Dialogue: 0,0:14:35.92,0:14:39.54,Subtitle,,0,0,0,,Hooray! I can finally kiss Takuma-kun, too.
+Dialogue: 0,0:14:39.83,0:14:43.54,Subtitle,,0,0,0,,I heard that the first kiss tastes like lemon,\Nbut is it really true?
+Dialogue: 0,0:14:45.04,0:14:47.63,Subtitle,,0,0,0,,This is my first kiss...
+Dialogue: 0,0:14:50.13,0:14:52.42,Subtitle,,0,0,0,,Takuma-kun, can you bend down a bit more?
+Dialogue: 0,0:14:52.42,0:14:54.42,Subtitle,,0,0,0,,H-hold on a second...
+Dialogue: 0,0:14:54.58,0:14:58.25,Subtitle,,0,0,0,,There's too much of a height difference\Nand I can't reach his lips!
+Dialogue: 0,0:15:00.25,0:15:03.00,Subtitle,,0,0,0,,Wh-wh-what do we do?!
+Dialogue: 0,0:15:04.92,0:15:08.21,Subtitle,,0,0,0,,Takuma-kun, will you unbutton your shirt?
+Dialogue: 0,0:15:08.83,0:15:11.88,Subtitle,,0,0,0,,MUTSUMI-chan is in here! MUTSUMI-chan is-
+Dialogue: 0,0:15:12.46,0:15:14.71,Subtitle,,0,0,0,,Is that all you can say?!
+Dialogue: 0,0:15:14.71,0:15:18.29,Subtitle,,0,0,0,,I've lost sight of her but she has to be around here!
+Dialogue: 0,0:15:18.67,0:15:20.21,Subtitle,,0,0,0,,You sure you weren't just seeing things?
+Dialogue: 0,0:15:20.21,0:15:24.17,Subtitle,,0,0,0,,Well... I did see a girl running away.
+Dialogue: 0,0:15:24.17,0:15:28.25,Subtitle,,0,0,0,,And those giant tits... It had to be MUTSUMI-chan!
+Dialogue: 0,0:15:28.25,0:15:30.58,Subtitle,,0,0,0,,No way the guy she was with could be her boyfriend...
+Dialogue: 0,0:15:30.58,0:15:33.00,Subtitle,,0,0,0,,If he is, there's gonna be a bloodbath!
+Dialogue: 0,0:15:39.79,0:15:44.50,Subtitle,,0,0,0,,When kissing your lover, the conditions for\Ninvocation differ depending on location.
+Dialogue: 0,0:15:44.50,0:15:48.00,Subtitle,,0,0,0,,If we're kissing on the lips, then the transformation\Nwill happen instantaneously,
+Dialogue: 0,0:15:48.00,0:15:51.58,Subtitle,,0,0,0,,but the further away from the lips we go,\Nthe more time it takes to transform.
+Dialogue: 0,0:15:52.46,0:15:54.17,Subtitle,,0,0,0,,The cheek takes five seconds,
+Dialogue: 0,0:15:54.17,0:15:55.71,Subtitle,,0,0,0,,and the chest takes three minutes...
+Dialogue: 0,0:15:55.71,0:15:59.17,Subtitle,,0,0,0,,the nape of the neck should take about\None minute of kissing before I can transform!
+Dialogue: 0,0:16:02.63,0:16:05.75,Subtitle,,0,0,0,,This together with the heat is making my head spin.
+Dialogue: 0,0:16:05.75,0:16:08.46,Subtitle,,0,0,0,,Calm down... Times like this...
+Dialogue: 0,0:16:08.58,0:16:10.33,Subtitle,,0,0,0,,can be used to study!
+Dialogue: 0,0:16:10.75,0:16:13.25,Subtitle,,0,0,0,,Take a deep breath, fix your posture,
+Dialogue: 0,0:16:13.25,0:16:14.67,Subtitle,,0,0,0,,and start off with math!
+Dialogue: 0,0:16:15.08,0:16:16.46,Subtitle,,0,0,0,,Commence review!
+Dialogue: 0,0:16:17.96,0:16:19.17,Subtitle,,0,0,0,,Ow!
+Dialogue: 0,0:16:19.17,0:16:22.42,Subtitle,,0,0,0,,T...Takuma-kun? You're stepping on my foot.
+Dialogue: 0,0:16:22.67,0:16:25.42,Subtitle,,0,0,0,,Square root of two equals 1.41421356...
+Dialogue: 0,0:16:25.42,0:16:28.17,Subtitle,,0,0,0,,Square root of 5 equals 2.2360679...
+Dialogue: 0,0:16:29.21,0:16:31.83,Subtitle,,0,0,0,,His face looks more serious than usual...
+Dialogue: 0,0:16:32.08,0:16:36.75,Subtitle,,0,0,0,,I get it! This is encouragement for me\Nto focus more and kiss him!
+Dialogue: 0,0:16:36.96,0:16:40.71,Subtitle,,0,0,0,,I'm sorry, Takuma-kun, I'll try even harder!
+Dialogue: 0,0:16:43.21,0:16:44.75,Subtitle,,0,0,0,,Hey was she over there?
+Dialogue: 0,0:16:44.75,0:16:46.71,Subtitle,,0,0,0,,She's gotta be over there!
+Dialogue: 0,0:16:51.88,0:16:54.13,Subtitle,,0,0,0,,Hey, there's something caught over there.
+Dialogue: 0,0:16:54.13,0:16:55.50,Subtitle,,0,0,0,,Where the hell is "over there?"
+Dialogue: 0,0:16:55.50,0:16:57.13,Subtitle,,0,0,0,,Look, at that locker.
+Dialogue: 0,0:16:57.83,0:16:59.33,Subtitle,,0,0,0,,We're dead!
+Dialogue: 0,0:16:59.33,0:17:01.83,Subtitle,,0,0,0,,MUTSUMI-chan is over there!
+Dialogue: 0,0:17:01.96,0:17:04.50,Subtitle,,0,0,0,,So this is how I die, huh?
+Dialogue: 0,0:17:04.50,0:17:07.00,Subtitle,,0,0,0,,My mom is probably gonna be disappointed in Heaven.
+Dialogue: 0,0:17:07.00,0:17:09.83,Subtitle,,0,0,0,,After all, I'm probably headed to Hell...
+Dialogue: 0,0:17:09.83,0:17:11.63,Subtitle,,0,0,0,,I don't wanna die!
+Dialogue: 0,0:17:11.79,0:17:14.71,Subtitle,,0,0,0,,There's only twenty seconds left so calm down!
+Dialogue: 0,0:17:15.25,0:17:17.04,Subtitle,,0,0,0,,Takuma-kun is scared...
+Dialogue: 0,0:17:17.04,0:17:20.50,Subtitle,,0,0,0,,That's understandable.\NHe does have a fear of people.
+Dialogue: 0,0:17:20.50,0:17:23.33,Subtitle,,0,0,0,,Even if he didn't have that, it'd still be scary.
+Dialogue: 0,0:17:23.33,0:17:24.58,Subtitle,,0,0,0,,But even so...
+Dialogue: 0,0:17:24.83,0:17:26.79,Subtitle,,0,0,0,,He still helped me.
+Dialogue: 0,0:17:26.79,0:17:31.75,Subtitle,,0,0,0,,He could have easily run away by himself,\Nbut didn't let go of my hand.
+Dialogue: 0,0:17:32.00,0:17:34.58,Subtitle,,0,0,0,,Not only did he encourage me,
+Dialogue: 0,0:17:34.58,0:17:37.50,Subtitle,,0,0,0,,but he gave me such a sweet treat...
+Dialogue: 0,0:17:37.96,0:17:39.58,Subtitle,,0,0,0,,Takuma-kun...
+Dialogue: 0,0:17:41.88,0:17:43.33,Subtitle,,0,0,0,,I love you.
+Dialogue: 0,0:17:46.13,0:17:47.96,Subtitle,,0,0,0,,Ten seconds to go!
+Dialogue: 0,0:17:48.25,0:17:51.25,Subtitle,,0,0,0,,Nine, eight, seven...
+Dialogue: 0,0:17:51.25,0:17:54.17,Subtitle,,0,0,0,,six, five, four...
+Dialogue: 0,0:17:54.17,0:17:55.25,Subtitle,,0,0,0,,three...!
+Dialogue: 0,0:17:55.25,0:17:56.79,Subtitle,,0,0,0,,Oh no, we're not gonna ma-
+Dialogue: 0,0:18:02.17,0:18:04.29,Subtitle,,0,0,0,,What is that? A spear?
+Dialogue: 0,0:18:04.71,0:18:06.08,Subtitle,,0,0,0,,"Kiss with a lover"...
+Dialogue: 0,0:18:06.08,0:18:07.71,Subtitle,,0,0,0,,Valkyrie invoked!
+Dialogue: 0,0:18:12.79,0:18:14.92,Subtitle,,0,0,0,,What was that gust of wind?!
+Dialogue: 0,0:18:14.92,0:18:17.33,Subtitle,,0,0,0,,This is just a space for cleaning supplies!
+Dialogue: 0,0:18:30.63,0:18:32.25,Subtitle,,0,0,0,,It's okay now.
+Dialogue: 0,0:18:33.75,0:18:35.67,Subtitle,,0,0,0,,Relax, we're floating.
+Dialogue: 0,0:18:37.29,0:18:40.25,Subtitle,,0,0,0,,It feels like our date was a success, but...
+Dialogue: 0,0:18:40.25,0:18:43.75,Subtitle,,0,0,0,,I'm leaving Takuma-kun with\Nso many bad memories of today.
+Dialogue: 0,0:18:43.88,0:18:46.88,Subtitle,,0,0,0,,Even though he wanted to get home\NI was unreasonable and stopped him from leaving.
+Dialogue: 0,0:18:46.88,0:18:49.38,Subtitle,,0,0,0,,We were chased around because of that, and...
+Dialogue: 0,0:18:49.38,0:18:53.21,Subtitle,,0,0,0,,I was just trying to make fun memories for him.
+Dialogue: 0,0:19:00.88,0:19:02.58,Subtitle,,0,0,0,,It's beautiful.
+Dialogue: 0,0:19:03.29,0:19:09.17,Subtitle,,0,0,0,,A long time ago, back when that shopping mall\Nwas built, my mom and I came here to play.
+Dialogue: 0,0:19:09.38,0:19:11.58,Subtitle,,0,0,0,,All day long we went to different stores,
+Dialogue: 0,0:19:11.58,0:19:16.67,Subtitle,,0,0,0,,and we played and ran around and fell,\Nand ate delicious things...
+Dialogue: 0,0:19:16.67,0:19:19.50,Subtitle,,0,0,0,,and we finished the day\Nwatching the sunset from the roof.
+Dialogue: 0,0:19:19.92,0:19:22.29,Subtitle,,0,0,0,,The sunset I saw that day looks just like this one.
+Dialogue: 0,0:19:22.29,0:19:23.75,Subtitle,,0,0,0,,Takuma-kun...
+Dialogue: 0,0:19:24.38,0:19:27.04,Subtitle,,0,0,0,,I'm so glad you're happy!
+Dialogue: 0,0:19:27.04,0:19:29.25,Subtitle,,0,0,0,,It felt really good whe...
+Dialogue: 0,0:19:29.25,0:19:30.58,Subtitle,,0,0,0,,I had fun!
+Dialogue: 0,0:19:30.58,0:19:32.13,Subtitle,,0,0,0,,Yeah...
+Dialogue: 0,0:19:33.79,0:19:35.58,Subtitle,,0,0,0,,Wh-what happened?
+Dialogue: 0,0:19:35.58,0:19:40.21,Subtitle,,0,0,0,,Um... Since I'm at a low level I may have\Nalready reached my flight limit.
+Dialogue: 0,0:19:40.21,0:19:41.21,Subtitle,,0,0,0,,Huh?!
+Dialogue: 0,0:19:44.00,0:19:45.33,Subtitle,,0,0,0,,Good grief.
+Dialogue: 0,0:19:45.33,0:19:48.42,Subtitle,,0,0,0,,How long do I have to play\Nbodyguard for this weakling?
+Dialogue: 0,0:19:48.42,0:19:52.92,Subtitle,,0,0,0,,Thanks to you, Big Sister Ichika,\Nwe can focus on dating.
+Dialogue: 0,0:19:52.92,0:19:55.17,Subtitle,,0,0,0,,I'm truly grateful to you.
+Dialogue: 0,0:19:55.46,0:19:58.71,Subtitle,,0,0,0,,Hmph. That's also my mission. I'll be patient.
+Dialogue: 0,0:19:58.71,0:20:01.58,Subtitle,,0,0,0,,By the way, can you come to the campus festival?
+Dialogue: 0,0:20:01.58,0:20:06.08,Subtitle,,0,0,0,,Everyone besides Shino who has not yet\Nrecovered will be a part of it.
+Dialogue: 0,0:20:06.08,0:20:08.25,Subtitle,,0,0,0,,I don't care about that weakling,
+Dialogue: 0,0:20:08.25,0:20:12.17,Subtitle,,0,0,0,,but in order to protect my beloved sisters,\NI will also participate.
+Dialogue: 0,0:20:14.71,0:20:17.29,Subtitle,,0,0,0,,I felt a strange presence today.
+Dialogue: 0,0:20:17.29,0:20:18.67,Subtitle,,0,0,0,,Stay alert.
+Dialogue: 0,0:20:18.96,0:20:21.46,Subtitle,,0,0,0,,The enemy was approaching a few seconds ago.
+Dialogue: 0,0:20:22.25,0:20:25.29,Subtitle,,0,0,0,,So they do have a bodyguard following them.
+Dialogue: 0,0:20:25.29,0:20:29.38,Subtitle,,0,0,0,,I was right not to head straight for them.
+Dialogue: 0,0:20:30.04,0:20:34.46,Subtitle,,0,0,0,,But this is delicious. I can't just throw this meal out.
+Dialogue: 0,0:20:35.58,0:20:38.33,Subtitle,,0,0,0,,I'm going to shoot you, you mutt.
+Dialogue: 0,0:20:39.33,0:20:43.04,Subtitle,,0,0,0,,Well, well. You've come too, have you?
+Dialogue: 0,0:20:43.04,0:20:45.63,Subtitle,,0,0,0,,How long are you going to slack off?
+Dialogue: 0,0:20:45.63,0:20:48.50,Subtitle,,0,0,0,,Do you understand the gravity of your mission?
+Dialogue: 0,0:20:48.50,0:20:51.50,Subtitle,,0,0,0,,How about you hurry up and dispose of the Valkyries?
+Dialogue: 0,0:20:52.13,0:20:56.96,Subtitle,,0,0,0,,With all due respect,\Nmy meal has not yet been prepared.
+Dialogue: 0,0:20:56.96,0:20:59.17,Subtitle,,0,0,0,,Now is the time to enjoy my appetizers.
+Dialogue: 0,0:20:59.17,0:21:01.50,Subtitle,,0,0,0,,Would you like to have some too?
+Dialogue: 0,0:21:01.50,0:21:04.21,Subtitle,,0,0,0,,The food here is fairly good.
+Dialogue: 0,0:21:04.42,0:21:07.54,Subtitle,,0,0,0,,Fenrir has also sent a miserable coward, huh?
+Dialogue: 0,0:21:07.54,0:21:09.00,Subtitle,,0,0,0,,Relax.
+Dialogue: 0,0:21:09.00,0:21:11.13,Subtitle,,0,0,0,,There's a campus festival coming soon.
+Dialogue: 0,0:21:11.13,0:21:16.75,Subtitle,,0,0,0,,That place in particular will be the ideal\Nhunting ground to devour all of the Valkyries!
+Dialogue: 0,0:21:22.21,0:21:25.00,Subtitle,,0,0,0,,Val Love, "Date with a Valkyrie Idol," successful.
+Dialogue: 0,0:21:25.46,0:21:27.13,Subtitle,,0,0,0,,Experience Points acquired.
+Dialogue: 0,0:21:27.38,0:21:29.83,Subtitle,,0,0,0,,Helmwige Level Up, confirmed.
+Dialogue: 0,0:21:33.13,0:21:34.50,Subtitle,,0,0,0,,Date complete.
+Dialogue: 0,0:21:36.00,0:21:39.42,Song,,0,0,0,,Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
+Dialogue: 0,0:21:39.42,0:21:42.67,Song,,0,0,0,,Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
+Dialogue: 0,0:21:42.67,0:21:49.21,Song,,0,0,0,,If we don't understand love,\Nyou & I won't get anywhere, you know?
+Dialogue: 0,0:21:50.75,0:22:01.71,Song,,0,0,0,,Nine times out of love on cloud nine
+Dialogue: 0,0:22:01.71,0:22:03.71,Song,,0,0,0,,We wanna share your heart!
+Dialogue: 0,0:22:03.71,0:22:06.96,Song,,0,0,0,,(How do you tell me?)\NInput sweet nothings
+Dialogue: 0,0:22:06.96,0:22:10.17,Song,,0,0,0,,Failed - Cancelled - They don't resonate at all\N(Please don't be shy)
+Dialogue: 0,0:22:10.17,0:22:13.38,Song,,0,0,0,,(How to make dream)\NTouch me and bring me one
+Dialogue: 0,0:22:13.38,0:22:17.00,Song,,0,0,0,,Successful - Complete - Isn't cutting-edge tech great?\N(Hold me tight)
+Dialogue: 0,0:22:17.79,0:22:22.50,Song,,0,0,0,,Why won't you say romance?
+Dialogue: 0,0:22:22.50,0:22:25.54,Song,,0,0,0,,Let's bring it to love!
+Dialogue: 0,0:22:25.54,0:22:32.71,Song,,0,0,0,,Get more experience and level up my maiden heart
+Dialogue: 0,0:22:33.83,0:22:37.42,Song,,0,0,0,,Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
+Dialogue: 0,0:22:37.42,0:22:40.75,Song,,0,0,0,,Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
+Dialogue: 0,0:22:40.75,0:22:46.71,Song,,0,0,0,,I'll teach you that love is a maiden's power!\N(Love gave the power to Valkyrie)
+Dialogue: 0,0:22:46.71,0:22:50.25,Song,,0,0,0,,Nine times out of ten, they're surely already lovers!\N(Please, please up-date my love)
+Dialogue: 0,0:22:50.25,0:22:53.63,Song,,0,0,0,,Fluttering in my chest, dance, dance!\N(Please, please show your heart)
+Dialogue: 0,0:22:53.63,0:22:56.83,Song,,0,0,0,,Your shy akuma mind, kiss for you!
+Dialogue: 0,0:22:56.83,0:23:00.04,Song,,0,0,0,,Will completely change, kiss for me!
+Dialogue: 0,0:23:00.04,0:23:03.42,Song,,0,0,0,,Let's begin our romance!
+Dialogue: 0,0:23:07.67,0:23:09.13,Subtitle,,0,0,0,,Thank you, Itsuyo-chan!
+Dialogue: 0,0:23:09.13,0:23:12.88,Subtitle,,0,0,0,,Thanks to everyone's support, I leveled up, too!
+Dialogue: 0,0:23:12.88,0:23:15.46,Subtitle,,0,0,0,,I think I can be useful in combat now!
+Dialogue: 0,0:23:15.46,0:23:18.83,Subtitle,,0,0,0,,It's natural that an older sister\Nwould worry over her younger sister.
+Dialogue: 0,0:23:18.83,0:23:21.08,Subtitle,,0,0,0,,But we're triplets...
+Dialogue: 0,0:23:21.08,0:23:23.67,Subtitle,,0,0,0,,You like to stress the\Nolder sister thing sometimes, huh?
+Dialogue: 0,0:23:23.67,0:23:25.79,Subtitle,,0,0,0,,It's good your Val love was so simple.
+Dialogue: 0,0:23:25.79,0:23:27.38,Subtitle,,0,0,0,,Natsuki said the same thing.
+Dialogue: 0,0:23:27.38,0:23:31.50,Subtitle,,0,0,0,,As long as you weren't found by your fans and/or\Nget stuck in a locker, it was probably a snap.
+Dialogue: 0,0:23:31.50,0:23:35.71,Subtitle,,0,0,0,,Y-you're right, it'd be really rough\Nif those things happened, huh?
+Dialogue: 0,0:23:35.71,0:23:36.71,Subtitle,,0,0,0,,Mutsumi?
+Dialogue: 0,0:23:36.92,0:23:39.21,Subtitle,,0,0,0,,Next time: "The Serving Maiden."
+Dialogue: 0,0:18:04.71,0:18:05.79,Caption-20,,0,0,0,,{\pos(640,403.2)}Kiss with a lover
+Dialogue: 0,0:18:06.08,0:18:08.29,Caption-20,,0,0,0,,{\pos(640,403.2)}Valkyrie invoked
+Dialogue: 0,0:21:33.13,0:21:35.92,Caption-20,,0,0,0,,{\pos(640,403.2)}Date Complete
+Dialogue: 0,0:00:45.92,0:00:47.54,Caption,,0,0,0,,{\pos(704,266.4)}{\an7}Throb Throb
+Dialogue: 0,0:00:45.92,0:00:47.54,Caption-2,,0,0,0,,{\pos(550.4,316.8)}{\an7}Chiruri Café Food &
+Dialogue: 0,0:00:45.92,0:00:47.54,Caption-2,,0,0,0,,{\pos(563.2,367.2)}{\an7}Sweets Date
+Dialogue: 0,0:00:45.92,0:00:47.54,Caption-3,,0,0,0,,{\pos(563.2,417.6)}{\an7}Colorful Seasonal Ingredients!
+Dialogue: 0,0:00:45.92,0:00:47.54,Caption-4,,0,0,0,,{\pos(665.6,468)}{\an7}Date Apps Useful for Couples
+Dialogue: 0,0:00:45.92,0:00:47.54,Caption-5,,0,0,0,,{\pos(204.8,518.4)}{\an7}Special Date Issue
+Dialogue: 0,0:03:16.21,0:03:20.08,Caption-6,,0,0,0,,{\pos(473.6,252)}{\an7}café Katori
+Dialogue: 0,0:03:30.08,0:03:31.71,Caption-7,,0,0,0,,{\pos(550.4,201.6)}{\an7}Menacing
+Dialogue: 0,0:03:31.92,0:03:33.33,Caption-8,,0,0,0,,{\pos(281.6,446.4)}{\an7}Ba-dump...
+Dialogue: 0,0:04:42.04,0:04:42.75,Caption-9,,0,0,0,,{\pos(870.4,273.6)}{\an7}Jolt
+Dialogue: 0,0:05:13.71,0:05:14.71,Caption-7,,0,0,0,,{\pos(1024,309.6)}{\an7}Menacing
+Dialogue: 0,0:06:10.67,0:06:13.83,Caption,,0,0,0,,{\pos(499.2,86.4)}{\an7}Center Exam
+Dialogue: 0,0:06:10.67,0:06:13.83,Caption-10,,0,0,0,,{\pos(524.8,136.8)}{\an7}Trends and Strategies
+Dialogue: 0,0:06:10.67,0:06:13.83,Caption-11,,0,0,0,,{\pos(780.8,223.2)}{\an7}Math
+Dialogue: 0,0:06:10.67,0:06:13.83,Caption,,0,0,0,,{\pos(678.4,295.2)}{\an7}Categorical Answer book
+Dialogue: 0,0:07:32.88,0:07:40.21,Caption-6,,0,0,0,,{\pos(1024,122.4)}{\an7}Yell
+Dialogue: 0,0:07:32.88,0:07:40.21,Caption-6,,0,0,0,,{\pos(755.2,180)}{\an7}Yell
+Dialogue: 0,0:07:32.88,0:07:40.21,Caption-6,,0,0,0,,{\pos(102.4,230.4)}{\an7}Yell
+Dialogue: 0,0:08:02.63,0:08:04.42,Caption-6,,0,0,0,,{\pos(998.4,410.4)}{\an7}Whoa
+Dialogue: 0,0:08:29.17,0:08:31.75,Caption-12,,0,0,0,,{\pos(1100.8,194.4)}{\an7}DIE
+Dialogue: 0,0:08:29.17,0:08:31.75,Caption-12,,0,0,0,,{\pos(371.2,367.2)}{\an7}AKUMA
+Dialogue: 0,0:08:29.17,0:08:31.75,Caption-12,,0,0,0,,{\pos(806.4,417.6)}{\an7}GET OUT
+Dialogue: 0,0:08:29.17,0:08:31.75,Caption-12,,0,0,0,,{\pos(896,468)}{\an7}GO AWAY
+Dialogue: 0,0:08:58.92,0:09:00.13,Caption-13,,0,0,0,,{\pos(755.2,453.6)}{\an7}Pant
+Dialogue: 0,0:09:01.54,0:09:04.42,Caption-14,,0,0,0,,{\pos(179.2,223.2)}{\an7}Pant
+Dialogue: 0,0:09:01.54,0:09:04.42,Caption-14,,0,0,0,,{\pos(960,360)}{\an7}Pant
+Dialogue: 0,0:09:04.50,0:09:07.54,Caption-15,,0,0,0,,{\pos(294.4,230.4)}{\an7}Gasp
+Dialogue: 0,0:09:07.67,0:09:10.17,Caption-14,,0,0,0,,{\pos(896,129.6)}{\an7}Smile
+Dialogue: 0,0:09:27.00,0:09:34.79,Caption-14,,0,0,0,,{\pos(320,180)}{\an7}Menacing
+Dialogue: 0,0:10:22.42,0:10:27.92,Caption-16,,0,0,0,,{\pos(921.6,79.2)}{\an7}Ba-dump
+Dialogue: 0,0:10:54.13,0:10:59.00,Caption-8,,0,0,0,,{\pos(499.2,468)}{\an7}oooooo
+Dialogue: 0,0:11:30.88,0:11:34.17,Caption-7,,0,0,0,,{\pos(1024,72)}{\an7}Panic
+Dialogue: 0,0:11:37.83,0:11:38.67,Caption-7,,0,0,0,,{\pos(140.8,216)}{\an7}Gag...
+Dialogue: 0,0:12:27.29,0:12:27.88,Caption-7,,0,0,0,,{\pos(192,129.6)}{\an7}SPLOOSH
+Dialogue: 0,0:12:27.29,0:12:27.88,Caption-17,,0,0,0,,{\pos(371.2,417.6)}{\an7}Pant
+Dialogue: 0,0:12:27.88,0:12:29.17,Caption-7,,0,0,0,,{\pos(192,129.6)}{\an7}SPLOOSH
+Dialogue: 0,0:12:29.17,0:12:29.71,Caption-7,,0,0,0,,{\pos(192,129.6)}{\an7}SPLOOSH
+Dialogue: 0,0:12:29.17,0:12:29.71,Caption-17,,0,0,0,,{\pos(371.2,417.6)}{\an7}Pant
+Dialogue: 0,0:12:59.54,0:13:03.92,Caption-9,,0,0,0,,{\pos(204.8,237.6)}{\an7}Weak
+Dialogue: 0,0:13:20.58,0:13:21.92,Caption-6,,0,0,0,,{\pos(192,338.4)}{\an7}Squish
+Dialogue: 0,0:13:51.17,0:13:51.83,Caption-6,,0,0,0,,{\pos(204.8,259.2)}{\an7}Thump
+Dialogue: 0,0:13:51.83,0:13:57.00,Caption-14,,0,0,0,,{\pos(768,57.6)}{\an7}Thump     Thump
+Dialogue: 0,0:14:54.58,0:14:58.25,Caption-14,,0,0,0,,{\pos(1011.2,79.2)}{\an7}Whaaaaaa
+Dialogue: 0,0:15:52.33,0:15:58.83,Caption-18,,0,0,0,,{\pos(204.8,79.2)}{\an7}Anatomical Kiss Chart
+Dialogue: 0,0:15:52.33,0:15:58.83,Caption-7,,0,0,0,,{\pos(1088,129.6)}{\an7}min
+Dialogue: 0,0:15:52.34,0:15:58.83,Caption-7,,0,0,0,,{\pos(1088,208.8)}{\an7}sec
+Dialogue: 0,0:15:52.34,0:15:58.83,Caption-7,,0,0,0,,{\pos(1100.8,302.4)}{\an7}min
+Dialogue: 0,0:15:52.34,0:15:58.83,Caption-7,,0,0,0,,{\pos(1100.8,410.4)}{\an7}min
+Dialogue: 0,0:15:52.34,0:15:58.83,Caption-7,,0,0,0,,{\pos(1100.8,504)}{\an7}min
+Dialogue: 0,0:16:08.67,0:16:12.96,Caption-19,,0,0,0,,{\pos(972.8,72)}{\an7}Dangerous
+Dialogue: 0,0:16:08.67,0:16:12.96,Caption-19,,0,0,0,,{\pos(473.6,122.4)}{\an7}Takuma-kun's
+Dialogue: 0,0:16:08.67,0:16:12.96,Caption-19,,0,0,0,,{\pos(460.8,172.8)}{\an7}Mental Scenery
+Dialogue: 0,0:16:08.67,0:16:12.96,Caption-19,,0,0,0,,{\pos(563.2,316.8)}{\an7}Study study
+Dialogue: 0,0:16:08.67,0:16:12.96,Caption-19,,0,0,0,,{\pos(243.2,367.2)}{\an7}Emergency
+Dialogue: 0,0:16:08.67,0:16:12.96,Caption-19,,0,0,0,,{\pos(742.4,496.8)}{\an7}Gotta study
+Dialogue: 0,0:16:15.08,0:16:16.46,Caption-6,,0,0,0,,{\pos(448,417.6)}{\an7}Commence review!!
+Dialogue: 0,0:18:29.50,0:18:32.42,Caption-21,,0,0,0,,{\pos(947.2,410.4)}{\an7}Sixth Valkyrie
+Dialogue: 0,0:18:29.50,0:18:32.42,Caption-21,,0,0,0,,{\pos(960,475.2)}{\an7}"Helmwige"
+Dialogue: 0,0:18:29.50,0:18:32.42,Caption-21,,0,0,0,,{\pos(972.8,554.4)}{\an7}Wing Lv. 6
+Dialogue: 0,0:23:36.92,0:23:40.92,Caption-22,,0,0,0,,{\pos(793.6,568.8)}{\an7}Next time: The Serving Maiden

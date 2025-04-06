@@ -1,0 +1,389 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Song,Swis721 BT,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption,Arial,40,&H0055509A,&H0055509A,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-2,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-3,Arial,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-4,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle-2,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-5,Arial,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-6,Cambria,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.83,0:00:06.92,Song,,0,0,0,,Mada dare mo mita koto nai
+Dialogue: 0,0:00:06.92,0:00:09.79,Song,,0,0,0,,Yume no naka de
+Dialogue: 0,0:00:09.79,0:00:17.75,Song,,0,0,0,,Sagashita amai negai, kyou mo
+Dialogue: 0,0:00:20.75,0:00:26.13,Song,,0,0,0,,Kizuite to, watashi no naka kara
+Dialogue: 0,0:00:26.13,0:00:31.00,Song,,0,0,0,,Dare ka ga kimi e to sakebu yo
+Dialogue: 0,0:00:32.63,0:00:37.83,Song,,0,0,0,,Mitsumeau, modokashii kyori ni
+Dialogue: 0,0:00:37.83,0:00:41.08,Song,,0,0,0,,Abaredashita samishisa
+Dialogue: 0,0:00:41.08,0:00:44.04,Song,,0,0,0,,Kamishimeru hitori
+Dialogue: 0,0:00:44.04,0:00:48.96,Song,,0,0,0,,Suki toiu omoi o
+Dialogue: 0,0:00:50.13,0:00:54.08,Song,,0,0,0,,Iitai demo ienai
+Dialogue: 0,0:00:54.08,0:01:00.83,Song,,0,0,0,,Itsumo soba ni kimi ga iru no ni
+Dialogue: 0,0:01:01.13,0:01:06.17,Song,,0,0,0,,Mada dare mo mita koto nai
+Dialogue: 0,0:01:06.17,0:01:09.21,Song,,0,0,0,,Yume no naka de
+Dialogue: 0,0:01:09.21,0:01:13.04,Song,,0,0,0,,Tomoshita tsuyoi omoi
+Dialogue: 0,0:01:13.04,0:01:19.46,Song,,0,0,0,,Mayowanai mayoitaku wa nai kara
+Dialogue: 0,0:01:19.46,0:01:24.42,Song,,0,0,0,,Shinjite ima, ippo fumidasou
+Dialogue: 0,0:01:24.79,0:01:28.88,Song,,0,0,0,,For the sake of myself
+Dialogue: 0,0:01:43.75,0:01:45.21,Subtitle,,0,0,0,,Big Sister Shino...
+Dialogue: 0,0:01:52.13,0:01:55.50,Subtitle,,0,0,0,,Their many walls of defense are easily penetrated...
+Dialogue: 0,0:01:55.50,0:01:58.50,Subtitle,,0,0,0,,This is exactly what is expected\Nof Odin's number one spear.
+Dialogue: 0,0:01:58.50,0:01:59.75,Subtitle,,0,0,0,,And yet...
+Dialogue: 0,0:02:05.04,0:02:06.83,Subtitle,,0,0,0,,Her power is...
+Dialogue: 0,0:02:07.08,0:02:08.96,Subtitle,,0,0,0,,You are an eyesore, Einheijer!
+Dialogue: 0,0:02:18.71,0:02:20.08,Subtitle,,0,0,0,,What are you doing?
+Dialogue: 0,0:02:20.08,0:02:22.33,Subtitle,,0,0,0,,Are you not going to protect Einheijer?
+Dialogue: 0,0:02:22.33,0:02:25.17,Subtitle,,0,0,0,,Why must I do something like that?
+Dialogue: 0,0:02:25.50,0:02:27.00,Subtitle,,0,0,0,,I am the spear.
+Dialogue: 0,0:02:27.79,0:02:30.33,Subtitle,,0,0,0,,I am only meant to gouge the life from you.
+Dialogue: 0,0:02:31.33,0:02:33.88,Subtitle,,0,0,0,,So it turned out to be instant love, eh?
+Dialogue: 0,0:02:34.04,0:02:35.13,Subtitle,,0,0,0,,Roskva.
+Dialogue: 0,0:02:35.13,0:02:35.79,Subtitle,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:02:41.75,0:02:45.58,Subtitle,,0,0,0,,In that case, don't hesitate to come crush Us!
+Dialogue: 0,0:02:47.63,0:02:51.21,Subtitle,,0,0,0,,If I don't keep coming back unashamedly\Nwhen I've yet to destroy you,
+Dialogue: 0,0:02:51.21,0:02:55.21,Subtitle,,0,0,0,,I couldn't bear to face that weakling\Nwho's finally shown he's a man in some way.
+Dialogue: 0,0:02:55.58,0:02:57.71,Subtitle,,0,0,0,,You should have noticed this.
+Dialogue: 0,0:02:57.92,0:03:00.42,Subtitle,,0,0,0,,As for my beloved sisters,
+Dialogue: 0,0:03:00.42,0:03:03.58,Subtitle,,0,0,0,,they are connected and understood\Nthrough the red string of fate.
+Dialogue: 0,0:03:04.00,0:03:05.71,Subtitle,,0,0,0,,The restraints have been lifted...
+Dialogue: 0,0:03:06.21,0:03:08.17,Subtitle,,0,0,0,,it's time for the counterattack!
+Dialogue: 0,0:03:12.58,0:03:14.29,Subtitle,,0,0,0,,Takuma!
+Dialogue: 0,0:03:22.33,0:03:24.00,Subtitle,,0,0,0,,Natsuki-san!
+Dialogue: 0,0:03:25.83,0:03:27.25,Subtitle,,0,0,0,,Takuma!
+Dialogue: 0,0:03:37.08,0:03:39.25,Subtitle,,0,0,0,,Kiss with Lover, confirmed.
+Dialogue: 0,0:03:39.92,0:03:42.58,Subtitle,,0,0,0,,Sacred Blade third form constraints, released.
+Dialogue: 0,0:03:43.33,0:03:45.08,Subtitle,,0,0,0,,Siegrune invoked.
+Dialogue: 0,0:03:50.83,0:03:52.25,Subtitle,,0,0,0,,All of you, return!
+Dialogue: 0,0:03:52.25,0:03:55.75,Subtitle,,0,0,0,,You will guard Roskva and Us with your souls!
+Dialogue: 0,0:03:57.58,0:03:59.79,Subtitle,,0,0,0,,Do you think I'll let you go?
+Dialogue: 0,0:04:00.00,0:04:01.75,Subtitle,,0,0,0,,No, no, no!
+Dialogue: 0,0:04:01.75,0:04:03.17,Subtitle,,0,0,0,,At this rate...
+Dialogue: 0,0:04:03.29,0:04:04.50,Subtitle,,0,0,0,,Our Lady...
+Dialogue: 0,0:04:04.88,0:04:06.92,Subtitle,,0,0,0,,Please, tell me your decision.
+Dialogue: 0,0:04:08.75,0:04:11.38,Subtitle,,0,0,0,,No! That is one thing we must not do!
+Dialogue: 0,0:04:15.50,0:04:16.42,Subtitle,,0,0,0,,Our Lady!
+Dialogue: 0,0:04:22.58,0:04:23.92,Subtitle,,0,0,0,,Understood.
+Dialogue: 0,0:04:27.21,0:04:29.17,Subtitle,,0,0,0,,The akuma disappeared.
+Dialogue: 0,0:04:31.50,0:04:35.33,Subtitle,,0,0,0,,O, Rune. Please grant us your power.
+Dialogue: 0,0:04:40.54,0:04:42.88,Subtitle,,0,0,0,,Unleash the maximum Sacred Blade!
+Dialogue: 0,0:04:47.00,0:04:49.08,Subtitle,,0,0,0,,Takuma, get behind us!
+Dialogue: 0,0:04:49.08,0:04:51.75,Subtitle,,0,0,0,,I wanted this settled before it got to this point...
+Dialogue: 0,0:04:51.75,0:04:53.25,Subtitle,,0,0,0,,What's going on?
+Dialogue: 0,0:04:53.88,0:04:55.00,Subtitle,,0,0,0,,It's coming...
+Dialogue: 0,0:04:56.46,0:04:57.79,Subtitle,,0,0,0,,the galdr!
+Dialogue: 0,0:04:58.58,0:05:02.38,Subtitle,,0,0,0,,O, Rune; Please lay waste to our enemies.
+Dialogue: 0,0:05:02.75,0:05:06.63,Subtitle,,0,0,0,,O, Rune; Please grant us this victory.
+Dialogue: 0,0:05:14.00,0:05:16.29,Subtitle,,0,0,0,,There is no need to take note.
+Dialogue: 0,0:05:16.29,0:05:18.04,Subtitle,,0,0,0,,Etch this into your minds.
+Dialogue: 0,0:05:18.38,0:05:25.96,Subtitle,,0,0,0,,All living creatures who gaze upon this form\Nwill be slaughtered, down to its very soul.
+Dialogue: 0,0:05:26.63,0:05:29.50,Subtitle,,0,0,0,,Roskva, how are you doing?
+Dialogue: 0,0:05:29.63,0:05:32.08,Subtitle,,0,0,0,,There are no problems here, Our Lady.
+Dialogue: 0,0:05:32.08,0:05:34.58,Subtitle,,0,0,0,,Please use as much power as you see fit.
+Dialogue: 0,0:05:36.00,0:05:38.38,Subtitle,,0,0,0,,Takuma! Under no circumstances\Nmust you leave this space!
+Dialogue: 0,0:05:38.38,0:05:39.25,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:05:51.38,0:05:54.42,Subtitle,,0,0,0,,This is a very firm wall... But,
+Dialogue: 0,0:05:54.42,0:05:56.17,Subtitle,,0,0,0,,not too much for the Captain's spear!
+Dialogue: 0,0:05:59.04,0:06:00.04,Subtitle,,0,0,0,,Great!
+Dialogue: 0,0:06:02.79,0:06:03.63,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:06:03.63,0:06:04.63,Subtitle,,0,0,0,,Valkyrie...
+Dialogue: 0,0:06:04.92,0:06:06.33,Subtitle,,0,0,0,,Einheijer...
+Dialogue: 0,0:06:06.67,0:06:07.92,Subtitle,,0,0,0,,castle wall...
+Dialogue: 0,0:06:08.38,0:06:09.54,Subtitle,,0,0,0,,barrier.
+Dialogue: 0,0:06:10.00,0:06:12.29,Subtitle,,0,0,0,,You're all such a nuisance.
+Dialogue: 0,0:06:16.38,0:06:17.21,Subtitle,,0,0,0,,Hagar.
+Dialogue: 0,0:06:29.13,0:06:31.71,Subtitle,,0,0,0,,I'm sorry, everyone...
+Dialogue: 0,0:06:31.92,0:06:33.04,Subtitle,,0,0,0,,Master...
+Dialogue: 0,0:06:46.79,0:06:48.29,Subtitle,,0,0,0,,Am I alive?
+Dialogue: 0,0:06:52.50,0:06:53.71,Subtitle,,0,0,0,,Takuma...
+Dialogue: 0,0:06:57.79,0:06:59.54,Subtitle,,0,0,0,,Listen, Takuma-chan.
+Dialogue: 0,0:07:00.00,0:07:02.25,Subtitle,,0,0,0,,The Norn is eager for this battle.
+Dialogue: 0,0:07:02.25,0:07:06.33,Subtitle,,0,0,0,,She'll set up a surprise attack,\Nthen immediately come and assail us,
+Dialogue: 0,0:07:06.67,0:07:08.88,Subtitle,,0,0,0,,and I can't be sure why,
+Dialogue: 0,0:07:09.17,0:07:12.67,Subtitle,,0,0,0,,but if we can just get through it\Na chance for victory will surely arise!
+Dialogue: 0,0:07:16.08,0:07:18.46,Subtitle,,0,0,0,,That's much easier said than done...
+Dialogue: 0,0:07:19.21,0:07:21.50,Subtitle,,0,0,0,,What's going on? Are they hurt?
+Dialogue: 0,0:07:21.79,0:07:24.04,Subtitle,,0,0,0,,Was Shino's barrier broken?!
+Dialogue: 0,0:07:24.63,0:07:26.04,Subtitle,,0,0,0,,All of you, get away!
+Dialogue: 0,0:07:28.71,0:07:30.25,Subtitle,,0,0,0,,Huh? What happened?
+Dialogue: 0,0:07:37.46,0:07:39.42,Subtitle,,0,0,0,,A soul-devouring akuma?!
+Dialogue: 0,0:07:39.42,0:07:40.29,Subtitle,,0,0,0,,This is bad!
+Dialogue: 0,0:07:45.67,0:07:46.75,Subtitle,,0,0,0,,Hagar.
+Dialogue: 0,0:08:05.92,0:08:07.08,Subtitle,,0,0,0,,Our Lady...
+Dialogue: 0,0:08:07.29,0:08:08.29,Subtitle,,0,0,0,,Takuma!
+Dialogue: 0,0:08:08.83,0:08:13.88,Subtitle,,0,0,0,,I will protect everyone with my soul!
+Dialogue: 0,0:08:20.42,0:08:21.75,Subtitle,,0,0,0,,Takuma-chan...
+Dialogue: 0,0:08:39.50,0:08:40.71,Subtitle,,0,0,0,,Our Lady...
+Dialogue: 0,0:08:41.38,0:08:44.29,Subtitle,,0,0,0,,You truly are too kind.
+Dialogue: 0,0:08:45.04,0:08:50.25,Subtitle,,0,0,0,,But it's precisely due to that I am here.
+Dialogue: 0,0:08:51.08,0:08:52.38,Subtitle,,0,0,0,,Please,
+Dialogue: 0,0:08:52.75,0:08:56.71,Subtitle,,0,0,0,,I beg you, stay well, Our Lady.
+Dialogue: 0,0:09:09.92,0:09:12.67,Subtitle,,0,0,0,,The Norn's transformation... broke?!
+Dialogue: 0,0:09:15.67,0:09:22.46,Subtitle,,0,0,0,,We thought they were being hasty in battle,\Nbut Snorri was the reason for that, huh?
+Dialogue: 0,0:09:27.46,0:09:29.33,Subtitle,,0,0,0,,Don't hurt Roskva!
+Dialogue: 0,0:09:32.96,0:09:36.04,Subtitle,,0,0,0,,My father's orders were to avoid killing\Nas best as I could.
+Dialogue: 0,0:09:36.38,0:09:39.79,Subtitle,,0,0,0,,However, it's already past that point.
+Dialogue: 0,0:09:45.67,0:09:47.92,Subtitle,,0,0,0,,You... your eye!
+Dialogue: 0,0:09:56.08,0:09:57.38,Subtitle,,0,0,0,,Shino...
+Dialogue: 0,0:10:00.25,0:10:02.08,Subtitle,,0,0,0,,Takuma! Stay with me!
+Dialogue: 0,0:10:05.29,0:10:07.58,Subtitle,,0,0,0,,He pushed his ability too far.
+Dialogue: 0,0:10:07.58,0:10:09.54,Subtitle,,0,0,0,,His soul is worn down.
+Dialogue: 0,0:10:09.83,0:10:12.83,Subtitle,,0,0,0,,He continued using his ability\Nuntil he was coughing up blood.
+Dialogue: 0,0:10:14.38,0:10:15.88,Subtitle,,0,0,0,,Hey! Is everyone safe?!
+Dialogue: 0,0:10:15.88,0:10:17.04,Subtitle,,0,0,0,,Hurry!
+Dialogue: 0,0:10:17.58,0:10:20.79,Subtitle,,0,0,0,,We're too noticeable here, so we'll carry him home.
+Dialogue: 0,0:10:20.79,0:10:22.08,Subtitle,,0,0,0,,O-okay.
+Dialogue: 0,0:10:24.88,0:10:26.08,Subtitle,,0,0,0,,Oh no!
+Dialogue: 0,0:10:27.58,0:10:29.88,Subtitle,,0,0,0,,How did you fair, Our Lady?
+Dialogue: 0,0:10:30.17,0:10:33.46,Subtitle,,0,0,0,,I am sorry. I missed my shot at Einheijer.
+Dialogue: 0,0:10:33.46,0:10:37.83,Subtitle,,0,0,0,,Once Roskva showed signs of illness,\Nso we're retreating at once.
+Dialogue: 0,0:10:38.25,0:10:41.08,Subtitle,,0,0,0,,However, the minimum duty has been fulfilled.
+Dialogue: 0,0:10:41.08,0:10:42.63,Subtitle,,0,0,0,,There are no complaints, are there?!
+Dialogue: 0,0:10:42.63,0:10:44.63,Subtitle,,0,0,0,,Of course not, Our Lady.
+Dialogue: 0,0:10:44.63,0:10:47.42,Subtitle,,0,0,0,,Thanks to you drawing the attention of the Valkyrie,
+Dialogue: 0,0:10:47.42,0:10:51.13,Subtitle,,0,0,0,,and destroying the barrier\Nand the castle surrounding them
+Dialogue: 0,0:10:51.96,0:10:54.50,Subtitle,,0,0,0,,we have gained control of the situation.
+Dialogue: 0,0:10:58.50,0:11:01.33,Subtitle,,0,0,0,,This is an unbelievable number\Nfor the run-of-the-mill dwarf.
+Dialogue: 0,0:11:01.58,0:11:05.21,Subtitle,,0,0,0,,There are as many as hundreds of millions\Nof aether crystallizations.
+Dialogue: 0,0:11:05.21,0:11:07.75,Subtitle,,0,0,0,,This is undoubtedly the work of misteltein.
+Dialogue: 0,0:11:11.50,0:11:14.58,Subtitle,,0,0,0,,Hey, I can't break this cocoon.
+Dialogue: 0,0:11:14.88,0:11:16.88,Subtitle,,0,0,0,,The thread, huh?
+Dialogue: 0,0:11:17.38,0:11:19.38,Subtitle,,0,0,0,,Our target has been captured.
+Dialogue: 0,0:11:19.75,0:11:22.79,Subtitle,,0,0,0,,We are getting out of here right away, Garm.
+Dialogue: 0,0:11:23.13,0:11:26.04,Subtitle,,0,0,0,,When the spear and the castle get here\Nit will be a nuisance.
+Dialogue: 0,0:11:28.71,0:11:30.71,Subtitle,,0,0,0,,You're ordering me to "stay" again?!
+Dialogue: 0,0:11:30.83,0:11:34.88,Subtitle,,0,0,0,,You... Give back the misteltein!
+Dialogue: 0,0:11:40.88,0:11:44.38,Subtitle,,0,0,0,,Well. I guess it's okay if I have one of these, right?
+Dialogue: 0,0:11:45.79,0:11:48.38,Subtitle,,0,0,0,,That was delicious!
+Dialogue: 0,0:11:52.25,0:11:54.38,Subtitle,,0,0,0,,Big Sister Misa!
+Dialogue: 0,0:12:01.83,0:12:03.67,Subtitle,,0,0,0,,Are you awake, Futaba?
+Dialogue: 0,0:12:05.42,0:12:08.63,Subtitle,,0,0,0,,Is everyone... Is everyone okay?
+Dialogue: 0,0:12:09.71,0:12:12.13,Subtitle,,0,0,0,,Misa took the Fang head on.
+Dialogue: 0,0:12:13.25,0:12:15.42,Subtitle,,0,0,0,,That would normally result in instant death, but...
+Dialogue: 0,0:12:15.42,0:12:17.71,Subtitle,,0,0,0,,of course that's not the case for my little sister.
+Dialogue: 0,0:12:17.71,0:12:21.54,Subtitle,,0,0,0,,The threads that she had set up throughout her body\Ninstantly stitched her wounds back up.
+Dialogue: 0,0:12:21.54,0:12:24.50,Subtitle,,0,0,0,,Right now, Lover is working on healing her.
+Dialogue: 0,0:12:24.50,0:12:26.50,Subtitle,,0,0,0,,Her body is back to normal.
+Dialogue: 0,0:12:27.00,0:12:29.25,Subtitle,,0,0,0,,But the problem is...
+Dialogue: 0,0:12:29.58,0:12:32.08,Subtitle,,0,0,0,,Sister! Wake up, Big Sister Misa!
+Dialogue: 0,0:12:32.08,0:12:33.79,Subtitle,,0,0,0,,She's stopped bleeding, so why...
+Dialogue: 0,0:12:33.79,0:12:34.88,Subtitle,,0,0,0,,Big Sister Misa!
+Dialogue: 0,0:12:35.13,0:12:41.96,Subtitle,,0,0,0,,When I healed Natsuki-san and Ichika-san, there was\Na sense that I was touching both body and soul.
+Dialogue: 0,0:12:42.25,0:12:46.88,Subtitle,,0,0,0,,But...right now, I can only feel Misa-san's body.
+Dialogue: 0,0:12:47.21,0:12:51.79,Subtitle,,0,0,0,,There's no soul left inside of Misa-san.
+Dialogue: 0,0:12:52.29,0:12:53.83,Subtitle,,0,0,0,,It can't be true...
+Dialogue: 0,0:12:58.83,0:13:02.63,Subtitle,,0,0,0,,Did I actually... die?
+Dialogue: 0,0:13:03.42,0:13:04.88,Subtitle,,0,0,0,,I'm freezing.
+Dialogue: 0,0:13:04.88,0:13:07.71,Subtitle,,0,0,0,,This is the darkness of\Nthe furthest reaches of the aether.
+Dialogue: 0,0:13:07.71,0:13:09.96,Subtitle,,0,0,0,,Is this what they call Niflheim?
+Dialogue: 0,0:13:16.58,0:13:18.71,Subtitle,,0,0,0,,My soul is being dragged in.
+Dialogue: 0,0:13:19.38,0:13:22.63,Subtitle,,0,0,0,,Is this where my battle ends, then?
+Dialogue: 0,0:13:23.46,0:13:25.79,Subtitle,,0,0,0,,My little sisters are probably crying.
+Dialogue: 0,0:13:25.79,0:13:28.96,Subtitle,,0,0,0,,But my big sisters may be\Nthe ones crying the most...
+Dialogue: 0,0:13:28.96,0:13:31.42,Subtitle,,0,0,0,,They're both fairly sensitive.
+Dialogue: 0,0:13:32.79,0:13:35.00,Subtitle,,0,0,0,,I guess I won't see the others again...
+Dialogue: 0,0:13:35.96,0:13:37.29,Subtitle,,0,0,0,,Big Sister Misa!
+Dialogue: 0,0:13:39.71,0:13:40.92,Subtitle,,0,0,0,,Someone...
+Dialogue: 0,0:13:41.38,0:13:42.58,Subtitle,,0,0,0,,help me!
+Dialogue: 0,0:13:49.96,0:13:51.08,Subtitle,,0,0,0,,Takuma!
+Dialogue: 0,0:13:51.38,0:13:53.00,Subtitle,,0,0,0,,You transformed!
+Dialogue: 0,0:13:53.00,0:13:55.92,Subtitle,,0,0,0,,Wait... Did you die too?
+Dialogue: 0,0:13:55.92,0:13:57.29,Subtitle,,0,0,0,,I'll explain later!
+Dialogue: 0,0:14:01.58,0:14:04.29,Subtitle,,0,0,0,,He's really saving Misa's soul?
+Dialogue: 0,0:14:04.29,0:14:07.21,Subtitle,,0,0,0,,If it doesn't go well, he loses his too.
+Dialogue: 0,0:14:07.46,0:14:10.21,Subtitle,,0,0,0,,It's okay. I'm sure he can do it.
+Dialogue: 0,0:14:12.25,0:14:14.83,Subtitle,,0,0,0,,Do you know the way out of here?
+Dialogue: 0,0:14:14.83,0:14:16.67,Subtitle,,0,0,0,,I've got this!
+Dialogue: 0,0:14:17.42,0:14:19.08,Subtitle,,0,0,0,,Wait... wait...
+Dialogue: 0,0:14:22.42,0:14:23.75,Subtitle,,0,0,0,,This is strange.
+Dialogue: 0,0:14:24.29,0:14:28.00,Subtitle,,0,0,0,,Mom died, and I was afraid of everything,
+Dialogue: 0,0:14:28.38,0:14:31.83,Subtitle,,0,0,0,,so I've spent the past few years\Nonly staring at them in my hands.
+Dialogue: 0,0:14:32.21,0:14:34.08,Subtitle,,0,0,0,,And now in these few months,
+Dialogue: 0,0:14:34.67,0:14:37.50,Subtitle,,0,0,0,,it's become a light that illuminates the darkness.
+Dialogue: 0,0:14:42.71,0:14:46.08,Subtitle,,0,0,0,,He was exhausted after combat\Nwith the Norn, wasn't he?
+Dialogue: 0,0:14:53.50,0:14:55.13,Subtitle,,0,0,0,,Leave me behind.
+Dialogue: 0,0:14:55.71,0:14:58.42,Subtitle,,0,0,0,,You'll get trapped here too at this rate.
+Dialogue: 0,0:14:58.42,0:15:00.79,Subtitle,,0,0,0,,I can't kill Einheijer.
+Dialogue: 0,0:15:02.13,0:15:05.46,Subtitle,,0,0,0,,Yeah... Ichika-san said that too.
+Dialogue: 0,0:15:06.13,0:15:09.25,Subtitle,,0,0,0,,I can't fight directly.
+Dialogue: 0,0:15:09.46,0:15:12.63,Subtitle,,0,0,0,,The least I can do is make every effort\Nto support you all in the background.
+Dialogue: 0,0:15:12.63,0:15:16.00,Subtitle,,0,0,0,,And that's exactly why I will become a strong man.
+Dialogue: 0,0:15:16.00,0:15:19.13,Subtitle,,0,0,0,,I never want you to see me looking so pathetic again.
+Dialogue: 0,0:15:19.13,0:15:22.54,Subtitle,,0,0,0,,I've said goodbye from my old self.
+Dialogue: 0,0:15:24.00,0:15:28.63,Subtitle,,0,0,0,,A man that can be relied on\Nand put everyone at ease...
+Dialogue: 0,0:15:28.83,0:15:32.46,Subtitle,,0,0,0,,I will become a man worthy of you all!
+Dialogue: 0,0:15:34.29,0:15:36.13,Subtitle,,0,0,0,,Takuma's body...
+Dialogue: 0,0:15:36.92,0:15:38.58,Subtitle,,0,0,0,,it's so warm.
+Dialogue: 0,0:15:40.58,0:15:42.71,Subtitle,,0,0,0,,Is this love?
+Dialogue: 0,0:15:44.54,0:15:47.38,Subtitle,,0,0,0,,It's not an emotion I understand well, but...
+Dialogue: 0,0:15:47.38,0:15:49.71,Subtitle,,0,0,0,,this warmth might be it.
+Dialogue: 0,0:15:58.13,0:15:59.38,Subtitle,,0,0,0,,Takuma.
+Dialogue: 0,0:16:03.58,0:16:04.54,Subtitle,,0,0,0,,Takuma.
+Dialogue: 0,0:16:05.42,0:16:07.25,Subtitle,,0,0,0,,Natsuki-san?
+Dialogue: 0,0:16:21.71,0:16:22.67,Subtitle,,0,0,0,,B...
+Dialogue: 0,0:16:23.21,0:16:25.83,Subtitle,,0,0,0,,Big Sis Misa!
+Dialogue: 0,0:16:26.13,0:16:29.21,Subtitle,,0,0,0,,Guys... This hurts. I'm gonna die.
+Dialogue: 0,0:16:30.00,0:16:32.50,Subtitle,,0,0,0,,I'm sorry, Big Sister Misa.
+Dialogue: 0,0:16:32.50,0:16:33.67,Subtitle,,0,0,0,,Sorry!
+Dialogue: 0,0:16:33.67,0:16:34.96,Subtitle,,0,0,0,,Thank goodness, thank goodness!
+Dialogue: 0,0:16:34.96,0:16:36.54,Subtitle-2,,0,0,0,,Oh dear.\N{\rSubtitle}Thank goodness, thank goodness!{\r}
+Dialogue: 0,0:16:36.54,0:16:38.25,Subtitle,,0,0,0,,Misa!
+Dialogue: 0,0:16:40.58,0:16:43.42,Subtitle,,0,0,0,,Sorry, Big Sister Ichika, Big Sister Futaba...
+Dialogue: 0,0:16:43.42,0:16:46.25,Subtitle,,0,0,0,,I couldn't protect the misteltein.
+Dialogue: 0,0:16:47.08,0:16:48.71,Subtitle,,0,0,0,,You did what you could!
+Dialogue: 0,0:16:48.71,0:16:51.67,Subtitle,,0,0,0,,More importantly,\Nthank you for protecting everyone.
+Dialogue: 0,0:16:51.67,0:16:53.96,Subtitle,,0,0,0,,She's right, Misa!
+Dialogue: 0,0:16:59.71,0:17:01.54,Subtitle,,0,0,0,,Thanks, everyone.
+Dialogue: 0,0:17:01.54,0:17:03.42,Subtitle,,0,0,0,,Thanks, Takuma.
+Dialogue: 0,0:17:05.88,0:17:07.54,Subtitle,,0,0,0,,Er, uh...
+Dialogue: 0,0:17:10.42,0:17:14.38,Subtitle,,0,0,0,,Well, what do you think, Big Sister Ichika?
+Dialogue: 0,0:17:15.29,0:17:16.75,Subtitle,,0,0,0,,Are you referring to Lover?
+Dialogue: 0,0:17:16.75,0:17:21.92,Subtitle,,0,0,0,,Yes. He opened the door to Niflheim\Nand brought back a soul...
+Dialogue: 0,0:17:21.92,0:17:25.00,Subtitle,,0,0,0,,I think he's already beyond just healing territory.
+Dialogue: 0,0:17:25.00,0:17:29.42,Subtitle,,0,0,0,,It was a mystery as to why Father had\Nchosen that guy as Einheijer, but...
+Dialogue: 0,0:17:29.96,0:17:32.21,Subtitle-2,,0,0,0,,You were really great, Takuma!\N{\rSubtitle}The summer day that Takuma-chan{\r}\N{\rSubtitle}saved Natsuki-chan...{\r}
+Dialogue: 0,0:17:32.21,0:17:33.38,Subtitle-2,,0,0,0,,I knew you could do it!\N{\rSubtitle}The summer day that Takuma-chan{\r}\N{\rSubtitle}saved Natsuki-chan...{\r}
+Dialogue: 0,0:17:33.38,0:17:35.13,Subtitle-2,,0,0,0,,U-uh, really? I didn't know if I could.\N{\rSubtitle}no, the day Takuma-chan's mother{\r}\N{\rSubtitle}died eight years ago,{\r}
+Dialogue: 0,0:17:35.13,0:17:37.25,Subtitle-2,,0,0,0,,You were worried, right?\N{\rSubtitle}no, the day Takuma-chan's mother{\r}\N{\rSubtitle}died eight years ago,{\r}
+Dialogue: 0,0:17:37.25,0:17:38.13,Subtitle-2,,0,0,0,,Yeah, but I'm glad it went well.\N{\rSubtitle}no, the day Takuma-chan's mother{\r}\N{\rSubtitle}died eight years ago,{\r}
+Dialogue: 0,0:17:38.13,0:17:38.79,Subtitle-2,,0,0,0,,Yeah, but I'm glad it went well.\N{\rSubtitle}his fate was probably already decided.{\r}
+Dialogue: 0,0:17:38.79,0:17:40.25,Subtitle,,0,0,0,,his fate was probably already decided.
+Dialogue: 0,0:17:40.25,0:17:41.54,Subtitle-2,,0,0,0,,So, do you want something to eat?\N{\rSubtitle}his fate was probably already decided.{\r}
+Dialogue: 0,0:17:41.54,0:17:42.13,Subtitle-2,,0,0,0,,So, do you want something to eat?
+Dialogue: 0,0:17:42.79,0:17:44.58,Subtitle,,0,0,0,,Right, Shino-chan?
+Dialogue: 0,0:17:46.83,0:17:48.17,Subtitle,,0,0,0,,Big Sister Shino!
+Dialogue: 0,0:17:48.17,0:17:50.21,Subtitle,,0,0,0,,Big Sister... Shino?
+Dialogue: 0,0:17:50.54,0:17:52.96,Subtitle,,0,0,0,,It's a pleasure to meet you, Master.
+Dialogue: 0,0:17:53.38,0:17:58.29,Subtitle,,0,0,0,,I'm the fourth of the nine Valkyrie sisters,\NShino Waltraute.
+Dialogue: 0,0:17:59.25,0:18:01.83,Subtitle,,0,0,0,,I hope we will get along from today forward.
+Dialogue: 0,0:18:02.29,0:18:03.92,Subtitle,,0,0,0,,Why are you here?
+Dialogue: 0,0:18:03.92,0:18:06.33,Subtitle,,0,0,0,,Is it okay for you to leave the storehouse?
+Dialogue: 0,0:18:06.63,0:18:09.29,Subtitle,,0,0,0,,I'm sorry, my dear sister.
+Dialogue: 0,0:18:09.29,0:18:14.75,Subtitle,,0,0,0,,I'm concerned for your well-being,\Nbut we need your strength now, Shino.
+Dialogue: 0,0:18:15.79,0:18:19.38,Subtitle,,0,0,0,,We need the power of "Waltraute,"\Nthe strongest Valkyrie.
+Dialogue: 0,0:18:21.96,0:18:23.38,Subtitle,,0,0,0,,Shino-san...
+Dialogue: 0,0:18:27.17,0:18:28.79,Subtitle,,0,0,0,,Where was she...
+Dialogue: 0,0:18:31.92,0:18:34.04,Subtitle,,0,0,0,,I'm sorry!
+Dialogue: 0,0:18:34.04,0:18:35.29,Subtitle,,0,0,0,,Yamada!
+Dialogue: 0,0:18:35.58,0:18:37.42,Subtitle,,0,0,0,,Are you okay, Takuma?
+Dialogue: 0,0:18:37.42,0:18:39.13,Subtitle,,0,0,0,,I-I'll be fine.
+Dialogue: 0,0:18:41.00,0:18:44.96,Subtitle,,0,0,0,,Recently, the symptoms of my\Nfear of people have hardly shown up,
+Dialogue: 0,0:18:44.96,0:18:48.96,Subtitle,,0,0,0,,so I was able to solve\Nall of the problems in every subject.
+Dialogue: 0,0:18:49.67,0:18:51.50,Subtitle,,0,0,0,,It's thanks to all of them.
+Dialogue: 0,0:18:51.83,0:18:54.83,Subtitle,,0,0,0,,I want to escape from being the lowest\Nranking student and getting the booby prize...
+Dialogue: 0,0:18:54.83,0:18:58.42,Subtitle,,0,0,0,,No, I pray I can get into the top 300 in our grade!
+Dialogue: 0,0:18:58.63,0:19:00.54,Subtitle,,0,0,0,,Takuma-kun! Natsuki-chan!
+Dialogue: 0,0:19:00.54,0:19:02.29,Subtitle,,0,0,0,,Come look at this!
+Dialogue: 0,0:19:02.54,0:19:03.50,Subtitle,,0,0,0,,It's Akuma!
+Dialogue: 0,0:19:03.50,0:19:05.17,Subtitle,,0,0,0,,We're gonna die! Run!
+Dialogue: 0,0:19:06.58,0:19:08.88,Subtitle,,0,0,0,,That was my promise.
+Dialogue: 0,0:19:09.71,0:19:12.54,Subtitle,,0,0,0,,The dearly held promise I made to my mother,
+Dialogue: 0,0:19:15.83,0:19:17.96,Subtitle,,0,0,0,,etched into my memories.
+Dialogue: 0,0:19:20.29,0:19:21.96,Subtitle,,0,0,0,,You did it!
+Dialogue: 0,0:19:22.17,0:19:23.71,Subtitle,,0,0,0,,This is amazing, Takuma!
+Dialogue: 0,0:19:23.71,0:19:26.08,Subtitle,,0,0,0,,And just as your symptoms have gone away!
+Dialogue: 0,0:19:26.08,0:19:27.33,Subtitle,,0,0,0,,Er...
+Dialogue: 0,0:19:28.58,0:19:30.88,Subtitle,,0,0,0,,Well done, Takuma-san!
+Dialogue: 0,0:19:30.88,0:19:35.46,Subtitle,,0,0,0,,As student council president, please allow me to\Nbestow upon you the highest of compliments!
+Dialogue: 0,0:19:35.63,0:19:37.00,Subtitle,,0,0,0,,Oh my, President!
+Dialogue: 0,0:19:37.00,0:19:38.13,Subtitle,,0,0,0,,You have done...
+Dialogue: 0,0:19:38.13,0:19:39.46,Subtitle,,0,0,0,,JUST LOVELY!
+Dialogue: 0,0:19:39.67,0:19:42.21,Subtitle,,0,0,0,,It's so amazing that you're\Nthe top student, Takuma-kun.
+Dialogue: 0,0:19:42.21,0:19:44.88,Subtitle,,0,0,0,,No... There must be some mistake.
+Dialogue: 0,0:19:45.21,0:19:46.83,Subtitle,,0,0,0,,No, there wasn't.
+Dialogue: 0,0:19:46.83,0:19:49.00,Subtitle,,0,0,0,,We've been watching you the entire time.
+Dialogue: 0,0:19:49.00,0:19:51.75,Subtitle,,0,0,0,,We know how hard you worked to get there.
+Dialogue: 0,0:19:52.00,0:19:55.00,Subtitle,,0,0,0,,You were at your desk every night, without fail.
+Dialogue: 0,0:19:55.00,0:19:57.00,Subtitle,,0,0,0,,Yeah, it's true.
+Dialogue: 0,0:19:57.00,0:19:58.63,Subtitle,,0,0,0,,It is indeed!
+Dialogue: 0,0:19:58.92,0:20:03.08,Subtitle,,0,0,0,,You've finally fulfilled your promise\Nto your mother, huh?
+Dialogue: 0,0:20:05.92,0:20:07.54,Subtitle,,0,0,0,,Sorry, Mom.
+Dialogue: 0,0:20:07.54,0:20:10.25,Subtitle,,0,0,0,,I didn't do very well on the test today.
+Dialogue: 0,0:20:10.25,0:20:14.88,Subtitle,,0,0,0,,B-but, I'll ace the next one for sure, okay?
+Dialogue: 0,0:20:17.96,0:20:20.42,Subtitle,,0,0,0,,I'm looking forward to it, Takuma.
+Dialogue: 0,0:20:26.79,0:20:29.79,Subtitle,,0,0,0,,Sorry it took so long, Mom.
+Dialogue: 0,0:20:35.04,0:20:37.67,Subtitle,,0,0,0,,Let's get Big Sister Futaba to make us a feast.
+Dialogue: 0,0:20:37.67,0:20:38.71,Subtitle,,0,0,0,,Yeah!
+Dialogue: 0,0:20:38.92,0:20:41.63,Subtitle,,0,0,0,,To celebrate Big Sister Misa's recovery, too!
+Dialogue: 0,0:20:42.75,0:20:43.88,Subtitle,,0,0,0,,E-excuse me!
+Dialogue: 0,0:20:45.79,0:20:48.67,Subtitle,,0,0,0,,Takuma... You are unbelievable!
+Dialogue: 0,0:20:49.00,0:20:51.79,Subtitle,,0,0,0,,I love all of you!
+Dialogue: 0,0:20:52.13,0:20:53.00,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:20:53.79,0:20:55.21,Subtitle,,0,0,0,,Takuma-kun...
+Dialogue: 0,0:20:55.96,0:20:57.88,Subtitle,,0,0,0,,This is very sudden...
+Dialogue: 0,0:20:57.88,0:20:59.38,Subtitle,,0,0,0,,I-I'm sorry!
+Dialogue: 0,0:20:59.38,0:21:04.75,Subtitle,,0,0,0,,But... just once, I wanted to tell you\Nhow I feel using the proper words!
+Dialogue: 0,0:21:04.75,0:21:08.08,Subtitle,,0,0,0,,I need to say I love you all, as women!
+Dialogue: 0,0:21:08.42,0:21:11.83,Subtitle,,0,0,0,,Even if you do, you're really going to say that\Nout of the blue in a situation like this?!
+Dialogue: 0,0:21:11.83,0:21:12.67,Subtitle,,0,0,0,,Moron!
+Dialogue: 0,0:21:13.54,0:21:14.71,Subtitle,,0,0,0,,I'm sorry!
+Dialogue: 0,0:21:15.29,0:21:16.29,Subtitle,,0,0,0,,Disgraceful...
+Dialogue: 0,0:21:17.17,0:21:18.67,Subtitle,,0,0,0,,Takuma-kun...
+Dialogue: 0,0:21:19.46,0:21:21.67,Subtitle,,0,0,0,,He loves us?
+Dialogue: 0,0:21:22.54,0:21:24.33,Subtitle,,0,0,0,,I-I already knew that.
+Dialogue: 0,0:21:24.33,0:21:28.54,Subtitle,,0,0,0,,I knew that you love not only me,\Nbut all of my sisters.
+Dialogue: 0,0:21:28.54,0:21:32.42,Subtitle,,0,0,0,,I'm not so foolish as to take him seriously.
+Dialogue: 0,0:21:32.42,0:21:35.08,Subtitle,,0,0,0,,If anything, the competition starts here...
+Dialogue: 0,0:21:36.00,0:21:38.63,Subtitle,,0,0,0,,As for me, I love everyone.
+Dialogue: 0,0:21:38.63,0:21:41.17,Subtitle,,0,0,0,,And Itsuyo, and Mutsumi...
+Dialogue: 0,0:21:42.67,0:21:44.38,Subtitle,,0,0,0,,However, someday...
+Dialogue: 0,0:21:45.00,0:21:48.21,Subtitle,,0,0,0,,I hope he chooses only me.
+Dialogue: 0,0:21:50.71,0:21:57.46,Subtitle,,0,0,0,,The myths speak of goddesses known as Valkyrie,\Nin the Valhalla of Asgard.
+Dialogue: 0,0:21:58.75,0:22:02.33,Subtitle,,0,0,0,,These goddesses become stronger\Nas long as they are in love.
+Dialogue: 0,0:22:03.13,0:22:05.25,Subtitle,,0,0,0,,And that is because...
+Dialogue: 0,0:22:05.54,0:22:08.38,Subtitle,,0,0,0,,Love is the source of a maiden's power!
+Dialogue: 0,0:22:11.04,0:22:14.46,Song,,0,0,0,,Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
+Dialogue: 0,0:22:14.46,0:22:17.71,Song,,0,0,0,,Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
+Dialogue: 0,0:22:17.71,0:22:24.25,Song,,0,0,0,,Koi o shiranakucha you and I, hajimaranai no yo?
+Dialogue: 0,0:22:25.79,0:22:36.75,Song,,0,0,0,,Nine times out of love on cloud nine
+Dialogue: 0,0:22:36.75,0:22:38.75,Song,,0,0,0,,We wanna share your heart!
+Dialogue: 0,0:22:38.75,0:22:42.00,Song,,0,0,0,,(How do you tell me?)\NAmai kotoba o input
+Dialogue: 0,0:22:42.00,0:22:45.21,Song,,0,0,0,,Shippai - Cancel - Zenzen hibikanai kedo\N(Please don't be shy)
+Dialogue: 0,0:22:45.21,0:22:48.42,Song,,0,0,0,,(How to make dream)\NTouch shite todokete yo
+Dialogue: 0,0:22:48.42,0:22:52.83,Song,,0,0,0,,Seikou - Complete - Saisentan ga ii darou?\N(Hold me tight)
+Dialogue: 0,0:22:52.83,0:22:57.54,Song,,0,0,0,,Naze koi to itte kurenai no?
+Dialogue: 0,0:22:57.54,0:23:00.58,Song,,0,0,0,,Ai ni yukou
+Dialogue: 0,0:23:00.58,0:23:07.75,Song,,0,0,0,,Motto keiken shite level up otome gokoro
+Dialogue: 0,0:23:08.88,0:23:12.42,Song,,0,0,0,,Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
+Dialogue: 0,0:23:12.42,0:23:15.79,Song,,0,0,0,,Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
+Dialogue: 0,0:23:15.79,0:23:21.75,Song,,0,0,0,,Oshiete ageru wa, koi wa otome no power!\N(Love gave the power to Valkyrie)
+Dialogue: 0,0:23:21.75,0:23:25.29,Song,,0,0,0,,Jucchuuhakku kitto mou lovers!\N(Please, please up-date my love)
+Dialogue: 0,0:23:25.29,0:23:28.67,Song,,0,0,0,,Tokimeku mune dance, dance!\N(Please, please show your heart)
+Dialogue: 0,0:23:28.67,0:23:31.88,Song,,0,0,0,,Akuma de shy na mind, kiss for you!
+Dialogue: 0,0:23:31.88,0:23:35.08,Song,,0,0,0,,Kaete shimau yo na, kiss for me!
+Dialogue: 0,0:23:35.08,0:23:38.46,Song,,0,0,0,,Koi o hajimemasho!
+Dialogue: 0,0:03:37.33,0:03:38.21,Caption-2,,0,0,0,,{\pos(640,396)}Kiss with Lover
+Dialogue: 0,0:03:38.54,0:03:39.54,Caption-2,,0,0,0,,{\pos(640,396)}Confirmed
+Dialogue: 0,0:19:15.21,0:19:17.21,Caption-4,,0,0,0,,{\pos(640,432)}1 Takuma Akutsu
+Dialogue: 0,0:19:15.21,0:19:17.21,Caption-4,,0,0,0,,{\pos(640,511.2)}2 Itsuyo Saotome
+Dialogue: 0,0:19:17.21,0:19:20.21,Caption-4,,0,0,0,,{\pos(640,439.2)}1 Takuma Akutsu
+Dialogue: 0,0:03:16.17,0:03:17.17,Caption,,0,0,0,,{\pos(614.4,223.2)}{\an7}Danger
+Dialogue: 0,0:03:16.17,0:03:17.17,Caption,,0,0,0,,{\pos(640,367.2)}{\an7}Drop
+Dialogue: 0,0:03:45.08,0:03:46.96,Caption-2,,0,0,0,,{\pos(473.6,410.4)}{\an7}Siegrune
+Dialogue: 0,0:03:45.08,0:03:46.96,Caption-2,,0,0,0,,{\pos(371.2,496.8)}{\an7}Blade
+Dialogue: 0,0:14:29.79,0:14:31.83,Caption-3,,0,0,0,,{\pos(409.6,410.4)}{\an7}Complete Preparations in 30 days
+Dialogue: 0,0:14:29.79,0:14:31.83,Caption-3,,0,0,0,,{\pos(448,460.8)}{\an7}Common Questions on the Exam
+Dialogue: 0,0:16:30.46,0:16:34.96,Caption-4,,0,0,0,,{\pos(179.2,57.6)}{\an7}Sob
+Dialogue: 0,0:16:30.46,0:16:34.96,Caption-4,,0,0,0,,{\pos(1036.8,108)}{\an7}Sob
+Dialogue: 0,0:16:34.96,0:16:40.46,Caption-3,,0,0,0,,{\pos(704,43.2)}{\an7}Bounce
+Dialogue: 0,0:16:34.96,0:16:40.46,Caption-3,,0,0,0,,{\pos(908.8,93.6)}{\an7}Bounce
+Dialogue: 0,0:18:35.29,0:18:39.42,Caption-5,,0,0,0,,{\pos(204.8,381.6)}{\an7}Akuma...
+Dialogue: 0,0:18:49.67,0:18:51.50,Caption-6,,0,0,0,,{\pos(601.6,338.4)}{\an7}Academic
+Dialogue: 0,0:18:49.67,0:18:51.50,Caption-6,,0,0,0,,{\pos(576,388.8)}{\an7}Achievement
+Dialogue: 0,0:19:13.21,0:19:15.21,Caption-4,,0,0,0,,{\pos(844.8,331.2)}{\an7}Ta-
+Dialogue: 0,0:19:20.29,0:19:21.96,Caption-4,,0,0,0,,{\pos(243.2,57.6)}{\an7}Hug
+Dialogue: 0,0:19:27.46,0:19:28.46,Caption-4,,0,0,0,,{\pos(473.6,288)}{\an7}Student Council President
+Dialogue: 0,0:19:32.33,0:19:35.46,Caption-4,,0,0,0,,{\pos(921.6,72)}{\an7}Gleam
+Dialogue: 0,0:20:20.42,0:20:24.42,Caption-3,,0,0,0,,{\pos(665.6,72)}{\an7}Akutsu Family Tomb
