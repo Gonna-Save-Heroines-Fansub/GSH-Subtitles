@@ -16,13 +16,23 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
+[Aegisub Project Garbage]
+Audio File: ../../../../Fansubbing/[GSH]/[GSH] Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! (BD 1080p x264 Opus)/[GSH] Choyoyu! - 04 (BD 1080p x264 Opus) [E3080D04].mkv
+Video File: ../../../../Fansubbing/[GSH]/[GSH] Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! (BD 1080p x264 Opus)/[GSH] Choyoyu! - 04 (BD 1080p x264 Opus) [E3080D04].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 534
+Active Line: 542
+Video Position: 31885
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H0038061B,&HB4000000,-1,0,0,0,100,100,0,0,1,4.2,1.6,2,150,150,60,1
 Style: Dialogue Overlap,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00572338,&HB4000000,-1,0,0,0,100,100,0,0,1,4.2,1.5,2,150,150,53,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: OP TL,MADE Kenfolg,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,75,75,23,1
-Style: ED TL,Belleza,63,&H005D4335,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,6,0,8,50,50,25,1
+Style: EDv2 TL,Belleza,63,&H005D4335,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,6,0,9,50,50,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -567,30 +577,30 @@ Dialogue: 4,0:01:55.22,0:01:58.56,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Haide să 
 Dialogue: 5,0:01:55.22,0:01:58.56,OP TL,,0,0,0,,{\bord0\blur0.75}Haide să pornim o revoluție împreună! Start!
 Dialogue: 4,0:01:58.56,0:02:01.04,OP TL,,0,0,0,,{\c&H000000&\blur0.75\fad(0,200)}Ne descurcăm super bine, este atât de simplu!
 Dialogue: 5,0:01:58.56,0:02:01.04,OP TL,,0,0,0,,{\bord0\blur0.75\fad(0,200)}Ne descurcăm super bine, este atât de simplu!
-Comment: 0,0:22:08.00,0:22:08.04,ED TL,,0,0,0,,{ED first frame}
-Dialogue: 0,0:22:08.75,0:22:14.77,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Credeam că dacă voi petrece mai mult timp singură
-Dialogue: 1,0:22:08.75,0:22:14.77,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Credeam că dacă voi petrece mai mult timp singură
-Dialogue: 0,0:22:14.77,0:22:19.34,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Mă voi obișnui cu asta
-Dialogue: 1,0:22:14.77,0:22:19.34,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Mă voi obișnui cu asta
-Dialogue: 0,0:22:19.34,0:22:22.76,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Sunt așa o lașă
-Dialogue: 1,0:22:19.34,0:22:22.76,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Sunt așa o lașă
-Dialogue: 0,0:22:22.76,0:22:30.08,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Aveam o față inexpresivă ca să îmi ascund teama
-Dialogue: 1,0:22:22.76,0:22:30.08,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Aveam o față inexpresivă ca să îmi ascund teama
-Dialogue: 0,0:22:30.08,0:22:35.36,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Tot spun că nu trebuia să fie astfel,
-Dialogue: 1,0:22:30.08,0:22:35.36,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Tot spun că nu trebuia să fie astfel,
-Dialogue: 0,0:22:35.36,0:22:40.73,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Iar scuzele continuă să se adune
-Dialogue: 1,0:22:35.36,0:22:40.73,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Iar scuzele continuă să se adune
-Dialogue: 0,0:22:40.73,0:22:51.38,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Într-o bună zi, voi dispărea din amintirile tale
-Dialogue: 1,0:22:40.73,0:22:51.38,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Într-o bună zi, voi dispărea din amintirile tale
-Dialogue: 0,0:22:54.10,0:22:56.23,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Pentru încă câteva decenii
-Dialogue: 1,0:22:54.10,0:22:56.23,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Pentru încă câteva decenii
-Dialogue: 0,0:22:56.23,0:22:59.38,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Haide să adunăm lucrurile pe care le-am pierdut
-Dialogue: 1,0:22:56.23,0:22:59.38,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Haide să adunăm lucrurile pe care le-am pierdut
-Dialogue: 0,0:22:59.38,0:23:04.76,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Undeva în această călătorie lungă
-Dialogue: 1,0:22:59.38,0:23:04.76,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Undeva în această călătorie lungă
-Dialogue: 0,0:23:04.76,0:23:09.25,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Indiferent ce viitor mă așteaptă
-Dialogue: 1,0:23:04.76,0:23:09.25,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Indiferent ce viitor mă așteaptă
-Dialogue: 0,0:23:09.25,0:23:18.25,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Nu mă voi opri
-Dialogue: 1,0:23:09.25,0:23:18.25,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Nu mă voi opri
-Dialogue: 0,0:23:18.84,0:23:30.65,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Deoarece știu că ne vom reîntâlni
-Dialogue: 1,0:23:18.84,0:23:30.65,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Deoarece știu că ne vom reîntâlni
+Comment: 0,0:22:08.00,0:22:08.04,EDv2 TL,,0,0,0,,{ED first frame}
+Dialogue: 0,0:22:08.75,0:22:14.77,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Credeam că dacă voi petrece mai mult timp singură
+Dialogue: 1,0:22:08.75,0:22:14.77,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Credeam că dacă voi petrece mai mult timp singură
+Dialogue: 0,0:22:14.77,0:22:19.34,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Mă voi obișnui cu asta
+Dialogue: 1,0:22:14.77,0:22:19.34,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Mă voi obișnui cu asta
+Dialogue: 0,0:22:19.34,0:22:22.76,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Sunt așa o lașă
+Dialogue: 1,0:22:19.34,0:22:22.76,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Sunt așa o lașă
+Dialogue: 0,0:22:22.76,0:22:30.08,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Aveam o față inexpresivă ca să îmi ascund teama
+Dialogue: 1,0:22:22.76,0:22:30.08,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Aveam o față inexpresivă ca să îmi ascund teama
+Dialogue: 0,0:22:30.08,0:22:35.36,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Tot spun că nu trebuia să fie astfel,
+Dialogue: 1,0:22:30.08,0:22:35.36,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Tot spun că nu trebuia să fie astfel,
+Dialogue: 0,0:22:35.36,0:22:40.73,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Iar scuzele continuă să se adune
+Dialogue: 1,0:22:35.36,0:22:40.73,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Iar scuzele continuă să se adune
+Dialogue: 0,0:22:40.73,0:22:51.38,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Într-o bună zi, voi dispărea din amintirile tale
+Dialogue: 1,0:22:40.73,0:22:51.38,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Într-o bună zi, voi dispărea din amintirile tale
+Dialogue: 0,0:22:54.10,0:22:56.23,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Pentru încă câteva decenii
+Dialogue: 1,0:22:54.10,0:22:56.23,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Pentru încă câteva decenii
+Dialogue: 0,0:22:56.23,0:22:59.38,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Haide să adunăm lucrurile pe care le-am pierdut
+Dialogue: 1,0:22:56.23,0:22:59.38,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Haide să adunăm lucrurile pe care le-am pierdut
+Dialogue: 0,0:22:59.38,0:23:04.76,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Undeva în această călătorie lungă
+Dialogue: 1,0:22:59.38,0:23:04.76,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Undeva în această călătorie lungă
+Dialogue: 0,0:23:04.76,0:23:09.25,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Indiferent ce viitor mă așteaptă
+Dialogue: 1,0:23:04.76,0:23:09.25,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Indiferent ce viitor mă așteaptă
+Dialogue: 0,0:23:09.25,0:23:18.25,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Nu mă voi opri
+Dialogue: 1,0:23:09.25,0:23:18.25,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Nu mă voi opri
+Dialogue: 0,0:23:18.84,0:23:30.65,EDv2 TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Deoarece știu că ne vom reîntâlni
+Dialogue: 1,0:23:18.84,0:23:30.65,EDv2 TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Deoarece știu că ne vom reîntâlni
