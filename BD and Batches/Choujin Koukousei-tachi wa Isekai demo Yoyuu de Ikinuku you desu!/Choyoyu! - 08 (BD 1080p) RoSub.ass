@@ -7,17 +7,15 @@ PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+Title: Choyoyu! - 08
+Original Script: CR
+Original Translation: KazuyaShuu
+Original Editing: KazuyaShuu
+Original Timing: CR
+Synch Point: KazuyaShuu
+Script Updated By: KazuyaShuu
+Update Details: GSH
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../Anime/[NH] High School Prodigies Have It Easy Even In Another World (BD 1080p x264 10-bit AAC-FLAC) [Dual-Audio]/[NH] Choyoyu! - 08 (BD 1080p x264 10-bit AAC-FLAC) [2FC06E50].mkv
-Video File: ../../../../Anime/[NH] High School Prodigies Have It Easy Even In Another World (BD 1080p x264 10-bit AAC-FLAC) [Dual-Audio]/[NH] Choyoyu! - 08 (BD 1080p x264 10-bit AAC-FLAC) [2FC06E50].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 276
-Active Line: 281
-Video Position: 31037
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -319,8 +317,171 @@ Dialogue: 100,0:21:53.99,0:21:54.97,Dialogue,Bernard,0,0,0,,Tsukasa.
 Dialogue: 100,0:21:56.29,0:21:59.29,Dialogue,Bernard,0,0,0,,Prima echipă cu arme \Nmodernizate este pregătită.
 Dialogue: 100,0:21:59.84,0:22:02.46,Dialogue,Bernard,0,0,0,,Avem un total de 50 de oameni.
 Dialogue: 100,0:22:05.47,0:22:09.45,Dialogue,Tsukasa,0,0,0,,Atunci, haideți să lovim primii, \Ndupă cum cere tradiția.
-Dialogue: 0,0:02:41.51,0:02:46.85,DedzuyaSigns,,0,0,0,,{\an2\pos(457.5,855)\fnAmble\fs72\fsp0.75\b1\bord3.6\c&H000000&\1a&HFF&\blur0.75\fad(1000,500)\t(0,1000,\1a&H00&)\t(4840,0,\1a&HFF&)}Se pare că {\fnBaqacents SemiBold\fs81\b0\c&HFFFFFF&\3c&HFFFFFF&}abilitățile {\fnAmble\fs72\b1\c&H000000&\3c&H000000&}lui {\fnBaqacents SemiBold\fs81\b0\c&HFFFFFF&\3c&HFFFFFF&}Aoi {\fnAmble\fs72\b1}\N\h\h\h\h\h\h\h\h\h\h\h\h{\c&H000000&\3c&H000000&}sunt {\fnBaqacents SemiBold\fs81\b0\c&HFFFFFF&\3c&HFFFFFF&}mai mari decât ne imaginam!
-Dialogue: 1,0:02:41.51,0:02:46.85,DedzuyaSigns,,0,0,0,,{\an2\pos(457.5,855)\fnAmble\fs72\fsp0.75\b1\blur0.75\fad(1000,500)}Se pare că {\fnBaqacents SemiBold\fs81\b0\c&H6D00E5&}abilitățile {\fnAmble\fs72\b1\c&HFFFFFF&}lui {\fnBaqacents SemiBold\fs81\b0\c&H6D00E5&}Aoi {\fnAmble\fs72\b1}\N\h\h\h\h\h\h\h\h\h\h\h\h{\c&HFFFFFF&}sunt {\fnBaqacents SemiBold\fs81\b0\c&H7FA716&}mai mari {\c&H0095F3&}decât ne imaginam{\c&H1BC48F&}!
+Dialogue: 0,0:11:15.99,0:11:16.04,DedzuyaSigns,,0,0,0,,{\an2\pos(1591.89,207.015)\fscx97.91\fscy97.91\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.04,0:11:16.08,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.01,206.91)\fscx97.96\fscy97.96\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.08,0:11:16.12,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.13,206.82)\fscx98\fscy98\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.12,0:11:16.16,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.235,206.73)\fscx98.04\fscy98.04\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.16,0:11:16.20,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.355,206.64)\fscx98.08\fscy98.08\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.20,0:11:16.24,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.475,206.55)\fscx98.13\fscy98.13\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.24,0:11:16.29,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.565,206.46)\fscx98.17\fscy98.17\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.29,0:11:16.33,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.67,206.385)\fscx98.21\fscy98.21\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.33,0:11:16.37,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.775,206.295)\fscx98.25\fscy98.25\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.37,0:11:16.41,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.925,206.19)\fscx98.3\fscy98.3\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.41,0:11:16.45,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.06,206.085)\fscx98.34\fscy98.34\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.45,0:11:16.49,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.18,205.995)\fscx98.4\fscy98.4\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.49,0:11:16.54,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.285,205.905)\fscx98.43\fscy98.43\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.54,0:11:16.58,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.39,205.815)\fscx98.48\fscy98.48\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.58,0:11:16.62,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.525,205.71)\fscx98.52\fscy98.52\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.62,0:11:16.66,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.66,205.605)\fscx98.57\fscy98.57\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.66,0:11:16.70,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.78,205.485)\fscx98.62\fscy98.62\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.70,0:11:16.75,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.915,205.395)\fscx98.66\fscy98.66\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.75,0:11:16.79,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.02,205.305)\fscx98.7\fscy98.7\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.79,0:11:16.83,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.14,205.215)\fscx98.75\fscy98.75\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.83,0:11:16.87,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.23,205.125)\fscx98.79\fscy98.79\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.87,0:11:16.91,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.365,205.02)\fscx98.84\fscy98.84\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.91,0:11:16.95,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.5,204.93)\fscx98.88\fscy98.88\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:16.95,0:11:17.00,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.59,204.855)\fscx98.92\fscy98.92\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.00,0:11:17.04,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.68,204.78)\fscx98.96\fscy98.96\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.04,0:11:17.08,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.815,204.66)\fscx99.01\fscy99.01\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.08,0:11:17.12,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.89,204.6)\fscx99.05\fscy99.05\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.12,0:11:17.16,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.025,204.495)\fscx99.09\fscy99.09\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.16,0:11:17.20,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.16,204.39)\fscx99.14\fscy99.14\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.20,0:11:17.25,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.28,204.285)\fscx99.19\fscy99.19\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.25,0:11:17.29,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.415,204.18)\fscx99.23\fscy99.23\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.29,0:11:17.33,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.535,204.075)\fscx99.28\fscy99.28\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.33,0:11:17.37,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.655,203.985)\fscx99.32\fscy99.32\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.37,0:11:17.41,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.775,203.895)\fscx99.37\fscy99.37\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.41,0:11:17.45,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.895,203.805)\fscx99.41\fscy99.41\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.45,0:11:17.50,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.015,203.7)\fscx99.46\fscy99.46\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.50,0:11:17.54,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.135,203.61)\fscx99.5\fscy99.5\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.54,0:11:17.58,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.24,203.505)\fscx99.55\fscy99.55\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.58,0:11:17.62,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.36,203.415)\fscx99.59\fscy99.59\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.62,0:11:17.66,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.48,203.31)\fscx99.64\fscy99.64\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.66,0:11:17.70,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.615,203.205)\fscx99.69\fscy99.69\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.70,0:11:17.75,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.735,203.115)\fscx99.73\fscy99.73\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.75,0:11:17.79,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.855,203.01)\fscx99.78\fscy99.78\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.79,0:11:17.83,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.005,202.89)\fscx99.82\fscy99.82\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.83,0:11:17.87,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.08,202.83)\fscx99.86\fscy99.86\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.87,0:11:17.91,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.23,202.71)\fscx99.91\fscy99.91\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.91,0:11:17.95,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.365,202.605)\fscx99.95\fscy99.95\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:11:17.95,0:11:18.00,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.5,202.5)\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 1,0:11:15.99,0:11:16.04,DedzuyaSigns,,0,0,0,,{\an2\pos(1591.89,207.015)\fscx97.91\fscy97.91\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.04,0:11:16.08,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.01,206.91)\fscx97.96\fscy97.96\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.08,0:11:16.12,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.13,206.82)\fscx98\fscy98\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.12,0:11:16.16,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.235,206.73)\fscx98.04\fscy98.04\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.16,0:11:16.20,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.355,206.64)\fscx98.08\fscy98.08\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.20,0:11:16.24,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.475,206.55)\fscx98.13\fscy98.13\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.24,0:11:16.29,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.565,206.46)\fscx98.17\fscy98.17\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.29,0:11:16.33,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.67,206.385)\fscx98.21\fscy98.21\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.33,0:11:16.37,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.775,206.295)\fscx98.25\fscy98.25\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.37,0:11:16.41,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.925,206.19)\fscx98.3\fscy98.3\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.41,0:11:16.45,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.06,206.085)\fscx98.34\fscy98.34\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.45,0:11:16.49,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.18,205.995)\fscx98.4\fscy98.4\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.49,0:11:16.54,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.285,205.905)\fscx98.43\fscy98.43\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.54,0:11:16.58,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.39,205.815)\fscx98.48\fscy98.48\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.58,0:11:16.62,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.525,205.71)\fscx98.52\fscy98.52\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.62,0:11:16.66,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.66,205.605)\fscx98.57\fscy98.57\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.66,0:11:16.70,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.78,205.485)\fscx98.62\fscy98.62\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.70,0:11:16.75,DedzuyaSigns,,0,0,0,,{\an2\pos(1593.915,205.395)\fscx98.66\fscy98.66\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.75,0:11:16.79,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.02,205.305)\fscx98.7\fscy98.7\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.79,0:11:16.83,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.14,205.215)\fscx98.75\fscy98.75\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.83,0:11:16.87,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.23,205.125)\fscx98.79\fscy98.79\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.87,0:11:16.91,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.365,205.02)\fscx98.84\fscy98.84\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.91,0:11:16.95,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.5,204.93)\fscx98.88\fscy98.88\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:16.95,0:11:17.00,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.59,204.855)\fscx98.92\fscy98.92\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.00,0:11:17.04,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.68,204.78)\fscx98.96\fscy98.96\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.04,0:11:17.08,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.815,204.66)\fscx99.01\fscy99.01\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.08,0:11:17.12,DedzuyaSigns,,0,0,0,,{\an2\pos(1594.89,204.6)\fscx99.05\fscy99.05\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.12,0:11:17.16,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.025,204.495)\fscx99.09\fscy99.09\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.16,0:11:17.20,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.16,204.39)\fscx99.14\fscy99.14\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.20,0:11:17.25,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.28,204.285)\fscx99.19\fscy99.19\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.25,0:11:17.29,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.415,204.18)\fscx99.23\fscy99.23\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.29,0:11:17.33,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.535,204.075)\fscx99.28\fscy99.28\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.33,0:11:17.37,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.655,203.985)\fscx99.32\fscy99.32\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.37,0:11:17.41,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.775,203.895)\fscx99.37\fscy99.37\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.41,0:11:17.45,DedzuyaSigns,,0,0,0,,{\an2\pos(1595.895,203.805)\fscx99.41\fscy99.41\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.45,0:11:17.50,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.015,203.7)\fscx99.46\fscy99.46\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.50,0:11:17.54,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.135,203.61)\fscx99.5\fscy99.5\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.54,0:11:17.58,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.24,203.505)\fscx99.55\fscy99.55\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.58,0:11:17.62,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.36,203.415)\fscx99.59\fscy99.59\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.62,0:11:17.66,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.48,203.31)\fscx99.64\fscy99.64\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.66,0:11:17.70,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.615,203.205)\fscx99.69\fscy99.69\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.70,0:11:17.75,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.735,203.115)\fscx99.73\fscy99.73\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.75,0:11:17.79,DedzuyaSigns,,0,0,0,,{\an2\pos(1596.855,203.01)\fscx99.78\fscy99.78\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.79,0:11:17.83,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.005,202.89)\fscx99.82\fscy99.82\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.83,0:11:17.87,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.08,202.83)\fscx99.86\fscy99.86\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.87,0:11:17.91,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.23,202.71)\fscx99.91\fscy99.91\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.91,0:11:17.95,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.365,202.605)\fscx99.95\fscy99.95\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 1,0:11:17.95,0:11:18.00,DedzuyaSigns,,0,0,0,,{\an2\pos(1597.5,202.5)\fnMADE Kenfolg\fs42\b1\c&HC58350&\blur0.9}Geniile de liceu {\c&H110E13&}au o {\c&H0080FF&}viață ușoară \N{\c&H79A01D&}chiar și {\c&H110E13&}într-o {\c&H6709F3&}altă lume{\c&H1CCE7E&}!
+Dialogue: 0,0:01:26.90,0:01:26.94,DedzuyaSigns,,0,0,0,,{\an2\pos(1258.905,173.58)\fscx97.19\fscy97.19\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H25&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:26.94,0:01:26.98,DedzuyaSigns,,0,0,0,,{\an2\pos(1259.235,173.16)\fscx97.3\fscy97.3\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H69&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:26.98,0:01:27.02,DedzuyaSigns,,0,0,0,,{\an2\pos(1259.565,172.755)\fscx97.41\fscy97.41\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HAC&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.02,0:01:27.06,DedzuyaSigns,,0,0,0,,{\an2\pos(1259.85,172.395)\fscx97.5\fscy97.5\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HF0&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.06,0:01:27.11,DedzuyaSigns,,0,0,0,,{\an2\pos(1260.12,172.065)\fscx97.6\fscy97.6\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HEB&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.11,0:01:27.15,DedzuyaSigns,,0,0,0,,{\an2\pos(1260.42,171.705)\fscx97.69\fscy97.69\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HE2&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.15,0:01:27.19,DedzuyaSigns,,0,0,0,,{\an2\pos(1260.675,171.375)\fscx97.77\fscy97.77\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HD5&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.19,0:01:27.23,DedzuyaSigns,,0,0,0,,{\an2\pos(1260.915,171.09)\fscx97.85\fscy97.85\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HC7&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.23,0:01:27.27,DedzuyaSigns,,0,0,0,,{\an2\pos(1261.14,170.805)\fscx97.93\fscy97.93\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HB7&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.27,0:01:27.31,DedzuyaSigns,,0,0,0,,{\an2\pos(1261.35,170.535)\fscx98\fscy98\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&HA5&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.32,0:01:27.36,DedzuyaSigns,,0,0,0,,{\an2\pos(1261.575,170.265)\fscx98.07\fscy98.07\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H91&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.36,0:01:27.40,DedzuyaSigns,,0,0,0,,{\an2\pos(1263.465,168.42)\fscx98.68\fscy98.68\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H7C&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.40,0:01:27.44,DedzuyaSigns,,0,0,0,,{\an2\pos(1273.365,156.57)\fscx101.88\fscy101.88\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H66&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.44,0:01:27.48,DedzuyaSigns,,0,0,0,,{\an2\pos(1279.185,149.475)\fscx103.77\fscy103.77\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H4E&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.48,0:01:27.53,DedzuyaSigns,,0,0,0,,{\an2\pos(1268.955,162.06)\fscx100.44\fscy100.44\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H35&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.53,0:01:27.57,DedzuyaSigns,,0,0,0,,{\an2\pos(1266.195,165.45)\fscx99.55\fscy99.55\fnMADE Kenfolg\fs84\b1\c&HBE8350&\alpha&H1B&\blur1\be5}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.57,0:01:27.61,DedzuyaSigns,,0,0,0,,{\an2\pos(1287.945,138.84)\fscx106.62\fscy106.62\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be5}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.61,0:01:27.65,DedzuyaSigns,,0,0,0,,{\an2\pos(1300.365,123.69)\fscx110.65\fscy110.65\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be5}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.65,0:01:27.69,DedzuyaSigns,,0,0,0,,{\an2\pos(1277.91,151.05)\fscx103.37\fscy103.37\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be5}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.69,0:01:27.73,DedzuyaSigns,,0,0,0,,{\an2\pos(1264.155,167.91)\fscx98.9\fscy98.9\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.73,0:01:27.78,DedzuyaSigns,,0,0,0,,{\an2\pos(1270.995,159.57)\fscx101.11\fscy101.11\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.78,0:01:27.82,DedzuyaSigns,,0,0,0,,{\an2\pos(1275,154.65)\fscx102.42\fscy102.42\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.82,0:01:27.86,DedzuyaSigns,,0,0,0,,{\an2\pos(1268.385,162.765)\fscx100.27\fscy100.27\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.86,0:01:27.90,DedzuyaSigns,,0,0,0,,{\an2\pos(1263.645,168.57)\fscx98.72\fscy98.72\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.90,0:01:27.94,DedzuyaSigns,,0,0,0,,{\an2\pos(1263.765,168.42)\fscx98.76\fscy98.76\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.94,0:01:27.98,DedzuyaSigns,,0,0,0,,{\an2\pos(1263.885,168.27)\fscx98.8\fscy98.8\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:27.98,0:01:28.03,DedzuyaSigns,,0,0,0,,{\an2\pos(1264.05,168.075)\fscx98.86\fscy98.86\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.03,0:01:28.07,DedzuyaSigns,,0,0,0,,{\an2\pos(1264.215,167.865)\fscx98.91\fscy98.91\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.07,0:01:28.11,DedzuyaSigns,,0,0,0,,{\an2\pos(1264.395,167.64)\fscx98.97\fscy98.97\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.11,0:01:28.15,DedzuyaSigns,,0,0,0,,{\an2\pos(1269.285,161.67)\fscx100.56\fscy100.56\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.15,0:01:28.19,DedzuyaSigns,,0,0,0,,{\an2\pos(1291.125,134.91)\fscx107.67\fscy107.67\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.19,0:01:28.23,DedzuyaSigns,,0,0,0,,{\an2\pos(1303.635,119.64)\fscx111.72\fscy111.72\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.23,0:01:28.28,DedzuyaSigns,,0,0,0,,{\an2\pos(1280.58,147.825)\fscx104.23\fscy104.23\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.28,0:01:28.32,DedzuyaSigns,,0,0,0,,{\an2\pos(1273.2,156.885)\fscx101.83\fscy101.83\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.32,0:01:28.36,DedzuyaSigns,,0,0,0,,{\an2\pos(1312.17,109.185)\fscx114.5\fscy114.5\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.36,0:01:28.40,DedzuyaSigns,,0,0,0,,{\an2\pos(1336.065,79.89)\fscx122.29\fscy122.29\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.40,0:01:28.44,DedzuyaSigns,,0,0,0,,{\an2\pos(1292.355,133.38)\fscx108.07\fscy108.07\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.44,0:01:28.49,DedzuyaSigns,,0,0,0,,{\an2\pos(1268.7,162.36)\fscx100.37\fscy100.37\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.49,0:01:28.53,DedzuyaSigns,,0,0,0,,{\an2\pos(1282.8,145.11)\fscx104.95\fscy104.95\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.53,0:01:28.57,DedzuyaSigns,,0,0,0,,{\an2\pos(1290.75,135.36)\fscx107.53\fscy107.53\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.57,0:01:28.61,DedzuyaSigns,,0,0,0,,{\an2\pos(1276.155,153.225)\fscx102.79\fscy102.79\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be8}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.61,0:01:28.65,DedzuyaSigns,,0,0,0,,{\an2\pos(1266.36,165.225)\fscx99.62\fscy99.62\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.65,0:01:28.69,DedzuyaSigns,,0,0,0,,{\an2\pos(1266.66,164.865)\fscx99.73\fscy99.73\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.69,0:01:28.74,DedzuyaSigns,,0,0,0,,{\an2\pos(1267.005,164.43)\fscx99.86\fscy99.86\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.74,0:01:28.78,DedzuyaSigns,,0,0,0,,{\an2\pos(1267.35,164.025)\fscx99.99\fscy99.99\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.78,0:01:28.82,DedzuyaSigns,,0,0,0,,{\an2\pos(1279.17,149.4)\fscx103.79\fscy103.79\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be12}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.82,0:01:28.86,DedzuyaSigns,,0,0,0,,{\an2\pos(1348.56,64.29)\fscx126.58\fscy126.58\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be12}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.86,0:01:28.90,DedzuyaSigns,,0,0,0,,{\an2\pos(1396.47,5.37)\fscx142.38\fscy142.38\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be12}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.90,0:01:28.94,DedzuyaSigns,,0,0,0,,{\an2\pos(1310.04,111.06)\fscx114.46\fscy114.46\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be12}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:28.94,0:01:28.99,DedzuyaSigns,,0,0,0,,{\an2\pos(1290.27,135.105)\fscx108.24\fscy108.24\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be12}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:29.07,0:01:29.11,DedzuyaSigns,,0,0,0,,{\an2\pos(1386.54,17.175)\fscx139.08\fscy139.08\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be12}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:29.11,0:01:29.15,DedzuyaSigns,,0,0,0,,{\an2\pos(1318.125,101.25)\fscx116.65\fscy116.65\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be12}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:29.15,0:01:29.19,DedzuyaSigns,,0,0,0,,{\an2\pos(1290.885,134.655)\fscx107.73\fscy107.73\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be11}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:29.19,0:01:29.24,DedzuyaSigns,,0,0,0,,{\an2\pos(1277.49,151.14)\fscx103.33\fscy103.33\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be6}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:29.24,0:01:29.28,DedzuyaSigns,,0,0,0,,{\an2\pos(1270.065,160.245)\fscx100.91\fscy100.91\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1\be3}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:29.28,0:01:29.32,DedzuyaSigns,,0,0,0,,{\an2\pos(1266.69,164.37)\fscx99.81\fscy99.81\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:01:29.32,0:01:29.36,DedzuyaSigns,,0,0,0,,{\an2\pos(1265.88,165.375)\fscx99.55\fscy99.55\fnMADE Kenfolg\fs84\b1\c&HBE8350&\blur1}Geniile de liceu {\c&H110E13&}au o {\c&H027FFC&}viață ușoară \N{\c&H678A1A&}chiar și {\c&H110E13&}într-o {\c&H5C08EA&}altă lume{\c&H1CBD78&}!
+Dialogue: 0,0:02:34.22,0:02:34.26,DedzuyaSigns,,0,0,0,,{\an2\pos(1254.6,145.035)\fscx104.67\fscy104.67\fnMADE Kenfolg\fs81\b1\bord4.2\c&HFFFEFC&\3c&HFFFEFC&\blur3}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:02:34.26,0:02:34.30,DedzuyaSigns,,0,0,0,,{\an2\pos(1239.6,162.075)\fscx100.45\fscy100.45\fnMADE Kenfolg\fs81\b1\bord4.2\c&HFFFEFC&\3c&HFFFEFC&\blur1.5}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:02:34.30,0:02:34.34,DedzuyaSigns,,0,0,0,,{\an2\pos(1237.365,167.265)\fscx100.43\fscy100.43\fnMADE Kenfolg\fs81\b1\bord4.2\c&HFFFEFC&\3c&HFFFEFC&\blur1.5}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:02:34.34,0:02:34.38,DedzuyaSigns,,0,0,0,,{\an2\pos(1232.715,164.13)\fscx99.39\fscy99.39\fnMADE Kenfolg\fs81\b1\bord4.2\c&HFFFEFC&\3c&HFFFEFC&\blur1.5}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 0,0:02:34.38,0:02:36.01,DedzuyaSigns,,0,0,0,,{\an2\pos(1235.88,165.375)\fnMADE Kenfolg\fs81\b1\bord4.2\c&HFFFEFC&\3c&HFFFEFC&\blur0.9}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
+Dialogue: 1,0:02:34.22,0:02:34.26,DedzuyaSigns,,0,0,0,,{\an2\pos(1254.6,145.035)\fscx104.67\fscy104.67\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur4.5}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
+Dialogue: 1,0:02:34.26,0:02:34.30,DedzuyaSigns,,0,0,0,,{\an2\pos(1239.6,162.075)\fscx100.45\fscy100.45\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur1.5}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
+Dialogue: 1,0:02:34.30,0:02:34.34,DedzuyaSigns,,0,0,0,,{\an2\pos(1237.365,167.265)\fscx100.43\fscy100.43\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur1.5}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
+Dialogue: 1,0:02:34.34,0:02:34.38,DedzuyaSigns,,0,0,0,,{\an2\pos(1232.715,164.13)\fscx99.39\fscy99.39\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur1.5}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
+Dialogue: 1,0:02:34.38,0:02:36.01,DedzuyaSigns,,0,0,0,,{\an2\pos(1235.88,165.375)\fnMADE Kenfolg\fs81\b1\c&HC68451&\alpha&H20&\blur1.05}Geniile de liceu {\c&H191518&}au o {\c&H007DFD&}viață ușoară \N{\c&H75982A&}chiar și {\c&H191518&}într-o {\c&H651CF8&}altă lume{\c&H1CC77D&}!
+Dialogue: 0,0:02:41.51,0:02:46.85,DedzuyaSigns,,0,0,0,,{\an3\pos(935,860)\fnAmble\fs72\fsp0.75\b1\bord3.4\c&H000000&\1a&HFF&\blur0.6\fad(1000,500)\t(0,1000,\1a&H00&)\t(4840,0,\1a&HFF&)}Se pare că {\fnBaqacents SemiBold\fs81\b0\c&HFFFFFF&\3c&HFFFFFF&}abilitățile {\fnAmble\fs72\b1\c&H000000&\3c&H000000&}lui {\fnBaqacents SemiBold\fs81\b0\c&HFFFFFF&\3c&HFFFFFF&}Aoi {\fnAmble\fs72\b1\c&H000000&\3c&H000000&}sunt \N{\fnBaqacents SemiBold\fs81\b0\c&HFFFFFF&\3c&HFFFFFF&}mai mari decât ne imaginam!
+Dialogue: 1,0:02:41.51,0:02:46.85,DedzuyaSigns,,0,0,0,,{\an3\pos(935,860)\fnAmble\fs72\fsp0.75\b1\blur0.6\fad(1000,500)}Se pare că {\fnBaqacents SemiBold\fs81\b0\c&H6D00E5&}abilitățile {\fnAmble\fs72\b1\c&HFFFFFF&}lui {\fnBaqacents SemiBold\fs81\b0\c&H6D00E5&}Aoi {\fnAmble\fs72\b1\c&HFFFFFF&}sunt \N{\fnBaqacents SemiBold\fs81\b0\c&H7FA716&}mai mari {\c&H0095F3&}decât ne imaginam{\c&H1BC48F&}!
 Dialogue: 0,0:04:16.65,0:04:16.69,DedzuyaSigns,,0,0,0,,{=4=18}{\an8\pos(907.06,349.1)\org(909.49,370)\fscx55.06\fscy55.74\frz19.01\fry2.754\frx-1.489\fax0.118\fnLato\c&HF8F1EF&\alpha&H80&\blur5}Ohoshi Ringo
 Dialogue: 0,0:04:16.69,0:04:16.73,DedzuyaSigns,,0,0,0,,{=4=18}{\an8\pos(907.01,348.9)\org(909.44,369.82)\fscx55.11\fscy55.8\frz19.01\fry2.754\frx-1.489\fax0.118\fnLato\c&HF8F1EF&\alpha&H80&\blur5}Ohoshi Ringo
 Dialogue: 0,0:04:16.73,0:04:16.77,DedzuyaSigns,,0,0,0,,{=4=18}{\an8\pos(906.95,348.69)\org(909.39,369.63)\fscx55.17\fscy55.85\frz19.01\fry2.754\frx-1.489\fax0.118\fnLato\c&HF8F1EF&\alpha&H80&\blur5.01}Ohoshi Ringo
@@ -1041,6 +1202,94 @@ Dialogue: 1,0:04:18.98,0:04:19.03,DedzuyaSigns,,0,0,0,,{=6=39}{\an8\pos(1027,900
 Dialogue: 1,0:04:19.03,0:04:19.07,DedzuyaSigns,,0,0,0,,{=6=39}{\an8\pos(1027.07,900.64)\org(1027.8,907.98)\fscx19.97\fscy19.56\frz21.63\fry0.645\frx2.16\fax0.097\fnLato\c&HEADCD0&\blur0.96}Refuză
 Dialogue: 1,0:04:19.07,0:04:19.11,DedzuyaSigns,,0,0,0,,{=6=39}{\an8\pos(1027.21,901)\org(1027.94,908.34)\fscx19.99\fscy19.59\frz21.63\fry0.645\frx2.16\fax0.097\fnLato\c&HEADCD0&\blur0.96}Refuză
 Dialogue: 1,0:04:19.11,0:04:19.15,DedzuyaSigns,,0,0,0,,{=6=39}{\an8\pos(1027.28,901.47)\org(1028.01,908.82)\fscx20.02\fscy19.61\frz21.63\fry0.645\frx2.16\fax0.097\fnLato\c&HEADCD0&\blur0.96}Refuză
+Comment: 0,0:01:05.96,0:01:06.00,OP TL,,0,0,0,,{OP first frame}
+Dialogue: 4,0:01:05.96,0:01:11.13,OP TL,,0,0,0,,{\c&H000000&\blur0.75\fad(200,0)}Revoluție
+Dialogue: 5,0:01:05.96,0:01:11.13,OP TL,,0,0,0,,{\bord0\blur0.75\fad(200,0)}Revoluție
+Dialogue: 4,0:01:11.13,0:01:14.66,OP TL,,0,0,0,,{\c&H000000&\blur0.75\fad(0,200)}Pentru început, haideți să pornim o revoluție, fiți gata
+Dialogue: 5,0:01:11.13,0:01:14.66,OP TL,,0,0,0,,{\bord0\blur0.75\fad(0,200)}Pentru început, haideți să pornim o revoluție, fiți gata
+Dialogue: 4,0:01:16.45,0:01:21.10,OP TL,,0,0,0,,{\c&H000000&\blur0.75\fad(200,200)}Salutare, mă bucur să te cunosc! Iei!
+Dialogue: 5,0:01:16.45,0:01:21.10,OP TL,,0,0,0,,{\bord0\blur0.75\fad(200,200)}Salutare, mă bucur să te cunosc! Iei!
+Dialogue: 4,0:01:29.36,0:01:31.48,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Atunci când te trezești dimineața,
+Dialogue: 5,0:01:29.36,0:01:31.48,OP TL,,0,0,0,,{\bord0\blur0.75}Atunci când te trezești dimineața,
+Dialogue: 4,0:01:31.48,0:01:34.11,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Oare ce poți face până când micul dejun este gata?
+Dialogue: 5,0:01:31.48,0:01:34.11,OP TL,,0,0,0,,{\bord0\blur0.75}Oare ce poți face până când micul dejun este gata?
+Dialogue: 4,0:01:34.11,0:01:37.11,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Să caști, să te speli pe dinți și să-ți pregătești zâmbetul
+Dialogue: 5,0:01:34.11,0:01:37.11,OP TL,,0,0,0,,{\bord0\blur0.75}Să caști, să te speli pe dinți și să-ți pregătești zâmbetul
+Dialogue: 4,0:01:37.11,0:01:38.95,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Bun, ne-am decis
+Dialogue: 5,0:01:37.11,0:01:38.95,OP TL,,0,0,0,,{\bord0\blur0.75}Bun, ne-am decis
+Dialogue: 4,0:01:38.95,0:01:41.84,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Fă primul lucru pe care-l vezi
+Dialogue: 5,0:01:38.95,0:01:41.84,OP TL,,0,0,0,,{\bord0\blur0.75}Fă primul lucru pe care-l vezi
+Dialogue: 4,0:01:41.84,0:01:44.41,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Dacă nu vezi nimic, gândește-te la ceva repede
+Dialogue: 5,0:01:41.84,0:01:44.41,OP TL,,0,0,0,,{\bord0\blur0.75}Dacă nu vezi nimic, gândește-te la ceva repede
+Dialogue: 4,0:01:44.41,0:01:47.13,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Magie? Miracole? Super puteri? Nici vorbă!
+Dialogue: 5,0:01:44.41,0:01:47.13,OP TL,,0,0,0,,{\bord0\blur0.75}Magie? Miracole? Super puteri? Nici vorbă!
+Dialogue: 4,0:01:47.13,0:01:48.67,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Este floare la ureche
+Dialogue: 5,0:01:47.13,0:01:48.67,OP TL,,0,0,0,,{\bord0\blur0.75}Este floare la ureche
+Dialogue: 4,0:01:48.67,0:01:50.51,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Pari singur
+Dialogue: 5,0:01:48.67,0:01:50.51,OP TL,,0,0,0,,{\bord0\blur0.75}Pari singur
+Dialogue: 4,0:01:50.51,0:01:51.38,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Oh, oh...
+Dialogue: 5,0:01:50.51,0:01:51.38,OP TL,,0,0,0,,{\bord0\blur0.75}Oh, oh...
+Dialogue: 4,0:01:51.38,0:01:53.05,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Ceva pare să te deranjeze
+Dialogue: 5,0:01:51.38,0:01:53.05,OP TL,,0,0,0,,{\bord0\blur0.75}Ceva pare să te deranjeze
+Dialogue: 4,0:01:53.05,0:01:53.97,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Ah, ah...
+Dialogue: 5,0:01:53.05,0:01:53.97,OP TL,,0,0,0,,{\bord0\blur0.75}Ah, ah...
+Dialogue: 4,0:01:53.97,0:01:54.97,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Nu-mi place asta
+Dialogue: 5,0:01:53.97,0:01:54.97,OP TL,,0,0,0,,{\bord0\blur0.75}Nu-mi place asta
+Dialogue: 4,0:01:54.97,0:01:59.49,OP TL,,0,0,0,,{\c&H000000&\blur0.75\fad(0,200)}Îți voi arăta calea foarte simplu
+Dialogue: 5,0:01:54.97,0:01:59.49,OP TL,,0,0,0,,{\bord0\blur0.75\fad(0,200)}Îți voi arăta calea foarte simplu
+Dialogue: 4,0:01:59.89,0:02:02.23,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Am reușit!
+Dialogue: 5,0:01:59.89,0:02:02.23,OP TL,,0,0,0,,{\bord0\blur0.75}Am reușit!
+Dialogue: 4,0:02:02.23,0:02:04.52,OP TL,,0,0,0,,{\c&H000000&\blur0.75}O putem face, dragule
+Dialogue: 5,0:02:02.23,0:02:04.52,OP TL,,0,0,0,,{\bord0\blur0.75}O putem face, dragule
+Dialogue: 4,0:02:04.52,0:02:07.52,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Nimic nu este imposibil, nu există disperare
+Dialogue: 5,0:02:04.52,0:02:07.52,OP TL,,0,0,0,,{\bord0\blur0.75}Nimic nu este imposibil, nu există disperare
+Dialogue: 4,0:02:07.52,0:02:10.03,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Așa funcționează, nu-i așa?
+Dialogue: 5,0:02:07.52,0:02:10.03,OP TL,,0,0,0,,{\bord0\blur0.75}Așa funcționează, nu-i așa?
+Dialogue: 4,0:02:10.03,0:02:13.99,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Cerul, marea, iubirea, visurile, chiar și pe Dumnezeu
+Dialogue: 5,0:02:10.03,0:02:13.99,OP TL,,0,0,0,,{\bord0\blur0.75}Cerul, marea, iubirea, visurile, chiar și pe Dumnezeu
+Dialogue: 4,0:02:13.99,0:02:15.07,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Oare de ce nu le-am crea chiar noi?
+Dialogue: 5,0:02:13.99,0:02:15.07,OP TL,,0,0,0,,{\bord0\blur0.75}Oare de ce nu le-am crea chiar noi?
+Dialogue: 4,0:02:15.07,0:02:17.66,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Urmează-ne
+Dialogue: 5,0:02:15.07,0:02:17.66,OP TL,,0,0,0,,{\bord0\blur0.75}Urmează-ne
+Dialogue: 4,0:02:17.66,0:02:20.16,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Este palpitant
+Dialogue: 5,0:02:17.66,0:02:20.16,OP TL,,0,0,0,,{\bord0\blur0.75}Este palpitant
+Dialogue: 4,0:02:20.16,0:02:22.73,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Haide, urmează-ne
+Dialogue: 5,0:02:20.16,0:02:22.73,OP TL,,0,0,0,,{\bord0\blur0.75}Haide, urmează-ne
+Dialogue: 4,0:02:22.73,0:02:25.17,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Nu vei regreta
+Dialogue: 5,0:02:22.73,0:02:25.17,OP TL,,0,0,0,,{\bord0\blur0.75}Nu vei regreta
+Dialogue: 4,0:02:25.17,0:02:29.17,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Revoluție
+Dialogue: 5,0:02:25.17,0:02:29.17,OP TL,,0,0,0,,{\bord0\blur0.75}Revoluție
+Dialogue: 4,0:02:29.17,0:02:32.51,OP TL,,0,0,0,,{\c&H000000&\blur0.75}Haide să pornim o revoluție împreună! Start!
+Dialogue: 5,0:02:29.17,0:02:32.51,OP TL,,0,0,0,,{\bord0\blur0.75}Haide să pornim o revoluție împreună! Start!
+Dialogue: 4,0:02:32.51,0:02:34.99,OP TL,,0,0,0,,{\c&H000000&\blur0.75\fad(0,200)}Ne descurcăm super bine, este atât de simplu!
+Dialogue: 5,0:02:32.51,0:02:34.99,OP TL,,0,0,0,,{\bord0\blur0.75\fad(0,200)}Ne descurcăm super bine, este atât de simplu!
+Comment: 0,0:22:09.98,0:22:10.02,ED TL,,0,0,0,,{ED first frame}
+Dialogue: 0,0:22:10.73,0:22:16.75,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Credeam că dacă voi petrece mai mult timp singură
+Dialogue: 1,0:22:10.73,0:22:16.75,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Credeam că dacă voi petrece mai mult timp singură
+Dialogue: 0,0:22:16.75,0:22:21.32,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Mă voi obișnui cu asta
+Dialogue: 1,0:22:16.75,0:22:21.32,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Mă voi obișnui cu asta
+Dialogue: 0,0:22:21.32,0:22:24.74,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Sunt așa o lașă
+Dialogue: 1,0:22:21.32,0:22:24.74,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Sunt așa o lașă
+Dialogue: 0,0:22:24.74,0:22:32.06,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Aveam o față inexpresivă ca să îmi ascund teama
+Dialogue: 1,0:22:24.74,0:22:32.06,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Aveam o față inexpresivă ca să îmi ascund teama
+Dialogue: 0,0:22:32.06,0:22:37.34,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Tot spun că nu trebuia să fie astfel,
+Dialogue: 1,0:22:32.06,0:22:37.34,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Tot spun că nu trebuia să fie astfel,
+Dialogue: 0,0:22:37.34,0:22:42.71,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Iar scuzele continuă să se adune
+Dialogue: 1,0:22:37.34,0:22:42.71,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Iar scuzele continuă să se adune
+Dialogue: 0,0:22:42.71,0:22:53.36,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Într-o bună zi, voi dispărea din amintirile tale
+Dialogue: 1,0:22:42.71,0:22:53.36,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Într-o bună zi, voi dispărea din amintirile tale
+Dialogue: 0,0:22:56.08,0:22:58.21,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Pentru încă câteva decenii
+Dialogue: 1,0:22:56.08,0:22:58.21,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Pentru încă câteva decenii
+Dialogue: 0,0:22:58.21,0:23:01.36,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Haide să adunăm lucrurile pe care le-am pierdut
+Dialogue: 1,0:22:58.21,0:23:01.36,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Haide să adunăm lucrurile pe care le-am pierdut
+Dialogue: 0,0:23:01.36,0:23:06.74,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Undeva în această călătorie lungă
+Dialogue: 1,0:23:01.36,0:23:06.74,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Undeva în această călătorie lungă
+Dialogue: 0,0:23:06.74,0:23:11.23,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Indiferent ce viitor mă așteaptă
+Dialogue: 1,0:23:06.74,0:23:11.23,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Indiferent ce viitor mă așteaptă
+Dialogue: 0,0:23:11.23,0:23:20.23,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Nu mă voi opri
+Dialogue: 1,0:23:11.23,0:23:20.23,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Nu mă voi opri
+Dialogue: 0,0:23:20.84,0:23:32.65,ED TL,,0,0,0,,{\c&HFFFFFF&\blur7\fad(200,200)\yshad0.01}Deoarece știu că ne vom reîntâlni
+Dialogue: 1,0:23:20.84,0:23:32.65,ED TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Deoarece știu că ne vom reîntâlni
 
 [Aegisub Extradata]
 Data: 4,a-mo,e{"uuid"#3A"ad527f1a-283b-471d-a764-0ed641710528"#2C"originalText"#3A"{\\an8\\fnLato\\frx5\\b0\\frz18.98\\fax0.13\\fs30\\blur0.7\\pos(599.188#2C232.389)}Ohoshi Ringo"}
