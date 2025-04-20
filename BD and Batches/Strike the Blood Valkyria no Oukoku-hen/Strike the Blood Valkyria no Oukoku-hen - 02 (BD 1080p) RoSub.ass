@@ -17,25 +17,20 @@ Script Updated By: KazuyaShuu
 Update Details: GSH
 ScaledBorderAndShadow: yes
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood Valkyria no Oukoku-hen [Ma10p_1080p]/[VCB-Studio] Strike the Blood Valkyria no Oukoku-hen [02][Ma10p_1080p][x265_flac_aac].mkv
-Video File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood Valkyria no Oukoku-hen [Ma10p_1080p]/[VCB-Studio] Strike the Blood Valkyria no Oukoku-hen [02][Ma10p_1080p][x265_flac_aac].mkv
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 379
-Active Line: 380
-Video Position: 2141
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Surface,76,&H00FFFFFF,&H000000FF,&H00000000,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
-Style: OP TL,FOT-TelopMin Pro E,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,8,50,50,25,1
+Style: OP TL,FOT-UDMincho Pro B,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,8,50,50,25,1
 Style: ED TL,Bray Notes,70,&H00FFFFFF,&H000000FF,&H00EA5307,&H00000000,0,0,0,0,100,110,0,0,1,2.5,0,8,950,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{OP}
+Comment: 0,0:01:30.99,0:01:31.03,Dialogue,chptr,0,0,0,,{Partea A}
+Comment: 0,0:12:16.47,0:12:16.51,Dialogue,chptr,0,0,0,,{Partea B}
+Comment: 0,0:20:13.98,0:20:14.03,Dialogue,chptr,0,0,0,,{ED}
+Comment: 0,0:21:44.07,0:21:44.12,Dialogue,chptr,0,0,0,,{Epilog}
 Dialogue: 100,0:01:31.86,0:01:32.95,Dialogue,Lucas,0,0,0,,Ce?!
 Dialogue: 100,0:01:33.20,0:01:35.87,Dialogue,Lucas,0,0,0,,Încă nu i-ați găsit pe \NLa Folia sau pe ceilalți?
 Dialogue: 100,0:01:35.87,0:01:37.33,Dialogue,SP,0,0,0,,Ne pare foarte rău.
@@ -52,31 +47,31 @@ Dialogue: 100,0:02:11.82,0:02:13.11,Dialogue,Lucas,0,0,0,,La naiba!
 Dialogue: 100,0:02:13.11,0:02:16.24,Dialogue,Lucas,0,0,0,,Toți deținuții de pe listă au sentințe pe viață pentru infracțiuni extrem de grave!
 Dialogue: 100,0:02:17.53,0:02:20.08,Dialogue,Sayaka,0,0,0,,Vei accepta cererea?
 Dialogue: 100,0:02:21.41,0:02:23.67,Dialogue,Polifonia,0,0,0,,La Folia va fi bine.
-Dialogue: 100,0:02:25.54,0:02:30.92,Dialogue,Polifonia,0,0,0,,Ea știe foarte bine ce trebuie să facă în această situație
+Dialogue: 100,0:02:25.54,0:02:30.92,Dialogue,Polifonia,0,0,0,,Ea știe foarte bine ce trebuie \Nsă facă în această situație
 Dialogue: 100,0:02:31.55,0:02:33.63,Dialogue,Polifonia,0,0,0,,și ce vom face noi.
 Dialogue: 100,0:02:35.89,0:02:37.14,Dialogue,Lucas,0,0,0,,Ai dreptate.
-Dialogue: 100,0:02:37.14,0:02:39.89,Dialogue,Lucas,0,0,0,,Aldeigia nu va ceda în fața teroriștilor!
+Dialogue: 100,0:02:37.14,0:02:39.89,Dialogue,Lucas,0,0,0,,Aldeigia nu va ceda \Nniciodată în fața teroriștilor!
 Dialogue: 100,0:02:40.31,0:02:43.18,Dialogue,Lucas,0,0,0,,Întotdeauna am trăit după acest principiu
 Dialogue: 100,0:02:43.18,0:02:45.10,Dialogue,Lucas,0,0,0,,și vom continua s-o facem!
 Dialogue: 100,0:02:45.10,0:02:47.15,Dialogue,Asagi,0,0,0,,Dar, în acest caz, Kojou și fetele vor...
 Dialogue: 100,0:02:47.15,0:02:48.06,Dialogue,Lucas,0,0,0,,Nu vă faceți griji.
 Dialogue: 100,0:02:48.52,0:02:52.07,Dialogue,Lucas,0,0,0,,Aldeigia, ca regat al magiei, \Nse va folosi de tot ce are
-Dialogue: 100,0:02:52.57,0:02:55.70,Dialogue,Lucas,0,0,0,,ca să-i salveze pe La Folia și restul.
+Dialogue: 100,0:02:52.57,0:02:55.70,Dialogue,Lucas,0,0,0,,ca să-i salveze pe La Folia și pe restul.
 Dialogue: 100,0:02:57.49,0:02:59.03,Dialogue,Leader,0,0,0,,{\i1}Conform înțelegerii noastre,
 Dialogue: 100,0:02:59.03,0:03:02.70,Dialogue,Leader,0,0,0,,{\i1}am trimis mesajul cu cererea de eliberare a deținuților politici.
-Dialogue: 100,0:03:02.70,0:03:05.08,Dialogue,Trine,0,0,0,,Desigur, știind despre ce țară vorbim,
+Dialogue: 100,0:03:02.70,0:03:05.08,Dialogue,Trine,0,0,0,,Desigur, știind despre ce țară e vorba,
 Dialogue: 100,0:03:05.08,0:03:07.04,Dialogue,Trine,0,0,0,,cel mai probabil nu \Nne vor accepta cererea.
 Dialogue: 100,0:03:07.25,0:03:08.63,Dialogue,Leader,0,0,0,,{\i1}Mă aștept la asta.
-Dialogue: 100,0:03:08.63,0:03:11.13,Dialogue,Leader,0,0,0,,{\i1}Dar va provoca neliniște \Nși ne va câștiga timp.
-Dialogue: 100,0:03:12.30,0:03:16.84,Dialogue,Trine,0,0,0,,Sunteți tari ca piatra în \Nceea ce priveșe precauția.
+Dialogue: 100,0:03:08.63,0:03:11.13,Dialogue,Leader,0,0,0,,{\i1}Dar va instaura haosul \Nși ne va câștiga timp.
+Dialogue: 100,0:03:12.30,0:03:16.84,Dialogue,Trine,0,0,0,,Sunteți tari ca piatra în \Nceea ce privește precauția.
 Dialogue: 100,0:03:16.84,0:03:20.76,Dialogue,Trine,0,0,0,,Oare creșterea într-o țară rece îți îngheață și modul de gândire?
 Dialogue: 100,0:03:21.10,0:03:23.27,Dialogue,Leader,0,0,0,,{\i1}Noi prețuim certitudinea, asta e tot.
 Dialogue: 100,0:03:23.73,0:03:26.23,Dialogue,Leader,0,0,0,,{\i1}Sper că ești conștientă, Trine Halden,
-Dialogue: 100,0:03:26.52,0:03:30.11,Dialogue,Leader,0,0,0,,{\i1}că ne așteptăm să te ridici la nivelul prețului pe care-l plătim petru tine.
+Dialogue: 100,0:03:26.52,0:03:30.11,Dialogue,Leader,0,0,0,,{\i1}că ne așteptăm să te ridici la nivelul prețului pe care-l plătim pentru tine.
 Dialogue: 100,0:03:33.03,0:03:35.24,Dialogue,Trine,0,0,0,,Nu trebuie să vă faceți \Ngriji în legătură cu asta.
 Dialogue: 100,0:03:35.24,0:03:38.45,Dialogue,Trine,0,0,0,,Am reușit să pun mâna \Npe o unealtă neașteptată.
 Dialogue: 100,0:03:38.45,0:03:40.91,Dialogue,Trine,0,0,0,,Jur pe mândria Teroriștilor Liberi
-Dialogue: 100,0:03:40.91,0:03:43.41,Dialogue,Trine,0,0,0,,că voi duce la bun sfârșit solicitarea voastră...
+Dialogue: 100,0:03:40.91,0:03:43.41,Dialogue,Trine,0,0,0,,că voi duce la bun sfârșit \Nsolicitarea voastră...
 Dialogue: 100,0:03:44.50,0:03:46.21,Dialogue,Trine,0,0,0,,și-l voi ucide pe acel om.
 Dialogue: 100,0:03:51.42,0:03:52.34,Dialogue,Aladar,0,0,0,,Ascultă.
 Dialogue: 100,0:03:52.84,0:03:56.92,Dialogue,Aladar,0,0,0,,Străbunul nostru dorește continuarea acordului de încetare a focului.
@@ -97,29 +92,29 @@ Dialogue: 100,0:04:39.63,0:04:41.26,Dialogue,Trine,0,0,0,,Ești îndrăgostită 
 Dialogue: 100,0:04:42.18,0:04:45.77,Dialogue,Trine,0,0,0,,E prea multă gălăgie aici. \NHaide să terminăm asta în pat.
 Dialogue: 100,0:04:45.77,0:04:46.47,Dialogue,Kojou,0,0,0,,Desigur.
 Dialogue: 100,0:04:46.47,0:04:48.89,Dialogue,Trine,0,0,0,,Nu pot merge până \Nnu mi se usucă unghiile.
-Dialogue: 100,0:04:48.89,0:04:50.94,Dialogue,Trine,0,0,0,,Du-mă ca pe o prințesă, Kojou.
+Dialogue: 100,0:04:48.89,0:04:50.94,Dialogue,Trine,0,0,0,,Cară-mă ca pe o prințesă, Kojou.
 Dialogue: 100,0:04:50.94,0:04:53.44,Dialogue,Kojou,0,0,0,,Plăcerea este a mea, doamna mea.
 Dialogue: 100,0:05:10.12,0:05:13.00,Dialogue,Lady,0,0,0,,Ceremonia de semnare a tratatului dintre Aldeigia și Imperiul Lordului Războinic
 Dialogue: 100,0:05:13.00,0:05:17.92,Dialogue,Lady,0,0,0,,va avea loc în această după-amiază în zona nou-construită de pe insula Itogami...
 Dialogue: 100,0:05:17.92,0:05:22.22,Dialogue,Guy,0,0,0,,Cele două națiuni s-au luptat de mai multe ori în secolul al XX-lea,
 Dialogue: 100,0:05:22.22,0:05:24.60,Dialogue,Guy,0,0,0,,dar de când a fost semnat tratatul de pace,
-Dialogue: 100,0:05:24.60,0:05:27.14,Dialogue,Guy,0,0,0,,resursele militare și financiare utilizate în luptă
+Dialogue: 100,0:05:24.60,0:05:27.14,Dialogue,Guy,0,0,0,,resursele militare și \Nfinanciare utilizate în luptă
 Dialogue: 100,0:05:27.14,0:05:29.06,Dialogue,Guy,0,0,0,,au fost redirecționate în alte locuri.
 Dialogue: 100,0:05:29.06,0:05:31.81,Dialogue,Guy,0,0,0,,Astfel, ambele națiuni au \Nfăcut progrese remarcabile.
 Dialogue: 100,0:05:31.98,0:05:34.77,Dialogue,Lady,0,0,0,,{\i1}Familia regală Aldeigia e cunoscută pentru frumusețea femeilor.
-Dialogue: 100,0:05:35.15,0:05:38.53,Dialogue,Lady,0,0,0,,{\i1}The princess and queen are both \Nrenowned as global fashion leaders.
-Dialogue: 100,0:05:38.53,0:05:41.15,Dialogue,Lady,0,0,0,,{\i1}One wonders what sort \Nof dresses they will don today.
-Dialogue: 100,0:05:41.15,0:05:42.20,Dialogue,Lady,0,0,0,,{\i1}How exciting!
-Dialogue: 100,0:05:42.20,0:05:46.49,Dialogue,Guy,0,0,0,,{\i1}Representing the Warlord's Empire \Nis Imperial Diet Chairman Aladar.
+Dialogue: 100,0:05:35.15,0:05:38.53,Dialogue,Lady,0,0,0,,{\i1}Atât prințesa, cât și regina sunt renumite ca lideri mondiali în modă.
+Dialogue: 100,0:05:38.53,0:05:41.15,Dialogue,Lady,0,0,0,,{\i1}Toată lumea se întreabă ce \Nrochii vor purta la ceremonie.
+Dialogue: 100,0:05:41.15,0:05:42.20,Dialogue,Lady,0,0,0,,{\i1}Cât de palpitant!
+Dialogue: 100,0:05:42.20,0:05:46.49,Dialogue,Guy,0,0,0,,{\i1}Iar din partea Imperiului Lordului Războinic îl avem pe președintele dietei imperiale, Aladar.
 Dialogue: 100,0:05:46.49,0:05:47.66,Dialogue,Guy,0,0,0,,{\i1}Acesta este însoțit de...
-Dialogue: 100,0:05:47.91,0:05:51.79,Dialogue,Yaze,0,0,0,,Am auzit că dragul nostru Kojou a intrat din nou în probleme.
+Dialogue: 100,0:05:47.91,0:05:51.79,Dialogue,Yaze,0,0,0,,Am auzit că dragul nostru \NKojou a dat iar de probleme.
 Dialogue: 100,0:05:51.96,0:05:56.63,Dialogue,Asagi,0,0,0,,Da. Mă întorc la școală ca \Nsă aflu cât de multe pot.
-Dialogue: 100,0:05:56.84,0:05:59.17,Dialogue,Yaze,0,0,0,,Anunță-mă dacă afli ceva.
+Dialogue: 100,0:05:56.84,0:05:59.17,Dialogue,Yaze,0,0,0,,Anunță-mă când afli ceva.
 Dialogue: 100,0:06:00.51,0:06:05.09,Dialogue,Yaze,0,0,0,,Ei bine, asta garantează că se va întâmpla ceva în timpul ceremoniei...
 Dialogue: 100,0:06:16.19,0:06:17.40,Dialogue,Soldier,0,0,0,,Hei, tu!
 Dialogue: 100,0:06:17.40,0:06:18.98,Dialogue,Soldier,0,0,0,,Accesul e interzis în această zonă!
-Dialogue: 100,0:06:18.98,0:06:20.40,Dialogue,Soldier,0,0,0,,Arată-ne cardul de identitate!
-Dialogue: 100,0:06:20.40,0:06:23.15,Dialogue,Kojou,0,0,0,,Nu e nevoie să-mi știți numele!
+Dialogue: 100,0:06:18.98,0:06:20.40,Dialogue,Soldier,0,0,0,,Actele la control!
+Dialogue: 100,0:06:20.40,0:06:23.15,Dialogue,Kojou,0,0,0,,Nu e nevoie să știți cine sunt!
 Dialogue: 100,0:06:36.58,0:06:39.09,Dialogue,Kojou,0,0,0,,Ușor. Mult prea ușor.
 Dialogue: 100,0:06:39.67,0:06:43.55,Dialogue,Kojou,0,0,0,,Simte greutatea pumnului \Ncelui blestemat de zei.
 Dialogue: 100,0:06:47.64,0:06:48.47,Dialogue,Soldier,0,0,0,,Nemernicule...
@@ -140,39 +135,39 @@ Dialogue: 100,0:07:32.89,0:07:35.35,Dialogue,Mogwai,0,0,0,,{\i1}Doamne, asta va 
 Dialogue: 100,0:07:35.35,0:07:38.85,Dialogue,Mogwai,0,0,0,,{\i1}Sau poate nu. Tocmai am \Ndetectat o perturbație.
 Dialogue: 100,0:07:39.02,0:07:40.06,Dialogue,Asagi,0,0,0,,Unde?
 Dialogue: 100,0:07:40.06,0:07:41.27,Dialogue,Mogwai,0,0,0,,{\i1}La aeroport.
-Dialogue: 100,0:07:41.27,0:07:45.53,Dialogue,Mogwai,0,0,0,,{\i1}That brand new armored airship, \N{\i0}Bifröst{\i1}, just put out a mayday call.
+Dialogue: 100,0:07:41.27,0:07:45.53,Dialogue,Mogwai,0,0,0,,{\i1}Aeronava blindată de ultimă generație, Bifröst, a trimis un semnal SOS.
 Dialogue: 100,0:07:48.24,0:07:50.16,Dialogue,Trine,0,0,0,,Deturnare completă.
 Dialogue: 100,0:07:50.16,0:07:51.53,Dialogue,Trine,0,0,0,,Bună treabă, Kojou.
 Dialogue: 100,0:07:51.66,0:07:54.33,Dialogue,Folia,0,0,0,,De asta m-ai răpit?
-Dialogue: 100,0:07:56.04,0:07:58.92,Dialogue,Folia,0,0,0,,Starting up the main engine \Nof a royal family airship
-Dialogue: 100,0:07:58.92,0:08:01.46,Dialogue,Folia,0,0,0,,requires a royal family member's \Nbiometric authentication.
-Dialogue: 100,0:08:01.54,0:08:03.55,Dialogue,Trine,0,0,0,,If you know that,
-Dialogue: 100,0:08:03.55,0:08:06.72,Dialogue,Trine,0,0,0,,I'd appreciate it if you'd \Njust start up the ship now.
-Dialogue: 100,0:08:07.97,0:08:09.68,Dialogue,Folia,0,0,0,,What is it you hope to do?
-Dialogue: 100,0:08:10.85,0:08:13.64,Dialogue,Trine,0,0,0,,We're going to crash \Nthe signing ceremony with this ship
-Dialogue: 100,0:08:14.22,0:08:16.60,Dialogue,Trine,0,0,0,,and kill Lord Ardeal.
+Dialogue: 100,0:07:56.04,0:07:58.92,Dialogue,Folia,0,0,0,,Pentru a porni motorul principal al unei aeronave deținute de familia regală
+Dialogue: 100,0:07:58.92,0:08:01.46,Dialogue,Folia,0,0,0,,e necesară autentificare biometrică a unui membru din familia regală.
+Dialogue: 100,0:08:01.54,0:08:03.55,Dialogue,Trine,0,0,0,,Din moment ce știi deja asta,
+Dialogue: 100,0:08:03.55,0:08:06.72,Dialogue,Trine,0,0,0,,aș aprecia dacă ai porni aeronava acum.
+Dialogue: 100,0:08:07.97,0:08:09.68,Dialogue,Folia,0,0,0,,Ce intenționezi să faci cu ea?
+Dialogue: 100,0:08:10.85,0:08:13.64,Dialogue,Trine,0,0,0,,Vom prăbuși aeronava la \Nceremonia de semnare a tratatului
+Dialogue: 100,0:08:14.22,0:08:16.60,Dialogue,Trine,0,0,0,,și-l vom ucide pe lordul Ardeal.
 Dialogue: 100,0:08:17.39,0:08:18.56,Dialogue,Folia,0,0,0,,Poftim?!
 Dialogue: 100,0:08:18.56,0:08:20.60,Dialogue,Folia,0,0,0,,De ce nu ai spus asta mai devreme?
-Dialogue: 100,0:08:20.86,0:08:24.90,Dialogue,Folia,0,0,0,,If I had known, I would've helped you \Nwithout being kidnapped!
+Dialogue: 100,0:08:20.86,0:08:24.90,Dialogue,Folia,0,0,0,,Dacă aș fi știut, te-aș fi \Najutat și fără să mă răpești!
 Dialogue: 100,0:08:25.19,0:08:26.40,Dialogue,Yukina,0,0,0,,La Folia?!
-Dialogue: 100,0:08:26.40,0:08:31.32,Dialogue,Folia,0,0,0,,I've wanted to kill \NLord Ardeal for a long time.
-Dialogue: 100,0:08:31.32,0:08:32.74,Dialogue,Trine,0,0,0,,Don't you get it?
-Dialogue: 100,0:08:32.74,0:08:36.66,Dialogue,Trine,0,0,0,,An Aldeigia airship is going to \Nkill a Warlord's Empire noble!
-Dialogue: 100,0:08:36.66,0:08:37.58,Dialogue,Trine,0,0,0,,Do you realize what—
-Dialogue: 100,0:08:37.58,0:08:41.92,Dialogue,Folia,0,0,0,,The peace agreement would be voided, \Nand war would break out.
-Dialogue: 100,0:08:42.79,0:08:47.80,Dialogue,Folia,0,0,0,,But that's what you people \Nof the North Sea Empire want, isn't it?
+Dialogue: 100,0:08:26.40,0:08:31.32,Dialogue,Folia,0,0,0,,Vreau de mult timp să-l \Nomor pe lordul Ardeal.
+Dialogue: 100,0:08:31.32,0:08:32.74,Dialogue,Trine,0,0,0,,Ești conștientă de consecințe?
+Dialogue: 100,0:08:32.74,0:08:36.66,Dialogue,Trine,0,0,0,,O aeronavă a Regatului Aldeigia va omorî un nobil al Imperiului Lordului Războinic!
+Dialogue: 100,0:08:36.66,0:08:37.58,Dialogue,Trine,0,0,0,,Știi ce înseamnă...
+Dialogue: 100,0:08:37.58,0:08:41.92,Dialogue,Folia,0,0,0,,Tratatul de pace va fi anulat \Nși va izbunci războiul.
+Dialogue: 100,0:08:42.79,0:08:47.80,Dialogue,Folia,0,0,0,,Dar nu asta vă doriți voi cei \Ndin Imperiul Mării Nordice?
 Dialogue: 100,0:08:48.88,0:08:50.93,Dialogue,Folia,0,0,0,,Se pare că aveam dreptate.
-Dialogue: 100,0:08:50.93,0:08:52.26,Dialogue,Folia,0,0,0,,Please, do as you like.
-Dialogue: 100,0:08:52.55,0:08:55.97,Dialogue,Folia,0,0,0,,If we can take advantage of the chaos \Nto eliminate Lord Ardeal,
-Dialogue: 100,0:08:55.97,0:08:57.52,Dialogue,Folia,0,0,0,,I'll consider it a windfall.
-Dialogue: 100,0:08:58.64,0:09:03.06,Dialogue,Folia,0,0,0,,Of course, I'm the one \Nwho'll be sending the ship.
-Dialogue: 100,0:09:03.40,0:09:05.44,Dialogue,Terrorist,0,0,0,,Main engine online.
-Dialogue: 100,0:09:05.73,0:09:08.07,Dialogue,Trine,0,0,0,,We have no further use for you two.
-Dialogue: 100,0:09:08.28,0:09:11.45,Dialogue,Trine,0,0,0,,Kojou, throw them both into the cabin.
-Dialogue: 100,0:09:11.66,0:09:12.99,Dialogue,Kojou,0,0,0,,Understood.
-Dialogue: 100,0:09:12.99,0:09:14.28,Dialogue,Kojou,0,0,0,,Let's go.
-Dialogue: 100,0:09:14.37,0:09:17.70,Dialogue,Yukina,0,0,0,,Why do you keep letting \Nthis woman order you around?!
-Dialogue: 100,0:09:19.00,0:09:22.88,Dialogue,Yukina,0,0,0,,This could end in a war!
+Dialogue: 100,0:08:50.93,0:08:52.26,Dialogue,Folia,0,0,0,,Puteți face ce doriți.
+Dialogue: 100,0:08:52.55,0:08:55.97,Dialogue,Folia,0,0,0,,Dacă putem profita de haos ca să-l omorâm pe lordul Ardeal,
+Dialogue: 100,0:08:55.97,0:08:57.52,Dialogue,Folia,0,0,0,,voi considera asta o victorie.
+Dialogue: 100,0:08:58.64,0:09:03.06,Dialogue,Folia,0,0,0,,Desigur, eu voi fi cea \Ncare va trimite nava.
+Dialogue: 100,0:09:03.40,0:09:05.44,Dialogue,Terrorist,0,0,0,,Motorul principal e pornit.
+Dialogue: 100,0:09:05.73,0:09:08.07,Dialogue,Trine,0,0,0,,Nu mai avem nevoie de voi două.
+Dialogue: 100,0:09:08.28,0:09:11.45,Dialogue,Trine,0,0,0,,Kojou, aruncă-le pe amândouă în cabină.
+Dialogue: 100,0:09:11.66,0:09:12.99,Dialogue,Kojou,0,0,0,,Am înțeles.
+Dialogue: 100,0:09:12.99,0:09:14.28,Dialogue,Kojou,0,0,0,,Să mergem.
+Dialogue: 100,0:09:14.37,0:09:17.70,Dialogue,Yukina,0,0,0,,De ce continui s-o lași să-ți dea ordine?!
+Dialogue: 100,0:09:19.00,0:09:22.88,Dialogue,Yukina,0,0,0,,Încearcă să pornească un război!
 Dialogue: 100,0:09:24.92,0:09:27.76,Dialogue,Trine,0,0,0,,Gura, fetițo.
 Dialogue: 100,0:09:27.76,0:09:30.93,Dialogue,Trine,0,0,0,,Ți-am spus, Kojou e al meu.
 Dialogue: 100,0:09:30.93,0:09:31.84,Dialogue,Trine,0,0,0,,Nu-i așa?
@@ -187,9 +182,9 @@ Dialogue: 100,0:09:58.70,0:10:02.50,Dialogue,Kanon,0,0,0,,Nu, mă bucur că pot 
 Dialogue: 100,0:10:02.71,0:10:06.04,Dialogue,Polifonia,0,0,0,,Atunci, ești gata să mergem, La Folia?
 Dialogue: 100,0:10:06.04,0:10:07.88,Dialogue,Kanon,0,0,0,,Da, mamă.
 Dialogue: 100,0:10:16.60,0:10:18.93,Dialogue,Yukina,0,0,0,,De ce ai pornit nava?
-Dialogue: 100,0:10:18.93,0:10:22.39,Dialogue,Yukina,0,0,0,,Chiar îmi vei spune că nu-ți \Npasă dacă se pornește un război?
+Dialogue: 100,0:10:18.93,0:10:22.39,Dialogue,Yukina,0,0,0,,Chiar îmi vei spune că nu-ți \Npasă dacă izbucnește un război?
 Dialogue: 100,0:10:22.39,0:10:24.90,Dialogue,Folia,0,0,0,,Aia era doar o glumă...
-Dialogue: 100,0:10:24.90,0:10:27.86,Dialogue,Folia,0,0,0,,cu excepția părții în care vreau \Nsă-l omor pe lordul Ardela.
+Dialogue: 100,0:10:24.90,0:10:27.86,Dialogue,Folia,0,0,0,,cu excepția părții în care vreau \Nsă-l omor pe lordul Ardeal.
 Dialogue: 100,0:10:28.82,0:10:31.32,Dialogue,Yukina,0,0,0,,Dar asta va porni un război!
 Dialogue: 100,0:10:31.32,0:10:32.53,Dialogue,Folia,0,0,0,,Nu voi lăsa asta să se întâmple.
 Dialogue: 100,0:10:33.32,0:10:34.57,Dialogue,Yukina,0,0,0,,Cum?
@@ -203,10 +198,10 @@ Dialogue: 100,0:10:56.26,0:10:56.76,Dialogue,Terrorist,0,0,0,,Da, domnule!
 Dialogue: 100,0:10:57.80,0:10:59.72,Dialogue,Leader,0,0,0,,Bun. Dă-le drumul!
 Dialogue: 100,0:11:04.85,0:11:05.60,Dialogue,Commander,0,0,0,,Ce sunt alea?
 Dialogue: 100,0:11:09.23,0:11:10.40,Dialogue,Sayaka,0,0,0,,Bergelmir?!
-Dialogue: 100,0:11:10.69,0:11:13.24,Dialogue,Sayaka,0,0,0,,Armele magice ale armatei Aldeigia!
+Dialogue: 100,0:11:10.69,0:11:13.24,Dialogue,Sayaka,0,0,0,,Armele magice ale armatei Aldeigiei!
 Dialogue: 100,0:11:13.24,0:11:14.78,Dialogue,Commander,0,0,0,,Lansați rachetele!
 Dialogue: 100,0:11:14.78,0:11:16.74,Dialogue,Soldier,0,0,0,,Nu avem destul timp \Nîncât să ajustăm ținta!
-Dialogue: 100,0:11:19.99,0:11:24.00,Dialogue,Sayaka,0,0,0,,{\i1}Paza insulei va fi blocată \Ncu protejarea insulei.
+Dialogue: 100,0:11:19.99,0:11:24.00,Dialogue,Sayaka,0,0,0,,{\i1}Paza insulei va fi prinsă \Ncu protejarea insulei.
 Dialogue: 100,0:11:24.00,0:11:25.50,Dialogue,Sayaka,0,0,0,,{\i1}Deci locul ceremoniei...
 Dialogue: 100,0:11:27.88,0:11:31.96,Dialogue,Sayaka,0,0,0,,Eu, Dansatoarea Războinică a Zeului Suprem, \Nca dansatoare a Leului, te impor!
 Dialogue: 100,0:11:31.96,0:11:35.47,Dialogue,Sayaka,0,0,0,,Enku al Aurorei, \NQilin al luminii strălucitoare,
@@ -221,95 +216,95 @@ Dialogue: 100,0:12:23.01,0:12:24.97,Dialogue,Mogwai,0,0,0,,{\i1}Arme militare, m
 Dialogue: 100,0:12:24.97,0:12:27.02,Dialogue,Mogwai,0,0,0,,{\i1}De ultimă generație chiar.
 Dialogue: 100,0:12:27.02,0:12:28.64,Dialogue,Mogwai,0,0,0,,{\i1}Vor fi greu de doborât.
 Dialogue: 100,0:12:28.64,0:12:31.65,Dialogue,Mogwai,0,0,0,,{\i1}Dar problema cea mai mare e Bifröst.
-Dialogue: 100,0:12:31.90,0:12:35.61,Dialogue,Mogwai,0,0,0,,{\i1}It's cruising straight toward \Nthe ceremony venue, unchecked.
-Dialogue: 100,0:12:35.73,0:12:38.61,Dialogue,Asagi,0,0,0,,Seriously... why did this have to happen?
-Dialogue: 100,0:12:38.61,0:12:39.66,Dialogue,Mogwai,0,0,0,,{\i1}Whatcha doing?
-Dialogue: 100,0:12:39.66,0:12:41.87,Dialogue,Asagi,0,0,0,,Taking over {\i1}Bifröst{\i0}'s systems!
-Dialogue: 100,0:12:41.99,0:12:45.04,Dialogue,Mogwai,0,0,0,,{\i1}Yeah? But that's a warship's \Nfirewall you're up against.
-Dialogue: 100,0:12:45.04,0:12:46.00,Dialogue,Mogwai,0,0,0,,{\i1}Think you can do it?
-Dialogue: 100,0:12:46.00,0:12:48.12,Dialogue,Asagi,0,0,0,,Whether I can or not, I'm going to!
-Dialogue: 100,0:12:48.71,0:12:52.13,Dialogue,Voice,0,0,0,,Next to speak for the Warlord's Empire, \Nrepresenting the Lost Warlord,
-Dialogue: 100,0:12:52.13,0:12:56.05,Dialogue,Voice,0,0,0,,is Imperial Diet Chairman Veres Aladar.
-Dialogue: 100,0:13:02.05,0:13:04.18,Dialogue,Leader,0,0,0,,Prepare to drop Aurgelmir!
-Dialogue: 100,0:13:04.26,0:13:07.10,Dialogue,Mogwai,0,0,0,,{\i1}You've got less than three minutes \Nbefore they get there.
-Dialogue: 100,0:13:07.10,0:13:08.64,Dialogue,Asagi,0,0,0,,This really is tough...
-Dialogue: 100,0:13:08.85,0:13:11.85,Dialogue,Asagi,0,0,0,,If I can just find a starting point, \Nno matter how small...
-Dialogue: 100,0:13:11.98,0:13:13.90,Dialogue,Mogwai,0,0,0,,{\i1}How about this, then?
-Dialogue: 100,0:13:14.77,0:13:17.32,Dialogue,Asagi,0,0,0,,Is this... the magic weapon from before?
-Dialogue: 100,0:13:17.32,0:13:18.78,Dialogue,Mogwai,0,0,0,,{\i1}Bingo!
-Dialogue: 100,0:13:19.95,0:13:23.49,Dialogue,Asagi,0,0,0,,If you knew about this, you should've \Ntold me sooner, you hunk of junk!
-Dialogue: 100,0:13:24.03,0:13:25.70,Dialogue,Terrorist,0,0,0,,There's been an explosion on board!
-Dialogue: 100,0:13:25.87,0:13:27.95,Dialogue,Trine,0,0,0,,It must've been those little girls.
-Dialogue: 100,0:13:27.95,0:13:29.91,Dialogue,Trine,0,0,0,,Honestly, they're such scamps.
-Dialogue: 100,0:13:32.79,0:13:35.21,Dialogue,Yukina,0,0,0,,I can't believe you hid \Nexplosives in your extensions!
-Dialogue: 100,0:13:35.88,0:13:39.67,Dialogue,Yukina,0,0,0,,But still, why did you \Nhave to make our room so hot?
-Dialogue: 100,0:13:39.88,0:13:41.72,Dialogue,Yukina,0,0,0,,I'm soaked with sweat now!
-Dialogue: 100,0:13:41.72,0:13:44.05,Dialogue,Folia,0,0,0,,Really? That must have been awful.
-Dialogue: 100,0:13:44.35,0:13:45.64,Dialogue,Yukina,0,0,0,,That's all you can say?
-Dialogue: 100,0:13:45.93,0:13:49.77,Dialogue,Yukina,0,0,0,,Actually, I don't see \Nany sweat on you at all.
-Dialogue: 100,0:13:49.77,0:13:53.19,Dialogue,Folia,0,0,0,,I was keeping myself cool \Nwith cooling magic the whole time.
-Dialogue: 100,0:13:53.19,0:13:54.10,Dialogue,Yukina,0,0,0,,Huh?!
-Dialogue: 100,0:13:54.36,0:13:56.23,Dialogue,Trine,0,0,0,,That's as far as you go, little girls.
-Dialogue: 100,0:13:56.73,0:14:01.20,Dialogue,Trine,0,0,0,,If you'd behaved, I would've come up \Nwith some other way to use you.
-Dialogue: 100,0:14:01.40,0:14:02.86,Dialogue,Trine,0,0,0,,Too bad.
-Dialogue: 100,0:14:02.86,0:14:04.24,Dialogue,Trine,0,0,0,,Kill them, Kojou.
-Dialogue: 100,0:14:04.66,0:14:06.16,Dialogue,Kojou,0,0,0,,Yes, my lady.
-Dialogue: 100,0:14:06.28,0:14:07.12,Dialogue,Yukina,0,0,0,,Senpai...
-Dialogue: 100,0:14:11.33,0:14:12.71,Dialogue,Trine,0,0,0,,What is this?!
-Dialogue: 100,0:14:12.83,0:14:13.87,Dialogue,Leader,0,0,0,,Hey!
-Dialogue: 100,0:14:13.87,0:14:14.67,Dialogue,Terrorist,0,0,0,,This is...
-Dialogue: 100,0:14:15.08,0:14:17.00,Dialogue,Terrorist,0,0,0,,We're being hacked from outside!
-Dialogue: 100,0:14:17.00,0:14:19.00,Dialogue,Asagi,0,0,0,,Got the piloting system!
-Dialogue: 100,0:14:19.00,0:14:21.34,Dialogue,Asagi,0,0,0,,I'm not letting you get any farther!
-Dialogue: 100,0:14:22.51,0:14:24.05,Dialogue,Terrorist,0,0,0,,Steering is down!
-Dialogue: 100,0:14:24.18,0:14:25.47,Dialogue,Leader,0,0,0,,What about Aurgelmir?!
-Dialogue: 100,0:14:25.47,0:14:27.01,Dialogue,Terrorist,0,0,0,,The hatch won't open!
-Dialogue: 100,0:14:27.64,0:14:29.52,Dialogue,Leader,0,0,0,,Well, fire control is still online, right?!
-Dialogue: 100,0:14:29.64,0:14:30.72,Dialogue,Leader,0,0,0,,Which means...
-Dialogue: 100,0:14:35.44,0:14:36.06,Dialogue,Terrorist,0,0,0,,Launching!
-Dialogue: 100,0:14:42.78,0:14:44.45,Dialogue,Folia,0,0,0,,A cruise missile...
-Dialogue: 100,0:15:12.60,0:15:14.89,Dialogue,Kanon,0,0,0,,What a beautiful gun salute.
-Dialogue: 100,0:15:15.48,0:15:20.19,Dialogue,Kanon,0,0,0,,I wish for nothing but further prosperity \Nand peace for both of our countries.
-Dialogue: 100,0:15:26.45,0:15:27.78,Dialogue,Leader,0,0,0,,It blew itself up?!
-Dialogue: 100,0:15:27.78,0:15:29.78,Dialogue,Terrorist,0,0,0,,The fire control system was...
-Dialogue: 100,0:15:34.58,0:15:36.00,Dialogue,Asagi,0,0,0,,Just in time.
-Dialogue: 100,0:15:37.46,0:15:38.96,Dialogue,Vatler,0,0,0,,What a shame.
-Dialogue: 100,0:15:39.13,0:15:40.79,Dialogue,Trine,0,0,0,,What the hell are you doing?!
-Dialogue: 100,0:15:40.79,0:15:43.26,Dialogue,Leader,0,0,0,,{\i1}Someone took control of {\i0}Bifröst{\i1} from us!
-Dialogue: 100,0:15:43.88,0:15:44.92,Dialogue,Trine,0,0,0,,In that case...
+Dialogue: 100,0:12:31.90,0:12:35.61,Dialogue,Mogwai,0,0,0,,{\i1}Se îndreaptă direct \Nspre locul ceremoniei.
+Dialogue: 100,0:12:35.73,0:12:38.61,Dialogue,Asagi,0,0,0,,Doamne... de ce trebuie \Nsă se întâmple asta?
+Dialogue: 100,0:12:38.61,0:12:39.66,Dialogue,Mogwai,0,0,0,,{\i1}Ce încerci să faci?
+Dialogue: 100,0:12:39.66,0:12:41.87,Dialogue,Asagi,0,0,0,,Să preiau controlul \Nsistemelor de pe Bifröst!
+Dialogue: 100,0:12:41.99,0:12:45.04,Dialogue,Mogwai,0,0,0,,{\i1}Serios? Totuși, vorbim de \Nprotecția unei aeronave de război.
+Dialogue: 100,0:12:45.04,0:12:46.00,Dialogue,Mogwai,0,0,0,,{\i1}Crezi că vei reuși?
+Dialogue: 100,0:12:46.00,0:12:48.12,Dialogue,Asagi,0,0,0,,O voi face, orice ar fi!
+Dialogue: 100,0:12:48.71,0:12:52.13,Dialogue,Voice,0,0,0,,Acum, din partea Imperiului \NLordului Războinic, va vobi
+Dialogue: 100,0:12:52.13,0:12:56.05,Dialogue,Voice,0,0,0,,președintele dietei \Nimperiale, Veres Aladar.
+Dialogue: 100,0:13:02.05,0:13:04.18,Dialogue,Leader,0,0,0,,Pregătiți-vă să trimiteți Aurgelmirul!
+Dialogue: 100,0:13:04.26,0:13:07.10,Dialogue,Mogwai,0,0,0,,{\i1}Ai mai puțin de trei minute înainte ca să ajungă la destinație.
+Dialogue: 100,0:13:07.10,0:13:08.64,Dialogue,Asagi,0,0,0,,Asta chiar e dificil...
+Dialogue: 100,0:13:08.85,0:13:11.85,Dialogue,Asagi,0,0,0,,Dacă aș putea găsi un punct \Nde început, oricât de mic ar fi...
+Dialogue: 100,0:13:11.98,0:13:13.90,Dialogue,Mogwai,0,0,0,,{\i1}Atunci, ce spui de acesta?
+Dialogue: 100,0:13:14.77,0:13:17.32,Dialogue,Asagi,0,0,0,,Asta e... arma magică de mai devreme?
+Dialogue: 100,0:13:17.32,0:13:18.78,Dialogue,Mogwai,0,0,0,,{\i1}Exact!
+Dialogue: 100,0:13:19.95,0:13:23.49,Dialogue,Asagi,0,0,0,,Dacă știai de asta, trebuia să-mi fi spus mai devreme, grămadă de fiare ce ești!
+Dialogue: 100,0:13:24.03,0:13:25.70,Dialogue,Terrorist,0,0,0,,A avut loc o explozie \Nla bordul aeronavei!
+Dialogue: 100,0:13:25.87,0:13:27.95,Dialogue,Trine,0,0,0,,Cred că e mâna acelor fețite.
+Dialogue: 100,0:13:27.95,0:13:29.91,Dialogue,Trine,0,0,0,,Ce deștepte se cred ele.
+Dialogue: 100,0:13:32.79,0:13:35.21,Dialogue,Yukina,0,0,0,,Nu-mi vine să cred că aveai explozibil ascuns în extensiile tale!
+Dialogue: 100,0:13:35.88,0:13:39.67,Dialogue,Yukina,0,0,0,,Dar de ce a trebuit să \Nîncălzești camera atât de tare?
+Dialogue: 100,0:13:39.88,0:13:41.72,Dialogue,Yukina,0,0,0,,Sunt toată transpirată acum!
+Dialogue: 100,0:13:41.72,0:13:44.05,Dialogue,Folia,0,0,0,,Serios? Asta sună teribil.
+Dialogue: 100,0:13:44.35,0:13:45.64,Dialogue,Yukina,0,0,0,,Asta e tot ce ai de spus?
+Dialogue: 100,0:13:45.93,0:13:49.77,Dialogue,Yukina,0,0,0,,Totuși, văd că tu nu \Nai transpirat deloc.
+Dialogue: 100,0:13:49.77,0:13:53.19,Dialogue,Folia,0,0,0,,Îmi mențineam temperatura corpului prin intermediul magiie.
+Dialogue: 100,0:13:53.19,0:13:54.10,Dialogue,Yukina,0,0,0,,Poftim?!
+Dialogue: 100,0:13:54.36,0:13:56.23,Dialogue,Trine,0,0,0,,Până aici v-a fost, fetițelor.
+Dialogue: 100,0:13:56.73,0:14:01.20,Dialogue,Trine,0,0,0,,Dacă erați cuminți, \Nv-aș fi folosit în alte moduri.
+Dialogue: 100,0:14:01.40,0:14:02.86,Dialogue,Trine,0,0,0,,Mare păcat.
+Dialogue: 100,0:14:02.86,0:14:04.24,Dialogue,Trine,0,0,0,,Omoară-le, Kojou.
+Dialogue: 100,0:14:04.66,0:14:06.16,Dialogue,Kojou,0,0,0,,Da, doamna mea.
+Dialogue: 100,0:14:06.28,0:14:07.12,Dialogue,Yukina,0,0,0,,Akatsuki...
+Dialogue: 100,0:14:11.33,0:14:12.71,Dialogue,Trine,0,0,0,,Ce se petrece?!
+Dialogue: 100,0:14:12.83,0:14:13.87,Dialogue,Leader,0,0,0,,Hei!
+Dialogue: 100,0:14:13.87,0:14:14.67,Dialogue,Terrorist,0,0,0,,Asta e...
+Dialogue: 100,0:14:15.08,0:14:17.00,Dialogue,Terrorist,0,0,0,,Cineva încearcă să se conecteze din afară!
+Dialogue: 100,0:14:17.00,0:14:19.00,Dialogue,Asagi,0,0,0,,Am preluat controlul \Nsistemului de pilotaj!
+Dialogue: 100,0:14:19.00,0:14:21.34,Dialogue,Asagi,0,0,0,,Nu veți mai înainta acum!
+Dialogue: 100,0:14:22.51,0:14:24.05,Dialogue,Terrorist,0,0,0,,Sistemul de direcție e picat!
+Dialogue: 100,0:14:24.18,0:14:25.47,Dialogue,Leader,0,0,0,,Cum rămâne cu Aurgelmirul?!
+Dialogue: 100,0:14:25.47,0:14:27.01,Dialogue,Terrorist,0,0,0,,Nu pot deschide ușa de acces!
+Dialogue: 100,0:14:27.64,0:14:29.52,Dialogue,Leader,0,0,0,,Sistemul de tragere \Nîncă funcționează, nu?!
+Dialogue: 100,0:14:29.64,0:14:30.72,Dialogue,Leader,0,0,0,,În acest caz...
+Dialogue: 100,0:14:35.44,0:14:36.06,Dialogue,Terrorist,0,0,0,,Lansare!
+Dialogue: 100,0:14:42.78,0:14:44.45,Dialogue,Folia,0,0,0,,O rachetă de croazieră...
+Dialogue: 100,0:15:12.60,0:15:14.89,Dialogue,Kanon,0,0,0,,Ce salut frumos cu focuri de armă.
+Dialogue: 100,0:15:15.48,0:15:20.19,Dialogue,Kanon,0,0,0,,Îmi doresc ca pacea și prosperitatea să continue pentru ambele țări.
+Dialogue: 100,0:15:26.45,0:15:27.78,Dialogue,Leader,0,0,0,,A explodat în aer?!
+Dialogue: 100,0:15:27.78,0:15:29.78,Dialogue,Terrorist,0,0,0,,Am pierdut și sistemul de tragere...
+Dialogue: 100,0:15:34.58,0:15:36.00,Dialogue,Asagi,0,0,0,,Exact la timp.
+Dialogue: 100,0:15:37.46,0:15:38.96,Dialogue,Vatler,0,0,0,,Mare păcat.
+Dialogue: 100,0:15:39.13,0:15:40.79,Dialogue,Trine,0,0,0,,Ce naiba faceți?!
+Dialogue: 100,0:15:40.79,0:15:43.26,Dialogue,Leader,0,0,0,,{\i1}Cineva a preluat controlul aeronavei Bifröst!
+Dialogue: 100,0:15:43.88,0:15:44.92,Dialogue,Trine,0,0,0,,În acest caz...
 Dialogue: 100,0:15:45.22,0:15:46.13,Dialogue,Trine,0,0,0,,Kojou!
-Dialogue: 100,0:15:46.13,0:15:47.84,Dialogue,Kojou,0,0,0,,Yes, my lady?
-Dialogue: 100,0:15:47.84,0:15:50.47,Dialogue,Trine,0,0,0,,It would've been best to do this \Nwith one of Aldeigia's weapons,
-Dialogue: 100,0:15:50.47,0:15:51.97,Dialogue,Trine,0,0,0,,but now there's no choice.
-Dialogue: 100,0:15:51.97,0:15:54.85,Dialogue,Trine,0,0,0,,Burn the ceremony venue \Nto the ground with your Familiar!
-Dialogue: 100,0:15:56.02,0:15:58.15,Dialogue,Kojou,0,0,0,,Yes, my lady.
-Dialogue: 100,0:16:01.32,0:16:02.23,Dialogue,Folia,0,0,0,,I won't let you!
-Dialogue: 100,0:16:04.99,0:16:05.90,Dialogue,Yukina,0,0,0,,Senpai!
-Dialogue: 100,0:16:15.41,0:16:16.37,Dialogue,Yukina,0,0,0,,Senpai?
-Dialogue: 100,0:16:21.29,0:16:23.00,Dialogue,Kojou,0,0,0,,Just like always, Himeragi...
-Dialogue: 100,0:16:23.59,0:16:25.09,Dialogue,Kojou,0,0,0,,You smell so good.
-Dialogue: 100,0:16:27.01,0:16:28.47,Dialogue,Yukina,0,0,0,,Senpai...
-Dialogue: 100,0:16:28.47,0:16:30.34,Dialogue,Trine,0,0,0,,Kojou... why?
-Dialogue: 100,0:16:30.47,0:16:34.60,Dialogue,Folia,0,0,0,,Give up now. Kojou won't \Nlisten to you anymore.
-Dialogue: 100,0:16:35.85,0:16:37.39,Dialogue,Folia,0,0,0,,You're a therianthrope...
-Dialogue: 100,0:16:37.39,0:16:40.31,Dialogue,Folia,0,0,0,,One of the civet family, \Nif I'm not mistaken.
-Dialogue: 100,0:16:40.31,0:16:41.98,Dialogue,Folia,0,0,0,,I've heard before that
-Dialogue: 100,0:16:42.40,0:16:45.57,Dialogue,Folia,0,0,0,,there are some therianthropes \Nthat can use pheromones
-Dialogue: 100,0:16:45.57,0:16:49.74,Dialogue,Folia,0,0,0,,to bewitch other people, even vampires.
-Dialogue: 100,0:16:49.74,0:16:50.86,Dialogue,Trine,0,0,0,,That's right.
-Dialogue: 100,0:16:50.86,0:16:55.29,Dialogue,Trine,0,0,0,,But no one has ever been able to \Nescape my pheromones before.
-Dialogue: 100,0:16:55.29,0:16:56.66,Dialogue,Trine,0,0,0,,How did he...
-Dialogue: 100,0:16:56.66,0:16:58.58,Dialogue,Folia,0,0,0,,It's quite simple.
-Dialogue: 100,0:16:58.91,0:17:03.71,Dialogue,Folia,0,0,0,,I made sure Yukina got good \Nand sweaty before coming here.
-Dialogue: 100,0:17:04.42,0:17:08.22,Dialogue,Folia,0,0,0,,Between the scent of a youthful \Nmiddle school girl's sweat
-Dialogue: 100,0:17:08.22,0:17:10.88,Dialogue,Folia,0,0,0,,and an old lady's fake, \Nperfumed body odor...
-Dialogue: 100,0:17:11.55,0:17:15.26,Dialogue,Folia,0,0,0,,It's no challenge to figure out \Nwhich would be more alluring.
-Dialogue: 100,0:17:15.26,0:17:16.93,Dialogue,Trine,0,0,0,,Who are you calling an old lady?!
-Dialogue: 100,0:17:16.93,0:17:18.73,Dialogue,Folia,0,0,0,,Oh! How rude of me!
-Dialogue: 100,0:17:18.73,0:17:20.98,Dialogue,Folia,0,0,0,,You're not an old lady. You're an old hag.
+Dialogue: 100,0:15:46.13,0:15:47.84,Dialogue,Kojou,0,0,0,,Da, doamna mea?
+Dialogue: 100,0:15:47.84,0:15:50.47,Dialogue,Trine,0,0,0,,Ar fi fost cel mai bine s-o facem cu una din armele Regatului Aldeigia,
+Dialogue: 100,0:15:50.47,0:15:51.97,Dialogue,Trine,0,0,0,,dar acum nu mai avem de ales.
+Dialogue: 100,0:15:51.97,0:15:54.85,Dialogue,Trine,0,0,0,,Arde locația ceremoniei cu Spiritul tău!
+Dialogue: 100,0:15:56.02,0:15:58.15,Dialogue,Kojou,0,0,0,,Da, doamna mea.
+Dialogue: 100,0:16:01.32,0:16:02.23,Dialogue,Folia,0,0,0,,Nici să nu te gândești!
+Dialogue: 100,0:16:04.99,0:16:05.90,Dialogue,Yukina,0,0,0,,Akatsuki!
+Dialogue: 100,0:16:15.41,0:16:16.37,Dialogue,Yukina,0,0,0,,Akatsuki?
+Dialogue: 100,0:16:21.29,0:16:23.00,Dialogue,Kojou,0,0,0,,Exact ca întotdeauna, Himeragi...
+Dialogue: 100,0:16:23.59,0:16:25.09,Dialogue,Kojou,0,0,0,,Miroși foarte bine.
+Dialogue: 100,0:16:27.01,0:16:28.47,Dialogue,Yukina,0,0,0,,Akatsuki...
+Dialogue: 100,0:16:28.47,0:16:30.34,Dialogue,Trine,0,0,0,,Kojou... de ce?
+Dialogue: 100,0:16:30.47,0:16:34.60,Dialogue,Folia,0,0,0,,Renunță. Kojou nu-ți \Nva mai urma ordinele.
+Dialogue: 100,0:16:35.85,0:16:37.39,Dialogue,Folia,0,0,0,,Ești un teriantrop...
+Dialogue: 100,0:16:37.39,0:16:40.31,Dialogue,Folia,0,0,0,,Din familia zibeta dacă nu greșesc.
+Dialogue: 100,0:16:40.31,0:16:41.98,Dialogue,Folia,0,0,0,,Am auzit că
+Dialogue: 100,0:16:42.40,0:16:45.57,Dialogue,Folia,0,0,0,,există teriantropi care \Npot folosi feromoni
+Dialogue: 100,0:16:45.57,0:16:49.74,Dialogue,Folia,0,0,0,,ca să farmece oameni sau chiar vampiri. 
+Dialogue: 100,0:16:49.74,0:16:50.86,Dialogue,Trine,0,0,0,,Așa este.
+Dialogue: 100,0:16:50.86,0:16:55.29,Dialogue,Trine,0,0,0,,Dar nimeni nu a mai reușit să scape de sub controlul meu până acum.
+Dialogue: 100,0:16:55.29,0:16:56.66,Dialogue,Trine,0,0,0,,Deci cum a reușit el să...
+Dialogue: 100,0:16:56.66,0:16:58.58,Dialogue,Folia,0,0,0,,E destul de simplu.
+Dialogue: 100,0:16:58.91,0:17:03.71,Dialogue,Folia,0,0,0,,M-am asigurat că Yukina e transpirată bine-bine înainte să venim aici.
+Dialogue: 100,0:17:04.42,0:17:08.22,Dialogue,Folia,0,0,0,,Între mirosul de transpirație al unei eleve
+Dialogue: 100,0:17:08.22,0:17:10.88,Dialogue,Folia,0,0,0,,și mirosul fals și parfumat al unei bătrâne...
+Dialogue: 100,0:17:11.55,0:17:15.26,Dialogue,Folia,0,0,0,,E ușor de ghicit care e mai seducător.
+Dialogue: 100,0:17:15.26,0:17:16.93,Dialogue,Trine,0,0,0,,Pe cine numești tu bătrână?!
+Dialogue: 100,0:17:16.93,0:17:18.73,Dialogue,Folia,0,0,0,,Vai, cât de nepoliticos din partea mea!
+Dialogue: 100,0:17:18.73,0:17:20.98,Dialogue,Folia,0,0,0,,Nu ești o bătrână. Ești o babetă.
 Dialogue: 100,0:17:21.06,0:17:24.31,Dialogue,Trine,0,0,0,,Nemernico!
 Dialogue: 100,0:17:26.69,0:17:27.65,Dialogue,Folia,0,0,0,,Nu se poate...
-Dialogue: 100,0:17:29.44,0:17:33.12,Dialogue,Folia,0,0,0,,Looks like the guys down below \Nknew what they needed to do!
+Dialogue: 100,0:17:29.44,0:17:33.12,Dialogue,Folia,0,0,0,,Se pare că tipii din \Naeronavă știu ce au de făcut!
 Dialogue: 100,0:17:33.12,0:17:34.07,Dialogue,Leader,0,0,0,,Nu-mi pasă!
 Dialogue: 100,0:17:34.07,0:17:37.16,Dialogue,Leader,0,0,0,,Distruge-i armura, Aurgelmir!
 Dialogue: 100,0:17:42.33,0:17:43.33,Dialogue,Kojou,0,0,0,,Ai grijă!
@@ -318,53 +313,53 @@ Dialogue: 100,0:17:49.21,0:17:50.97,Dialogue,Trine,0,0,0,,cât și locația cere
 Dialogue: 100,0:17:50.97,0:17:53.51,Dialogue,Trine,0,0,0,,Le voi distruge pe toate!
 Dialogue: 100,0:17:55.97,0:17:57.43,Dialogue,Yukina,0,0,0,,Akatsuki...
 Dialogue: 100,0:17:57.43,0:17:58.64,Dialogue,Kojou,0,0,0,,Himeragi...
-Dialogue: 100,0:18:17.20,0:18:21.66,Dialogue,Trine,0,0,0,,Now, let's just see how long you can keep
-Dialogue: 100,0:18:21.91,0:18:23.54,Dialogue,Trine,0,0,0,,that calm look on your face!
-Dialogue: 100,0:18:27.84,0:18:28.92,Dialogue,Yukina,0,0,0,,Pulsație!
+Dialogue: 100,0:18:17.20,0:18:21.66,Dialogue,Trine,0,0,0,,Și acum, haide să vedem \Ncât îți mai poți menține
+Dialogue: 100,0:18:21.91,0:18:23.54,Dialogue,Trine,0,0,0,,expresia ta calmă!
+Dialogue: 100,0:18:27.84,0:18:28.92,Dialogue,Yukina,0,0,0,,Vibrație!
 Dialogue: 100,0:18:30.67,0:18:32.26,Dialogue,Trine,0,0,0,,Fetiță nemernică!
 Dialogue: 100,0:18:32.92,0:18:33.80,Dialogue,Natsuki,0,0,0,,Șamanule Spadasin!
 Dialogue: 100,0:18:34.51,0:18:36.51,Dialogue,Natsuki,0,0,0,,Am un cadou pentru tine de \Nla Dansatoarea Războinică.
-Dialogue: 100,0:18:37.72,0:18:40.47,Dialogue,Natsuki,0,0,0,,Some nerve, using me \Nas her delivery service...
+Dialogue: 100,0:18:37.72,0:18:40.47,Dialogue,Natsuki,0,0,0,,Cât tupeu să mă \Nfolosească drept livrator...
 Dialogue: 100,0:18:40.85,0:18:43.23,Dialogue,Natsuki,0,0,0,,Eu mă voi ocupa de teroriști.
-Dialogue: 100,0:18:43.73,0:18:46.48,Dialogue,Natsuki,0,0,0,,Te poți ocupa tu de lucruri aici, \Nnu-i așa, Akatsuki Kojou?
+Dialogue: 100,0:18:43.73,0:18:46.48,Dialogue,Natsuki,0,0,0,,Te poți ocupa tu de situația de aici, \Nnu-i așa, Akatsuki Kojou?
 Dialogue: 100,0:18:46.73,0:18:47.94,Dialogue,Kojou,0,0,0,,Da.
 Dialogue: 100,0:18:48.48,0:18:50.44,Dialogue,Kojou,0,0,0,,Hei, teroristo...
-Dialogue: 100,0:18:50.61,0:18:53.90,Dialogue,Kojou,0,0,0,,You've been using me \Nas your toy long enough.
+Dialogue: 100,0:18:50.61,0:18:53.90,Dialogue,Kojou,0,0,0,,Am fost destul timp jucăria ta.
 Dialogue: 100,0:18:54.15,0:18:56.37,Dialogue,Kojou,0,0,0,,De acum,
 Dialogue: 100,0:18:56.37,0:18:57.53,Dialogue,Kojou,0,0,0,,asta e lupta mea!
 Dialogue: 100,0:18:58.74,0:19:00.24,Dialogue,Yukina,0,0,0,,Nu, Akatsuki.
 Dialogue: 100,0:19:00.24,0:19:01.50,Dialogue,Yukina,0,0,0,,Asta e lupta noastră!
 Dialogue: 100,0:19:01.50,0:19:03.96,Dialogue,Trine,0,0,0,,Gura!
-Dialogue: 100,0:19:04.62,0:19:09.34,Dialogue,Kojou,0,0,0,,I, Akatsuki Kojou, successor to \Nthe blood of Kaleid Blood,
-Dialogue: 100,0:19:09.34,0:19:11.55,Dialogue,Kojou,0,0,0,,now release your constraints.
-Dialogue: 100,0:19:12.17,0:19:15.09,Dialogue,Kojou,0,0,0,,Come, fifth Familiar,
+Dialogue: 100,0:19:04.62,0:19:09.34,Dialogue,Kojou,0,0,0,,Eu, Akatsuki Kojou, \Ndescendent al sângelui Kaleid Blood,
+Dialogue: 100,0:19:09.34,0:19:11.55,Dialogue,Kojou,0,0,0,,îți eliberez limitările.
+Dialogue: 100,0:19:12.17,0:19:15.09,Dialogue,Kojou,0,0,0,,Apari, al V-lea Spirit,
 Dialogue: 100,0:19:15.09,0:19:16.64,Dialogue,Kojou,0,0,0,,Regulus Aurum!
-Dialogue: 100,0:19:21.85,0:19:25.56,Dialogue,Yukina,0,0,0,,I, Sword Shaman of the High God,\Nas a priestess of the Lion, beseech thee...
-Dialogue: 100,0:19:26.52,0:19:29.27,Dialogue,Yukina,0,0,0,,Dawn light of exorcism, spirit wolf of snowy mist...
-Dialogue: 100,0:19:29.27,0:19:31.19,Dialogue,Yukina,0,0,0,,Grant me the divine might of thy steel,
-Dialogue: 100,0:19:31.19,0:19:34.03,Dialogue,Yukina,0,0,0,,that I may smite a hundred evil spirits!
+Dialogue: 100,0:19:21.85,0:19:25.56,Dialogue,Yukina,0,0,0,,Eu, Șaman Spadasin al Zeului Superm, ca preoteasă a Leului, te implor...
+Dialogue: 100,0:19:26.52,0:19:29.27,Dialogue,Yukina,0,0,0,,Lumina zorilor exorcizării, \Nlup spiritual al viscolului...
+Dialogue: 100,0:19:29.27,0:19:31.19,Dialogue,Yukina,0,0,0,,Oferă-mi puterea divină a oțelului tău
+Dialogue: 100,0:19:31.19,0:19:34.03,Dialogue,Yukina,0,0,0,,pentru a exorciza o sută de spirite rele!
 Dialogue: 100,0:19:55.34,0:19:57.22,Dialogue,Yukina,0,0,0,,Am reușit, Akatsuki!
 Dialogue: 100,0:19:57.22,0:19:57.84,Dialogue,Kojou,0,0,0,,Da.
 Dialogue: 100,0:19:58.14,0:19:59.59,Dialogue,Yukina,0,0,0,,Dar...
 Dialogue: 100,0:19:59.59,0:20:02.06,Dialogue,Yukina,0,0,0,,Cred că am mers puțin prea departe.
 Dialogue: 100,0:20:02.06,0:20:02.97,Dialogue,Kojou,0,0,0,,Ce?
 Dialogue: 100,0:20:04.85,0:20:05.52,Dialogue,Kojou,0,0,0,,Ce?!
-Dialogue: 100,0:20:09.48,0:20:13.98,Dialogue,Kojou,0,0,0,,Gimme a break!
+Dialogue: 100,0:20:09.48,0:20:13.98,Dialogue,Kojou,0,0,0,,Îți bați cumva joc de mine?!
 Dialogue: 100,0:21:46.45,0:21:47.91,Dialogue,Folia,0,0,0,,Mersi, Kojou.
 Dialogue: 100,0:21:48.33,0:21:50.37,Dialogue,Folia,0,0,0,,Chiar m-am bucurat \Nde șederea mea aici.
 Dialogue: 100,0:21:50.54,0:21:53.42,Dialogue,Kojou,0,0,0,,Oh, serios? Mă bucur să aud asta.
 Dialogue: 100,0:21:54.25,0:21:58.59,Dialogue,Polifonia,0,0,0,,Kanon, sper să vii și să ne vizitezi în Aldeigia când vei putea.
 Dialogue: 100,0:21:58.59,0:21:59.38,Dialogue,Kanon,0,0,0,,Desigur!
 Dialogue: 100,0:21:59.38,0:22:00.84,Dialogue,Nagisa,0,0,0,,Mă bucur așa de mult \Npentru tine, Kanon.
-Dialogue: 100,0:22:01.26,0:22:06.43,Dialogue,Nagisa,0,0,0,,It's kind of a shame that this all ended \Nwhile I was sleeping late, though...
-Dialogue: 100,0:22:07.56,0:22:12.89,Dialogue,Polifonia,0,0,0,,Kojou, te rog să te gândești în privința căsătoriei cu La Folia.
-Dialogue: 100,0:22:12.89,0:22:17.32,Dialogue,Polifonia,0,0,0,,If you do, we'll forget that the damage \Nto {\i1}Bifröst{\i0} ever happened.
-Dialogue: 100,0:22:18.23,0:22:19.90,Dialogue,Lucas,0,0,0,,Listen up, you!
+Dialogue: 100,0:22:01.26,0:22:06.43,Dialogue,Nagisa,0,0,0,,Mare păcat că totul s-a \Nterminat în timp ce eu dormeam...
+Dialogue: 100,0:22:07.56,0:22:12.89,Dialogue,Polifonia,0,0,0,,Kojou, te rog să te gândești \Nla căsătoria cu La Folia.
+Dialogue: 100,0:22:12.89,0:22:17.32,Dialogue,Polifonia,0,0,0,,Dacă o vei face, vom uita de \Ndistrugerea aeronavei Bifröst.
+Dialogue: 100,0:22:18.23,0:22:19.90,Dialogue,Lucas,0,0,0,,Hei, tu!
 Dialogue: 100,0:22:20.53,0:22:24.32,Dialogue,Lucas,0,0,0,,Să nu te crezi mare și tare doar pentru că ai învins arma Aurgelmir!
 Dialogue: 100,0:22:24.32,0:22:28.58,Dialogue,Lucas,0,0,0,,E cea mai slabă armă \Nmagică a Regatului Aldeigia!
 Dialogue: 100,0:22:28.58,0:22:32.21,Dialogue,Lucas,0,0,0,,Mai avem și alte arme, cum ar fi: Loki, Thor, \Nși cea mai recentă armă a noastră, Odin!
 Dialogue: 100,0:22:32.21,0:22:35.17,Dialogue,Polifonia,0,0,0,,Da, da. E timpul să mergem, dragule.
-Dialogue: 100,0:22:32.50,0:22:35.17,Dialogue,Lucas,0,0,0,,{\an8}Îți spun, Odin, cea mai recentă armă a noastră!
+Dialogue: 100,0:22:32.50,0:22:35.17,Dialogue,Lucas,0,0,0,,{\an8}Odin, cea mai recentă armă a noastră!
 Dialogue: 100,0:22:35.17,0:22:35.67,Dialogue,Lucas,0,0,0,,Bine.
 Dialogue: 100,0:22:40.55,0:22:41.97,Dialogue,Kojou,0,0,0,,Doamne...
 Dialogue: 100,0:22:41.97,0:22:44.05,Dialogue,Kojou,0,0,0,,În sfârșit, au plecat.
@@ -376,18 +371,18 @@ Dialogue: 100,0:22:58.82,0:23:01.65,Dialogue,Kojou,0,0,0,,Îmi amintesc când am
 Dialogue: 100,0:23:01.65,0:23:04.28,Dialogue,Kojou,0,0,0,,dar nu-mi amintesc \Nnimic înainte de asta.
 Dialogue: 100,0:23:04.74,0:23:07.45,Dialogue,Yukina,0,0,0,,Sper că spui adevărul... \Npentru binele amândurora.
 Dialogue: 100,0:23:07.45,0:23:09.41,Dialogue,Kojou,0,0,0,,Ce? Binele amândurora?
-Dialogue: 100,0:23:09.41,0:23:12.54,Dialogue,Kojou,0,0,0,,I don't know about me, \Nbut you're fine, right?
+Dialogue: 100,0:23:09.41,0:23:12.54,Dialogue,Kojou,0,0,0,,Nu prea știu de mine, \Ndar tu ești în regulă, nu-i așa?
 Dialogue: 100,0:23:13.46,0:23:15.58,Dialogue,Yukina,0,0,0,,Deci îți amintești!
-Dialogue: 100,0:23:15.87,0:23:17.83,Dialogue,Kojou,0,0,0,,I mean, I can't help it!
-Dialogue: 100,0:23:17.83,0:23:21.71,Dialogue,Kojou,0,0,0,,I'm the one who was humiliated over being forced \Nto act like some eighth-grade edgelord!
-Dialogue: 100,0:23:21.71,0:23:23.05,Dialogue,Kojou,0,0,0,,You have nothing to be embarra—
+Dialogue: 100,0:23:15.87,0:23:17.83,Dialogue,Kojou,0,0,0,,Ei bine, nu e vina mea!
+Dialogue: 100,0:23:17.83,0:23:21.71,Dialogue,Kojou,0,0,0,,Eu am fost cel umilit și forțat \Nsă mă comport ca un sclav!
+Dialogue: 100,0:23:21.71,0:23:23.05,Dialogue,Kojou,0,0,0,,Tu nu ai de ce să fii jena...
 Dialogue: 100,0:23:23.55,0:23:25.55,Dialogue,Kojou,0,0,0,,{\an8}Hei! Ce naiba?! Mă doare!
 Dialogue: 100,0:23:24.13,0:23:26.68,Dialogue,Yukina,0,0,0,,Ești așa o persoană indecentă, Akatsuki!
 Dialogue: 100,0:23:25.72,0:23:28.01,Dialogue,Kojou,0,0,0,,{\an8}Au, au, au, au, auci!
 Dialogue: 100,0:23:26.68,0:23:28.85,Dialogue,Yukina,0,0,0,,Cum ai putut s-o lași să-ți dea ordine?!
 Dialogue: 100,0:23:28.85,0:23:31.43,Dialogue,Yukina,0,0,0,,Ce ai făcut cu ea în acel adormitor?!
 Dialogue: 100,0:23:31.43,0:23:32.52,Dialogue,Yukina,0,0,0,,Și...
-Dialogue: 100,0:23:32.85,0:23:35.10,Dialogue,Yukina,0,0,0,,Când m-ai luat în brațe și eram transpirată
+Dialogue: 100,0:23:32.85,0:23:35.10,Dialogue,Yukina,0,0,0,,Când m-ai luat în brațe \Nși eram transpirată
 Dialogue: 100,0:23:35.10,0:23:38.86,Dialogue,Yukina,0,0,0,,și m-ai spus că miros bine \Ncu o față serioasă... eu...
 Dialogue: 100,0:23:39.81,0:23:40.77,Dialogue,Kojou,0,0,0,,Ce?
 Dialogue: 100,0:23:40.90,0:23:43.82,Dialogue,Yukina,0,0,0,,Vai, ce naiba mă faci să spun?!
@@ -416,6 +411,8 @@ Dialogue: 2,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1162.16,520.
 Dialogue: 0,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1160.59,520.83)\org(1158.29,520.83)\fscx55\fscy55.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
 Dialogue: 1,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1164.59,521.83)\org(1162.29,521.83)\fscx55\fscy55.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
 Dialogue: 2,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1162.59,520.83)\org(1160.29,520.83)\fscx55\fscy55.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
+Dialogue: 0,0:12:17.93,0:12:19.97,DedzuyaSigns,,0,0,0,,{\an7\pos(960,610)\c&H060606&\blur1\p1}m -547 13 l 470 13 470 119 -547 119
+Dialogue: 1,0:12:17.93,0:12:19.97,DedzuyaSigns,,0,0,0,,{\an8\pos(960,610)\fscx110\fscy120\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&\alpha&HFF&\blur10\be10\t(0,480,0.7,\blur0.5\be0\alpha&H00&)}Regatul Valkiriei II
 Comment: 0,0:00:04.32,0:00:04.36,OP TL,,0,0,0,,{OP first Kojou-Himeragi-Sayaka-Astarte transition frame}
 Dialogue: 0,0:00:19.88,0:00:25.63,OP TL,,0,0,0,,{\bord4\c&H0001BF&\3c&H0001BF&\alpha&H70&\blur5\fad(120,120)\t(120,240,\c&H000000&\3c&H000000&)\t(5510,5630,\c&H0001BF&\3c&H0001BF&)}Ca să nu mă las înecată de aceste sentimente copleșitoare,
 Dialogue: 1,0:00:19.88,0:00:25.63,OP TL,,0,0,0,,{\c&H0001BF&\3c&H0001BF&\blur0.8\fad(120,120)\t(120,240,\c&H000000&\3c&H000000&)\t(5510,5630,\c&H0001BF&\3c&H0001BF&)}Ca să nu mă las înecată de aceste sentimente copleșitoare,
