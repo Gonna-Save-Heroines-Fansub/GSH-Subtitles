@@ -276,7 +276,7 @@ Dialogue: 100,0:15:45.22,0:15:46.13,Dialogue,Trine,0,0,0,,Kojou!
 Dialogue: 100,0:15:46.13,0:15:47.84,Dialogue,Kojou,0,0,0,,Da, doamna mea?
 Dialogue: 100,0:15:47.84,0:15:50.47,Dialogue,Trine,0,0,0,,Ar fi fost cel mai bine s-o facem cu una din armele Regatului Aldeigia,
 Dialogue: 100,0:15:50.47,0:15:51.97,Dialogue,Trine,0,0,0,,dar acum nu mai avem de ales.
-Dialogue: 100,0:15:51.97,0:15:54.85,Dialogue,Trine,0,0,0,,Arde locația ceremoniei cu Spiritul tău!
+Dialogue: 100,0:15:51.97,0:15:54.85,Dialogue,Trine,0,0,0,,Arde locația ceremoniei \Ncu unul din demonii tăi!
 Dialogue: 100,0:15:56.02,0:15:58.15,Dialogue,Kojou,0,0,0,,Da, doamna mea.
 Dialogue: 100,0:16:01.32,0:16:02.23,Dialogue,Folia,0,0,0,,Nici să nu te gândești!
 Dialogue: 100,0:16:04.99,0:16:05.90,Dialogue,Yukina,0,0,0,,Akatsuki!
@@ -290,7 +290,7 @@ Dialogue: 100,0:16:35.85,0:16:37.39,Dialogue,Folia,0,0,0,,Ești un teriantrop...
 Dialogue: 100,0:16:37.39,0:16:40.31,Dialogue,Folia,0,0,0,,Din familia zibeta dacă nu greșesc.
 Dialogue: 100,0:16:40.31,0:16:41.98,Dialogue,Folia,0,0,0,,Am auzit că
 Dialogue: 100,0:16:42.40,0:16:45.57,Dialogue,Folia,0,0,0,,există teriantropi care \Npot folosi feromoni
-Dialogue: 100,0:16:45.57,0:16:49.74,Dialogue,Folia,0,0,0,,ca să farmece oameni sau chiar vampiri. 
+Dialogue: 100,0:16:45.57,0:16:49.74,Dialogue,Folia,0,0,0,,ca să farmece oameni sau chiar vampiri.
 Dialogue: 100,0:16:49.74,0:16:50.86,Dialogue,Trine,0,0,0,,Așa este.
 Dialogue: 100,0:16:50.86,0:16:55.29,Dialogue,Trine,0,0,0,,Dar nimeni nu a mai reușit să scape de sub controlul meu până acum.
 Dialogue: 100,0:16:55.29,0:16:56.66,Dialogue,Trine,0,0,0,,Deci cum a reușit el să...
@@ -332,7 +332,7 @@ Dialogue: 100,0:19:00.24,0:19:01.50,Dialogue,Yukina,0,0,0,,Asta e lupta noastră
 Dialogue: 100,0:19:01.50,0:19:03.96,Dialogue,Trine,0,0,0,,Gura!
 Dialogue: 100,0:19:04.62,0:19:09.34,Dialogue,Kojou,0,0,0,,Eu, Akatsuki Kojou, \Ndescendent al sângelui Kaleid Blood,
 Dialogue: 100,0:19:09.34,0:19:11.55,Dialogue,Kojou,0,0,0,,îți eliberez limitările.
-Dialogue: 100,0:19:12.17,0:19:15.09,Dialogue,Kojou,0,0,0,,Apari, al V-lea Spirit,
+Dialogue: 100,0:19:12.17,0:19:15.09,Dialogue,Kojou,0,0,0,,Apari, al V-lea demon,
 Dialogue: 100,0:19:15.09,0:19:16.64,Dialogue,Kojou,0,0,0,,Regulus Aurum!
 Dialogue: 100,0:19:21.85,0:19:25.56,Dialogue,Yukina,0,0,0,,Eu, Șaman Spadasin al Zeului Superm, ca preoteasă a Leului, te implor...
 Dialogue: 100,0:19:26.52,0:19:29.27,Dialogue,Yukina,0,0,0,,Lumina zorilor exorcizării, \Nlup spiritual al viscolului...
@@ -413,6 +413,18 @@ Dialogue: 1,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1164.59,521.
 Dialogue: 2,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1162.59,520.83)\org(1160.29,520.83)\fscx55\fscy55.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
 Dialogue: 0,0:12:17.93,0:12:19.97,DedzuyaSigns,,0,0,0,,{\an7\pos(960,610)\c&H060606&\blur1\p1}m -547 13 l 470 13 470 119 -547 119
 Dialogue: 1,0:12:17.93,0:12:19.97,DedzuyaSigns,,0,0,0,,{\an8\pos(960,610)\fscx110\fscy120\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&\alpha&HFF&\blur10\be10\t(0,480,0.7,\blur0.5\be0\alpha&H00&)}Regatul Valkiriei II
+Dialogue: 0,0:23:50.24,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1335,570)\p1\c&H000000&}m -461 10 l 472 10 472 72 -461 72
+Dialogue: 1,0:23:50.24,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an8\fscx92\fscy102\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&HR\blur0.5\pos(1335,570)}Regatul Valkiriei
+Dialogue: 0,0:23:50.95,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an7\pos(1770,875)\c&H000000&\blur1\p1}m -1770 -175 l 150 -175 150 205 -1770 205
+Dialogue: 1,0:23:50.95,0:23:50.99,DedzuyaSigns,,0,0,0,,{\an6\pos(1000,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&H2424FF&\blur20\be20}Sfârșit
+Dialogue: 1,0:23:50.99,0:23:51.03,DedzuyaSigns,,0,0,0,,{\an6\pos(1600,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&H4D4DFF&\blur10\be10}Sfârșit
+Dialogue: 1,0:23:51.03,0:23:51.08,DedzuyaSigns,,0,0,0,,{\an6\pos(1690,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&H6E6EFF&\blur8\be8}Sfârșit
+Dialogue: 1,0:23:51.08,0:23:51.12,DedzuyaSigns,,0,0,0,,{\an6\pos(1730,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&H8A8AFF&\blur4.85\be4.58}Sfârșit
+Dialogue: 1,0:23:51.12,0:23:51.16,DedzuyaSigns,,0,0,0,,{\an6\pos(1750,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&HA5A5FF&\blur3.85\be3.53}Sfârșit
+Dialogue: 1,0:23:51.16,0:23:51.20,DedzuyaSigns,,0,0,0,,{\an6\pos(1760,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&HBEBEFF&\blur2\be1}Sfârșit
+Dialogue: 1,0:23:51.20,0:23:51.24,DedzuyaSigns,,0,0,0,,{\an6\pos(1765,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&HD5D5FF&\blur1.5}Sfârșit
+Dialogue: 1,0:23:51.24,0:23:51.28,DedzuyaSigns,,0,0,0,,{\an6\pos(1770,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&HECECFF&\blur0.8}Sfârșit
+Dialogue: 1,0:23:51.28,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an6\pos(1770,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\blur0.5}Sfârșit
 Comment: 0,0:00:04.32,0:00:04.36,OP TL,,0,0,0,,{OP first Kojou-Himeragi-Sayaka-Astarte transition frame}
 Dialogue: 0,0:00:19.88,0:00:25.63,OP TL,,0,0,0,,{\bord4\c&H0001BF&\3c&H0001BF&\alpha&H70&\blur5\fad(120,120)\t(120,240,\c&H000000&\3c&H000000&)\t(5510,5630,\c&H0001BF&\3c&H0001BF&)}Ca să nu mă las înecată de aceste sentimente copleșitoare,
 Dialogue: 1,0:00:19.88,0:00:25.63,OP TL,,0,0,0,,{\c&H0001BF&\3c&H0001BF&\blur0.8\fad(120,120)\t(120,240,\c&H000000&\3c&H000000&)\t(5510,5630,\c&H0001BF&\3c&H0001BF&)}Ca să nu mă las înecată de aceste sentimente copleșitoare,
