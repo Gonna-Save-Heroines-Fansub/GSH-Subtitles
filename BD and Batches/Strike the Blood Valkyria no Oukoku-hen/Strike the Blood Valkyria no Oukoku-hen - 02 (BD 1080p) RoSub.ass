@@ -63,7 +63,7 @@ Dialogue: 100,0:03:02.70,0:03:05.08,Dialogue,Trine,0,0,0,,Desigur, știind despr
 Dialogue: 100,0:03:05.08,0:03:07.04,Dialogue,Trine,0,0,0,,cel mai probabil nu \Nne vor accepta cererea.
 Dialogue: 100,0:03:07.25,0:03:08.63,Dialogue,Leader,0,0,0,,{\i1}Mă aștept la asta.
 Dialogue: 100,0:03:08.63,0:03:11.13,Dialogue,Leader,0,0,0,,{\i1}Dar va instaura haosul \Nși ne va câștiga timp.
-Dialogue: 100,0:03:12.30,0:03:16.84,Dialogue,Trine,0,0,0,,Sunteți tari ca piatra în \Nceea ce privește precauția.
+Dialogue: 100,0:03:12.30,0:03:16.84,Dialogue,Trine,0,0,0,,O aveți tare ca piatra, precauția.
 Dialogue: 100,0:03:16.84,0:03:20.76,Dialogue,Trine,0,0,0,,Oare creșterea într-o țară rece îți îngheață și modul de gândire?
 Dialogue: 100,0:03:21.10,0:03:23.27,Dialogue,Leader,0,0,0,,{\i1}Noi prețuim certitudinea, asta e tot.
 Dialogue: 100,0:03:23.73,0:03:26.23,Dialogue,Leader,0,0,0,,{\i1}Sper că ești conștientă, Trine Halden,
@@ -93,7 +93,7 @@ Dialogue: 100,0:04:42.18,0:04:45.77,Dialogue,Trine,0,0,0,,E prea multă gălăgi
 Dialogue: 100,0:04:45.77,0:04:46.47,Dialogue,Kojou,0,0,0,,Desigur.
 Dialogue: 100,0:04:46.47,0:04:48.89,Dialogue,Trine,0,0,0,,Nu pot merge până \Nnu mi se usucă unghiile.
 Dialogue: 100,0:04:48.89,0:04:50.94,Dialogue,Trine,0,0,0,,Cară-mă ca pe o prințesă, Kojou.
-Dialogue: 100,0:04:50.94,0:04:53.44,Dialogue,Kojou,0,0,0,,Plăcerea este a mea, doamna mea.
+Dialogue: 100,0:04:50.94,0:04:53.44,Dialogue,Kojou,0,0,0,,Va fi plăcerea mea, doamna mea.
 Dialogue: 100,0:05:10.12,0:05:13.00,Dialogue,Lady,0,0,0,,Ceremonia de semnare a tratatului dintre Aldeigia și Imperiul Lordului Războinic
 Dialogue: 100,0:05:13.00,0:05:17.92,Dialogue,Lady,0,0,0,,va avea loc în această după-amiază în zona nou-construită de pe insula Itogami...
 Dialogue: 100,0:05:17.92,0:05:22.22,Dialogue,Guy,0,0,0,,Cele două națiuni s-au luptat de mai multe ori în secolul al XX-lea,
@@ -169,7 +169,7 @@ Dialogue: 100,0:09:12.99,0:09:14.28,Dialogue,Kojou,0,0,0,,Să mergem.
 Dialogue: 100,0:09:14.37,0:09:17.70,Dialogue,Yukina,0,0,0,,De ce continui s-o lași să-ți dea ordine?!
 Dialogue: 100,0:09:19.00,0:09:22.88,Dialogue,Yukina,0,0,0,,Încearcă să pornească un război!
 Dialogue: 100,0:09:24.92,0:09:27.76,Dialogue,Trine,0,0,0,,Gura, fetițo.
-Dialogue: 100,0:09:27.76,0:09:30.93,Dialogue,Trine,0,0,0,,Ți-am spus, Kojou e al meu.
+Dialogue: 100,0:09:27.76,0:09:30.93,Dialogue,Trine,0,0,0,,Ți-am spus deja, Kojou e al meu.
 Dialogue: 100,0:09:30.93,0:09:31.84,Dialogue,Trine,0,0,0,,Nu-i așa?
 Dialogue: 100,0:09:31.84,0:09:33.80,Dialogue,Kojou,0,0,0,,Da, doamna mea.
 Dialogue: 100,0:09:35.39,0:09:38.10,Dialogue,Yukina,0,0,0,,Akatsuki, prostule!
@@ -203,7 +203,7 @@ Dialogue: 100,0:11:13.24,0:11:14.78,Dialogue,Commander,0,0,0,,Lansați rachetele
 Dialogue: 100,0:11:14.78,0:11:16.74,Dialogue,Soldier,0,0,0,,Nu avem destul timp \Nîncât să ajustăm ținta!
 Dialogue: 100,0:11:19.99,0:11:24.00,Dialogue,Sayaka,0,0,0,,{\i1}Paza insulei va fi prinsă \Ncu protejarea insulei.
 Dialogue: 100,0:11:24.00,0:11:25.50,Dialogue,Sayaka,0,0,0,,{\i1}Deci locul ceremoniei...
-Dialogue: 100,0:11:27.88,0:11:31.96,Dialogue,Sayaka,0,0,0,,Eu, Dansatoarea Războinică a Zeului Suprem, \Nca dansatoare a Leului, te impor!
+Dialogue: 100,0:11:27.88,0:11:31.96,Dialogue,Sayaka,0,0,0,,Eu, ca Dansatoarea Războinică a Zeului Suprem și dansatoare a Leului, te impor!
 Dialogue: 100,0:11:31.96,0:11:35.47,Dialogue,Sayaka,0,0,0,,Enku al Aurorei, \NQilin al luminii strălucitoare,
 Dialogue: 100,0:11:36.84,0:11:39.30,Dialogue,Sayaka,0,0,0,,tu, cel ce stăpânești trăsnetele și cerurile,
 Dialogue: 100,0:11:39.30,0:11:40.68,Dialogue,Sayaka,0,0,0,,înfățișează-te în focul tău năprasnic
@@ -226,7 +226,7 @@ Dialogue: 100,0:12:46.00,0:12:48.12,Dialogue,Asagi,0,0,0,,O voi face, orice ar f
 Dialogue: 100,0:12:48.71,0:12:52.13,Dialogue,Voice,0,0,0,,Acum, din partea Imperiului \NLordului Războinic, va vobi
 Dialogue: 100,0:12:52.13,0:12:56.05,Dialogue,Voice,0,0,0,,președintele dietei \Nimperiale, Veres Aladar.
 Dialogue: 100,0:13:02.05,0:13:04.18,Dialogue,Leader,0,0,0,,Pregătiți-vă să trimiteți Aurgelmirul!
-Dialogue: 100,0:13:04.26,0:13:07.10,Dialogue,Mogwai,0,0,0,,{\i1}Ai mai puțin de trei minute înainte ca să ajungă la destinație.
+Dialogue: 100,0:13:04.26,0:13:07.10,Dialogue,Mogwai,0,0,0,,{\i1}Ai mai puțin de trei minute \Nînainte să ajungă la destinație.
 Dialogue: 100,0:13:07.10,0:13:08.64,Dialogue,Asagi,0,0,0,,Asta chiar e dificil...
 Dialogue: 100,0:13:08.85,0:13:11.85,Dialogue,Asagi,0,0,0,,Dacă aș putea găsi un punct \Nde început, oricât de mic ar fi...
 Dialogue: 100,0:13:11.98,0:13:13.90,Dialogue,Mogwai,0,0,0,,{\i1}Atunci, ce spui de acesta?
@@ -242,7 +242,7 @@ Dialogue: 100,0:13:39.88,0:13:41.72,Dialogue,Yukina,0,0,0,,Sunt toată transpira
 Dialogue: 100,0:13:41.72,0:13:44.05,Dialogue,Folia,0,0,0,,Serios? Asta sună teribil.
 Dialogue: 100,0:13:44.35,0:13:45.64,Dialogue,Yukina,0,0,0,,Asta e tot ce ai de spus?
 Dialogue: 100,0:13:45.93,0:13:49.77,Dialogue,Yukina,0,0,0,,Totuși, văd că tu nu \Nai transpirat deloc.
-Dialogue: 100,0:13:49.77,0:13:53.19,Dialogue,Folia,0,0,0,,Îmi mențineam temperatura corpului prin intermediul magiie.
+Dialogue: 100,0:13:49.77,0:13:53.19,Dialogue,Folia,0,0,0,,Îmi mențineam temperatura corpului prin intermediul magiei.
 Dialogue: 100,0:13:53.19,0:13:54.10,Dialogue,Yukina,0,0,0,,Poftim?!
 Dialogue: 100,0:13:54.36,0:13:56.23,Dialogue,Trine,0,0,0,,Până aici v-a fost, fetițelor.
 Dialogue: 100,0:13:56.73,0:14:01.20,Dialogue,Trine,0,0,0,,Dacă erați cuminți, \Nv-aș fi folosit în alte moduri.
@@ -317,9 +317,9 @@ Dialogue: 100,0:18:17.20,0:18:21.66,Dialogue,Trine,0,0,0,,Și acum, haide să ve
 Dialogue: 100,0:18:21.91,0:18:23.54,Dialogue,Trine,0,0,0,,expresia ta calmă!
 Dialogue: 100,0:18:27.84,0:18:28.92,Dialogue,Yukina,0,0,0,,Vibrație!
 Dialogue: 100,0:18:30.67,0:18:32.26,Dialogue,Trine,0,0,0,,Fetiță nemernică!
-Dialogue: 100,0:18:32.92,0:18:33.80,Dialogue,Natsuki,0,0,0,,Șamanule Spadasin!
+Dialogue: 100,0:18:32.92,0:18:33.80,Dialogue,Natsuki,0,0,0,,Preoteasă Luptătoare!
 Dialogue: 100,0:18:34.51,0:18:36.51,Dialogue,Natsuki,0,0,0,,Am un cadou pentru tine de \Nla Dansatoarea Războinică.
-Dialogue: 100,0:18:37.72,0:18:40.47,Dialogue,Natsuki,0,0,0,,Cât tupeu să mă \Nfolosească drept livrator...
+Dialogue: 100,0:18:37.72,0:18:40.47,Dialogue,Natsuki,0,0,0,,Cât tupeu să mă folosească \Npe post de livrator...
 Dialogue: 100,0:18:40.85,0:18:43.23,Dialogue,Natsuki,0,0,0,,Eu mă voi ocupa de teroriști.
 Dialogue: 100,0:18:43.73,0:18:46.48,Dialogue,Natsuki,0,0,0,,Te poți ocupa tu de situația de aici, \Nnu-i așa, Akatsuki Kojou?
 Dialogue: 100,0:18:46.73,0:18:47.94,Dialogue,Kojou,0,0,0,,Da.
@@ -334,7 +334,7 @@ Dialogue: 100,0:19:04.62,0:19:09.34,Dialogue,Kojou,0,0,0,,Eu, Akatsuki Kojou, \N
 Dialogue: 100,0:19:09.34,0:19:11.55,Dialogue,Kojou,0,0,0,,îți eliberez limitările.
 Dialogue: 100,0:19:12.17,0:19:15.09,Dialogue,Kojou,0,0,0,,Apari, al V-lea demon,
 Dialogue: 100,0:19:15.09,0:19:16.64,Dialogue,Kojou,0,0,0,,Regulus Aurum!
-Dialogue: 100,0:19:21.85,0:19:25.56,Dialogue,Yukina,0,0,0,,Eu, un Șaman Spadasin al Zeului Suprem și preoteasă a Leului, te implor...
+Dialogue: 100,0:19:21.85,0:19:25.56,Dialogue,Yukina,0,0,0,,Eu, ca Preoteasă Luptătoare a Zeului Suprem și preoteasă a Leului, te implor...
 Dialogue: 100,0:19:26.52,0:19:29.27,Dialogue,Yukina,0,0,0,,Lumina zorilor exorcizării, \Nlup spiritual al viscolului...
 Dialogue: 100,0:19:29.27,0:19:31.19,Dialogue,Yukina,0,0,0,,Oferă-mi puterea divină a oțelului tău
 Dialogue: 100,0:19:31.19,0:19:34.03,Dialogue,Yukina,0,0,0,,pentru a exorciza o sută de spirite rele!
@@ -380,41 +380,49 @@ Dialogue: 100,0:23:23.55,0:23:25.55,Dialogue,Kojou,0,0,0,,{\an8}Hei! Ce naiba?! 
 Dialogue: 100,0:23:24.13,0:23:26.68,Dialogue,Yukina,0,0,0,,Ești așa o persoană indecentă, Akatsuki!
 Dialogue: 100,0:23:25.72,0:23:28.01,Dialogue,Kojou,0,0,0,,{\an8}Au, au, au, au, auci!
 Dialogue: 100,0:23:26.68,0:23:28.85,Dialogue,Yukina,0,0,0,,Cum ai putut s-o lași să-ți dea ordine?!
-Dialogue: 100,0:23:28.85,0:23:31.43,Dialogue,Yukina,0,0,0,,Ce ai făcut cu ea în acel adormitor?!
+Dialogue: 100,0:23:28.85,0:23:31.43,Dialogue,Yukina,0,0,0,,Ce ai făcut cu ea în acel dormitor?!
 Dialogue: 100,0:23:31.43,0:23:32.52,Dialogue,Yukina,0,0,0,,Și...
 Dialogue: 100,0:23:32.85,0:23:35.10,Dialogue,Yukina,0,0,0,,Când m-ai luat în brațe \Nși eram transpirată
 Dialogue: 100,0:23:35.10,0:23:38.86,Dialogue,Yukina,0,0,0,,și m-ai spus că miros bine \Ncu o față serioasă... eu...
 Dialogue: 100,0:23:39.81,0:23:40.77,Dialogue,Kojou,0,0,0,,Ce?
 Dialogue: 100,0:23:40.90,0:23:43.82,Dialogue,Yukina,0,0,0,,Vai, ce naiba mă faci să spun?!
 Dialogue: 100,0:23:43.82,0:23:46.70,Dialogue,Yukina,0,0,0,,Prostule!
-Dialogue: 0,0:13:23.53,0:13:23.57,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1110.68,525.54)\org(1108.28,525.54)\fscx57.53\fscy57.54\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur4}ALERTĂ
-Dialogue: 1,0:13:23.53,0:13:23.57,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1114.87,526.58)\org(1112.46,526.58)\fscx57.53\fscy57.54\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur4}ALERTĂ
-Dialogue: 2,0:13:23.53,0:13:23.57,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1112.77,525.54)\org(1110.37,525.54)\fscx57.53\fscy57.54\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\blur4}ALERTĂ
-Dialogue: 0,0:13:23.57,0:13:23.61,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1136.67,523.4)\org(1134.3,523.4)\fscx56.61\fscy56.62\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur2.2}ALERTĂ
-Dialogue: 1,0:13:23.57,0:13:23.61,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1140.79,524.43)\org(1138.42,524.43)\fscx56.61\fscy56.62\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur2.2}ALERTĂ
-Dialogue: 2,0:13:23.57,0:13:23.61,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1138.73,523.4)\org(1136.36,523.4)\fscx56.61\fscy56.62\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur2.2}ALERTĂ
-Dialogue: 0,0:13:23.61,0:13:23.65,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1148.61,522.19)\org(1146.28,522.19)\fscx55.86\fscy55.87\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.6}ALERTĂ
-Dialogue: 1,0:13:23.61,0:13:23.65,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1152.68,523.2)\org(1150.34,523.2)\fscx55.86\fscy55.87\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.6}ALERTĂ
-Dialogue: 2,0:13:23.61,0:13:23.65,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1150.64,522.19)\org(1148.31,522.19)\fscx55.86\fscy55.87\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.6}ALERTĂ
-Dialogue: 0,0:13:23.65,0:13:23.69,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1154.49,521.52)\org(1152.17,521.52)\fscx55.44\fscy55.45\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
-Dialogue: 1,0:13:23.65,0:13:23.69,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1158.52,522.53)\org(1156.2,522.53)\fscx55.44\fscy55.45\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
-Dialogue: 2,0:13:23.65,0:13:23.69,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1156.5,521.52)\org(1154.18,521.52)\fscx55.44\fscy55.45\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
-Dialogue: 0,0:13:23.69,0:13:23.74,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1157.61,521.17)\org(1155.3,521.17)\fscx55.22\fscy55.23\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
-Dialogue: 1,0:13:23.69,0:13:23.74,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1161.62,522.17)\org(1159.32,522.17)\fscx55.22\fscy55.23\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
-Dialogue: 2,0:13:23.69,0:13:23.74,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1159.62,521.17)\org(1157.31,521.17)\fscx55.22\fscy55.23\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
-Dialogue: 0,0:13:23.74,0:13:23.78,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1159.27,520.99)\org(1156.96,520.99)\fscx55.11\fscy55.12\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
-Dialogue: 1,0:13:23.74,0:13:23.78,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1163.28,521.99)\org(1160.97,521.99)\fscx55.11\fscy55.12\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
-Dialogue: 2,0:13:23.74,0:13:23.78,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1161.27,520.99)\org(1158.97,520.99)\fscx55.11\fscy55.12\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
-Dialogue: 0,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1160.16,520.91)\org(1157.86,520.91)\fscx55.05\fscy55.06\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
-Dialogue: 1,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1164.16,521.91)\org(1161.86,521.91)\fscx55.05\fscy55.06\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
-Dialogue: 2,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1162.16,520.91)\org(1159.86,520.91)\fscx55.05\fscy55.06\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
-Dialogue: 0,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1160.59,520.83)\org(1158.29,520.83)\fscx55\fscy55.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
-Dialogue: 1,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1164.59,521.83)\org(1162.29,521.83)\fscx55\fscy55.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
-Dialogue: 2,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1162.59,520.83)\org(1160.29,520.83)\fscx55\fscy55.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
+Dialogue: 0,0:13:23.53,0:13:23.57,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1152.72,566.89)\fscx102\fscy102\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.57,0:13:23.61,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1182.76,561.32)\fscx102.82\fscy102.82\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.61,0:13:23.65,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1194.11,559.68)\fscx101.52\fscy101.52\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.65,0:13:23.69,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1199.64,558.76)\fscx100.77\fscy100.77\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.69,0:13:23.74,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1202.56,558.28)\fscx100.38\fscy100.38\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.74,0:13:23.78,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1204.12,558.06)\fscx100.19\fscy100.19\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1204.97,557.93)\fscx100.08\fscy100.08\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=12}{\an7\pos(1205.59,557.83)\c&H129BAF&\blur3\p1}m -92 -30 b -69 -13 -67 15 -99 26 l 88 27 94 -30
+Dialogue: 0,0:13:23.53,0:13:23.57,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1160.68,562.54)\org(1158.28,562.54)\fscx62.53\fscy62.54\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur4}ALERTĂ
+Dialogue: 1,0:13:23.53,0:13:23.57,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1164.87,563.58)\org(1162.46,563.58)\fscx62.53\fscy62.54\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur4}ALERTĂ
+Dialogue: 2,0:13:23.53,0:13:23.57,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1162.77,562.54)\org(1160.37,562.54)\fscx62.53\fscy62.54\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\blur4}ALERTĂ
+Dialogue: 0,0:13:23.57,0:13:23.61,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1186.67,560.4)\org(1184.3,560.4)\fscx61.61\fscy61.62\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur2.2}ALERTĂ
+Dialogue: 1,0:13:23.57,0:13:23.61,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1190.79,561.43)\org(1188.42,561.43)\fscx61.61\fscy61.62\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur2.2}ALERTĂ
+Dialogue: 2,0:13:23.57,0:13:23.61,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1188.73,560.4)\org(1186.36,560.4)\fscx61.61\fscy61.62\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur2.2}ALERTĂ
+Dialogue: 0,0:13:23.61,0:13:23.65,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1198.61,559.19)\org(1196.28,559.19)\fscx60.86\fscy60.87\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.6}ALERTĂ
+Dialogue: 1,0:13:23.61,0:13:23.65,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1202.68,560.2)\org(1200.34,560.2)\fscx60.86\fscy60.87\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.6}ALERTĂ
+Dialogue: 2,0:13:23.61,0:13:23.65,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1200.64,559.19)\org(1198.31,559.19)\fscx60.86\fscy60.87\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.6}ALERTĂ
+Dialogue: 0,0:13:23.65,0:13:23.69,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1204.49,558.52)\org(1202.17,558.52)\fscx60.44\fscy60.45\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
+Dialogue: 1,0:13:23.65,0:13:23.69,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1208.52,559.53)\org(1206.2,559.53)\fscx60.44\fscy60.45\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
+Dialogue: 2,0:13:23.65,0:13:23.69,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1206.5,558.52)\org(1204.18,558.52)\fscx60.44\fscy60.45\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
+Dialogue: 0,0:13:23.69,0:13:23.74,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1207.61,558.17)\org(1205.3,558.17)\fscx60.22\fscy60.23\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
+Dialogue: 1,0:13:23.69,0:13:23.74,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1211.62,559.17)\org(1209.32,559.17)\fscx60.22\fscy60.23\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
+Dialogue: 2,0:13:23.69,0:13:23.74,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1209.62,558.17)\org(1207.31,558.17)\fscx60.22\fscy60.23\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
+Dialogue: 0,0:13:23.74,0:13:23.78,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1209.27,557.99)\org(1206.96,557.99)\fscx60.11\fscy60.12\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
+Dialogue: 1,0:13:23.74,0:13:23.78,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1213.28,558.99)\org(1210.97,558.99)\fscx60.11\fscy60.12\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
+Dialogue: 2,0:13:23.74,0:13:23.78,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1211.27,557.99)\org(1208.97,557.99)\fscx60.11\fscy60.12\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
+Dialogue: 0,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1210.16,557.91)\org(1207.86,557.91)\fscx60.05\fscy60.06\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
+Dialogue: 1,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1214.16,558.91)\org(1211.86,558.91)\fscx60.05\fscy60.06\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
+Dialogue: 2,0:13:23.78,0:13:23.82,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1212.16,557.91)\org(1209.86,557.91)\fscx60.05\fscy60.06\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
+Dialogue: 1,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=12}{\pos(1210.59,557.83)\org(1208.29,557.83)\fscx60\fscy60.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H092BA9&\blur1.4}ALERTĂ
+Dialogue: 1,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=11}{\pos(1214.59,558.83)\org(1212.29,558.83)\fscx60\fscy60.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H0A9C3B&\blur1.4}ALERTĂ
+Dialogue: 2,0:13:23.82,0:13:25.70,DedzuyaSigns,,0,0,0,,{=9=10}{\pos(1212.59,557.83)\org(1210.29,557.83)\fscx60\fscy60.01\frz-0.183\fry0.004\frx0.721\fax-0.112\fnLato\b1\c&H000000&\alpha&H20&\blur1.4}ALERTĂ
 Dialogue: 0,0:12:17.93,0:12:19.97,DedzuyaSigns,,0,0,0,,{\an7\pos(960,610)\c&H060606&\blur1\p1}m -547 13 l 470 13 470 119 -547 119
 Dialogue: 1,0:12:17.93,0:12:19.97,DedzuyaSigns,,0,0,0,,{\an8\pos(960,610)\fscx110\fscy120\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&\alpha&HFF&\blur10\be10\t(0,480,0.7,\blur0.5\be0\alpha&H00&)}Regatul Valkiriei II
-Dialogue: 0,0:23:50.24,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1335,570)\p1\c&H000000&}m -461 10 l 472 10 472 72 -461 72
-Dialogue: 1,0:23:50.24,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an8\fscx92\fscy102\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&HR\blur0.5\pos(1335,570)}Regatul Valkiriei
+Dialogue: 0,0:23:50.24,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an7\pos(1335,570)\c&H000000&\blur1\p1}m -461 10 l 472 10 472 72 -461 72
+Dialogue: 1,0:23:50.24,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an8\pos(1335,570)\fscx92\fscy102\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&\blur0.5}Regatul Valkiriei
 Dialogue: 0,0:23:50.95,0:23:53.41,DedzuyaSigns,,0,0,0,,{\an7\pos(1770,875)\c&H000000&\blur1\p1}m -1770 -175 l 150 -175 150 205 -1770 205
 Dialogue: 1,0:23:50.95,0:23:50.99,DedzuyaSigns,,0,0,0,,{\an6\pos(1000,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&H2424FF&\blur20\be20}Sfârșit
 Dialogue: 1,0:23:50.99,0:23:51.03,DedzuyaSigns,,0,0,0,,{\an6\pos(1600,875)\fscx162\fscy172\fnFOT-UDMincho Pro B\fsp2\b1\c&H4D4DFF&\blur10\be10}Sfârșit
