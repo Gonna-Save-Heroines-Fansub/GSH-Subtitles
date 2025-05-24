@@ -40,13 +40,13 @@ Dialogue: 100,0:00:25.46,0:00:28.72,Dialogue,Yukina,0,0,0,,Aparent, ceremonia de
 Dialogue: 100,0:00:28.72,0:00:32.68,Dialogue,Yukina,0,0,0,,dintre Regatul Aldeigia și Imperiul Lordului Războinic se apropie.
 Dialogue: 100,0:00:32.68,0:00:33.85,Dialogue,Yukina,0,0,0,,Cred ăsta e motivul.
 Dialogue: 100,0:00:33.85,0:00:35.56,Dialogue,Kojou,0,0,0,,Ceremonia de semnare a pactului?
-Dialogue: 100,0:00:35.56,0:00:39.23,Dialogue,Kojou,0,0,0,,Nu era și Valter din \NImperiul Lordului Războinic?
+Dialogue: 100,0:00:35.56,0:00:39.23,Dialogue,Kojou,0,0,0,,Nu era și Vatler din \NImperiul Lordului Războinic?
 Dialogue: 100,0:00:39.23,0:00:40.69,Dialogue,Kojou,0,0,0,,Și de ce se ține aici?
 Dialogue: 100,0:00:40.69,0:00:43.86,Dialogue,Yukina,0,0,0,,Din moment ce ambele \Nnațiuni au o istorie mixtă,
 Dialogue: 100,0:00:43.98,0:00:46.23,Dialogue,Yukina,0,0,0,,au hotărât s-o țină într-un loc neutru,
-Dialogue: 100,0:00:46.23,0:00:48.61,Dialogue,Yukina,0,0,0,,așa că au ales Insula \NItogami, aici în Japonia.
+Dialogue: 100,0:00:46.23,0:00:48.61,Dialogue,Yukina,0,0,0,,așa că au ales insula \NItogami, aici în Japonia.
 Dialogue: 100,0:00:49.07,0:00:50.41,Dialogue,Kojou,0,0,0,,Serios?
-Dialogue: 100,0:00:50.66,0:00:53.66,Dialogue,Kojou,0,0,0,,Atunci, bănuiesc că nu \Nare vreo legătură cu mine.
+Dialogue: 100,0:00:50.66,0:00:53.66,Dialogue,Kojou,0,0,0,,Atunci, bănuiesc că nu \Nare nicio legătură cu mine.
 Dialogue: 100,0:00:54.24,0:00:56.49,Dialogue,Kojou,0,0,0,,Oricum, dacă La Folia e aici cu treabă,
 Dialogue: 100,0:00:56.49,0:00:58.62,Dialogue,Kojou,0,0,0,,probabil va fi destul de ocupată.
 Dialogue: 100,0:00:59.21,0:01:01.04,Dialogue,Yukina,0,0,0,,Chiar sper să fie așa.
@@ -63,7 +63,7 @@ Dialogue: 100,0:01:24.98,0:01:27.78,Dialogue,Viking,0,0,0,,Îndrăznești să m�
 Dialogue: 100,0:01:34.66,0:01:36.03,Dialogue,Kojou,0,0,0,,Hei, bătrâne!
 Dialogue: 100,0:01:39.16,0:01:40.62,Dialogue,SP,0,0,0,,Nu mișcați!
 Dialogue: 100,0:01:40.91,0:01:42.75,Dialogue,SP,0,0,0,,Sunteți bine, Maiestate?
-Dialogue: 100,0:01:43.25,0:01:44.58,Dialogue,Kojou,0,0,0,,„Maiestate?”
+Dialogue: 100,0:01:43.25,0:01:44.58,Dialogue,Kojou,0,0,0,,„Maiestate”?
 Dialogue: 100,0:01:46.88,0:01:48.21,Dialogue,Kojou,0,0,0,,Stai, tu ești...
 Dialogue: 100,0:01:52.30,0:01:53.84,Dialogue,Yukina,0,0,0,,Regele din Aldeigia...
 Dialogue: 100,0:01:54.68,0:01:59.43,Dialogue,Folia,0,0,0,,Tată, acesta este al IV-lea Străbun și cel care mi-a furat primul sărut,
@@ -71,9 +71,9 @@ Dialogue: 100,0:02:00.22,0:02:01.77,Dialogue,Folia,0,0,0,,Akatsuki Kojou!
 Dialogue: 100,0:02:01.89,0:02:02.73,Dialogue,Kojou,0,0,0,,Ce?
 Dialogue: 100,0:02:03.06,0:02:06.15,Dialogue,Kojou,0,0,0,,{\t(\fscx110\fscy110)}Ce?!
 Dialogue: 100,0:03:42.49,0:03:46.58,Dialogue,Kojou,0,0,0,,Hei, La Folia, ce naiba se petrece?
-Dialogue: 100,0:03:46.58,0:03:50.04,Dialogue,Folia,0,0,0,,Nu-ți face griji. \NDoar intră în joc, Kojou.
+Dialogue: 100,0:03:46.58,0:03:50.04,Dialogue,Folia,0,0,0,,Nu-ți face griji. \NDoar fă-mi jocul, Kojou.
 Dialogue: 100,0:03:51.38,0:03:53.17,Dialogue,Kojou,0,0,0,,Oricum, care e treaba cu \Ncostumația de viking?
-Dialogue: 100,0:03:53.17,0:03:56.34,Dialogue,Folia,0,0,0,,E ținuta nativă a locului \Ndin care provine tatăl meu.
+Dialogue: 100,0:03:53.17,0:03:56.34,Dialogue,Folia,0,0,0,,E ținuta nativă a locului \Nnatal al tatălui meu.
 Dialogue: 100,0:03:56.80,0:03:59.26,Dialogue,Lucas,0,0,0,,Deci tu ești al IV-lea Străbun?
 Dialogue: 100,0:04:00.14,0:04:04.02,Dialogue,Lucas,0,0,0,,Nu ai deloc prestanță.
 Dialogue: 100,0:04:04.02,0:04:07.73,Dialogue,Lucas,0,0,0,,Înțelepții și nobilii lasă o impresie mult mai puternică decât tine.
@@ -82,12 +82,12 @@ Dialogue: 100,0:04:09.98,0:04:13.57,Dialogue,Lucas,0,0,0,,Iar aceasta e fata tri
 Dialogue: 100,0:04:13.57,0:04:15.69,Dialogue,Lucas,0,0,0,,ca să fie amanta celui \Nde-al IV-lea Străbun?
 Dialogue: 100,0:04:16.61,0:04:17.40,Dialogue,Kojou,0,0,0,,Amantă?!
 Dialogue: 100,0:04:17.40,0:04:18.53,Dialogue,Yukina,0,0,0,,Nu e adevărat!
-Dialogue: 100,0:04:18.53,0:04:22.16,Dialogue,Yukina,0,0,0,,Eu sunt un Șaman Spadasin trimis pentru a-l supraveghea pe Akatsuki!
+Dialogue: 100,0:04:18.53,0:04:22.16,Dialogue,Yukina,0,0,0,,Eu sunt o Preoteasă Luptătoare trimisă pentru a-l supraveghea pe Akatsuki!
 Dialogue: 100,0:04:22.16,0:04:23.74,Dialogue,Yukina,0,0,0,,Nu-i așa, Akatsuki?!
 Dialogue: 100,0:04:23.74,0:04:24.62,Dialogue,Kojou,0,0,0,,Da.
 Dialogue: 100,0:04:24.62,0:04:27.12,Dialogue,,0,0,0,,Nu spuneți chestii ciudate.
 Dialogue: 100,0:04:30.04,0:04:33.63,Dialogue,Folia,0,0,0,,Și chiar dacă este amanta lui, \Nnu văd asta ca fiind o problemă.
-Dialogue: 100,0:04:33.63,0:04:35.38,Dialogue,Folia,0,0,0,,Bărbații măreți adoră plăcerile senzuale.
+Dialogue: 100,0:04:33.63,0:04:35.38,Dialogue,Folia,0,0,0,,Bărbații măreți adoră \Nplăcerile senzuale.
 Dialogue: 100,0:04:35.55,0:04:38.26,Dialogue,Folia,0,0,0,,Nu poți spune că-l iubești cu \Nadevărat pe al IV-lea Străbun
 Dialogue: 100,0:04:38.26,0:04:40.51,Dialogue,Folia,0,0,0,,fără să accepți vreo cinci \Nsau chiar zece amante, nu?
 Dialogue: 100,0:04:40.59,0:04:44.76,Dialogue,Folia,0,0,0,,Dacă tot insiști că \Ntrebuie să mă căsătoresc,
@@ -110,9 +110,9 @@ Dialogue: 100,0:05:29.77,0:05:31.35,Dialogue,Yukina,0,0,0,,Se referă la Kanon.
 Dialogue: 100,0:05:31.60,0:05:36.07,Dialogue,Yukina,0,0,0,,Ea e fiica fostului rege, \Nbunicul lui La Folia.
 Dialogue: 100,0:05:36.07,0:05:39.65,Dialogue,Yukina,0,0,0,,Ceea ce înseamnă că \Ne sora actualei regine.
 Dialogue: 100,0:05:39.65,0:05:41.20,Dialogue,Kojou,0,0,0,,Oh, înțeleg...
-Dialogue: 100,0:05:41.36,0:05:44.53,Dialogue,Polifonia,0,0,0,,Am multe întrebări pe \Ncare aș vrea să ți le pun,
+Dialogue: 100,0:05:41.36,0:05:44.53,Dialogue,Polifonia,0,0,0,,Am multe întrebări pe \Ncare aș dori să ți le pun,
 Dialogue: 100,0:05:44.53,0:05:49.83,Dialogue,Polifonia,0,0,0,,dar nu ar fi în regulă să-i mai deranjăm pe angajații acestui local.
-Dialogue: 100,0:05:49.95,0:05:54.33,Dialogue,Polifonia,0,0,0,,Kojou și tu, de asemenea, \NȘamanule Spadasin...
+Dialogue: 100,0:05:49.95,0:05:54.33,Dialogue,Polifonia,0,0,0,,Kojou și tu, de asemenea, \NPreoteasă Luptătoare...
 Dialogue: 100,0:05:54.33,0:05:56.34,Dialogue,Polifonia,0,0,0,,Avem planificată o \Npetrecere în această seară.
 Dialogue: 100,0:05:56.63,0:05:59.84,Dialogue,Polifonia,0,0,0,,Am aprecia dacă ați participa și voi.
 Dialogue: 100,0:06:09.85,0:06:12.35,Dialogue,Trine,0,0,0,,Au destul de multe gărzi de corp.
@@ -261,7 +261,7 @@ Dialogue: 100,0:14:00.53,0:14:02.74,Dialogue,Yukina,0,0,0,,Să aducă în discu�
 Dialogue: 100,0:14:05.24,0:14:06.87,Dialogue,Yukina,0,0,0,,Sayaka?
 Dialogue: 100,0:14:06.87,0:14:08.95,Dialogue,Sayaka,0,0,0,,N-Nu e nimic!
 Dialogue: 100,0:14:08.95,0:14:11.75,Dialogue,Sayaka,0,0,0,,Regina chiar ne pune într-o \Nsituație dificilă, nu-i așa?
-Dialogue: 100,0:14:11.75,0:14:14.67,Dialogue,Sayaka,0,0,0,,Nu-mi vine să cred că a luat \Ngluma lui La Folia în serios!
+Dialogue: 100,0:14:11.75,0:14:14.67,Dialogue,Sayaka,0,0,0,,Nu-mi vine să cred că a luat \Nîn serios gluma lui La Folia!
 Dialogue: 100,0:14:15.04,0:14:16.88,Dialogue,Yukina,0,0,0,,Sper să fi fost doar o glumă...
 Dialogue: 100,0:14:18.21,0:14:21.92,Dialogue,Yukina,0,0,0,,Dar La Folia e genul de persoană care face glume cu o față serioasă.
 Dialogue: 100,0:14:21.92,0:14:26.10,Dialogue,Yukina,0,0,0,,Dacă va pune presiune pe \NAkatsuki, s-ar putea ca el să...
@@ -311,7 +311,7 @@ Dialogue: 100,0:16:41.27,0:16:42.61,Dialogue,Asagi,0,0,0,,Kojou...
 Dialogue: 100,0:16:44.27,0:16:45.73,Dialogue,Kanon,0,0,0,,Kojou?
 Dialogue: 100,0:16:45.73,0:16:47.82,Dialogue,Asagi,0,0,0,,S-Să nu înțelegeți greșit! Asta e doar...
 Dialogue: 100,0:16:47.82,0:16:50.61,Dialogue,Kojou,0,0,0,,Hei, Kanase, Astarte.
-Dialogue: 100,0:16:50.61,0:16:53.70,Dialogue,Kojou,0,0,0,,Sincronizare perfectă. \NDe ce nu vă alăturați nouă?
+Dialogue: 100,0:16:50.61,0:16:53.70,Dialogue,Kojou,0,0,0,,Sincronizare perfectă. \NDe ce nu vă alăturați și voi nouă?
 Dialogue: 100,0:16:53.70,0:16:55.70,Dialogue,Kojou,0,0,0,,Vă voi spăla pe spate dacă doriți.
 Dialogue: 100,0:16:55.70,0:16:57.70,Dialogue,Asagi,0,0,0,,Ce... Kojou!
 Dialogue: 100,0:16:57.70,0:16:59.12,Dialogue,Astarte,0,0,0,,Accept.
