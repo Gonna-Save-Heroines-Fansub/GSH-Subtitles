@@ -22,10 +22,10 @@ Last Style Storage: Default
 Audio File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood II [Ma10p_1080p]/[VCB-Studio] Strike the Blood II [05][Ma10p_1080p][x265_flac].mkv
 Video File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood II [Ma10p_1080p]/[VCB-Studio] Strike the Blood II [05][Ma10p_1080p][x265_flac].mkv
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 292
-Active Line: 310
-Video Position: 30037
+Video Zoom Percent: 0.625000
+Scroll Position: 357
+Active Line: 360
+Video Position: 36849
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -346,7 +346,7 @@ Dialogue: 100,0:20:31.31,0:20:34.79,Dialogue,Kojou,0,0,0,,Apari, primul demon,
 Dialogue: 100,0:20:34.88,0:20:36.88,Dialogue,Kojou,0,0,0,,Mesarthim Adamas!
 Dialogue: 100,0:20:45.47,0:20:46.31,Dialogue,Kiriha,0,0,0,,Acela este...
 Dialogue: 100,0:20:46.58,0:20:48.40,Dialogue,Kiriha,0,0,0,,demonul celui de-al IV-lea Străbun...
-Dialogue: 100,0:20:52.79,0:20:57.49,Dialogue,Yukina,0,0,0,,Eu, un Șaman Spadasin al Zeului Suprem, \Nca preoteasă a Leului, te implor...
+Dialogue: 100,0:20:52.79,0:20:57.49,Dialogue,Yukina,0,0,0,,Eu, un Șaman Spadasin al Zeului Suprem și preoteasă a Leului, te implor...
 Dialogue: 100,0:20:58.34,0:20:59.55,Dialogue,Natsuki,0,0,0,,Zăpadă?
 Dialogue: 100,0:20:59.79,0:21:03.36,Dialogue,Natsuki,0,0,0,,Nu... sunt cristale create de vibrațiile divine.
 Dialogue: 100,0:21:03.36,0:21:06.32,Dialogue,Yukina,0,0,0,,Lumina zorilor exorcizării, \Nlup spiritual al viscolului...
@@ -396,4 +396,4 @@ Dialogue: 100,0:25:24.91,0:25:27.28,Dialogue,Koyomi,0,0,0,,Încântată de cuno�
 Dialogue: 100,0:25:27.28,0:25:30.57,Dialogue,Koyomi,0,0,0,,Eu sunt una din cei trei Sfinți ai Organizației Regele Leu.
 Dialogue: 100,0:25:30.57,0:25:32.72,Dialogue,Koyomi,0,0,0,,Numele meu este Shizuka Koyomi.
 Comment: 100,0:25:33.09,0:25:36.91,Dialogue,Koyomi,0,0,0,,I am sorry, but per the collective \Nwill of the Lion King Organization,
-Dialogue: 100,0:25:36.91,0:25:40.24,Dialogue,Koyomi,0,0,0,,sunt aici ca să te opresc din a părăsi această insulă.
+Dialogue: 100,0:25:36.91,0:25:40.24,Dialogue,Koyomi,0,0,0,,sunt aici ca să te opresc \Ndin a părăsi această insulă.

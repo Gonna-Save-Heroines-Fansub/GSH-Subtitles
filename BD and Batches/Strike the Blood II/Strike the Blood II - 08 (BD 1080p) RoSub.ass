@@ -22,9 +22,10 @@ Last Style Storage: Default
 Audio File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood II [Ma10p_1080p]/[VCB-Studio] Strike the Blood II [08][Ma10p_1080p][x265_flac_aac].mkv
 Video File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood II [Ma10p_1080p]/[VCB-Studio] Strike the Blood II [08][Ma10p_1080p][x265_flac_aac].mkv
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 10
-Video Position: 889
+Video Zoom Percent: 0.375000
+Scroll Position: 391
+Active Line: 405
+Video Position: 37617
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,7 +67,7 @@ Dialogue: 100,0:03:08.43,0:03:14.13,Dialogue,Shirona,0,0,0,,One of our goals in 
 Dialogue: 100,0:03:15.16,0:03:16.55,Dialogue,Azama,0,0,0,,Înțeleg.
 Dialogue: 100,0:03:16.55,0:03:18.34,Dialogue,Azama,0,0,0,,But regardless of the goal,
 Dialogue: 100,0:03:18.34,0:03:21.86,Dialogue,Azama,0,0,0,,using a real dragon as a decoy \Nwas a blunder on your part.
-Dialogue: 100,0:03:21.86,0:03:25.07,StB_Italics,Didier,0,0,0,,Incoming! Everyone, get down!
+Dialogue: 100,0:03:21.86,0:03:25.07,Dialogue,Didier,0,0,0,,{\i1}Incoming! Everyone, get down!
 Dialogue: 100,0:03:30.61,0:03:32.25,Dialogue,Shio,0,0,0,,Lieutenant First Class Okiyama?!
 Dialogue: 100,0:03:32.43,0:03:34.01,Dialogue,Shio,0,0,0,,Don't tell me you were also...
 Dialogue: 100,0:03:41.18,0:03:43.50,Dialogue,Iblis,0,0,0,,Two wyverns, eh?
@@ -76,7 +77,7 @@ Dialogue: 100,0:03:48.54,0:03:50.08,Dialogue,Asagi,0,0,0,,We found out where the
 Dialogue: 100,0:03:50.76,0:03:52.79,Dialogue,Asagi,0,0,0,,Gajou-san, Kojou's there, too!
 Dialogue: 100,0:03:53.13,0:03:56.01,Dialogue,Gajou,0,0,0,,Is that so? Thanks, Asagi-chan.
 Dialogue: 100,0:03:56.53,0:03:59.25,Dialogue,Iblis,0,0,0,,We're going after it. Lead the way, Asagi.
-Dialogue: 100,0:03:59.33,0:04:00.56,StB_Italics,Didier,0,0,0,,Off we go!
+Dialogue: 100,0:03:59.33,0:04:00.56,Dialogue,Didier,0,0,0,,{\i1}Off we go!
 Dialogue: 100,0:04:01.79,0:04:02.82,Dialogue,Shio,0,0,0,,Yuiri...
 Dialogue: 100,0:04:03.20,0:04:06.23,Dialogue,Gajou,0,0,0,,Don't worry. Let's just \Ntrust them to handle the rest.
 Dialogue: 100,0:04:06.46,0:04:08.24,Dialogue,Shio,0,0,0,,Akatsuki Gajou...
@@ -263,11 +264,11 @@ Dialogue: 100,0:14:42.10,0:14:43.54,Dialogue,Yuiri,0,0,0,,G-Glenda?!
 Dialogue: 100,0:14:45.35,0:14:49.02,Dialogue,Azama,0,0,0,,The vessel leaped \Ninto Nod of her own accord?!
 Dialogue: 100,0:14:49.02,0:14:50.00,Dialogue,Azama,0,0,0,,Impossible!
 Dialogue: 100,0:14:53.80,0:14:54.94,Dialogue,Kojou,0,0,0,,Where am I?
-Dialogue: 100,0:15:18.18,0:15:19.67,StB_Italics,Kojou,0,0,0,,This is...
-Dialogue: 100,0:15:19.99,0:15:22.51,StB_Italics,Kojou,0,0,0,,Schneesturm Wolfin's divine vibrations?
-Dialogue: 100,0:15:22.81,0:15:26.96,StB_Flashback,Kiriha,0,0,0,,Paper Noise was most \Nlikely trying to seal you,
-Dialogue: 100,0:15:26.96,0:15:29.23,StB_Flashback,Kiriha,0,0,0,,using divine vibrations.
-Dialogue: 100,0:15:29.76,0:15:34.00,StB_Italics,Kojou,0,0,0,,She knew this would happen... \Nand tried to protect me?
+Dialogue: 100,0:15:18.18,0:15:19.67,Dialogue,Kojou,0,0,0,,{\i1}This is...
+Dialogue: 100,0:15:19.99,0:15:22.51,Dialogue,Kojou,0,0,0,,{\i1}Schneesturm Wolfin's divine vibrations?
+Dialogue: 100,0:15:22.81,0:15:26.96,Dialogue,Kiriha,0,0,0,,Paper Noise was most \Nlikely trying to seal you,
+Dialogue: 100,0:15:26.96,0:15:29.23,Dialogue,Kiriha,0,0,0,,using divine vibrations.
+Dialogue: 100,0:15:29.76,0:15:34.00,Dialogue,Kojou,0,0,0,,{\i1}She knew this would happen... \Nand tried to protect me?
 Dialogue: 100,0:15:34.40,0:15:35.70,Dialogue,Glenda,0,0,0,,Hey!
 Dialogue: 100,0:15:35.70,0:15:36.83,Dialogue,Glenda,0,0,0,,Kojou!
 Dialogue: 100,0:15:37.73,0:15:39.60,Dialogue,Kojou,0,0,0,,G-Glenda?
@@ -302,8 +303,8 @@ Dialogue: 100,0:17:26.85,0:17:30.05,Dialogue,Kojou,0,0,0,,Of course! You're...
 Dialogue: 100,0:17:35.22,0:17:37.68,Dialogue,Glenda,0,0,0,,Ko...jou...
 Dialogue: 100,0:17:38.77,0:17:41.44,Dialogue,Azama,0,0,0,,I will attempt to retrieve Glenda.
 Dialogue: 100,0:17:41.82,0:17:44.00,Dialogue,Azama,0,0,0,,Do it, Lieutenant First Class Okiyama.
-Dialogue: 100,0:17:48.83,0:17:49.70,StB_Italics,Yukina,0,0,0,,Senpai...
-Dialogue: 100,0:17:53.54,0:17:54.60,StB_Italics,Asagi,0,0,0,,It's working!
+Dialogue: 100,0:17:48.83,0:17:49.70,Dialogue,Yukina,0,0,0,,{\i1}Senpai...
+Dialogue: 100,0:17:53.54,0:17:54.60,Dialogue,Asagi,0,0,0,,{\i1}It's working!
 Dialogue: 100,0:17:54.79,0:17:55.89,Dialogue,Asagi,0,0,0,,Give 'em one more!
 Dialogue: 100,0:17:56.32,0:17:59.31,Dialogue,Didier,0,0,0,,Reinforcing the guns truly paid off!
 Dialogue: 100,0:18:04.23,0:18:05.74,Dialogue,Iblis,0,0,0,,You think your ugly fireworks
