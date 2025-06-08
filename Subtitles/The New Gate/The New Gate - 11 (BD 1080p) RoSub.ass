@@ -1,0 +1,416 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.62,0:00:03.92,Main - Top,SHIN,0,0,0,,Rionne, do you know anything \Nabout the holy land?
+Dialogue: 0,0:00:03.92,0:00:05.23,Main - Top,RIONNE,0,0,0,,Well...
+Dialogue: 0,0:00:05.48,0:00:09.11,Main - Top,RIONNE,0,0,0,,Holy lands are cities that fell \Nduring the Dusk of Prosperity.
+Dialogue: 0,0:00:09.39,0:00:11.66,Main - Top,RIONNE,0,0,0,,This is my first time entering one,
+Dialogue: 0,0:00:11.66,0:00:16.21,Main - Top,RIONNE,0,0,0,,but I heard it takes several chosen ones \Nto take down the monsters that appear within.
+Dialogue: 0,0:00:16.73,0:00:18.34,Main - Top,SHIN,0,0,0,,Then we'll need weapons.
+Dialogue: 0,0:00:18.77,0:00:22.08,Main - Top,RIONNE,0,0,0,,Fortunately, I was teleported with this.
+Dialogue: 0,0:00:22.08,0:00:23.50,Main - Top,SHIN,0,0,0,,The Skullface's sword!
+Dialogue: 0,0:00:23.88,0:00:26.71,Main - Top,SHIN,0,0,0,,Good. That'll do nicely.
+Dialogue: 0,0:00:26.71,0:00:29.73,Default,RIONNE,0,0,0,,I'm all set, but what about you?
+Dialogue: 0,0:00:29.73,0:00:30.85,Default,RIONNE,0,0,0,,Do you have any weapons?
+Dialogue: 0,0:00:30.85,0:00:33.12,Default,SHIN,0,0,0,,Don't worry about me.
+Dialogue: 0,0:00:34.01,0:00:37.57,Italics,SHIN/ID,0,0,0,,I can't let the princess find out\Nhow strong I really am.
+Dialogue: 0,0:00:37.57,0:00:41.96,Italics,SHIN/ID,0,0,0,,If she learns I can use dozens of skills, \Nshe'll never let me leave.
+Dialogue: 0,0:00:41.96,0:00:43.02,Italics,SHIN/ID,0,0,0,,However...
+Dialogue: 0,0:00:43.33,0:00:48.12,Italics,SHIN/ID,0,0,0,,Getting out of here without using my \Nfull strength will be next to impossible.
+Dialogue: 0,0:00:49.64,0:00:53.52,Default,RIONNE,0,0,0,,The Holy Land, Calkia, has gates \Nin the four cardinal directions.
+Dialogue: 0,0:00:53.52,0:00:56.66,Default,RIONNE,0,0,0,,When our people inspected the city,\Nthey entered through the south.
+Dialogue: 0,0:00:56.94,0:01:00.44,Default,RIONNE,0,0,0,,There's a small door not far from it.
+Dialogue: 0,0:01:00.44,0:01:03.79,Default,RIONNE,0,0,0,,Behind it should be a device\Nfor opening and closing the gate.
+Dialogue: 0,0:01:04.15,0:01:06.77,Default,SHIN,0,0,0,,There's no need for us \Nto wander through the city.
+Dialogue: 0,0:01:06.77,0:01:09.79,Default,SHIN,0,0,0,,I'd like to take a shortcut to the gate.
+Dialogue: 0,0:01:10.18,0:01:12.33,Default,SHIN,0,0,0,,What do you think of climbing the wall?
+Dialogue: 0,0:01:15.89,0:01:16.55,Default,RIONNE,0,0,0,,What?
+Dialogue: 0,0:01:17.78,0:01:19.68,Default,RIONNE,0,0,0,,What was that?
+Dialogue: 0,0:01:19.68,0:01:21.72,Default,SHIN,0,0,0,,Sorry. Let me try again.
+Dialogue: 0,0:01:21.72,0:01:22.51,Default,RIONNE,0,0,0,,Sure.
+Dialogue: 0,0:01:24.73,0:01:27.32,Default,SHIN,0,0,0,,Rionne, how did that look to you just now?
+Dialogue: 0,0:01:27.32,0:01:29.31,Default,RIONNE,0,0,0,,You definitely jumped,
+Dialogue: 0,0:01:29.63,0:01:34.79,Default,RIONNE,0,0,0,,but you vanished once you were above \Nthe wall and reappeared on the ground.
+Dialogue: 0,0:01:34.79,0:01:35.82,Default,SHIN,0,0,0,,I see.
+Dialogue: 0,0:01:36.28,0:01:38.32,Italics,SHIN/ID,0,0,0,,Am I being teleported?
+Dialogue: 0,0:01:39.73,0:01:40.67,Default,RIONNE,0,0,0,,Shin?
+Dialogue: 0,0:01:43.77,0:01:45.36,Default,RIONNE,0,0,0,,What's going on?
+Dialogue: 0,0:01:45.36,0:01:46.97,Default,RIONNE,0,0,0,,You're moving strangely.
+Dialogue: 0,0:01:48.52,0:01:51.34,Default,SHIN,0,0,0,,I know why now. Come with me.
+Dialogue: 0,0:01:55.34,0:01:57.01,Default,SHIN,0,0,0,,Found you.
+Dialogue: 0,0:01:57.01,0:01:58.04,Default,SHIN,0,0,0,,This is it.
+Dialogue: 0,0:02:00.82,0:02:02.85,Default,RIONNE,0,0,0,,A ball of light?
+Dialogue: 0,0:02:03.12,0:02:05.85,Italics,SHIN/ID,0,0,0,,It functions just like in the game.
+Dialogue: 0,0:02:05.85,0:02:10.52,Default,SHIN,0,0,0,,If one of these is here, \Nthis entire city must be a dungeon.
+Dialogue: 0,0:02:10.52,0:02:11.48,Default,RIONNE,0,0,0,,What?
+Dialogue: 0,0:02:12.02,0:02:15.13,Default,RIONNE,0,0,0,,I've never heard of a city \Nbecoming a dungeon before.
+Dialogue: 0,0:02:15.13,0:02:18.86,Default,SHIN,0,0,0,,It {\i1}does{\i0} seem to work a bit differently \Nfrom your standard dungeon.
+Dialogue: 0,0:02:19.35,0:02:24.87,Default,SHIN,0,0,0,,We can only reach the exit of this \Ndungeon by following a set route.
+Dialogue: 0,0:02:24.87,0:02:29.23,Default,RIONNE,0,0,0,,So you couldn't reach the rooftops \Nor pass through the hole because...
+Dialogue: 0,0:02:29.23,0:02:29.87,Default,SHIN,0,0,0,,Yup.
+Dialogue: 0,0:02:30.62,0:02:34.96,Default,SHIN,0,0,0,,Straying from the route sends you\N back to where you were before.
+Dialogue: 0,0:02:35.28,0:02:39.09,Default,SHIN,0,0,0,,We'll have to follow those \Nspheres in order to escape.
+Dialogue: 0,0:02:39.41,0:02:42.11,Default,SHIN,0,0,0,,I don't see any traps, so we just need
+Dialogue: 0,0:02:42.11,0:02:45.43,Default,SHIN,0,0,0,,to follow the spheres\Nand defeat any monsters,
+Dialogue: 0,0:02:45.43,0:02:47.35,Default,SHIN,0,0,0,,and we should be able to get out.
+Dialogue: 0,0:02:47.35,0:02:48.65,Default,RIONNE,0,0,0,,I see.
+Dialogue: 0,0:02:48.65,0:02:52.98,Default,RIONNE,0,0,0,,Forgive me for saying so, \Nbut I'm glad you got teleported with me.
+Dialogue: 0,0:02:53.29,0:02:55.66,Default,RIONNE,0,0,0,,You saved me from having\Nto crack the mystery myself.
+Dialogue: 0,0:02:56.06,0:02:58.86,Default,SHIN,0,0,0,,The pleasure is all mine, Your Highness.
+Dialogue: 0,0:02:59.94,0:03:01.36,Default,RIONNE,0,0,0,,Yeah, right.
+Dialogue: 0,0:03:01.72,0:03:04.60,Default,RIONNE,0,0,0,,Now, let us find these spheres\Nand advance through the dungeon.
+Dialogue: 0,0:03:04.60,0:03:07.93,Default,RIONNE,0,0,0,,Let me know if anything seems off.
+Dialogue: 0,0:03:07.93,0:03:09.20,Default,RIONNE,0,0,0,,This is a holy land.
+Dialogue: 0,0:03:09.61,0:03:11.78,Default,RIONNE,0,0,0,,There's no telling what could happen here.
+Dialogue: 0,0:03:12.20,0:03:12.94,Default,SHIN,0,0,0,,Got it.
+Dialogue: 0,0:03:13.38,0:03:17.05,Default,SHIN,0,0,0,,That sphere should teleport us \Nto the next location.
+Dialogue: 0,0:03:17.05,0:03:18.63,Default,SHIN,0,0,0,,I'll go first.
+Dialogue: 0,0:03:19.15,0:03:21.23,Default,SHIN,0,0,0,,I'll come right back if it's all clear.
+Dialogue: 0,0:03:21.23,0:03:22.70,Default,SHIN,0,0,0,,Wait here.
+Dialogue: 0,0:03:29.97,0:03:32.71,Default,SHIN,0,0,0,,It takes you to a place not far from here.
+Dialogue: 0,0:03:32.71,0:03:34.20,Default,SHIN,0,0,0,,The vicinity is safe.
+Dialogue: 0,0:03:34.20,0:03:35.24,Default,SHIN,0,0,0,,Let's go.
+Dialogue: 0,0:03:35.24,0:03:37.85,Default,RIONNE,0,0,0,,Sorry for saddling you with a dangerous role.
+Dialogue: 0,0:03:37.85,0:03:38.90,Default,SHIN,0,0,0,,It's fine.
+Dialogue: 0,0:03:39.31,0:03:42.66,Default,SHIN,0,0,0,,I couldn't allow a princess to teleport first.
+Dialogue: 0,0:03:42.66,0:03:46.35,Default,SHIN,0,0,0,,Besides, even if it drops me \Ninto a horde of monsters,
+Dialogue: 0,0:03:46.35,0:03:48.67,Default,SHIN,0,0,0,,escaping would be a piece of cake for me.
+Dialogue: 0,0:03:48.67,0:03:50.15,Italics,SHIN/ID,0,0,0,,And even if they're dangerous,
+Dialogue: 0,0:03:50.15,0:03:52.77,Italics,SHIN/ID,0,0,0,,I can instantly slaughter them\Nif I'm not being watched.
+Dialogue: 0,0:03:53.58,0:03:55.40,Default,RIONNE,0,0,0,,I promise I'll repay the favor.
+Dialogue: 0,0:03:55.80,0:03:57.57,Default,RIONNE,0,0,0,,Now, let's both get out of here alive together.
+Dialogue: 0,0:03:57.57,0:04:00.37,Default,SHIN,0,0,0,,Of course. Now, then...
+Dialogue: 0,0:04:05.57,0:04:08.16,Default,SHIN,0,0,0,,There's a monster around the corner.
+Dialogue: 0,0:04:08.16,0:04:09.06,Default,RIONNE,0,0,0,,Got it.
+Dialogue: 0,0:04:14.56,0:04:16.32,Default,RIONNE,0,0,0,,What is that?
+Dialogue: 0,0:04:16.32,0:04:19.07,Default,SHIN,0,0,0,,It's a ghost-type monster \Nknown as a Ghillie Waiz.
+Dialogue: 0,0:04:19.55,0:04:22.04,Default,SHIN,0,0,0,,It uses earth and wind magic.
+Dialogue: 0,0:04:19.69,0:04:23.40,Main - Top,SIGN,0,0,0,,{\fs16\fnArial\b1\c&HC4EBF7&\shad0\bord2\3c&H233653&\pos(469,223)}Monster           Ghillie Waiz
+Dialogue: 0,0:04:22.04,0:04:25.21,Default,SHIN,0,0,0,,It moves irregularly, so be careful.
+Dialogue: 0,0:04:31.97,0:04:33.75,Default,RIONNE,0,0,0,,It opened with an unbelievable spell!
+Dialogue: 0,0:04:34.24,0:04:36.25,Default,RIONNE,0,0,0,,So this is a monster of a holy land...
+Dialogue: 0,0:04:37.96,0:04:39.50,Default,SHIN,0,0,0,,I'll handle this.
+Dialogue: 0,0:04:40.02,0:04:42.21,Default,SHIN,0,0,0,,Rionne, try to land a blow on him.
+Dialogue: 0,0:04:43.33,0:04:44.22,Default,RIONNE,0,0,0,,Understood.
+Dialogue: 0,0:04:44.65,0:04:45.73,Default,RIONNE,0,0,0,,I'm counting on you.
+Dialogue: 0,0:04:53.53,0:04:55.10,Default,SHIN,0,0,0,,Good timing.
+Dialogue: 0,0:04:56.10,0:04:57.77,Default,RIONNE,0,0,0,,You're mine!
+Dialogue: 0,0:04:57.77,0:04:59.73,Default,RIONNE,0,0,0,,Flame Edge!
+Dialogue: 0,0:05:02.74,0:05:03.99,Default,SHIN,0,0,0,,Fiery Ashes!
+Dialogue: 0,0:05:08.20,0:05:09.74,Default,SHIN,0,0,0,,That should do it.
+Dialogue: 0,0:05:11.29,0:05:13.31,Default,RIONNE,0,0,0,,That was surprisingly easy.
+Dialogue: 0,0:05:13.31,0:05:17.11,Default,SHIN,0,0,0,,The Skullface's sword is enchanted with light.
+Dialogue: 0,0:05:17.11,0:05:18.75,Default,SHIN,0,0,0,,That's the Ghillie Waiz's weakness.
+Dialogue: 0,0:05:18.75,0:05:20.20,Default,RIONNE,0,0,0,,I see.
+Dialogue: 0,0:05:20.20,0:05:23.38,Default,RIONNE,0,0,0,,By the way, Shin, what is that sword?
+Dialogue: 0,0:05:24.06,0:05:25.73,Default,SHIN,0,0,0,,It's called Kakura.
+Dialogue: 0,0:05:25.73,0:05:28.33,Default,SHIN,0,0,0,,It's a mid-tier mythic arm.
+Dialogue: 0,0:05:28.33,0:05:29.39,Default,RIONNE,0,0,0,,Wow.
+Dialogue: 0,0:05:29.69,0:05:32.36,Default,RIONNE,0,0,0,,You were hiding \Nquite an impressive weapon.
+Dialogue: 0,0:05:32.36,0:05:37.29,Default,SHIN,0,0,0,,Well, yeah. Everyone should keep \Na card or two up their sleeve.
+Dialogue: 0,0:05:37.29,0:05:39.40,Italics,SHIN/ID,0,0,0,,Of course, I've got more than one or two.
+Dialogue: 0,0:05:39.40,0:05:40.86,Default,RIONNE,0,0,0,,Huh.
+Dialogue: 0,0:05:41.46,0:05:44.28,Default,RIONNE,0,0,0,,I'm suddenly very interested in you.
+Dialogue: 0,0:05:48.09,0:05:51.41,Default,RIONNE,0,0,0,,How many monsters can you sense within range?
+Dialogue: 0,0:05:51.41,0:05:53.29,Default,SHIN,0,0,0,,More than twenty.
+Dialogue: 0,0:05:53.67,0:05:57.97,Default,SHIN,0,0,0,,Monsters typically don't leave \Ntheir territory within a dungeon,
+Dialogue: 0,0:05:57.97,0:05:59.63,Default,SHIN,0,0,0,,but we can't let our guard down.
+Dialogue: 0,0:05:59.63,0:06:02.64,Default,RIONNE,0,0,0,,It'd be great if we could reach\N the gate without issue.
+Dialogue: 0,0:06:02.64,0:06:06.15,Default,RIONNE,0,0,0,,We should avoid as much danger \Nas possible as we go.
+Dialogue: 0,0:06:06.15,0:06:07.05,Default,SHIN,0,0,0,,Right.
+Dialogue: 0,0:06:07.97,0:06:11.57,Italics,SHIN/ID,0,0,0,,It's annoying that I can't\N flex my skills right now.
+Dialogue: 0,0:06:12.04,0:06:16.30,Italics,SHIN/ID,0,0,0,,Why do I have to play with restrictions \Nwhen I'm not in the game world?
+Dialogue: 0,0:06:20.49,0:06:22.04,Default,RIONNE,0,0,0,,A ball of light?
+Dialogue: 0,0:06:22.96,0:06:24.70,Default,SHIN,0,0,0,,I'll check it out first.
+Dialogue: 0,0:06:27.33,0:06:28.20,Default,RIONNE,0,0,0,,What is that?
+Dialogue: 0,0:06:28.74,0:06:32.57,Default,SIGN,0,0,0,,{\fs14\fnArial\b1\c&HC4EBF7&\shad0\bord2\3c&H233653&\frz22.58\pos(272.692,163.615)}Monster                     Gillslai
+Dialogue: 0,0:06:28.96,0:06:32.57,Default,SHIN,0,0,0,,A Gillslai. We've run into \Na troublesome monster.
+Dialogue: 0,0:06:32.84,0:06:34.07,Default,RIONNE,0,0,0,,What are you talking about?
+Dialogue: 0,0:06:34.07,0:06:37.28,Default,RIONNE,0,0,0,,A large slime should pose\Nno problem whatsoever!
+Dialogue: 0,0:06:37.28,0:06:39.04,Default,SHIN,0,0,0,,Hey! Don't go charging in!
+Dialogue: 0,0:06:43.09,0:06:45.38,Default,RIONNE,0,0,0,,What is this feeling?
+Dialogue: 0,0:06:54.50,0:06:55.95,Default,SHIN,0,0,0,,I told you so.
+Dialogue: 0,0:06:56.41,0:06:57.57,Default,SHIN,0,0,0,,Dust Explosion!
+Dialogue: 0,0:07:04.01,0:07:06.44,Default,RIONNE,0,0,0,,I'm sorry. That was careless of me.
+Dialogue: 0,0:07:06.44,0:07:08.11,Default,RIONNE,0,0,0,,I should know better in a holy land.
+Dialogue: 0,0:07:09.52,0:07:15.76,Default,SHIN,0,0,0,,Gillslai are nasty foes immune to \Nbludgeoning, slashing, and weak attacks.
+Dialogue: 0,0:07:15.76,0:07:19.12,Default,SHIN,0,0,0,,They're also quite intelligent \Nand will give chase.
+Dialogue: 0,0:07:19.61,0:07:21.20,Default,SHIN,0,0,0,,So let's defeat it here.
+Dialogue: 0,0:07:21.70,0:07:22.88,Default,SHIN,0,0,0,,Can you fight?
+Dialogue: 0,0:07:22.88,0:07:25.88,Default,RIONNE,0,0,0,,Yeah. My life is in your hands.
+Dialogue: 0,0:07:30.72,0:07:32.10,Default,SHIN,0,0,0,,Flare Burst!
+Dialogue: 0,0:07:37.36,0:07:38.22,Default,SHIN,0,0,0,,Now!
+Dialogue: 0,0:07:43.69,0:07:47.14,Default,SHIN,0,0,0,,You destroyed its core \Nwith precision. Nice going.
+Dialogue: 0,0:07:47.66,0:07:49.78,Default,RIONNE,0,0,0,,You did far better than I.
+Dialogue: 0,0:07:50.49,0:07:55.61,Default,RIONNE,0,0,0,,Anyway, you're getting \Nfar more casual with me.
+Dialogue: 0,0:07:56.89,0:07:58.35,Default,RIONNE,0,0,0,,It doesn't bother me.
+Dialogue: 0,0:07:58.35,0:08:01.80,Default,RIONNE,0,0,0,,It'd be weirder if you were too polite, \Ngiven the circumstances.
+Dialogue: 0,0:08:02.30,0:08:04.49,Default,RIONNE,0,0,0,,Neither of us needs to hold back.
+Dialogue: 0,0:08:04.49,0:08:07.25,Default,SHIN,0,0,0,,Still, it's better to be proper.
+Dialogue: 0,0:08:07.67,0:08:10.34,Default,SHIN,0,0,0,,So this is just until we get out of here.
+Dialogue: 0,0:08:11.29,0:08:12.26,Default,RIONNE,0,0,0,,Very well.
+Dialogue: 0,0:08:12.58,0:08:15.64,Default,RIONNE,0,0,0,,By the way, Shin, \Nwhy do you keep looking away?
+Dialogue: 0,0:08:15.64,0:08:19.18,Default,SHIN,0,0,0,,Well, uh... I can almost see a few things.
+Dialogue: 0,0:08:20.02,0:08:21.42,Default,RIONNE,0,0,0,,What do you mean?
+Dialogue: 0,0:08:30.02,0:08:32.11,Default,SHIN,0,0,0,,Put that on.
+Dialogue: 0,0:08:32.73,0:08:34.21,Default,RIONNE,0,0,0,,Did you see?
+Dialogue: 0,0:08:34.21,0:08:34.93,Default,SHIN,0,0,0,,Nope.
+Dialogue: 0,0:08:35.90,0:08:37.18,Default,RIONNE,0,0,0,,Liar.
+Dialogue: 0,0:08:38.69,0:08:40.12,Default,RIONNE,0,0,0,,Thank you.
+Dialogue: 0,0:08:40.12,0:08:42.45,Default,RIONNE,0,0,0,,Are you always so thoroughly prepared?
+Dialogue: 0,0:08:42.45,0:08:47.31,Default,SHIN,0,0,0,,Where I'm from, we have a saying: \N"Forewarned is forearmed."
+Dialogue: 0,0:08:47.31,0:08:48.96,Default,RIONNE,0,0,0,,Wise words.
+Dialogue: 0,0:08:48.96,0:08:52.20,Default,RIONNE,0,0,0,,But I wasn't expecting you \Nto have so many items.
+Dialogue: 0,0:08:52.90,0:08:55.96,Default,SHIN,0,0,0,,Well, you know. A friend gave them to me.
+Dialogue: 0,0:08:55.96,0:08:57.47,Default,RIONNE,0,0,0,,Huh.
+Dialogue: 0,0:08:57.76,0:09:00.48,Default,RIONNE,0,0,0,,So, I hate to ask when \Nyou've graciously lent this to me,
+Dialogue: 0,0:09:00.48,0:09:03.73,Default,RIONNE,0,0,0,,but don't you have anything baggier?
+Dialogue: 0,0:09:05.03,0:09:07.97,Default,RIONNE,0,0,0,,I mean, this is a little tight.
+Dialogue: 0,0:09:08.98,0:09:10.65,Default,SHIN,0,0,0,,It is?
+Dialogue: 0,0:09:10.65,0:09:12.23,Default,SHIN,0,0,0,,Oh, right...
+Dialogue: 0,0:09:12.58,0:09:14.40,Default,RIONNE,0,0,0,,Hey! What are you looking at?
+Dialogue: 0,0:09:14.40,0:09:15.90,Default,SHIN,0,0,0,,Uh, nothing.
+Dialogue: 0,0:09:17.08,0:09:20.25,Default,SHIN,0,0,0,,Say, can you not use any magic skills?
+Dialogue: 0,0:09:20.25,0:09:22.49,Default,RIONNE,0,0,0,,I can cast a few beginner-level spells.
+Dialogue: 0,0:09:22.49,0:09:27.01,Default,RIONNE,0,0,0,,But surely they'd be useless \Nagainst holy land monsters.
+Dialogue: 0,0:09:27.01,0:09:29.98,Default,SHIN,0,0,0,,I guess so. Hold on.
+Dialogue: 0,0:09:31.58,0:09:33.23,Italics,SHIN,0,0,0,,Schnee, do you have a minute?
+Dialogue: 0,0:09:33.23,0:09:34.51,Italics,SCHNEE,0,0,0,,Yes. What is it?
+Dialogue: 0,0:09:35.50,0:09:38.00,Italics,SCHNEE,0,0,0,,An imitation enchantment?
+Dialogue: 0,0:09:38.00,0:09:41.01,Italics,SHIN,0,0,0,,Yeah. It's not as powerful \Nsince it doesn't use the regular method,
+Dialogue: 0,0:09:41.43,0:09:43.70,Italics,SHIN,0,0,0,,but it'll work as a stopgap measure.
+Dialogue: 0,0:09:43.70,0:09:49.27,Italics,SHIN,0,0,0,,I just wanted to make sure it'd be okay \Nto teach the princess how to use it.
+Dialogue: 0,0:09:49.61,0:09:53.65,Italics,SCHNEE,0,0,0,,Normally, I would stop you, \Nbut this is an emergency.
+Dialogue: 0,0:09:53.65,0:09:56.72,Italics,SCHNEE,0,0,0,,You have no choice but to teach her \Nas a method of self-defense.
+Dialogue: 0,0:09:56.72,0:09:57.78,Italics,SHIN,0,0,0,,You're right.
+Dialogue: 0,0:09:58.56,0:09:59.53,Default,SHIN,0,0,0,,Okay.
+Dialogue: 0,0:10:00.18,0:10:02.08,Default,SHIN,0,0,0,,I'm going to teach you some forgery.
+Dialogue: 0,0:10:02.08,0:10:03.54,Default,RIONNE,0,0,0,,Forgery?
+Dialogue: 0,0:10:04.57,0:10:06.68,Default,RIONNE,0,0,0,,Will that really be good enough?
+Dialogue: 0,0:10:06.68,0:10:08.84,Default,SHIN,0,0,0,,Yeah. You'll see.
+Dialogue: 0,0:10:08.84,0:10:10.01,Default,RIONNE,0,0,0,,In that case...
+Dialogue: 0,0:10:10.01,0:10:10.93,Default,RIONNE,0,0,0,,Fire!
+Dialogue: 0,0:10:18.41,0:10:19.13,Default,SHIN,0,0,0,,Here!
+Dialogue: 0,0:10:23.21,0:10:24.56,Default,RIONNE,0,0,0,,It was burned?
+Dialogue: 0,0:10:24.56,0:10:26.51,Default,SHIN,0,0,0,,That's an imitation enchantment.
+Dialogue: 0,0:10:26.51,0:10:28.96,Default,SHIN,0,0,0,,In other words, a forgery \Nof a real fire enchantment.
+Dialogue: 0,0:10:28.96,0:10:34.18,Default,SHIN,0,0,0,,It'll quickly destroy any weapon \Nthat's not at least legendary,
+Dialogue: 0,0:10:34.18,0:10:37.85,Default,SHIN,0,0,0,,but it's pretty useful even\Nif you can't use specialized skills.
+Dialogue: 0,0:10:37.85,0:10:42.07,Default,RIONNE,0,0,0,,Are you sure you should be teaching me\Nsomething so valuable?
+Dialogue: 0,0:10:42.33,0:10:46.32,Default,SHIN,0,0,0,,If such a skill were more widespread,\Nfewer people would fall to monsters.
+Dialogue: 0,0:10:46.32,0:10:48.08,Default,RIONNE,0,0,0,,I appreciate it, but still...
+Dialogue: 0,0:10:48.38,0:10:52.94,Default,RIONNE,0,0,0,,You gave me this sword and refused a reward.
+Dialogue: 0,0:10:52.94,0:10:56.34,Default,RIONNE,0,0,0,,I've done nothing but take. \NAs royalty, it's humiliating.
+Dialogue: 0,0:10:56.34,0:10:58.34,Default,SHIN,0,0,0,,Don't scowl at me like that.
+Dialogue: 0,0:10:58.79,0:11:00.96,Default,SHIN,0,0,0,,You've acquired useful information.
+Dialogue: 0,0:11:00.96,0:11:03.19,Default,SHIN,0,0,0,,Shouldn't that make you happy?
+Dialogue: 0,0:11:03.19,0:11:06.89,Default,RIONNE,0,0,0,,Nevertheless, I dislike taking without giving.
+Dialogue: 0,0:11:09.10,0:11:12.48,Default,SHIN,0,0,0,,Then in exchange, I have a request.
+Dialogue: 0,0:11:13.09,0:11:17.73,Default,SHIN,0,0,0,,As royalty, please protect \Nyour kingdom and your people.
+Dialogue: 0,0:11:17.73,0:11:20.61,Default,SHIN,0,0,0,,Everything you want to protect.
+Dialogue: 0,0:11:21.04,0:11:22.06,Default,RIONNE,0,0,0,,Shin...
+Dialogue: 0,0:11:23.53,0:11:25.48,Default,SHIN,0,0,0,,That's all I ask.
+Dialogue: 0,0:11:27.12,0:11:28.12,Default,RIONNE,0,0,0,,Very well.
+Dialogue: 0,0:11:28.72,0:11:31.12,Default,RIONNE,0,0,0,,I hear you.
+Dialogue: 0,0:11:32.86,0:11:34.80,Italics,SHIN/ID,0,0,0,,I managed to fool her,
+Dialogue: 0,0:11:34.80,0:11:38.59,Italics,SHIN/ID,0,0,0,,but imitation enchantments \Nwere actually an exploit in the game!
+Dialogue: 0,0:11:38.59,0:11:41.12,Italics,SHIN/ID,0,0,0,,But when she looks at me \Nlike that, what can I say?
+Dialogue: 0,0:11:44.75,0:11:46.27,Default,SHIN,0,0,0,,We're almost there.
+Dialogue: 0,0:11:46.27,0:11:47.17,Default,RIONNE,0,0,0,,Yeah.
+Dialogue: 0,0:11:52.65,0:11:54.40,Default,RIONNE,0,0,0,,Hey, what's wrong?
+Dialogue: 0,0:11:54.88,0:11:57.65,Default,SHIN,0,0,0,,I suddenly felt like I was being sucked in.
+Dialogue: 0,0:11:58.00,0:12:00.40,Default,RIONNE,0,0,0,,I can't say I felt anything.
+Dialogue: 0,0:12:00.40,0:12:01.80,Default,SHIN,0,0,0,,Really?
+Dialogue: 0,0:12:01.80,0:12:04.20,Italics,SHIN/ID,0,0,0,,Something inside the holy land's\N drawing me in?
+Dialogue: 0,0:12:04.90,0:12:06.77,Italics,SHIN/ID,0,0,0,,What could it be?
+Dialogue: 0,0:12:07.37,0:12:08.63,Default,RIONNE,0,0,0,,Are you curious?
+Dialogue: 0,0:12:08.63,0:12:12.31,Default,SHIN,0,0,0,,No. We can't head back \Ninto the heart of the city.
+Dialogue: 0,0:12:12.31,0:12:13.79,Default,SHIN,0,0,0,,Let's keep going.
+Dialogue: 0,0:12:17.12,0:12:19.61,Default,SHIN,0,0,0,,Is that a monster egg?
+Dialogue: 0,0:12:19.61,0:12:20.71,Default,RIONNE,0,0,0,,No.
+Dialogue: 0,0:12:20.71,0:12:22.84,Default,RIONNE,0,0,0,,Normally, when monsters are born,
+Dialogue: 0,0:12:22.84,0:12:25.39,Default,RIONNE,0,0,0,,the environment is warped \Nby the concentration of mana,
+Dialogue: 0,0:12:25.39,0:12:27.93,Default,RIONNE,0,0,0,,and the monster breaks out \Nfrom the proverbial "shell."
+Dialogue: 0,0:12:28.94,0:12:30.85,Default,RIONNE,0,0,0,,I've never seen anything like this.
+Dialogue: 0,0:12:31.31,0:12:34.81,Default,SHIN,0,0,0,,Which means it's no ordinary monster.
+Dialogue: 0,0:12:35.86,0:12:37.89,Italics,SHIN/ID,0,0,0,,Between this and that feeling earlier,
+Dialogue: 0,0:12:37.89,0:12:41.56,Italics,SHIN/ID,0,0,0,,it's like something doesn't want us to leave.
+Dialogue: 0,0:12:44.93,0:12:47.20,Default,RIONNE,0,0,0,,Shin, it's emerging.
+Dialogue: 0,0:12:50.68,0:12:51.80,Default,SHIN,0,0,0,,A griffin?
+Dialogue: 0,0:12:58.75,0:13:00.96,Default,SHIN,0,0,0,,Is that... ice?
+Dialogue: 0,0:13:03.53,0:13:04.34,Default,SHIN,0,0,0,,Not good.
+Dialogue: 0,0:13:06.32,0:13:07.09,Default,SHIN,0,0,0,,Let's jump!
+Dialogue: 0,0:13:10.17,0:13:12.45,Default,SHIN,0,0,0,,It froze? Seriously?
+Dialogue: 0,0:13:17.23,0:13:19.47,Default,SHIN,0,0,0,,It instantly tried to mow\Nus down with its breath.
+Dialogue: 0,0:13:19.47,0:13:21.24,Default,SHIN,0,0,0,,Talk about ridiculous.
+Dialogue: 0,0:13:21.24,0:13:23.00,Default,RIONNE,0,0,0,,U-Uh, Shin?
+Dialogue: 0,0:13:24.11,0:13:26.65,Default,RIONNE,0,0,0,,Could you put me down now?
+Dialogue: 0,0:13:26.65,0:13:29.49,Default,SHIN,0,0,0,,Oh, sorry. It was an emergency.
+Dialogue: 0,0:13:29.81,0:13:32.37,Default,RIONNE,0,0,0,,I swear, you're unbelievable.
+Dialogue: 0,0:13:33.08,0:13:34.88,Default,RIONNE,0,0,0,,So, what should we do?
+Dialogue: 0,0:13:34.88,0:13:37.00,Default,RIONNE,0,0,0,,Just getting close to it will be difficult.
+Dialogue: 0,0:13:37.38,0:13:41.00,Default,SHIN,0,0,0,,I'll act as a decoy.\NYou strike it from behind.
+Dialogue: 0,0:13:41.32,0:13:42.72,Default,RIONNE,0,0,0,,Will you be all right?
+Dialogue: 0,0:13:42.72,0:13:43.99,Default,SHIN,0,0,0,,You can count on me.
+Dialogue: 0,0:13:43.99,0:13:47.51,Default,SHIN,0,0,0,,I doubt it'll hit me, \Nand even if it does, I can take it.
+Dialogue: 0,0:13:47.90,0:13:48.72,Default,RIONNE,0,0,0,,Got it.
+Dialogue: 0,0:13:56.02,0:13:58.76,Default,SHIN,0,0,0,,Hey, you frozen chicken! Over here!
+Dialogue: 0,0:13:58.76,0:14:00.19,Default,SHIN,0,0,0,,What are you aiming for?!
+Dialogue: 0,0:14:01.79,0:14:05.78,Italics,SHIN/ID,0,0,0,,If I draw its attention, \NRionne can try to catch it off guard.
+Dialogue: 0,0:14:08.16,0:14:09.48,Default,SHIN,0,0,0,,Trick Throw!
+Dialogue: 0,0:14:10.96,0:14:12.28,Default,RIONNE,0,0,0,,Where is he tossing those?
+Dialogue: 0,0:14:16.37,0:14:17.29,Default,RIONNE,0,0,0,,Now's my chance!
+Dialogue: 0,0:14:19.29,0:14:21.54,Default,RIONNE,0,0,0,,Tyrant Beat!
+Dialogue: 0,0:14:24.12,0:14:24.98,Default,RIONNE,0,0,0,,All right!
+Dialogue: 0,0:14:30.43,0:14:33.63,Default,RIONNE,0,0,0,,It only hit me with its wing, \Nand yet it's still so powerful...
+Dialogue: 0,0:14:33.63,0:14:35.09,Default,SHIN,0,0,0,,Nice one, Rionne!
+Dialogue: 0,0:14:36.75,0:14:39.44,Default,SHIN,0,0,0,,If it's primarily ice, then how about this?
+Dialogue: 0,0:14:39.69,0:14:41.36,Default,SHIN,0,0,0,,Flare Burst!
+Dialogue: 0,0:14:46.65,0:14:47.96,Default,RIONNE,0,0,0,,Did you get it?
+Dialogue: 0,0:14:47.96,0:14:48.86,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:14:49.16,0:14:54.13,Default,SHIN,0,0,0,,The opening you made let me \Nnail it with one powerful blow.
+Dialogue: 0,0:14:54.13,0:14:55.37,Default,SHIN,0,0,0,,Now we can leave the...
+Dialogue: 0,0:15:01.12,0:15:04.69,Default,SHIN,0,0,0,,Seriously? It can heal itself?
+Dialogue: 0,0:15:04.69,0:15:07.37,Default,SHIN,0,0,0,,I'm positive we defeated it.
+Dialogue: 0,0:15:07.37,0:15:10.13,Default,RIONNE,0,0,0,,It didn't just heal itself. \NIt completely regenerated.
+Dialogue: 0,0:15:10.13,0:15:11.89,Default,RIONNE,0,0,0,,It's back to perfect health.
+Dialogue: 0,0:15:15.89,0:15:18.03,Default,RIONNE,0,0,0,,How are we supposed to slay it?
+Dialogue: 0,0:15:18.03,0:15:19.25,Default,SHIN,0,0,0,,Well...
+Dialogue: 0,0:15:19.85,0:15:22.40,Default,SHIN,0,0,0,,Rionne, could you do me a favor?
+Dialogue: 0,0:15:26.01,0:15:29.44,Default,RIONNE,0,0,0,,You want me to find the device \Nto open the gate by myself?
+Dialogue: 0,0:15:29.44,0:15:30.28,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:15:30.71,0:15:34.27,Default,SHIN,0,0,0,,I'll attack from the front \Nand draw its attention again.
+Dialogue: 0,0:15:34.27,0:15:37.39,Default,SHIN,0,0,0,,In the meantime, you examine \Nthe opening mechanism.
+Dialogue: 0,0:15:37.39,0:15:39.29,Default,RIONNE,0,0,0,,And look for what?
+Dialogue: 0,0:15:39.29,0:15:42.04,Default,SHIN,0,0,0,,Judging by its unusual regeneration,
+Dialogue: 0,0:15:42.04,0:15:45.94,Default,SHIN,0,0,0,,it's probably a monster made by magic.
+Dialogue: 0,0:15:45.94,0:15:51.05,Default,SHIN,0,0,0,,There's a spell somewhere \Nregenerating the monster.
+Dialogue: 0,0:15:51.05,0:15:55.19,Default,RIONNE,0,0,0,,And that spell has been applied \Nto the opening mechanism?
+Dialogue: 0,0:15:55.19,0:15:57.06,Default,SHIN,0,0,0,,It's just a possibility.
+Dialogue: 0,0:15:57.69,0:15:58.99,Default,RIONNE,0,0,0,,Very well.
+Dialogue: 0,0:15:58.99,0:16:00.77,Default,RIONNE,0,0,0,,If I can open the gate,
+Dialogue: 0,0:16:00.77,0:16:04.92,Default,RIONNE,0,0,0,,we could also temporarily \Nimmobilize the griffin and escape.
+Dialogue: 0,0:16:04.92,0:16:06.99,Default,SHIN,0,0,0,,It's an unknown monster.
+Dialogue: 0,0:16:06.99,0:16:09.69,Default,SHIN,0,0,0,,It might keep chasing us \Neven if we leave the dungeon.
+Dialogue: 0,0:16:10.41,0:16:12.21,Default,SHIN,0,0,0,,But we'll roll with the punches!
+Dialogue: 0,0:16:12.70,0:16:15.20,Default,RIONNE,0,0,0,,Still, will you be all right on your own?
+Dialogue: 0,0:16:15.20,0:16:16.67,Default,SHIN,0,0,0,,I can handle it.
+Dialogue: 0,0:16:16.67,0:16:19.06,Default,SHIN,0,0,0,,It's not my first time \Nfighting something like this.
+Dialogue: 0,0:16:19.65,0:16:20.99,Default,SHIN,0,0,0,,I'm counting on you!
+Dialogue: 0,0:16:25.16,0:16:30.72,Italics,SHIN/ID,0,0,0,,Sorry, Rionne. Honestly, it doesn't \Nreally matter if there's a spell or not.
+Dialogue: 0,0:16:34.32,0:16:36.26,Default,SHIN,0,0,0,,No more restrictions.
+Dialogue: 0,0:16:36.95,0:16:39.11,Default,SHIN,0,0,0,,It's time to go all out.
+Dialogue: 0,0:16:40.35,0:16:41.73,Default,SHIN,0,0,0,,Limit Off.
+Dialogue: 0,0:16:54.97,0:16:58.43,Default,SHIN,0,0,0,,I don't know how much of \Nmy power I can safely unleash,
+Dialogue: 0,0:16:59.05,0:17:00.91,Default,SHIN,0,0,0,,but you'll make a good test subject.
+Dialogue: 0,0:17:01.45,0:17:03.04,Default,SHIN,0,0,0,,Let's see who can hold out longer!
+Dialogue: 0,0:17:10.01,0:17:10.92,Default,RIONNE,0,0,0,,Found it!
+Dialogue: 0,0:17:15.93,0:17:20.27,Italics,SHIN/ID,0,0,0,,I've defeated it thirty times, \Nbut it keeps coming back.
+Dialogue: 0,0:17:20.27,0:17:24.44,Italics,SHIN/ID,0,0,0,,Since it recovers from physical and magical \Ndamage, I'll have to try sealing it.
+Dialogue: 0,0:17:27.10,0:17:29.60,Italics,SHIN/ID,0,0,0,,What is that white sphere?
+Dialogue: 0,0:17:33.17,0:17:35.45,Default,SHIN,0,0,0,,This is what I felt before...
+Dialogue: 0,0:17:36.69,0:17:37.62,Default,SHIN,0,0,0,,Take this!
+Dialogue: 0,0:17:41.71,0:17:43.32,Italics,SHIN/ID,0,0,0,,It absorbed my attack?
+Dialogue: 0,0:17:43.32,0:17:46.46,Italics,SHIN/ID,0,0,0,,It's chancy to charge in \Nwithout knowing what it is.
+Dialogue: 0,0:17:48.21,0:17:51.66,Italics,SHIN/ID,0,0,0,,But it's a chance I'll have to take.
+Dialogue: 0,0:17:54.54,0:17:57.46,Italics,SHIN/ID,0,0,0,,I'm being enveloped in golden light...
+Dialogue: 0,0:17:58.24,0:18:00.13,Italics,SHIN/ID,0,0,0,,The sucking feeling is gone.
+Dialogue: 0,0:18:01.08,0:18:02.24,Default,SHIN,0,0,0,,I'll give it a shot.
+Dialogue: 0,0:18:09.82,0:18:12.02,Italics,SHIN/ID,0,0,0,,It stopped regenerating?
+Dialogue: 0,0:18:12.02,0:18:13.57,Italics,SHIN/ID,0,0,0,,I don't get it, but you're mine!
+Dialogue: 0,0:18:19.04,0:18:20.07,Default,SHIN,0,0,0,,Flame Strike!
+Dialogue: 0,0:18:28.58,0:18:29.71,Default,SHIN,0,0,0,,See you.
+Dialogue: 0,0:18:36.68,0:18:38.81,Default,SHIN,0,0,0,,Just what was that?
+Dialogue: 0,0:18:39.28,0:18:40.46,Default,RIONNE,0,0,0,,Shin!
+Dialogue: 0,0:18:41.48,0:18:44.53,Default,RIONNE,0,0,0,,What was that explosion? Where's the griffin?
+Dialogue: 0,0:18:44.53,0:18:47.79,Default,SHIN,0,0,0,,As you can see, \NI obliterated it without a trace.
+Dialogue: 0,0:18:48.46,0:18:49.69,Default,SHIN,0,0,0,,How'd you do?
+Dialogue: 0,0:18:53.66,0:18:57.20,Default,SHIN,0,0,0,,Thanks. Now we can say goodbye \Nto this dungeon.
+Dialogue: 0,0:18:57.20,0:18:59.14,Default,RIONNE,0,0,0,,Let's hurry out of here.
+Dialogue: 0,0:19:00.77,0:19:03.62,Default,SHIN,0,0,0,,We're supposed to meet my companions in Valmer.
+Dialogue: 0,0:19:03.62,0:19:07.00,Default,RIONNE,0,0,0,,Valmer is east of the Melt Mountains.
+Dialogue: 0,0:19:07.61,0:19:11.12,Default,RIONNE,0,0,0,,If we head toward the mountains, \Nwe shouldn't get lost.
+Dialogue: 0,0:19:14.62,0:19:16.63,Italics,SCHNEE,0,0,0,,So you safely escaped the holy land?
+Dialogue: 0,0:19:17.01,0:19:18.07,Italics,SCHNEE,0,0,0,,I'm glad.
+Dialogue: 0,0:19:18.65,0:19:21.53,Italics,SCHNEE,0,0,0,,And you'll be camping out tonight \Nwith the princess?
+Dialogue: 0,0:19:21.53,0:19:24.89,Italics,SCHNEE,0,0,0,,Indeed, there's not much else you can do.
+Dialogue: 0,0:19:25.21,0:19:28.19,Italics,SCHNEE,0,0,0,,What? I'm not mad.
+Dialogue: 0,0:19:28.19,0:19:29.05,Italics,SCHNEE,0,0,0,,Goodbye.
+Dialogue: 0,0:19:30.39,0:19:33.32,Default,TIERA,0,0,0,,Master, what's the matter?
+Dialogue: 0,0:19:33.32,0:19:34.64,Default,SCHNEE,0,0,0,,Let's get moving.
+Dialogue: 0,0:19:34.64,0:19:36.40,Default,TIERA,0,0,0,,What? Already?
+Dialogue: 0,0:19:36.74,0:19:39.84,Default,SCHNEE,0,0,0,,Shimmer, can you go even faster?
+Dialogue: 0,0:19:41.28,0:19:42.55,Default,SCHNEE,0,0,0,,Then let us be off.
+Dialogue: 0,0:19:43.90,0:19:44.74,Default,TIERA,0,0,0,,Huh?
+Dialogue: 0,0:19:49.64,0:19:52.92,Default,SHIN,0,0,0,,I'll keep watch first. Get some rest.
+Dialogue: 0,0:19:52.92,0:19:54.04,Default,RIONNE,0,0,0,,Thanks.
+Dialogue: 0,0:19:54.70,0:19:55.89,Default,SHIN,0,0,0,,Want some tea?
+Dialogue: 0,0:19:56.34,0:19:58.92,Default,RIONNE,0,0,0,,A tent, clothes, and food...
+Dialogue: 0,0:19:59.33,0:20:02.46,Default,RIONNE,0,0,0,,Don't you think you're a bit {\i1}too{\i0} prepared?
+Dialogue: 0,0:20:02.46,0:20:05.55,Default,SHIN,0,0,0,,I was already all set to hit the road.
+Dialogue: 0,0:20:05.55,0:20:09.68,Default,SHIN,0,0,0,,And with an item box, \Nit's easy to travel light.
+Dialogue: 0,0:20:09.68,0:20:11.81,Default,RIONNE,0,0,0,,An item box, huh?
+Dialogue: 0,0:20:11.81,0:20:14.52,Default,RIONNE,0,0,0,,I wish my kingdom had someone like you.
+Dialogue: 0,0:20:14.52,0:20:16.31,Default,SHIN,0,0,0,,Please ask someone else.
+Dialogue: 0,0:20:16.72,0:20:18.82,Default,RIONNE,0,0,0,,You really won't do it?
+Dialogue: 0,0:20:18.82,0:20:19.89,Default,SHIN,0,0,0,,No.
+Dialogue: 0,0:20:19.89,0:20:20.87,Default,RIONNE,0,0,0,,No matter what?
+Dialogue: 0,0:20:20.87,0:20:21.95,Default,SHIN,0,0,0,,No matter what.
+Dialogue: 0,0:20:21.95,0:20:23.28,Default,RIONNE,0,0,0,,Can't you make an exception?
+Dialogue: 0,0:20:23.28,0:20:25.57,Default,SHIN,0,0,0,,No! Stop rubbing up against me!
+Dialogue: 0,0:20:28.76,0:20:32.08,Default,RIONNE,0,0,0,,Am I attractive enough to fluster you?
+Dialogue: 0,0:20:32.08,0:20:34.33,Default,SHIN,0,0,0,,You mean you didn't do that on purpose?
+Dialogue: 0,0:20:35.05,0:20:37.46,Default,RIONNE,0,0,0,,You really don't hold back, do you?
+Dialogue: 0,0:20:38.04,0:20:39.84,Default,RIONNE,0,0,0,,But I prefer that.
+Dialogue: 0,0:20:40.14,0:20:42.59,Default,SHIN,0,0,0,,Doesn't that just mean I'm rude?
+Dialogue: 0,0:20:42.92,0:20:46.85,Default,RIONNE,0,0,0,,As royalty, I'm used to everyone \Ntreating me with respect.
+Dialogue: 0,0:20:46.85,0:20:48.57,Default,RIONNE,0,0,0,,So I like talking to people like you.
+Dialogue: 0,0:20:49.08,0:20:51.85,Default,RIONNE,0,0,0,,Honestly, it suits me much better.
+Dialogue: 0,0:20:52.41,0:20:54.10,Default,SHIN,0,0,0,,What about your family?
+Dialogue: 0,0:20:54.10,0:20:56.85,Default,RIONNE,0,0,0,,It's been a long time since we \Nenjoyed each other's company.
+Dialogue: 0,0:20:57.49,0:21:02.10,Default,RIONNE,0,0,0,,Maybe some part of me is \Nlooking for something to replace that.
+Dialogue: 0,0:21:04.16,0:21:06.79,Default,SHIN,0,0,0,,Well, I don't mind talking to you whenever.
+Dialogue: 0,0:21:06.79,0:21:10.17,Default,SHIN,0,0,0,,Hey, wait. Why are you snuggling up to me?
+Dialogue: 0,0:21:10.17,0:21:12.21,Default,RIONNE,0,0,0,,Just while we're talking.
+Dialogue: 0,0:21:12.21,0:21:13.50,Default,RIONNE,0,0,0,,Not bothered, are you?
+Dialogue: 0,0:21:13.50,0:21:16.69,Default,SHIN,0,0,0,,We couldn't let anyone at the castle see this.
+Dialogue: 0,0:21:16.69,0:21:21.00,Default,RIONNE,0,0,0,,No. It's been a while since I haven't \Nhad eyes on me outside of battle.
+Dialogue: 0,0:21:21.93,0:21:23.76,Default,RIONNE,0,0,0,,It's been a really long time...
+Dialogue: 0,0:21:24.07,0:21:26.76,Default,SHIN,0,0,0,,Sheesh. Just for now, okay?
+Dialogue: 0,0:21:28.76,0:21:30.72,Default,RIONNE,0,0,0,,You're warm.
+Dialogue: 0,0:21:31.14,0:21:32.27,Default,SHIN,0,0,0,,Are you cold?
+Dialogue: 0,0:21:32.64,0:21:34.60,Default,RIONNE,0,0,0,,That's not what I meant.
+Dialogue: 0,0:21:47.77,0:21:48.57,Default,RIONNE,0,0,0,,Shin?
+Dialogue: 0,0:21:50.89,0:21:51.85,Default,RIONNE,0,0,0,,Smoke?
+Dialogue: 0,0:21:52.20,0:21:53.98,Default,SHIN,0,0,0,,It's monsters.
+Dialogue: 0,0:21:53.98,0:21:56.21,Default,SHIN,0,0,0,,An absurd number of them have formed a horde.
+Dialogue: 0,0:21:56.62,0:21:59.99,Default,SHIN,0,0,0,,Not only that, \Nbut they're headed toward Valmer.
+Dialogue: 0,0:21:59.99,0:22:00.96,Default,RIONNE,0,0,0,,What?!
+Dialogue: 0,0:23:34.97,0:23:39.98,Default,SIGN,0,0,0,,{\an2\fs20\b1\c&HBCE7FD&\3c&H192541&\shad0}Next Time\NEpisode 12\N{\fs24\b1\fscy130\fsp1\c&HB8E7FF&\bord0\shad0}Major Flood

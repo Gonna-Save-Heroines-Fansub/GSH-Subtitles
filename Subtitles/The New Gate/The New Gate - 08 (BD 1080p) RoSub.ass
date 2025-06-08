@@ -1,0 +1,322 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.15,0:00:07.52,Default,GIRART,0,0,0,,Hey, Master. I didn't think I'd get \Nto see you again in this life.
+Dialogue: 0,0:00:07.80,0:00:11.98,Default,SHIN,0,0,0,,I didn't think you were still alive, Girart.
+Dialogue: 0,0:00:13.98,0:00:15.03,Default,GIRART,0,0,0,,Well, yeah.
+Dialogue: 0,0:00:15.47,0:00:18.69,Default,GIRART,0,0,0,,I don't know why I'm still kicking either.
+Dialogue: 0,0:00:20.04,0:00:24.42,Default,GIRART,0,0,0,,We've got a lot to talk about, \Nbut let's start with introductions.
+Dialogue: 0,0:00:24.42,0:00:27.66,Default,GIRART,0,0,0,,Meet the current king of beasts, Wolfgang.
+Dialogue: 0,0:00:28.46,0:00:30.42,Default,GIRART,0,0,0,,And his daughter, Cuore.
+Dialogue: 0,0:00:30.77,0:00:32.67,Default,GIRART,0,0,0,,These two are my confidants.
+Dialogue: 0,0:00:32.97,0:00:35.37,Default,GIRART,0,0,0,,My right hand, Van Ku,
+Dialogue: 0,0:00:35.68,0:00:38.93,Default,GIRART,0,0,0,,and my left hand, Rajim Dolk.
+Dialogue: 0,0:00:39.20,0:00:43.81,Default,SHIN,0,0,0,,I'm Shin. Maybe you've already heard, \Nbut I'm a high human.
+Dialogue: 0,0:00:44.42,0:00:45.79,Default,SHIN,0,0,0,,It's nice to meet you.
+Dialogue: 0,0:00:47.13,0:00:49.94,Default,GIRART,0,0,0,,You can talk like you normally do, Master.
+Dialogue: 0,0:00:50.30,0:00:52.64,Default,SHIN,0,0,0,,Then talk to {\i1}me{\i0} like you normally do!
+Dialogue: 0,0:00:52.64,0:00:55.20,Default,SHIN,0,0,0,,You've never called me "Master" before.
+Dialogue: 0,0:00:55.48,0:01:00.20,Default,GIRART,0,0,0,,We haven't seen each other in so long.\NLet me have my fun.
+Dialogue: 0,0:01:00.61,0:01:05.21,Default,GIRART,0,0,0,,Besides, it's the only way \Nto put them at ease.
+Dialogue: 0,0:01:05.21,0:01:06.21,Default,SHIN,0,0,0,,What?
+Dialogue: 0,0:01:06.21,0:01:12.21,Default,GIRART,0,0,0,,You know how crazy high humans are.
+Dialogue: 0,0:01:13.26,0:01:15.61,Default,GIRART,0,0,0,,To the people of this world,
+Dialogue: 0,0:01:15.61,0:01:21.21,Default,GIRART,0,0,0,,high humans are legendary beings \Nto be feared and revered.
+Dialogue: 0,0:02:55.02,0:02:57.28,Flashback,SHIN,0,0,0,,Hey, are you still alive?
+Dialogue: 0,0:02:57.62,0:02:58.78,Flashback,GIRART,0,0,0,,Couldn't be better.
+Dialogue: 0,0:02:59.09,0:03:00.67,Flashback,SHIN,0,0,0,,How many did you kill?
+Dialogue: 0,0:03:00.67,0:03:04.03,Flashback,GIRART,0,0,0,,A hundred? A thousand? Maybe more.
+Dialogue: 0,0:03:05.30,0:03:07.04,Flashback,SHIN,0,0,0,,The moment of truth is still to come.
+Dialogue: 0,0:03:08.24,0:03:09.41,Flashback,GIRART,0,0,0,,I'm raring to go.
+Dialogue: 0,0:03:09.97,0:03:11.17,Flashback,SHIN,0,0,0,,Good.
+Dialogue: 0,0:03:11.17,0:03:13.47,Flashback,SHIN,0,0,0,,Watch my back.
+Dialogue: 0,0:03:18.65,0:03:21.21,Default,SHIN,0,0,0,,I thought we were dead men back then.
+Dialogue: 0,0:03:21.21,0:03:24.30,Default,GIRART,0,0,0,,Right? I'm amazed we both came out all right.
+Dialogue: 0,0:03:24.58,0:03:27.16,Default,SHIN,0,0,0,,How many did we end up slaying?
+Dialogue: 0,0:03:27.16,0:03:28.84,Default,GIRART,0,0,0,,I don't remember.
+Dialogue: 0,0:03:28.84,0:03:29.81,Default,SHIN,0,0,0,,Right?
+Dialogue: 0,0:03:29.81,0:03:33.90,Default,GIRART,0,0,0,,Speaking of things that have happened \Nin the last five hundred years...
+Dialogue: 0,0:03:34.37,0:03:37.80,Default,SHIN,0,0,0,,Schnee told me all about \Nhow you founded a nation.
+Dialogue: 0,0:03:37.80,0:03:39.94,Default,GIRART,0,0,0,,Hey! You went and spilled the beans?
+Dialogue: 0,0:03:40.30,0:03:43.10,Default,GIRART,0,0,0,,I was going to brag about it.
+Dialogue: 0,0:03:43.10,0:03:47.20,Default,SCHNEE,0,0,0,,Knowing you, I figured you would exaggerate,
+Dialogue: 0,0:03:47.69,0:03:51.00,Default,SCHNEE,0,0,0,,so I provided an objective account \Nof my observations.
+Dialogue: 0,0:03:51.00,0:03:52.21,Default,GIRART,0,0,0,,What?!
+Dialogue: 0,0:03:53.78,0:03:55.21,Default,SHIN,0,0,0,,I believe it.
+Dialogue: 0,0:03:56.37,0:03:59.49,Default,SCHNEE,0,0,0,,I'll go make some tea.
+Dialogue: 0,0:03:59.49,0:04:00.71,Default,GIRART,0,0,0,,Sure. Thanks.
+Dialogue: 0,0:04:01.67,0:04:05.97,Default,GIRART,0,0,0,,I guess the tales of my heroism \Nwill have to wait.
+Dialogue: 0,0:04:05.97,0:04:08.93,Default,GIRART,0,0,0,,Tell me about you instead.
+Dialogue: 0,0:04:10.34,0:04:15.19,Default,SHIN,0,0,0,,Well, I've told Schnee, but the truth is...
+Dialogue: 0,0:04:16.62,0:04:22.03,Default,GIRART,0,0,0,,I see. No wonder I couldn't find you \Nno matter how much I looked.
+Dialogue: 0,0:04:22.74,0:04:26.85,Default,GIRART,0,0,0,,Sounds like you've gotten yourself \Ninto some strange trouble.
+Dialogue: 0,0:04:26.85,0:04:32.12,Default,SHIN,0,0,0,,You're telling me. \NThe silver lining is that it's not all bad.
+Dialogue: 0,0:04:34.30,0:04:37.31,Default,GIRART,0,0,0,,Yeah... You're right.
+Dialogue: 0,0:04:38.25,0:04:40.88,Default,GIRART,0,0,0,,At the very least, \Nthis is a great thing for me.
+Dialogue: 0,0:04:42.42,0:04:43.45,Default,SHIN,0,0,0,,Girart?
+Dialogue: 0,0:04:44.54,0:04:46.64,Default,GIRART,0,0,0,,Let's get down to business.
+Dialogue: 0,0:04:47.02,0:04:51.67,Default,GIRART,0,0,0,,Shin, there's something I have to tell you.
+Dialogue: 0,0:04:51.67,0:04:52.55,Default,SHIN,0,0,0,,What is it?
+Dialogue: 0,0:04:55.21,0:04:57.65,Default,GIRART,0,0,0,,I'm going to die soon.
+Dialogue: 0,0:04:58.61,0:04:59.40,Default,SHIN,0,0,0,,What?
+Dialogue: 0,0:04:59.40,0:05:00.93,Default,GIRART,0,0,0,,I don't have long to live.
+Dialogue: 0,0:05:01.49,0:05:04.54,Default,GIRART,0,0,0,,I probably have less than a month left.
+Dialogue: 0,0:05:04.54,0:05:06.41,Default,SHIN,0,0,0,,How do you know?
+Dialogue: 0,0:05:06.90,0:05:10.15,Default,GIRART,0,0,0,,I've felt something was off \Nfor a few weeks now,
+Dialogue: 0,0:05:10.87,0:05:13.91,Default,GIRART,0,0,0,,but when Schnee told me about you, \NI was certain.
+Dialogue: 0,0:05:14.42,0:05:18.67,Default,GIRART,0,0,0,,It seems time has begun flowing for me again,
+Dialogue: 0,0:05:18.67,0:05:22.17,Default,GIRART,0,0,0,,as though it were waiting for your return.
+Dialogue: 0,0:05:23.55,0:05:29.55,Default,GIRARY,0,0,0,,If there are gods in this world, \Nperhaps they heard my prayers.
+Dialogue: 0,0:05:29.55,0:05:30.73,Default,SHIN,0,0,0,,Your prayers?
+Dialogue: 0,0:05:36.38,0:05:38.56,Default,GIRART,0,0,0,,Duel me, Shin.
+Dialogue: 0,0:05:41.74,0:05:44.07,Default,GIRART,0,0,0,,I want to fight you.
+Dialogue: 0,0:05:50.73,0:05:57.78,Italics,SHIN/ID,0,0,0,,Girart, do you intend \Nto die in battle, as a warrior?
+Dialogue: 0,0:05:59.47,0:06:04.10,Italics,GIRART/ID,0,0,0,,I can't help but wish for it, Shin.
+Dialogue: 0,0:06:05.45,0:06:09.97,Italics,GIRART/ID,0,0,0,,I want to duel you, the strongest warrior.
+Dialogue: 0,0:06:10.67,0:06:18.41,Italics,GIRART/ID,0,0,0,,How effective are my fangs \Nagainst someone so superhuman?
+Dialogue: 0,0:06:22.31,0:06:25.21,Default,SHIN,0,0,0,,Very well. I accept.
+Dialogue: 0,0:06:28.11,0:06:30.55,Default,SHIN,0,0,0,,Have you told Wolfgang and the others?
+Dialogue: 0,0:06:31.30,0:06:33.37,Default,GIRART,0,0,0,,About my life expectancy, yes.
+Dialogue: 0,0:06:33.66,0:06:37.22,Default,GIRART,0,0,0,,I haven't told them about the duel yet,\N but I won't hide it.
+Dialogue: 0,0:06:37.22,0:06:39.25,Default,GIRART,0,0,0,,I intend to tell them.
+Dialogue: 0,0:06:40.09,0:06:44.80,Default,GIRART,0,0,0,,That said, I think Van and Rajim \Nhave realized what I want.
+Dialogue: 0,0:06:44.80,0:06:46.04,Default,SHIN,0,0,0,,Your brothers-in-arms?
+Dialogue: 0,0:06:46.04,0:06:46.88,Default,GIRART,0,0,0,,Yeah.
+Dialogue: 0,0:06:47.73,0:06:51.64,Default,GIRART,0,0,0,,Since you disappeared, we've fought together.
+Dialogue: 0,0:06:52.01,0:06:56.51,Default,GIRART,0,0,0,,They're two of the longest-lived \Ntypes of beasts.
+Dialogue: 0,0:06:56.89,0:06:59.97,Default,GIRART,0,0,0,,They've followed me this whole time.
+Dialogue: 0,0:07:00.39,0:07:03.26,Default,GIRART,0,0,0,,But we're all getting old.
+Dialogue: 0,0:07:03.26,0:07:07.67,Default,GIRART,0,0,0,,It's time this nation\N was freed of our influence.
+Dialogue: 0,0:07:08.15,0:07:11.53,Default,SHIN,0,0,0,,I heard Wolfgang is an exceptional ruler.
+Dialogue: 0,0:07:11.53,0:07:12.16,Default,GIRART,0,0,0,,He is.
+Dialogue: 0,0:07:12.58,0:07:16.61,Default,GIRART,0,0,0,,He listens to the people and can walk \Nshoulder-to-shoulder with them.
+Dialogue: 0,0:07:17.03,0:07:20.16,Default,GIRART,0,0,0,,He's already a fine replacement for me.
+Dialogue: 0,0:07:20.49,0:07:22.27,Default,SHIN,0,0,0,,Any regrets?
+Dialogue: 0,0:07:23.38,0:07:26.42,Default,GIRART,0,0,0,,Only that I haven't dueled you.
+Dialogue: 0,0:07:30.63,0:07:31.81,Default,SHIN,0,0,0,,I see.
+Dialogue: 0,0:07:35.87,0:07:38.93,Default,GIRART,0,0,0,,There's something I must tell you.
+Dialogue: 0,0:07:39.74,0:07:41.69,Default,GIRART,0,0,0,,I've found the place where I'll die.
+Dialogue: 0,0:07:42.04,0:07:42.72,Default,WOLFGANG,0,0,0,,What?
+Dialogue: 0,0:07:43.65,0:07:46.06,Default,WOLFGANG,0,0,0,,What do you mean by that?
+Dialogue: 0,0:07:46.53,0:07:49.19,Default,GIRART,0,0,0,,I've told you how long I have left.
+Dialogue: 0,0:07:49.95,0:07:54.07,Default,GIRART,0,0,0,,I've asked Shin to duel me\N before my time's up.
+Dialogue: 0,0:07:54.98,0:07:57.33,Default,GIRART,0,0,0,,The duel will take place one week from now.
+Dialogue: 0,0:07:58.83,0:08:00.70,Default,VAN,0,0,0,,I see.
+Dialogue: 0,0:08:00.70,0:08:04.83,Default,RAJIM,0,0,0,,So the time has finally come.
+Dialogue: 0,0:08:05.12,0:08:10.31,Default,GIRART,0,0,0,,Yeah. My unfulfilled wish \Nis finally coming true.
+Dialogue: 0,0:08:11.03,0:08:12.25,Default,WOLFGANG,0,0,0,,Very well.
+Dialogue: 0,0:08:14.67,0:08:18.64,Default,CUORE,0,0,0,,How... How are you all so calm?
+Dialogue: 0,0:08:19.04,0:08:20.41,Default,CUORE,0,0,0,,You're going to...
+Dialogue: 0,0:08:20.94,0:08:22.60,Default,GIRART,0,0,0,,I've lived a long life.
+Dialogue: 0,0:08:24.67,0:08:29.21,Default,GIRART,0,0,0,,I've watched companions fall, their sons die,
+Dialogue: 0,0:08:30.15,0:08:33.43,Default,GIRART,0,0,0,,and even cared for their grandchildren \Non their deathbeds.
+Dialogue: 0,0:08:35.45,0:08:38.99,Default,GIRART,0,0,0,,Why have I lived all this time?
+Dialogue: 0,0:08:40.25,0:08:43.37,Default,GIRART,0,0,0,,In one week, you'll learn the reason.
+Dialogue: 0,0:08:44.10,0:08:46.69,Default,GIRART,0,0,0,,I want you to see it happen.
+Dialogue: 0,0:08:51.05,0:08:51.94,Default,CUORE,0,0,0,,Very well.
+Dialogue: 0,0:08:54.53,0:08:56.39,Default,GIRART,0,0,0,,We'll fight in the Raluah Forest.
+Dialogue: 0,0:08:56.98,0:09:01.01,Default,GIRART,0,0,0,,It will be the final \Nand greatest battle of my life.
+Dialogue: 0,0:09:01.62,0:09:03.52,Default,GIRART,0,0,0,,I want all of you to witness it.
+Dialogue: 0,0:09:04.23,0:09:05.14,Default,ALL,0,0,0,,Yes, Your Majesty!
+Dialogue: 0,0:09:12.78,0:09:14.53,Default,SHIN,0,0,0,,A duel, huh?
+Dialogue: 0,0:09:15.86,0:09:19.03,Default,SHIN,0,0,0,,Just when I finally got to see you again...
+Dialogue: 0,0:09:19.03,0:09:19.58,Default,YUZUHA,0,0,0,,Shin?
+Dialogue: 0,0:09:23.01,0:09:24.54,Default,YUZUHA,0,0,0,,Is something wrong?
+Dialogue: 0,0:09:24.84,0:09:26.67,Default,SHIN,0,0,0,,No, it's nothing.
+Dialogue: 0,0:09:28.05,0:09:29.04,Default,SHIN,0,0,0,,I'm okay.
+Dialogue: 0,0:09:35.39,0:09:40.49,Italics,GIRART/ID,0,0,0,,Shin, I admired you.
+Dialogue: 0,0:09:41.33,0:09:45.26,Italics,GIRART/ID,0,0,0,,When you disappeared,\NI was filled with regret.
+Dialogue: 0,0:09:46.12,0:09:49.67,Italics,GIRART/ID,0,0,0,,A single, tremendous regret.
+Dialogue: 0,0:09:53.83,0:09:58.07,Default,GIRART,0,0,0,,The world was bland without you.
+Dialogue: 0,0:09:59.01,0:10:03.33,Italics,GIRART/ID,0,0,0,,I'd given up on my wish, \Nthinking it would never come true.
+Dialogue: 0,0:10:04.59,0:10:06.78,Italics,GIRART/ID,0,0,0,,Thank you, Shin.
+Dialogue: 0,0:10:48.74,0:10:51.24,Default,SHIN,0,0,0,,I've restored them to perfect condition.
+Dialogue: 0,0:10:51.24,0:10:53.42,Default,SHIN,0,0,0,,Now you can fight your heart out.
+Dialogue: 0,0:10:53.42,0:10:54.68,Default,GIRART,0,0,0,,Hey!
+Dialogue: 0,0:10:54.68,0:10:56.76,Default,GIRART,0,0,0,,Feels like the clock's turned back!
+Dialogue: 0,0:10:57.62,0:10:59.26,Default,GIRART,0,0,0,,Thank you, Shin.
+Dialogue: 0,0:10:59.95,0:11:01.01,Default,SHIN,0,0,0,,Don't worry about it.
+Dialogue: 0,0:11:01.95,0:11:03.85,Default,GIRART,0,0,0,,Tomorrow's finally the day.
+Dialogue: 0,0:11:04.39,0:11:05.27,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:11:06.49,0:11:10.45,Default,GIRART,0,0,0,,Shin, I know I should \Nmind my own business, but...
+Dialogue: 0,0:11:11.38,0:11:12.30,Default,SHIN,0,0,0,,What is it?
+Dialogue: 0,0:11:15.61,0:11:18.45,Default,SHIN,0,0,0,,Is this about Schnee?
+Dialogue: 0,0:11:19.89,0:11:20.75,Default,GIRART,0,0,0,,Yeah.
+Dialogue: 0,0:11:21.63,0:11:28.17,Default,GIRART,0,0,0,,If you find a way to go home, \Nwill you return to your world?
+Dialogue: 0,0:11:29.46,0:11:31.41,Italics,GIRART/ID,0,0,0,,Will you leave Schnee behind?
+Dialogue: 0,0:11:39.70,0:11:40.66,Default,SHIN,0,0,0,,I'm going home.
+Dialogue: 0,0:11:43.02,0:11:47.69,Default,SHIN,0,0,0,,That's the reason I've kept fighting.
+Dialogue: 0,0:11:51.35,0:11:52.35,Default,GIRART,0,0,0,,I see.
+Dialogue: 0,0:11:53.49,0:11:54.31,Default,SHIN,0,0,0,,Sorry.
+Dialogue: 0,0:11:54.87,0:11:57.77,Default,GIRART,0,0,0,,No, I should be the one apologizing.
+Dialogue: 0,0:11:58.26,0:12:00.07,Default,GIRART,0,0,0,,I shouldn't have asked.
+Dialogue: 0,0:12:02.54,0:12:04.57,Default,GIRART,0,0,0,,It's a difficult thing.
+Dialogue: 0,0:12:07.03,0:12:14.63,Default,SHIN,0,0,0,,If only there were a way to solve \Neverything at once, for me and for Schnee.
+Dialogue: 0,0:12:15.10,0:12:18.69,Default,GIRART,0,0,0,,You used to call yourself something\Nwhenever you were in trouble...
+Dialogue: 0,0:12:18.69,0:12:20.84,Default,GIRART,0,0,0,,An opportunist, was it?
+Dialogue: 0,0:12:20.84,0:12:25.47,Default,SHIN,0,0,0,,Yeah. I wanted everything to go my way
+Dialogue: 0,0:12:25.47,0:12:29.60,Default,SHIN,0,0,0,,and reach a happy end \Nwhere we lived happily ever after.
+Dialogue: 0,0:12:31.07,0:12:35.69,Default,GIRART,0,0,0,,That's not something \Nwe'll ever get to experience.
+Dialogue: 0,0:12:35.69,0:12:36.57,Default,SHIN,0,0,0,,Seriously.
+Dialogue: 0,0:12:39.59,0:12:42.61,Default,GIRART,0,0,0,,I'm looking forward to tomorrow.
+Dialogue: 0,0:12:44.98,0:12:45.75,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:12:51.38,0:12:53.58,Default,GIRART,0,0,0,,It's the perfect day for a duel.
+Dialogue: 0,0:12:53.58,0:12:56.17,Default,SHIN,0,0,0,,Right? How are you feeling?
+Dialogue: 0,0:12:56.17,0:12:57.58,Default,GIRART,0,0,0,,I'm ready anytime.
+Dialogue: 0,0:12:57.58,0:13:01.14,Default,GIRART,0,0,0,,My body and mind are raring to go!
+Dialogue: 0,0:13:03.65,0:13:06.39,Default,SCHNEE,0,0,0,,We will wait here.
+Dialogue: 0,0:13:06.39,0:13:09.10,Default,SHIN,0,0,0,,If any stray attacks go flying, \NI'll need you to stop them.
+Dialogue: 0,0:13:09.46,0:13:13.49,Default,SCHNEE,0,0,0,,I will. Don't worry about anything, \Nand fight to your heart's content.
+Dialogue: 0,0:13:13.49,0:13:14.45,Default,SHIN,0,0,0,,Got it.
+Dialogue: 0,0:13:17.02,0:13:19.78,Default,SCHNEE,0,0,0,,I will leave Girart in your hands.
+Dialogue: 0,0:13:19.78,0:13:20.57,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:13:20.57,0:13:21.69,Default,TIERA,0,0,0,,Um...
+Dialogue: 0,0:13:22.39,0:13:23.69,Default,TIERA,0,0,0,,We'll see you later.
+Dialogue: 0,0:13:23.69,0:13:24.86,Default,YUZUHA,0,0,0,,Good luck, Shin!
+Dialogue: 0,0:13:26.18,0:13:27.36,Default,SHIN,0,0,0,,I'll be back.
+Dialogue: 0,0:13:28.45,0:13:30.06,Default,GIRART,0,0,0,,The rest is up to you.
+Dialogue: 0,0:13:30.06,0:13:31.30,Default,BOTH,0,0,0,,Good luck.
+Dialogue: 0,0:13:32.66,0:13:35.87,Default,WOLFGANG,0,0,0,,I'll never forget your teachings \Nas the first king.
+Dialogue: 0,0:13:36.32,0:13:38.58,Default,WOLFGANG,0,0,0,,You can trust me \Nwith the kingdom and its people.
+Dialogue: 0,0:13:38.58,0:13:39.33,Default,GIRART,0,0,0,,Yeah.
+Dialogue: 0,0:13:42.62,0:13:43.87,Default,CUORE,0,0,0,,I...
+Dialogue: 0,0:13:47.02,0:13:48.09,Default,CUORE,0,0,0,,I'll also...
+Dialogue: 0,0:13:50.68,0:13:53.89,Default,CUORE,0,0,0,,I'll also become a warrior worthy \Nof the first king's bloodline.
+Dialogue: 0,0:13:54.49,0:13:55.29,Default,GIRART,0,0,0,,Good.
+Dialogue: 0,0:13:58.28,0:13:59.29,Default,GIRART,0,0,0,,Shall we go?
+Dialogue: 0,0:13:59.29,0:14:00.05,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:14:01.40,0:14:05.10,Default,RAJIM,0,0,0,,I haven't seen the king smile\N like that in a long time.
+Dialogue: 0,0:14:05.10,0:14:07.40,Default,VAN,0,0,0,,He's grinning like a child.
+Dialogue: 0,0:14:11.46,0:14:17.02,Default,WOLFGANG,0,0,0,,Let us witness the first king \Nrealize his wish together.
+Dialogue: 0,0:14:19.28,0:14:20.01,Default,CUORE,0,0,0,,Right.
+Dialogue: 0,0:14:25.13,0:14:26.30,Default,SHIN,0,0,0,,Ready?
+Dialogue: 0,0:14:26.65,0:14:27.74,Default,GIRART,0,0,0,,Anytime.
+Dialogue: 0,0:14:38.22,0:14:39.21,Default,SCHNEE,0,0,0,,It's begun.
+Dialogue: 0,0:14:40.10,0:14:41.69,Default,GIRART,0,0,0,,Shin!
+Dialogue: 0,0:14:41.69,0:14:43.82,Default,SHIN,0,0,0,,Girart!
+Dialogue: 0,0:14:47.90,0:14:49.57,Default,GIRART,0,0,0,,Your blows are as heavy as ever!
+Dialogue: 0,0:14:50.51,0:14:53.58,Default,SHIN,0,0,0,,Don't act like you can't shrug them off!
+Dialogue: 0,0:15:01.02,0:15:03.84,Default,GIRART,0,0,0,,Doesn't this remind you \Nof five hundred years ago?
+Dialogue: 0,0:15:04.22,0:15:07.09,Default,SHIN,0,0,0,,It feels like just yesterday for me!
+Dialogue: 0,0:15:08.90,0:15:10.58,Default,GIRART,0,0,0,,Of course!
+Dialogue: 0,0:15:12.18,0:15:13.72,Default,GIRART,0,0,0,,Same for me!
+Dialogue: 0,0:15:19.46,0:15:20.61,Default,CUORE,0,0,0,,Incredible.
+Dialogue: 0,0:15:20.61,0:15:23.73,Default,WOLFGANG,0,0,0,,I had no idea the first king was this strong.
+Dialogue: 0,0:15:26.33,0:15:28.69,Default,SCHNEE,0,0,0,,They should be done warming up soon.
+Dialogue: 0,0:15:28.69,0:15:31.54,Default,VAN,0,0,0,,His warm-ups are always quite the spectacle.
+Dialogue: 0,0:15:31.54,0:15:34.18,Default,RAJIM,0,0,0,,That's our king.
+Dialogue: 0,0:15:34.67,0:15:37.24,Default,TIERA,0,0,0,,You mean {\i1}that's{\i0} still not their full power?
+Dialogue: 0,0:15:37.24,0:15:38.50,Default,SCHNEE,0,0,0,,Of course not.
+Dialogue: 0,0:15:38.89,0:15:41.87,Default,TIERA,0,0,0,,Master, you're as strong as them, right?
+Dialogue: 0,0:15:42.45,0:15:46.34,Default,SCHNEE,0,0,0,,Even I would struggle against Girart.
+Dialogue: 0,0:15:46.34,0:15:49.63,Italics,TIERA/ID,0,0,0,,But that still means she's stronger...
+Dialogue: 0,0:15:49.94,0:15:53.51,Default,CUORE,0,0,0,,This is a battle between \Na high human and Girart.
+Dialogue: 0,0:15:53.93,0:15:56.03,Default,WOLFGANG,0,0,0,,We must sear this into our eyes.
+Dialogue: 0,0:15:59.37,0:16:04.06,Default,GIRART,0,0,0,,Even the techniques I developed \Nto fight you are useless.
+Dialogue: 0,0:16:04.06,0:16:06.15,Default,GIRART,0,0,0,,I'd expect no less from my master.
+Dialogue: 0,0:16:06.42,0:16:09.90,Default,SHIN,0,0,0,,Don't play dumb. \NI know you're stronger than this.
+Dialogue: 0,0:16:10.21,0:16:13.15,Default,GIRART,0,0,0,,Yeah. I'm going to put everything\N on the line now.
+Dialogue: 0,0:16:13.63,0:16:16.50,Default,GIRART,0,0,0,,Hear me. Watch as I become...
+Dialogue: 0,0:16:17.14,0:16:19.41,Default,GIRART,0,0,0,,a single fang!
+Dialogue: 0,0:16:30.06,0:16:30.80,Italics,GIRART/ID,0,0,0,,Shin.
+Dialogue: 0,0:16:31.79,0:16:33.98,Italics,GIRART/ID,0,0,0,,I know how you feel.
+Dialogue: 0,0:16:35.80,0:16:37.93,Flashback,SHIN,0,0,0,,I'll fight as hard as I can tomorrow.
+Dialogue: 0,0:16:38.45,0:16:42.18,Flashback,SHIN,0,0,0,,But I won't use the titles I acquired \Nfrom defeating the final boss.
+Dialogue: 0,0:16:42.58,0:16:44.94,Flashback,SHIN,0,0,0,,Relying on such unfair abilities\Nwouldn't be cool.
+Dialogue: 0,0:16:45.82,0:16:49.82,Italics,GIRART/ID,0,0,0,,If I were in Shin's position, \NI would've done the same.
+Dialogue: 0,0:16:50.17,0:16:55.45,Italics,GIRART/ID,0,0,0,,But even if this is over\Nin the blink of an eye,
+Dialogue: 0,0:16:56.38,0:16:58.74,Italics,GIRART/ID,0,0,0,,I want to fight Shin at full power.
+Dialogue: 0,0:17:00.58,0:17:07.42,Default,GIRART,0,0,0,,This is the only moment\Nmy fangs can reach you!
+Dialogue: 0,0:17:08.17,0:17:09.59,Default,GIRART,0,0,0,,Here I come!
+Dialogue: 0,0:17:15.18,0:17:16.34,Default,GIRART,0,0,0,,Too slow!
+Dialogue: 0,0:17:19.78,0:17:22.81,Default,SHIN,0,0,0,,You didn't think you could \Nbeat me with this, did you?!
+Dialogue: 0,0:17:22.81,0:17:23.85,Default,GIRART,0,0,0,,Of course not!
+Dialogue: 0,0:17:27.71,0:17:28.52,Default,SHIN,0,0,0,,He's coming.
+Dialogue: 0,0:17:31.50,0:17:33.24,Default,GIRART,0,0,0,,My ultimate technique...
+Dialogue: 0,0:17:33.24,0:17:36.02,Default,GIRART,0,0,0,,Legendary Excellence!
+Dialogue: 0,0:17:44.13,0:17:46.00,Default,SHIN,0,0,0,,That's a pretty tough one!
+Dialogue: 0,0:17:48.00,0:17:49.46,Default,GIRART,0,0,0,,Eight Flower Palm!
+Dialogue: 0,0:17:50.82,0:17:53.51,Default,GIRART,0,0,0,,Twin Flying Springs!
+Dialogue: 0,0:17:53.51,0:17:55.80,Italics,SHIN/ID,0,0,0,,He's chaining different skills together.
+Dialogue: 0,0:17:55.80,0:18:00.51,Italics,SHIN/ID,0,0,0,,He must've trained incredibly hard \Nto develop this strategy.
+Dialogue: 0,0:18:03.26,0:18:07.90,Italics,SHIN/ID,0,0,0,,Pathetic. He's risking his life, while I...
+Dialogue: 0,0:18:09.33,0:18:11.15,Italics,SHIN/ID,0,0,0,,I'm sorry, Girart.
+Dialogue: 0,0:18:11.83,0:18:14.78,Italics,SHIN/ID,0,0,0,,I haven't been fighting at full strength.
+Dialogue: 0,0:18:20.16,0:18:22.41,Default,GIRART,0,0,0,,That's the spirit!
+Dialogue: 0,0:18:23.66,0:18:24.75,Default,BOTH,0,0,0,,Legendary...
+Dialogue: 0,0:18:25.68,0:18:28.16,Default,GIRART,0,0,0,,Excellence!
+Dialogue: 0,0:18:28.16,0:18:30.25,Default,SHIN,0,0,0,,Heavenly Haze!
+Dialogue: 0,0:18:33.99,0:18:35.67,Default,SCHNEE,0,0,0,,It will be over soon.
+Dialogue: 0,0:18:46.81,0:18:48.81,Default,GIRART,0,0,0,,Gotcha!
+Dialogue: 0,0:18:59.93,0:19:01.01,Default,SHIN,0,0,0,,Girart?
+Dialogue: 0,0:19:05.94,0:19:07.06,Default,SHIN,0,0,0,,Girart!
+Dialogue: 0,0:19:07.06,0:19:08.58,Default,GIRART,0,0,0,,I hear you.
+Dialogue: 0,0:19:10.50,0:19:13.75,Default,GIRART,0,0,0,,Looks like this is the end.
+Dialogue: 0,0:19:14.77,0:19:18.35,Default,SHIN,0,0,0,,You got me at the end. I'm impressed, Girart.
+Dialogue: 0,0:19:19.87,0:19:22.59,Default,GIRART,0,0,0,,I haven't lived five hundred\N years for nothing.
+Dialogue: 0,0:19:23.02,0:19:26.60,Default,GIRART,0,0,0,,This fang landed a blow on you.
+Dialogue: 0,0:19:27.57,0:19:29.94,Default,GIRART,0,0,0,,My long-awaited wish has been fulfilled.
+Dialogue: 0,0:19:30.39,0:19:35.77,Default,GIRART,0,0,0,,Shin, as a reward for landing a blow on you, \Nwill you do something for me?
+Dialogue: 0,0:19:35.77,0:19:36.48,Default,SHIN,0,0,0,,What is it?
+Dialogue: 0,0:19:37.27,0:19:41.20,Default,GIRART,0,0,0,,I'm glad I got to fight you at full strength.
+Dialogue: 0,0:19:41.20,0:19:44.41,Default,GIRART,0,0,0,,But there's more, isn't there?
+Dialogue: 0,0:20:07.89,0:20:10.64,Default,GIRART,0,0,0,,I had no idea you were so powerful.
+Dialogue: 0,0:20:14.11,0:20:15.29,Default,GIRART,0,0,0,,Farewell.
+Dialogue: 0,0:20:16.11,0:20:17.31,Default,SHIN,0,0,0,,Girart...
+Dialogue: 0,0:20:18.42,0:20:19.49,Default,SHIN,0,0,0,,See you later.
+Dialogue: 0,0:20:27.37,0:20:32.17,Default,GIRART,0,0,0,,Yeah... That's my master, all right.
+Dialogue: 0,0:20:37.75,0:20:39.26,Default,SCHNEE,0,0,0,,It's over.
+Dialogue: 0,0:20:45.91,0:20:47.18,Default,ALL,0,0,0,,Girart!
+Dialogue: 0,0:20:47.18,0:20:48.73,Default,ALL,0,0,0,,Girart!
+Dialogue: 0,0:20:52.09,0:20:54.15,Default,SHIN,0,0,0,,Raise your heads.
+Dialogue: 0,0:20:55.46,0:21:01.07,Default,SHIN,0,0,0,,Your king scored a hit on me, a high human.
+Dialogue: 0,0:21:01.73,0:21:06.07,Default,SHIN,0,0,0,,That means Girart ascended to our level.
+Dialogue: 0,0:21:07.82,0:21:09.09,Default,CUORE,0,0,0,,Girart...
+Dialogue: 0,0:21:09.41,0:21:12.82,Default,RAJIM,0,0,0,,Behold the king's face.
+Dialogue: 0,0:21:14.30,0:21:17.78,Default,RAJIM,0,0,0,,He looks satisfied.
+Dialogue: 0,0:21:18.08,0:21:20.92,Default,VAN,0,0,0,,Not a single regret.
+Dialogue: 0,0:21:20.92,0:21:22.22,Default,WOLFGANG,0,0,0,,You're right.
+Dialogue: 0,0:21:22.22,0:21:25.97,Default,CUORE,0,0,0,,Yeah. He'd laugh at us if he saw us crying.
+Dialogue: 0,0:22:11.98,0:22:13.01,Default,SHIN,0,0,0,,Schnee?
+Dialogue: 0,0:22:13.81,0:22:17.77,Default,SCHNEE,0,0,0,,You look like you're about \Nto disappear somewhere.
+Dialogue: 0,0:22:18.54,0:22:19.77,Default,SCHNEE,0,0,0,,I'll do anything.
+Dialogue: 0,0:22:20.51,0:22:23.94,Default,SCHNEE,0,0,0,,If there's anything I can \Ndo for you, please tell me.
+Dialogue: 0,0:22:25.10,0:22:26.59,Default,SHIN,0,0,0,,I know.
+Dialogue: 0,0:22:28.19,0:22:31.51,Default,SHIN,0,0,0,,I know this is what Girart wanted.
+Dialogue: 0,0:22:32.05,0:22:32.78,Default,SCHNEE,0,0,0,,Yes.
+Dialogue: 0,0:22:33.63,0:22:35.98,Default,SHIN,0,0,0,,I accepted that and fought him.
+Dialogue: 0,0:22:36.51,0:22:37.29,Default,SCHNEE,0,0,0,,Yes.
+Dialogue: 0,0:22:38.06,0:22:39.22,Default,SHIN,0,0,0,,But...
+Dialogue: 0,0:22:39.81,0:22:40.42,Default,SCHNEE,0,0,0,,Yes.
+Dialogue: 0,0:22:42.23,0:22:44.67,Default,SHIN,0,0,0,,It hurts to have a friend die.
+Dialogue: 0,0:22:46.69,0:22:49.43,Default,SCHNEE,0,0,0,,You fulfilled your duty, Shin.
+Dialogue: 0,0:22:50.69,0:22:51.68,Default,SCHNEE,0,0,0,,You can cry now.
+Dialogue: 0,0:22:52.74,0:22:54.93,Default,SCHNEE,0,0,0,,It's okay to be sad now.
+Dialogue: 0,0:23:35.05,0:23:40.06,Default,SIGN,0,0,0,,{\an2\fs20\b1\c&HBCE7FD&\3c&H192541&\shad0}Next Time\NEpisode 9\N{\fs24\b1\fscy130\fsp1\c&HB8E7FF&\bord0\shad0}The Queen of Bayrelicht

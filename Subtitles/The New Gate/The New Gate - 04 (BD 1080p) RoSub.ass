@@ -1,0 +1,372 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.05,0:00:04.23,Default,SCHNEE,0,0,0,,Wide Heal.
+Dialogue: 0,0:00:09.93,0:00:11.99,Default,BERG,0,0,0,,Thank you for saving us, Lady Schnee.
+Dialogue: 0,0:00:12.55,0:00:16.44,Default,BERG,0,0,0,,We were just thinking \Nwe'd be forced to retreat.
+Dialogue: 0,0:00:16.44,0:00:17.12,Default,SCHNEE,0,0,0,,Please.
+Dialogue: 0,0:00:17.54,0:00:22.05,Default,SCHNEE,0,0,0,,I was only able to defeat it \Nbecause you and your men fought.
+Dialogue: 0,0:00:23.05,0:00:25.75,Default,BERG,0,0,0,,You honor us with such praise.
+Dialogue: 0,0:00:26.78,0:00:28.28,Italics,BERG,0,0,0,,For the past month,
+Dialogue: 0,0:00:28.28,0:00:32.76,Italics,BERG,0,0,0,,undead that shouldn't be able to leave the \NGhost Plains have been showing up.
+Dialogue: 0,0:00:33.57,0:00:36.26,Italics,BERG,0,0,0,,We've dispatched elite units\N to take care of them.
+Dialogue: 0,0:00:36.76,0:00:41.64,Italics,BERG,0,0,0,,I can't believe she took down a monster alone\N that we've failed to defeat in groups.
+Dialogue: 0,0:00:42.01,0:00:46.29,Italics,BERG,0,0,0,,I should have expected as much from someone\Nwho once earned a high human's favor.
+Dialogue: 0,0:00:47.02,0:00:51.53,Default,SCHNEE,0,0,0,,That was the last of the irregular monsters \Nmentioned in your report, correct?
+Dialogue: 0,0:00:52.00,0:00:54.90,Default,BERG,0,0,0,,Yes. I hope that's the end of things.
+Dialogue: 0,0:00:55.37,0:00:57.89,Default,SCHNEE,0,0,0,,I'll continue searching the area.
+Dialogue: 0,0:00:58.38,0:01:02.64,Default,SCHNEE,0,0,0,,If anything happens, \Nlaunch that magic item I gave you.
+Dialogue: 0,0:01:02.64,0:01:03.41,Default,BERG,0,0,0,,Will do.
+Dialogue: 0,0:01:03.96,0:01:04.66,Default,SCHNEE,0,0,0,,Farewell.
+Dialogue: 0,0:01:10.25,0:01:11.33,Flashback,SCHNEE,0,0,0,,Master!
+Dialogue: 0,0:01:13.14,0:01:15.91,Italics,SCHNEE,0,0,0,,I finally get to see him again.
+Dialogue: 0,0:02:53.45,0:02:54.15,Default,LACIA,0,0,0,,Wil!
+Dialogue: 0,0:03:05.45,0:03:08.70,Default,WILHELM,0,0,0,,Don't just stand there. Finish it off.
+Dialogue: 0,0:03:08.70,0:03:10.16,Default,LACIA,0,0,0,,R-Right!
+Dialogue: 0,0:03:12.94,0:03:13.90,Default,LACIA,0,0,0,,Heal.
+Dialogue: 0,0:03:19.18,0:03:20.37,Default,LACIA,0,0,0,,Wh-What's happening?
+Dialogue: 0,0:03:20.37,0:03:21.28,Default,WILHELM,0,0,0,,Lacia!
+Dialogue: 0,0:03:21.28,0:03:22.18,Default,SHIN,0,0,0,,Don't worry.
+Dialogue: 0,0:03:22.64,0:03:26.59,Default,SHIN,0,0,0,,This effect occurs when you meet\Nthe conditions to learn a new skill.
+Dialogue: 0,0:03:29.77,0:03:30.82,Default,WILHELM,0,0,0,,Hey, Lacia!
+Dialogue: 0,0:03:30.82,0:03:31.31,Default,LACIA,0,0,0,,Huh?
+Dialogue: 0,0:03:31.87,0:03:35.54,Default,WILHELM,0,0,0,,You look lost in thought. Are you okay?
+Dialogue: 0,0:03:35.54,0:03:37.02,Default,LACIA,0,0,0,,I-I'm fine.
+Dialogue: 0,0:03:37.02,0:03:40.69,Default,LACIA,0,0,0,,My mind was suddenly flooded with \Nimages of how to use the skill.
+Dialogue: 0,0:03:41.99,0:03:45.57,Default,SHIN,0,0,0,,Well, in any event,\N you've successfully learned Purify.
+Dialogue: 0,0:03:45.84,0:03:47.00,Default,SHIN,0,0,0,,Congratulations.
+Dialogue: 0,0:03:47.00,0:03:48.45,Default,WILHELM,0,0,0,,Nice work.
+Dialogue: 0,0:03:49.27,0:03:50.69,Default,LACIA,0,0,0,,Thank you.
+Dialogue: 0,0:03:51.29,0:03:53.83,Default,LACIA,0,0,0,,Now we'll be able to save the orphanage.
+Dialogue: 0,0:03:54.46,0:03:57.84,Default,SHIN,0,0,0,,After a short break, let's leave \Nthe sealed area and return to Bayrelicht.
+Dialogue: 0,0:03:57.84,0:04:00.59,Default,WILHILM,0,0,0,,Yeah. No reason to stick around.
+Dialogue: 0,0:04:02.71,0:04:04.19,Default,SHIN,0,0,0,,What was that sound?
+Dialogue: 0,0:04:05.43,0:04:07.51,Default,SHIN,0,0,0,,What is that?
+Dialogue: 0,0:04:09.55,0:04:12.09,Default,WILHILM,0,0,0,,Hey, what are... you...
+Dialogue: 0,0:04:14.11,0:04:15.93,Default,WILHILM,0,0,0,,The hell's going on?
+Dialogue: 0,0:04:20.11,0:04:21.74,Default,LACIA,0,0,0,,It's pretty...
+Dialogue: 0,0:04:21.74,0:04:24.62,Default,WILHELM,0,0,0,,That's the magic matter\N that animates undead.
+Dialogue: 0,0:04:24.62,0:04:25.36,Default,SHIN,0,0,0,,Magic matter?
+Dialogue: 0,0:04:25.68,0:04:30.89,Default,WILHELM,0,0,0,,Yeah. Drain it from monsters until they\N can't maintain their form, and they vanish.
+Dialogue: 0,0:04:48.26,0:04:51.27,Default,SIGN,0,0,0,,{\fnArial\fs12\shad0\bord0\b1\c&HDCEAEC&\pos(517.714,225.047)}Skullface Lord
+Dialogue: 0,0:04:48.26,0:04:51.27,Default,SIGN,0,0,0,,{\fnArial\fs10\shad0\bord0\b1\c&HE3E0F3&\pos(400.476,228.667)}Monster
+Dialogue: 0,0:04:49.74,0:04:51.27,Main - Top,SHIN,0,0,0,,Level 804?
+Dialogue: 0,0:04:51.69,0:04:54.27,Default,WILHELM,0,0,0,,What an unbelievable monster.
+Dialogue: 0,0:04:54.27,0:04:55.52,Default,LACIA,0,0,0,,Oh, no...
+Dialogue: 0,0:04:55.84,0:04:59.52,Default,LACIA,0,0,0,,A creature of that level could \Ndestroy an entire nation.
+Dialogue: 0,0:05:00.19,0:05:03.78,Default,LACIA,0,0,0,,We have the seal. W-We'll be okay, right?
+Dialogue: 0,0:05:03.78,0:05:06.86,Default,SHIN,0,0,0,,Yeah, I don't know about that.
+Dialogue: 0,0:05:21.94,0:05:24.70,Default,SHIN,0,0,0,,So much for the seal, right?
+Dialogue: 0,0:05:24.70,0:05:27.94,Default,WILHELM,0,0,0,,Yeah. That blow would've shattered it.
+Dialogue: 0,0:05:30.39,0:05:31.77,Default,LACIA,0,0,0,,This can't be...
+Dialogue: 0,0:05:38.38,0:05:40.84,Default,WILHELM,0,0,0,,Hey, it's looking our way.
+Dialogue: 0,0:05:40.84,0:05:41.69,Default,SHIN,0,0,0,,Yup.
+Dialogue: 0,0:05:42.42,0:05:43.83,Default,WILHELM,0,0,0,,Run for it!
+Dialogue: 0,0:05:48.26,0:05:50.29,Default,WILHELM,0,0,0,,Not gonna let us escape, huh?
+Dialogue: 0,0:05:50.29,0:05:51.20,Default,SHIN,0,0,0,,No, that's not it.
+Dialogue: 0,0:05:58.68,0:06:01.05,Default,LACIA,0,0,0,,Wil, what should we do? Hey, Wil!
+Dialogue: 0,0:06:01.05,0:06:03.75,Default,WILHELM,0,0,0,,Keep it together.\NShouting won't help anything.
+Dialogue: 0,0:06:04.09,0:06:07.18,Default,WILHELM,0,0,0,,C'mon, Shin! Let's break\N through them and flee.
+Dialogue: 0,0:06:07.18,0:06:08.84,Default,SHIN,0,0,0,,No. I'm staying here.
+Dialogue: 0,0:06:08.84,0:06:10.80,Default,WILHELM,0,0,0,,What? What're you talking about?
+Dialogue: 0,0:06:10.80,0:06:12.01,Default,WILHELM,0,0,0,,You got a death wish?
+Dialogue: 0,0:06:13.02,0:06:14.77,Default,SHIN,0,0,0,,Limit Off.
+Dialogue: 0,0:06:16.99,0:06:20.40,Default,SHIN,0,0,0,,Now that the seal is gone, \NI can't allow these monsters to roam free.
+Dialogue: 0,0:06:21.41,0:06:25.14,Default,SHIN,0,0,0,,I'll stop them here and now\N before they cause more damage.
+Dialogue: 0,0:06:25.14,0:06:26.90,Default,SHIN,0,0,0,,You two make a break for the kingdom.
+Dialogue: 0,0:06:27.58,0:06:29.10,Default,WILHELM,0,0,0,,This power...
+Dialogue: 0,0:06:29.59,0:06:30.91,Default,WILHELM,0,0,0,,Just who are you?
+Dialogue: 0,0:06:31.50,0:06:33.41,Default,SHIN,0,0,0,,Take care of Yuzuha and Lacia for me.
+Dialogue: 0,0:06:34.54,0:06:37.84,Default,WILHELM,0,0,0,,You've got some explaining \Nto do once we're back.
+Dialogue: 0,0:06:37.84,0:06:38.57,Default,SHIN,0,0,0,,Sure.
+Dialogue: 0,0:06:39.20,0:06:41.58,Default,SHIN,0,0,0,,I'll cast a physical enhancement buff on you.
+Dialogue: 0,0:06:41.58,0:06:43.93,Default,SHIN,0,0,0,,You'll run faster than normal, so don't trip.
+Dialogue: 0,0:06:43.93,0:06:45.42,Default,WILHELM,0,0,0,,Who do you think you're talking to?
+Dialogue: 0,0:06:45.93,0:06:48.58,Default,WILHELM,0,0,0,,Hey. The fox won't let go of you.
+Dialogue: 0,0:06:48.99,0:06:51.47,Default,SHIN,0,0,0,,Ow, ow, ow! Come on, Yuzuha.
+Dialogue: 0,0:06:54.63,0:06:57.17,Default,SHIN,0,0,0,,Fine. You'd better not leave my side.
+Dialogue: 0,0:06:58.46,0:07:00.49,Default,WILHELM,0,0,0,,Looks like you reached an agreement.
+Dialogue: 0,0:07:00.49,0:07:02.94,Default,SHIN,0,0,0,,Yeah. I'll clear the way for you.
+Dialogue: 0,0:07:05.15,0:07:06.85,Default,SHIN,0,0,0,,Lightning Banker!
+Dialogue: 0,0:07:09.19,0:07:10.14,Default,SHIN,0,0,0,,Go!
+Dialogue: 0,0:07:14.01,0:07:15.08,Default,SHIN,0,0,0,,They're off.
+Dialogue: 0,0:07:17.74,0:07:19.33,Default,SHIN,0,0,0,,Let's get started, too.
+Dialogue: 0,0:07:27.45,0:07:29.93,Default,SHIN,0,0,0,,Fox Fire, huh? Nice one, Yuzuha.
+Dialogue: 0,0:07:35.83,0:07:38.60,Default,SHIN,0,0,0,,If this happens every time it roars,\Nwe'll be here forever.
+Dialogue: 0,0:07:38.98,0:07:41.10,Default,SHIN,0,0,0,,Yuzuha, this is gonna get a little wild.
+Dialogue: 0,0:07:41.10,0:07:42.79,Default,SHIN,0,0,0,,Hold on tight.
+Dialogue: 0,0:07:43.98,0:07:46.11,Default,SHIN,0,0,0,,Flying Sparrow Thunder Strike!
+Dialogue: 0,0:07:55.55,0:07:58.37,Default,SHIN,0,0,0,,That took out a decent number of them.
+Dialogue: 0,0:07:59.30,0:08:01.63,Default,SHIN,0,0,0,,Ugh, the map is solid red.
+Dialogue: 0,0:08:02.37,0:08:05.88,Default,SHIN,0,0,0,,If only Schnee were here, \NI'd have more options for fighting them.
+Dialogue: 0,0:08:06.59,0:08:07.89,Default,SHIN,0,0,0,,A blue marker?
+Dialogue: 0,0:08:08.73,0:08:10.72,Default,SHIN,0,0,0,,Blue is for allies.
+Dialogue: 0,0:08:10.72,0:08:13.93,Default,SHIN,0,0,0,,But wait. If it's getting closer, then...
+Dialogue: 0,0:08:15.29,0:08:17.58,Default,SHIN,0,0,0,,Yuzuha, we're gonna make a quick detour.
+Dialogue: 0,0:08:37.09,0:08:39.42,Default,SHIN,0,0,0,,H-How have you been?
+Dialogue: 0,0:08:43.43,0:08:45.04,Default,SHIN,0,0,0,,Read the room, guys.
+Dialogue: 0,0:08:47.55,0:08:48.79,Default,SHIN,0,0,0,,Yuzuha?
+Dialogue: 0,0:08:53.90,0:08:56.19,Default,SHIN,0,0,0,,A barrier, huh? Thanks, Yuzuha.
+Dialogue: 0,0:08:58.22,0:08:58.80,Default,SHIN,0,0,0,,Schnee—
+Dialogue: 0,0:09:04.85,0:09:06.81,Default,SHIN,0,0,0,,S-Schnee?
+Dialogue: 0,0:09:07.49,0:09:10.19,Default,SCHNEE,0,0,0,,Don't you have something to say?
+Dialogue: 0,0:09:11.26,0:09:15.61,Default,SHIN,0,0,0,,Um, sorry for abandoning you all this time?
+Dialogue: 0,0:09:15.61,0:09:16.65,Default,SCHNEE,0,0,0,,Not that.
+Dialogue: 0,0:09:18.07,0:09:21.60,Default,SHIN,0,0,0,,Th-Thanks for watching over the shop?
+Dialogue: 0,0:09:21.60,0:09:22.70,Default,SCHNEE,0,0,0,,Not that.
+Dialogue: 0,0:09:23.42,0:09:25.70,Italics,SHIN,0,0,0,,She doesn't want an apology or thanks.
+Dialogue: 0,0:09:26.16,0:09:27.58,Italics,SHIN,0,0,0,,What does that leave?
+Dialogue: 0,0:09:27.58,0:09:31.21,Default,SIGN,0,0,0,,{\fad(1,940)\fnTimes New Roman\b1\fs8\t(\fs10)\shad0\move(320.333,217.333,320.333,225.333)\c&H99A3C3&\3c&H394257&}Moon Sanctum
+Dialogue: 0,0:09:28.45,0:09:30.11,Italics,SHIN,0,0,0,,What haven't I said yet?
+Dialogue: 0,0:09:30.97,0:09:32.71,Italics,SHIN,0,0,0,,What should I be saying?
+Dialogue: 0,0:09:35.49,0:09:37.61,Italics,SHIN,0,0,0,,Oh, right.
+Dialogue: 0,0:09:39.01,0:09:39.97,Default,SHIN,0,0,0,,I'm back.
+Dialogue: 0,0:09:40.86,0:09:42.30,Default,SCHNEE,0,0,0,,Welcome back.
+Dialogue: 0,0:09:47.41,0:09:49.90,Default,SCHNEE,0,0,0,,I thought you'd never return.
+Dialogue: 0,0:09:50.45,0:09:51.48,Default,SHIN,0,0,0,,I bet.
+Dialogue: 0,0:09:52.63,0:09:55.30,Italics,SHIN,0,0,0,,Ending the death game\Nshould have wiped my save data,
+Dialogue: 0,0:09:55.30,0:09:58.74,Italics,SHIN,0,0,0,,including the Moon Sanctum, Schnee, \Nand my other followers.
+Dialogue: 0,0:10:00.54,0:10:01.24,Default,SHIN,0,0,0,,Yuzuha?
+Dialogue: 0,0:10:02.17,0:10:03.99,Default,SHIN,0,0,0,,The barrier wore off.
+Dialogue: 0,0:10:08.25,0:10:12.54,Default,SHIN,0,0,0,,We've got a lot to discuss, \Nbut why don't we deal with this first?
+Dialogue: 0,0:10:13.18,0:10:13.75,Default,SCHNEE,0,0,0,,Right.
+Dialogue: 0,0:10:14.04,0:10:16.80,Default,SHIN,0,0,0,,I figured we can fire off one huge attack.
+Dialogue: 0,0:10:16.80,0:10:17.90,Default,SCHNEE,0,0,0,,A good idea.
+Dialogue: 0,0:10:18.68,0:10:20.49,Default,SCHNEE,0,0,0,,We've got just the thing for it.
+Dialogue: 0,0:10:23.81,0:10:24.71,Default,SHIN,0,0,0,,Here we go.
+Dialogue: 0,0:10:26.51,0:10:28.92,Default,SHIN,0,0,0,,It's been a while \Nsince we last worked together.
+Dialogue: 0,0:10:28.92,0:10:29.90,Default,SCHNEE,0,0,0,,It has.
+Dialogue: 0,0:10:30.69,0:10:33.65,Default,SHIN,0,0,0,,That which is pure, reveal yourself.
+Dialogue: 0,0:10:34.34,0:10:37.15,Default,SCHNEE,0,0,0,,That which is eternal, reveal yourself.
+Dialogue: 0,0:10:37.63,0:10:38.90,Default,BOTH,0,0,0,,Sanctuary!
+Dialogue: 0,0:11:16.69,0:11:17.74,Default,SCHNEE,0,0,0,,Master!
+Dialogue: 0,0:11:18.29,0:11:18.94,Default,SHIN,0,0,0,,Wait.
+Dialogue: 0,0:11:20.39,0:11:24.95,Default,LORD,0,0,0,,Give... that power... to me...
+Dialogue: 0,0:11:26.50,0:11:30.14,Italics,SHIN,0,0,0,,Did this thing... just talk?
+Dialogue: 0,0:11:30.14,0:11:33.54,Default,SCHNEE,0,0,0,,Master, are you all right?
+Dialogue: 0,0:11:33.54,0:11:35.84,Default,SHIN,0,0,0,,Yeah, I'm fine. All good here.
+Dialogue: 0,0:11:37.35,0:11:39.84,Italics,SHIN,0,0,0,,In the end, I didn't learn anything.
+Dialogue: 0,0:11:40.21,0:11:43.29,Italics,SHIN,0,0,0,,Feels like I should have been able to, though.
+Dialogue: 0,0:11:44.11,0:11:45.58,Default,SHIN,0,0,0,,Guess that's that.
+Dialogue: 0,0:11:45.58,0:11:46.85,Default,SCHNEE,0,0,0,,It certainly seems that way.
+Dialogue: 0,0:11:47.71,0:11:51.64,Default,SCHNEE,0,0,0,,This place will return \Nto how it once was eventually.
+Dialogue: 0,0:11:51.64,0:11:55.86,Default,SHIN,0,0,0,,Since we're here, we don't we chat a little?
+Dialogue: 0,0:11:57.66,0:11:58.49,Default,SCHNEE,0,0,0,,Very well.
+Dialogue: 0,0:12:00.74,0:12:05.36,Default,SHIN,0,0,0,,Do you remember sending me off \Nwhen I went to defeat Origin?
+Dialogue: 0,0:12:05.36,0:12:06.37,Default,SCHNEE,0,0,0,,Yes.
+Dialogue: 0,0:12:06.60,0:12:11.12,Default,SHIN,0,0,0,,Well, I slew him, which should've\N put an end to everything.
+Dialogue: 0,0:12:11.12,0:12:12.50,Default,SIGN LEFT,0,0,0,,{\fnArial\fs12\shad0\bord0\b1\c&H3A405E&\pos(69.047,170.381)\frz16.77}Destroy
+Dialogue: 0,0:12:11.12,0:12:12.50,Default,SIGN LEFT,0,0,0,,{\fnArial\fs12\shad0\bord0\b1\c&H3A405E&\frz16.77\pos(86.38,223.714)}Create
+Dialogue: 0,0:12:11.12,0:12:12.50,Default,SIGN LEFT,0,0,0,,{\fnArial\fs12\shad0\bord0\b1\c&H3A405E&\frz16.77\pos(105.714,274.381)}Collect
+Dialogue: 0,0:12:11.12,0:12:12.50,Default,SIGN RIGHT,0,0,0,,{\fnArial\fs18\an8\shad0\bord0\b1\c&HA8CFE3&\frz16.77\pos(315.047,25.048)}System
+Dialogue: 0,0:12:11.12,0:12:12.50,Default,SIGN RIGHT,0,0,0,,{\fnArial\fs18\an1\shad0\bord0\b1\c&HA8CFE3&\frz18\pos(251.714,106.381)}Player Guide
+Dialogue: 0,0:12:11.12,0:12:12.50,Default,SIGN RIGHT,0,0,0,,{\fnArial\fs18\an1\shad0\bord0\b1\c&HA8CFE3&\frz18\pos(272.381,157.714)}Settings
+Dialogue: 0,0:12:11.12,0:12:12.50,Default,SIGN RIGHT,0,0,0,,{\fnArial\fs18\an1\shad0\bord0\b1\c&HA8CFE3&\frz18\pos(289.714,205.714)}Log Out
+Dialogue: 0,0:12:11.65,0:12:14.37,Default,SHIN,0,0,0,,But there were these huge doors\Nin the dungeon boss room.
+Dialogue: 0,0:12:14.82,0:12:17.14,Default,SHIN,0,0,0,,And when I beat the boss, they opened.
+Dialogue: 0,0:12:18.10,0:12:20.46,Default,SCHNEE,0,0,0,,Doors, you say?
+Dialogue: 0,0:12:20.46,0:12:25.65,Default,SHIN,0,0,0,,Yeah. Then I lost consciousness\Nand woke up in a field.
+Dialogue: 0,0:12:25.65,0:12:28.89,Default,SHIN,0,0,0,,So it's not like I just \Nwandered off for 500 years.
+Dialogue: 0,0:12:29.21,0:12:32.05,Default,SCHNEE,0,0,0,,I see. So that's what happened.
+Dialogue: 0,0:12:32.05,0:12:32.94,Default,SHIN,0,0,0,,Schnee?
+Dialogue: 0,0:12:34.75,0:12:36.40,Default,SCHNEE,0,0,0,,It's nothing.
+Dialogue: 0,0:12:37.26,0:12:40.19,Default,SCHNEE,0,0,0,,The dungeon disappeared without a trace.
+Dialogue: 0,0:12:40.61,0:12:46.21,Default,SCHNEE,0,0,0,,When other players' support characters \Nstarted saying their masters had vanished,
+Dialogue: 0,0:12:46.21,0:12:49.35,Default,SCHNEE,0,0,0,,I knew you'd cleared the dungeon.
+Dialogue: 0,0:12:49.66,0:12:54.05,Default,SCHNEE,0,0,0,,But we found it strange that we remained\Nwhen we should've disappeared with you,
+Dialogue: 0,0:12:54.05,0:12:55.98,Default,SCHNEE,0,0,0,,so we decided to look for you.
+Dialogue: 0,0:12:57.31,0:13:02.80,Default,SCHNEE,0,0,0,,However, seismic shifts \Nthrew the continent into chaos,
+Dialogue: 0,0:13:02.80,0:13:06.30,Default,SCHNEE,0,0,0,,so we split up to work separately.
+Dialogue: 0,0:13:06.61,0:13:10.21,Default,SCHNEE,0,0,0,,I returned to the Moon Sanctum, \Nwhich brings us to the present.
+Dialogue: 0,0:13:11.13,0:13:14.31,Default,SHIN,0,0,0,,That more or less lines up with my research.
+Dialogue: 0,0:13:14.31,0:13:17.06,Default,SCHNEE,0,0,0,,Master, is there something on your mind?
+Dialogue: 0,0:13:17.06,0:13:19.19,Default,SHIN,0,0,0,,No. It's nothing.
+Dialogue: 0,0:13:19.71,0:13:22.49,Default,SHIN,0,0,0,,By the way, Schnee...
+Dialogue: 0,0:13:23.19,0:13:26.70,Default,SHIN,0,0,0,,Could you stop calling me "Master"?
+Dialogue: 0,0:13:26.70,0:13:30.13,Default,SCHNEE,0,0,0,,What's wrong with calling my master "Master"?
+Dialogue: 0,0:13:30.74,0:13:36.96,Default,SHIN,0,0,0,,It would cause a fuss if someone overheard\Na legend like you addressing me that way.
+Dialogue: 0,0:13:36.96,0:13:40.71,Default,SCHNEE,0,0,0,,I see. Then how shall I address you?
+Dialogue: 0,0:13:41.17,0:13:44.18,Default,SHIN,0,0,0,,Huh? Can't you just call me by my name?
+Dialogue: 0,0:13:44.18,0:13:45.47,Default,SCHNEE,0,0,0,,I-I daren't...
+Dialogue: 0,0:13:46.58,0:13:48.17,Default,SHIN,0,0,0,,What's wrong, Schnee?
+Dialogue: 0,0:13:49.22,0:13:50.97,Default,SCHNEE,0,0,0,,W-Well, in that case...
+Dialogue: 0,0:13:52.26,0:13:54.22,Default,SCHNEE,0,0,0,,Shin.
+Dialogue: 0,0:13:54.22,0:13:56.23,Default,SHIN,0,0,0,,Y-Yeah.
+Dialogue: 0,0:13:56.65,0:13:58.22,Default,SHIN,0,0,0,,I thought my heart would give out!
+Dialogue: 0,0:13:58.62,0:13:59.48,Default,SCHNEE,0,0,0,,What?
+Dialogue: 0,0:13:59.48,0:14:02.48,Default,SHIN,0,0,0,,Oh, nothing. Really, it's nothing.
+Dialogue: 0,0:14:02.90,0:14:05.74,Default,SHIN,0,0,0,,Anyway, call me Shin from now on.
+Dialogue: 0,0:14:05.74,0:14:08.74,Default,SCHNEE,0,0,0,,Very well, Shin.
+Dialogue: 0,0:14:09.66,0:14:10.42,Default,SHIN,0,0,0,,Good!
+Dialogue: 0,0:14:11.49,0:14:14.89,Default,SCHNEE,0,0,0,,Shin, what are you going to do now?
+Dialogue: 0,0:14:14.89,0:14:19.45,Default,SHIN,0,0,0,,Well, first I'm thinking of visiting \Nthe sacred site I read about
+Dialogue: 0,0:14:19.45,0:14:21.75,Default,SHIN,0,0,0,,in my research at the kingdom's library.
+Dialogue: 0,0:14:22.14,0:14:23.52,Default,SHIN,0,0,0,,Ever been there?
+Dialogue: 0,0:14:23.52,0:14:27.93,Default,SCHNEE,0,0,0,,Yes. Only for a cursory \Ninvestigation, however.
+Dialogue: 0,0:14:27.93,0:14:30.94,Default,SCHNEE,0,0,0,,I don't know what it's like on the inside.
+Dialogue: 0,0:14:30.94,0:14:32.01,Default,SHIN,0,0,0,,I see.
+Dialogue: 0,0:14:32.78,0:14:35.62,Default,SHIN,0,0,0,,Then I'll have to go check it out myself.
+Dialogue: 0,0:14:36.17,0:14:39.47,Default,SCHNEE,0,0,0,,If you find a way to leave this place,
+Dialogue: 0,0:14:40.89,0:14:42.86,Default,SCHNEE,0,0,0,,will you return home?
+Dialogue: 0,0:14:47.50,0:14:48.26,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:14:52.37,0:14:54.39,Default,SCHNEE,0,0,0,,I see...
+Dialogue: 0,0:14:55.53,0:14:56.65,Default,SCHNEE,0,0,0,,Of course you will.
+Dialogue: 0,0:14:57.34,0:14:58.30,Default,SHIN,0,0,0,,Sorry.
+Dialogue: 0,0:14:58.30,0:15:01.79,Default,SCHNEE,0,0,0,,It's all right. I figured you'd say that.
+Dialogue: 0,0:15:03.23,0:15:04.79,Default,SHIN,0,0,0,,Say, Schnee...
+Dialogue: 0,0:15:05.41,0:15:09.49,Default,SHIN,0,0,0,,How much do you remember from the game?
+Dialogue: 0,0:15:09.98,0:15:10.93,Default,SCHNEE,0,0,0,,Everything.
+Dialogue: 0,0:15:11.41,0:15:12.43,Default,SHIN,0,0,0,,Everything?
+Dialogue: 0,0:15:13.90,0:15:16.97,Default,SCHNEE,0,0,0,,Everything from the day \Nwe descended to this land together.
+Dialogue: 0,0:15:18.74,0:15:19.87,Default,SCHNEE,0,0,0,,I remember it all.
+Dialogue: 0,0:15:21.10,0:15:23.19,Default,SCHNEE,0,0,0,,Don't bother telling me to forget it.
+Dialogue: 0,0:15:25.11,0:15:26.44,Default,SHIN,0,0,0,,I wouldn't do that.
+Dialogue: 0,0:15:27.87,0:15:32.82,Default,SCHNEE,0,0,0,,I became more aware during the period \Nyou and the others called the death game.
+Dialogue: 0,0:15:33.45,0:15:36.95,Default,SCHNEE,0,0,0,,Until then, it was like I'd been\N watching a video
+Dialogue: 0,0:15:37.21,0:15:40.14,Default,SCHNEE,0,0,0,,or observing the situation from above.
+Dialogue: 0,0:15:41.21,0:15:42.39,Default,SHIN,0,0,0,,I see.
+Dialogue: 0,0:15:43.23,0:15:49.46,Italics,SHIN,0,0,0,,In other words, they knew \Nthey'd disappear after we logged out.
+Dialogue: 0,0:15:50.17,0:15:54.47,Default,SHIN,0,0,0,,When I think about what you guys \Nmust've been going through then...
+Dialogue: 0,0:15:54.99,0:15:58.31,Default,SCHNEE,0,0,0,,If we'd said anything, \Nit only would have troubled you.
+Dialogue: 0,0:15:58.69,0:16:01.65,Default,SCHNEE,0,0,0,,It was the right choice at the time.
+Dialogue: 0,0:16:01.65,0:16:02.65,Default,SHIN,0,0,0,,I see.
+Dialogue: 0,0:16:03.48,0:16:07.99,Default,SCHNEE,0,0,0,,We weren't completely autonomous then,
+Dialogue: 0,0:16:07.99,0:16:10.42,Default,SCHNEE,0,0,0,,so either way, we couldn't have done anything.
+Dialogue: 0,0:16:10.90,0:16:15.99,Default,SHIN,0,0,0,,Even so, you can't expect me not to second\Nguess it now that I know you were self-aware.
+Dialogue: 0,0:16:16.28,0:16:19.50,Default,SCHNEE,0,0,0,,You're as difficult as ever, Shin.
+Dialogue: 0,0:16:19.50,0:16:21.37,Default,SHIN,0,0,0,,Shut up. Leave me alone.
+Dialogue: 0,0:16:22.19,0:16:27.89,Default,SCHNEE,0,0,0,,But even if you'd known, \Nyou still would have gone to fight.
+Dialogue: 0,0:16:28.33,0:16:29.69,Default,SHIN,0,0,0,,Well, yeah.
+Dialogue: 0,0:16:29.69,0:16:33.17,Default,SCHNEE,0,0,0,,Besides, we made a promise.
+Dialogue: 0,0:16:37.10,0:16:37.82,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:16:45.82,0:16:46.65,Default,SCHNEE,0,0,0,,Now, then...
+Dialogue: 0,0:16:47.05,0:16:49.66,Default,SCHNEE,0,0,0,,That's enough solemn talk.
+Dialogue: 0,0:16:49.66,0:16:51.57,Default,SCHNEE,0,0,0,,Let's not spoil our reunion.
+Dialogue: 0,0:16:51.57,0:16:54.78,Default,SHIN,0,0,0,,Right? Let's party once we're back \Nat the Moon Sanctum.
+Dialogue: 0,0:16:55.05,0:16:56.26,Default,SCHNEE,0,0,0,,Yes, let's.
+Dialogue: 0,0:16:56.71,0:17:00.51,Default,SCHNEE,0,0,0,,But first, I'd like to ask you something else.
+Dialogue: 0,0:17:03.37,0:17:05.93,Default,SCHNEE,0,0,0,,Who is this?
+Dialogue: 0,0:17:05.93,0:17:06.67,Default,SHIN,0,0,0,,Oh, right.
+Dialogue: 0,0:17:07.31,0:17:10.05,Default,SHIN,0,0,0,,It's a long story, but we're partners now.
+Dialogue: 0,0:17:10.41,0:17:12.00,Default,SHIN,0,0,0,,Meet Yuzuha.
+Dialogue: 0,0:17:12.00,0:17:14.42,Default,SHIN,0,0,0,,Between you and me, Yuzuha's an Elementail.
+Dialogue: 0,0:17:14.42,0:17:16.18,Default,SCHNEE,0,0,0,,An Elementail?
+Dialogue: 0,0:17:16.18,0:17:19.80,Default,SCHNEE,0,0,0,,I knew it was no ordinary spirit \Nwhen I saw those tails, but...
+Dialogue: 0,0:17:20.09,0:17:21.80,Default,SHIN,0,0,0,,You could tell by the tail?
+Dialogue: 0,0:17:21.80,0:17:24.73,Default,SCHNEE,0,0,0,,Have you not noticed?
+Dialogue: 0,0:17:29.81,0:17:31.82,Default,SHIN,0,0,0,,There are three...
+Dialogue: 0,0:17:33.91,0:17:35.20,Default,YUZUHA,0,0,0,,Good morning, Shin.
+Dialogue: 0,0:17:35.56,0:17:37.88,Default,SHIN,0,0,0,,What?! Wait a minute, Yuzuha.
+Dialogue: 0,0:17:37.88,0:17:40.01,Default,SHIN,0,0,0,,You can talk now?
+Dialogue: 0,0:17:40.93,0:17:45.19,Default,YUZUHA,0,0,0,,My head cleared up \Nwhen that black stuff disappeared.
+Dialogue: 0,0:17:45.19,0:17:46.46,Default,SHIN,0,0,0,,Black stuff?
+Dialogue: 0,0:17:47.41,0:17:51.54,Italics,SHIN,0,0,0,,Come to think of it, the shrine \Nwas surrounded by Skullfaces, too.
+Dialogue: 0,0:17:52.01,0:17:54.78,Italics,SHIN,0,0,0,,That Lord must've been their leader.
+Dialogue: 0,0:17:55.54,0:17:58.14,Default,SHIN,0,0,0,,In any case, no speaking in front of people.
+Dialogue: 0,0:17:58.14,0:17:59.45,Default,YUZUHA,0,0,0,,Aw.
+Dialogue: 0,0:17:59.45,0:18:01.55,Default,SHIN,0,0,0,,Normal spirit foxes don't speak.
+Dialogue: 0,0:18:02.91,0:18:05.58,Default,YUZUHA,0,0,0,,Then can I speak inside your head?
+Dialogue: 0,0:18:05.58,0:18:08.06,Default,SHIN,0,0,0,,You mean telepathy? That's fine.
+Dialogue: 0,0:18:08.06,0:18:11.61,Default,SCHNEE,0,0,0,,But Shin, now that it has more tails,
+Dialogue: 0,0:18:11.61,0:18:13.69,Default,SCHNEE,0,0,0,,you can't pass it off as a Little Fox.
+Dialogue: 0,0:18:13.69,0:18:16.90,Default,SHIN,0,0,0,,Yuzuha, can you merge your tails into one?
+Dialogue: 0,0:18:16.90,0:18:17.95,Default,YUZUHA,0,0,0,,Piece of cake!
+Dialogue: 0,0:18:21.91,0:18:23.70,Default,SCHNEE,0,0,0,,Impressive.
+Dialogue: 0,0:18:24.43,0:18:26.86,Default,SHIN,0,0,0,,Can you do this when we're around people?
+Dialogue: 0,0:18:26.86,0:18:28.76,Default,YUZUHA,0,0,0,,Sure thing.
+Dialogue: 0,0:18:28.76,0:18:30.46,Default,SHIN,0,0,0,,Well, that was an easy solution.
+Dialogue: 0,0:18:30.80,0:18:32.34,Default,YUZUHA,0,0,0,,Was I good?
+Dialogue: 0,0:18:32.34,0:18:34.21,Default,SHIN,0,0,0,,Yes, very good.
+Dialogue: 0,0:18:36.41,0:18:37.47,Default,SCHNEE,0,0,0,,How cute.
+Dialogue: 0,0:18:39.63,0:18:41.47,Default,SCHNEE,0,0,0,,N-Nothing.
+Dialogue: 0,0:18:42.30,0:18:43.31,Default,SHIN,0,0,0,,Wanna pet it?
+Dialogue: 0,0:18:43.77,0:18:44.85,Default,SCHNEE,0,0,0,,Yes, please.
+Dialogue: 0,0:18:46.02,0:18:50.10,Default,SCHNEE,0,0,0,,You always find ways to surprise me, Shin.
+Dialogue: 0,0:18:51.46,0:18:56.54,Default,SCHNEE,0,0,0,,No one has ever successfully \Ntamed an Elementail before.
+Dialogue: 0,0:18:56.54,0:18:58.92,Default,SHIN,0,0,0,,You seem pretty calm in spite of that.
+Dialogue: 0,0:18:58.92,0:19:02.74,Default,SCHNEE,0,0,0,,I was surprised, but I figured \Nyou of all people could pull it off.
+Dialogue: 0,0:19:03.58,0:19:07.28,Default,SCHNEE,0,0,0,,Unlike the one we fought previously, \Nthis one isn't high-level.
+Dialogue: 0,0:19:07.28,0:19:10.75,Default,SHIN,0,0,0,,Pulling your punches to weaken one\Nwould would be no easy feat.
+Dialogue: 0,0:19:11.30,0:19:13.98,Default,SHIN,0,0,0,,Normally, you can't let your \Nguard down around their kind.
+Dialogue: 0,0:19:17.38,0:19:18.98,Default,SHIN,0,0,0,,We should get going.
+Dialogue: 0,0:19:18.98,0:19:19.76,Default,SCHNEE,0,0,0,,All right.
+Dialogue: 0,0:19:19.76,0:19:22.61,Default,SHIN,0,0,0,,Oh, right. I sent my companions\N back without me.
+Dialogue: 0,0:19:22.61,0:19:24.34,Default,SCHNEE,0,0,0,,Then we should hurry.
+Dialogue: 0,0:19:24.34,0:19:26.01,Default,SCHNEE,0,0,0,,We may be able to catch up to them.
+Dialogue: 0,0:19:26.36,0:19:28.90,Default,SHIN,0,0,0,,You're right. We'll go as quick as we can.
+Dialogue: 0,0:19:28.90,0:19:31.08,Default,SHIN,0,0,0,,Don't want anyone reporting this to the guild.
+Dialogue: 0,0:19:31.08,0:19:35.37,Default,SCHNEE,0,0,0,,If you'd told me that sooner, \Nwe could have saved our talk for later.
+Dialogue: 0,0:19:38.11,0:19:41.42,Default,SHIN,0,0,0,,I couldn't wait after seeing your face.
+Dialogue: 0,0:19:42.21,0:19:44.54,Default,SHIN,0,0,0,,This and that are entirely separate matters.
+Dialogue: 0,0:19:46.73,0:19:47.97,Default,SHIN,0,0,0,,Okay, let's go.
+Dialogue: 0,0:19:47.97,0:19:48.77,Default,SCHNEE,0,0,0,,All right.
+Dialogue: 0,0:19:55.02,0:19:58.63,Default,LACIA,0,0,0,,Hey, Wil. Shin will be okay, right?
+Dialogue: 0,0:19:58.63,0:20:02.18,Default,WILHELM,0,0,0,,Don't worry. You know how strong he is.
+Dialogue: 0,0:20:02.18,0:20:03.26,Default,LACIA,0,0,0,,But...
+Dialogue: 0,0:20:04.69,0:20:07.49,Default,WILHELM,0,0,0,,Something's coming. At a crazy-fast speed, too.
+Dialogue: 0,0:20:07.49,0:20:08.14,Default,LACIA,0,0,0,,Wil...
+Dialogue: 0,0:20:08.14,0:20:08.89,Default,WILHELM,0,0,0,,Stay back!
+Dialogue: 0,0:20:09.26,0:20:11.77,Default,LACIA,0,0,0,,Did that monster follow us?
+Dialogue: 0,0:20:12.54,0:20:13.52,Default,WILHELM,0,0,0,,It's coming in hot.
+Dialogue: 0,0:20:13.90,0:20:15.56,Default,WILHELM,0,0,0,,We'll engage it here.
+Dialogue: 0,0:20:21.21,0:20:22.78,Default,SHIN,0,0,0,,Hey, Wilhelm.
+Dialogue: 0,0:20:24.03,0:20:26.11,Default,SHIN,0,0,0,,Looks like we caught up.
+Dialogue: 0,0:20:27.04,0:20:28.45,Default,SHIN,0,0,0,,Is something wrong?
+Dialogue: 0,0:20:29.79,0:20:33.98,Default,WILHELM,0,0,0,,Don't confuse me like that!
+Dialogue: 0,0:20:37.22,0:20:39.01,Default,ALDI,0,0,0,,Look at the ground here.
+Dialogue: 0,0:20:39.01,0:20:41.38,Default,KNIGHT 4,0,0,0,,What happened?
+Dialogue: 0,0:20:41.78,0:20:43.11,Default,RIONNE,0,0,0,,Have you learned anything?
+Dialogue: 0,0:20:43.62,0:20:46.84,Default,ALDI,0,0,0,,No. I'm sorry, Lady Rionne.
+Dialogue: 0,0:20:46.84,0:20:47.93,Default,RIONNE,0,0,0,,I see.
+Dialogue: 0,0:20:49.06,0:20:53.39,Italics,RIONNE,0,0,0,,After we heard that mysterious voice, \Na horde of Skullfaces suddenly appeared.
+Dialogue: 0,0:20:53.73,0:20:56.13,Italics,RIONNE,0,0,0,,Then that light filled the sky.
+Dialogue: 0,0:20:56.61,0:21:01.15,Italics,RIONNE,0,0,0,,The Skullfaces turned to dust, \Nand we were all healed.
+Dialogue: 0,0:21:01.67,0:21:03.31,Italics,RIONNE,0,0,0,,Who could've been responsible?
+Dialogue: 0,0:21:04.41,0:21:09.41,Default,GADRAS,0,0,0,,Forgive me for interrupting you, \Nbut could you take a look at this?
+Dialogue: 0,0:21:09.93,0:21:10.86,Default,RIONNE,0,0,0,,What is it?
+Dialogue: 0,0:21:10.86,0:21:13.91,Default,GADRAS,0,0,0,,It was on the ground \Nat the far end of the fissure.
+Dialogue: 0,0:21:14.21,0:21:18.67,Default,GADRAS,0,0,0,,It was jammed at the starting point, \Nso I believe this sword was the origin.
+Dialogue: 0,0:21:19.23,0:21:22.21,Default,GADRAS,0,0,0,,I don't know what kind of skill \Ndid it, though.
+Dialogue: 0,0:21:22.21,0:21:23.44,Default,RIONNE,0,0,0,,I see.
+Dialogue: 0,0:21:23.44,0:21:24.91,Default,GADRAS,0,0,0,,The thing is...
+Dialogue: 0,0:21:24.91,0:21:27.80,Default,GADRAS,0,0,0,,What do you see on this sword here?
+Dialogue: 0,0:21:28.20,0:21:30.56,Default,RIONNE,0,0,0,,Some kind of bird?
+Dialogue: 0,0:21:30.94,0:21:33.94,Default,GADRAS,0,0,0,,Yes. I believe it's what's known as a falcon.
+Dialogue: 0,0:21:33.94,0:21:37.65,Default,GADRAS,0,0,0,,I know a blacksmith \Nwho carves these on their swords.
+Dialogue: 0,0:21:37.65,0:21:38.81,Default,GADRAS,0,0,0,,Watch this.
+Dialogue: 0,0:21:40.58,0:21:41.89,Default,RIONNE,0,0,0,,Well, well.
+Dialogue: 0,0:21:41.89,0:21:45.82,Default,GADRAS,0,0,0,,Not only did it not break, \Nbut it's still this powerful, even nicked.
+Dialogue: 0,0:21:45.82,0:21:47.94,Default,GADRAS,0,0,0,,As far as I'm aware,
+Dialogue: 0,0:21:47.94,0:21:50.90,Default,GADRAS,0,0,0,,there's only one smith \Nwho forges swords this fine
+Dialogue: 0,0:21:50.90,0:21:53.58,Default,GADRAS,0,0,0,,and engraves their work with falcons.
+Dialogue: 0,0:21:54.83,0:21:55.83,Default,RIONNE,0,0,0,,Who?
+Dialogue: 0,0:21:55.83,0:21:57.33,Default,GADRAS,0,0,0,,A high human.
+Dialogue: 0,0:21:58.29,0:22:04.02,Default,GADRAS,0,0,0,,The Black Blacksmith, the most \Nskilled smithy of his kind.
+Dialogue: 0,0:23:35.01,0:23:40.02,Default,SIGN,0,0,0,,{\an2\fs20\b1\c&HBCE7FD&\3c&H192541&\shad0}Next Time\NEpisode 5\N{\fs24\b1\fscy130\fsp1\c&HB8E7FF&\bord0\shad0}A Momentary Break

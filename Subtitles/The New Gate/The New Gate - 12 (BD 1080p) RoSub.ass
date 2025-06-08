@@ -1,0 +1,442 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.11,0:00:08.94,Default,RIONNE,0,0,0,,A massive horde \Nof monsters heading for Valmer?
+Dialogue: 0,0:00:08.94,0:00:11.74,Default,RIONNE,0,0,0,,Don't tell me... Could this be a flood?
+Dialogue: 0,0:00:11.74,0:00:12.82,Default,SHIN,0,0,0,,A flood?
+Dialogue: 0,0:00:12.82,0:00:13.36,Default,RIONNE,0,0,0,,Yeah.
+Dialogue: 0,0:00:13.74,0:00:17.37,Default,RIONNE,0,0,0,,When the magic matter overflowing from\Na holy land coalesces enough,
+Dialogue: 0,0:00:17.70,0:00:20.45,Default,RIONNE,0,0,0,,it transforms, released as monsters.
+Dialogue: 0,0:00:21.08,0:00:23.50,Default,RIONNE,0,0,0,,We call that a flood.
+Dialogue: 0,0:00:24.17,0:00:26.92,Italics,SHIN/ID,0,0,0,,Looks like most of them are low-level.
+Dialogue: 0,0:00:27.75,0:00:29.88,Default,SHIN,0,0,0,,Why have they set their sights on Valmer?
+Dialogue: 0,0:00:29.88,0:00:34.01,Default,RIONNE,0,0,0,,The area around the holy land \Nis protected by Mist Garuda.
+Dialogue: 0,0:00:34.01,0:00:36.80,Default,RIONNE,0,0,0,,The only path to avoid\N it is the road to Valmer.
+Dialogue: 0,0:00:37.24,0:00:42.10,Default,RIONNE,0,0,0,,Which is why Valmer is fortified. \NIt serves as a bulwark against such floods.
+Dialogue: 0,0:00:42.10,0:00:46.27,Default,SHIN,0,0,0,,I see. So they're equipped\N to fend these things off, huh?
+Dialogue: 0,0:00:46.27,0:00:47.31,Default,RIONNE,0,0,0,,No.
+Dialogue: 0,0:00:47.61,0:00:51.15,Default,RIONNE,0,0,0,,There are strong soldiers \Nand chosen ones in Valmer, yes,
+Dialogue: 0,0:00:51.15,0:00:55.10,Default,RIONNE,0,0,0,,but the city always suffers\N significant casualties.
+Dialogue: 0,0:00:55.10,0:00:58.20,Default,RIONNE,0,0,0,,And up against a major flood like this...
+Dialogue: 0,0:00:58.66,0:01:01.41,Italics,SHIN/ID,0,0,0,,I should have Schnee hurry, just in case.
+Dialogue: 0,0:01:02.04,0:01:05.12,Default,SHIN,0,0,0,,There's still time before the\N monsters reach Valmer.
+Dialogue: 0,0:01:05.12,0:01:06.71,Default,SHIN,0,0,0,,We'll hurry there and join the guard.
+Dialogue: 0,0:01:06.71,0:01:07.58,Default,RIONNE,0,0,0,,Shin?
+Dialogue: 0,0:01:07.58,0:01:11.25,Default,SHIN,0,0,0,,I can't just say "so long, nice knowin' ya"\N given the circumstances.
+Dialogue: 0,0:01:12.42,0:01:13.34,Default,RIONNE,0,0,0,,Got it.
+Dialogue: 0,0:01:18.83,0:01:20.67,Default,SHIN,0,0,0,,So this is Valmer, huh?
+Dialogue: 0,0:01:20.67,0:01:23.72,Default,RIONNE,0,0,0,,Shin, how long until the monsters arrive?
+Dialogue: 0,0:01:24.14,0:01:26.89,Default,SHIN,0,0,0,,Probably a few days, I'd say.
+Dialogue: 0,0:01:26.89,0:01:29.86,Default,RIONNE,0,0,0,,I see. I'm going to meet with the local lord.
+Dialogue: 0,0:01:30.36,0:01:33.23,Default,RIONNE,0,0,0,,You make your report to the adventurer's guild.
+Dialogue: 0,0:01:33.23,0:01:34.49,Default,SHIN,0,0,0,,What about after that?
+Dialogue: 0,0:01:34.82,0:01:39.70,Default,RIONNE,0,0,0,,The guild and the army will be essential \Nto counter a large-scale invasion.
+Dialogue: 0,0:01:39.70,0:01:42.03,Default,RIONNE,0,0,0,,The chosen ones will gather first thing.
+Dialogue: 0,0:01:42.03,0:01:43.74,Default,SHIN,0,0,0,,Okay, got it.
+Dialogue: 0,0:01:45.08,0:01:47.25,Default,BARON,0,0,0,,Welcome to the adventurer's guild.
+Dialogue: 0,0:01:47.67,0:01:50.63,Default,BARON,0,0,0,,I'm the guildmaster, Baron Lakt.
+Dialogue: 0,0:01:51.04,0:01:52.58,Default,SHIN,0,0,0,,My name's Shin.
+Dialogue: 0,0:01:52.58,0:01:53.80,Default,BARON,0,0,0,,Shin, eh?
+Dialogue: 0,0:01:53.80,0:01:56.13,Default,BARON,0,0,0,,I heard you have information about the flood.
+Dialogue: 0,0:01:56.47,0:01:58.93,Default,SHIN,0,0,0,,Yes. A flood of primarily humanoid monsters
+Dialogue: 0,0:01:58.93,0:02:03.63,Default,SHIN,0,0,0,,like goblins and orcs has appeared \Nin the vicinity of the Holy Land Calkia.
+Dialogue: 0,0:02:03.63,0:02:07.85,Default,SHIN,0,0,0,,At the speed they're going, \Nthey should reach Valmer in a few days.
+Dialogue: 0,0:02:07.85,0:02:09.02,Default,ELIZA,0,0,0,,That soon?
+Dialogue: 0,0:02:09.40,0:02:11.52,Default,BARON,0,0,0,,You sound like you've seen it for yourself.
+Dialogue: 0,0:02:11.81,0:02:15.94,Default,SHIN,0,0,0,,I saw a large number of monsters \Nheading towards Valmer near the holy land.
+Dialogue: 0,0:02:15.94,0:02:16.90,Default,BARON,0,0,0,,I see.
+Dialogue: 0,0:02:17.40,0:02:21.12,Default,BARON,0,0,0,,If that's true, we can begin\N preparing right away, but...
+Dialogue: 0,0:02:21.12,0:02:24.03,Default,SHIN,0,0,0,,Will this make you believe me?
+Dialogue: 0,0:02:24.95,0:02:27.04,Default,ELIZA,0,0,0,,Is that from the Moon Sanctum?
+Dialogue: 0,0:02:27.32,0:02:31.50,Default,SHIN,0,0,0,,Yes. If you still don't \Nbelieve me, ask your lord.
+Dialogue: 0,0:02:31.50,0:02:35.00,Default,SHIN,0,0,0,,My companion is currently \Ngetting in touch with them.
+Dialogue: 0,0:02:35.00,0:02:38.17,Default,BARON,0,0,0,,No, I see now that you aren't lying.
+Dialogue: 0,0:02:38.67,0:02:41.47,Default,BARON,0,0,0,,I'm declaring a state of emergency.
+Dialogue: 0,0:02:41.93,0:02:47.72,Default,BARON,0,0,0,,If your companion has an audience with\Nthe lord, then the army will act posthaste.
+Dialogue: 0,0:02:47.72,0:02:51.73,Default,BARON,0,0,0,,As soon as we get word, \Nwe'll begin evacuating the citizens.
+Dialogue: 0,0:02:51.73,0:02:55.27,Default,BARON,0,0,0,,Eliza, get in touch with \Nthe representatives of every guild.
+Dialogue: 0,0:02:55.27,0:02:56.65,Default,ELIZA,0,0,0,,Understood.
+Dialogue: 0,0:02:58.99,0:03:00.70,Default,BARON,0,0,0,,What will you do now?
+Dialogue: 0,0:03:01.57,0:03:03.45,Default,SHIN,0,0,0,,Let me lend you my aid.
+Dialogue: 0,0:03:03.82,0:03:05.53,Default,BARON,0,0,0,,That'd be a huge boon.
+Dialogue: 0,0:03:05.53,0:03:08.87,Default,BARON,0,0,0,,We're short on chosen ones\N to defend the city right now.
+Dialogue: 0,0:03:08.87,0:03:10.60,Default,BARON,0,0,0,,Much obliged for the help.
+Dialogue: 0,0:03:10.60,0:03:11.21,Default,SHIN,0,0,0,,Sure thing.
+Dialogue: 0,0:03:13.67,0:03:16.59,Default,SHIN,0,0,0,,I should meet back up with Rionne.
+Dialogue: 0,0:03:18.59,0:03:21.09,Default,SHIN,0,0,0,,I feel like I've seen that before...
+Dialogue: 0,0:03:21.68,0:03:23.47,Default,SHIN,0,0,0,,"Meow Land"?
+Dialogue: 0,0:03:23.89,0:03:26.01,Default,SHIN,0,0,0,,Wait, don't tell me this store is...
+Dialogue: 0,0:03:26.01,0:03:27.18,Default,SHIN,0,0,0,,No, hang on.
+Dialogue: 0,0:03:27.18,0:03:30.23,Italics,SCHNEE,0,0,0,,Shin, I will be arriving in Valmer shortly.
+Dialogue: 0,0:03:30.23,0:03:31.98,Italics,SHIN,0,0,0,,Got it. Once you're here,
+Dialogue: 0,0:03:31.98,0:03:35.94,Italics,SHIN,0,0,0,,let the lord and guildmaster \Nknow you'll be joining the defense.
+Dialogue: 0,0:03:35.94,0:03:37.15,Italics,SCHNEE,0,0,0,,Understood.
+Dialogue: 0,0:03:38.73,0:03:42.11,Italics,SHIN,0,0,0,,Also, I found a curious store in Valmer.
+Dialogue: 0,0:03:42.11,0:03:44.37,Italics,SHIN,0,0,0,,It's called Meow Land.
+Dialogue: 0,0:03:44.37,0:03:45.45,Italics,SHIN,0,0,0,,Have you heard of it?
+Dialogue: 0,0:03:45.45,0:03:47.49,Italics,SCHNEE,0,0,0,,No. I haven't the faintest idea.
+Dialogue: 0,0:03:47.49,0:03:49.87,Italics,SHIN,0,0,0,,I see.
+Dialogue: 0,0:03:49.87,0:03:51.96,Default,BERETT,0,0,0,,Thanks for handling the rest.
+Dialogue: 0,0:03:52.51,0:03:54.00,Default,BERETT,0,0,0,,Y-You...
+Dialogue: 0,0:03:54.00,0:03:56.67,Default,SHIN,0,0,0,,Is that you, Berett?
+Dialogue: 0,0:03:56.67,0:03:59.88,Default,BERETT,0,0,0,,Well, well! It's good to see you again, Shin.
+Dialogue: 0,0:04:00.26,0:04:03.55,Default,BERETT,0,0,0,,I was hoping we'd run \Ninto each other someday.
+Dialogue: 0,0:04:04.18,0:04:05.14,Default,SHIN,0,0,0,,Y-Yeah.
+Dialogue: 0,0:04:05.84,0:04:09.89,Italics,SHIN/ID,0,0,0,,I wasn't expecting to run into a friend's\N support character from the game.
+Dialogue: 0,0:04:10.43,0:04:13.39,Italics,SHIN/ID,0,0,0,,But Schnee exists, so I guess it makes sense.
+Dialogue: 0,0:04:14.31,0:04:17.98,Default,BERETT,0,0,0,,So you'll be helping us turn back the flood?
+Dialogue: 0,0:04:17.98,0:04:21.40,Default,SHIN,0,0,0,,Yeah. I just finished talking\N to the guildmaster.
+Dialogue: 0,0:04:21.40,0:04:27.48,Default,BERETT,0,0,0,,I see. But if it's just a flood, couldn't \Nyou have wiped it out when you found it?
+Dialogue: 0,0:04:28.24,0:04:31.79,Default,SHIN,0,0,0,,I was with the second princess \Nof Bayrelicht at the time.
+Dialogue: 0,0:04:31.79,0:04:35.58,Default,SHIN,0,0,0,,I can't exactly use my full strength\N with her watching.
+Dialogue: 0,0:04:35.58,0:04:41.30,Default,BERETT,0,0,0,,I see. High humans these days\Nare practically revered like gods.
+Dialogue: 0,0:04:41.63,0:04:43.97,Default,BERETT,0,0,0,,I could see a princess proposing to you.
+Dialogue: 0,0:04:45.18,0:04:47.93,Default,SHIN,0,0,0,,She's actually interested in me, so I'm trying
+Dialogue: 0,0:04:47.93,0:04:50.93,Default,SHIN,0,0,0,,to deal with the flood \Nwithout revealing my true strength.
+Dialogue: 0,0:04:50.93,0:04:55.89,Default,BERETT,0,0,0,,I see. Well, you're an old friend \Nof my master's.
+Dialogue: 0,0:04:55.89,0:04:59.02,Default,BERETT,0,0,0,,If there's any way I can help,\Njust let me know.
+Dialogue: 0,0:04:59.02,0:05:00.44,Default,SHIN,0,0,0,,I appreciate it.
+Dialogue: 0,0:05:00.44,0:05:04.70,Default,SHIN,0,0,0,,Oh, right. I just happened upon\N a shop called Meow Land.
+Dialogue: 0,0:05:05.03,0:05:08.37,Default,BERETT,0,0,0,,That's your friend Hibineko's shop.
+Dialogue: 0,0:05:08.37,0:05:09.45,Default,SHIN,0,0,0,,Hibineko?!
+Dialogue: 0,0:05:09.95,0:05:11.91,Default,SHIN,0,0,0,,Hibineko's here in this world?
+Dialogue: 0,0:05:11.91,0:05:14.01,Default,BERETT,0,0,0,,You didn't know?
+Dialogue: 0,0:05:14.01,0:05:16.96,Default,BERETT,0,0,0,,Shadow and Holly are here in Valmer too.
+Dialogue: 0,0:05:17.58,0:05:18.96,Default,SHIN,0,0,0,,They are?
+Dialogue: 0,0:05:18.96,0:05:24.88,Default,BERETT,0,0,0,,Yes. They're currently out of the city\Non business, but they're doing well.
+Dialogue: 0,0:05:24.88,0:05:26.09,Default,SHIN,0,0,0,,I see.
+Dialogue: 0,0:05:26.41,0:05:30.47,Italics,SHIN/ID,0,0,0,,I thought all three of them\N died in the death game.
+Dialogue: 0,0:05:31.18,0:05:32.97,Italics,SHIN/ID,0,0,0,,What are they doing in this world?
+Dialogue: 0,0:05:32.97,0:05:36.14,Default,BERETT,0,0,0,,I didn't expect you to be so surprised.
+Dialogue: 0,0:05:36.14,0:05:39.36,Default,BERETT,0,0,0,,I have a list of players in this world.
+Dialogue: 0,0:05:39.36,0:05:40.68,Default,BERETT,0,0,0,,Would you like to see it?
+Dialogue: 0,0:05:40.68,0:05:42.86,Default,SHIN,0,0,0,,You do? Show me.
+Dialogue: 0,0:05:45.61,0:05:47.11,Default,SHIN,0,0,0,,This is the whole list?
+Dialogue: 0,0:05:47.11,0:05:51.37,Default,BERETT,0,0,0,,Yes, though of course\N it's not comprehensive.
+Dialogue: 0,0:05:51.37,0:05:54.50,Italics,SHIN/ID,0,0,0,,Just learning there are other \Nformer players is a shock.
+Dialogue: 0,0:05:54.50,0:05:58.87,Italics,SHIN/ID,0,0,0,,But all the players living here\Nwere involved with me in some way.
+Dialogue: 0,0:05:58.87,0:06:00.13,Default,BERETT,0,0,0,,Also...
+Dialogue: 0,0:06:00.75,0:06:02.29,Default,BERETT,0,0,0,,Take a look at this.
+Dialogue: 0,0:06:03.00,0:06:03.88,Default,SHIN,0,0,0,,What is it?
+Dialogue: 0,0:06:04.17,0:06:08.33,Default,BERETT,0,0,0,,A running list of known individuals \Nidentified as player killers.
+Dialogue: 0,0:06:08.33,0:06:09.76,Default,SHIN,0,0,0,,PKs?!
+Dialogue: 0,0:06:10.76,0:06:15.60,Italics,SHIN/ID,0,0,0,,They took out lots of my friends \Nand other people during the death game.
+Dialogue: 0,0:06:15.60,0:06:17.77,Italics,SHIN/ID,0,0,0,,They're deviants who kill for fun.
+Dialogue: 0,0:06:20.35,0:06:23.49,Default,BERETT,0,0,0,,When players were first \Ndiscovered in this world,
+Dialogue: 0,0:06:23.49,0:06:28.86,Default,BERETT,0,0,0,,Schnee was the one who insisted\Nthat we look for PKs right away.
+Dialogue: 0,0:06:28.86,0:06:30.03,Default,SHIN,0,0,0,,She was?
+Dialogue: 0,0:06:30.03,0:06:34.53,Default,BERETT,0,0,0,,Sounds like she didn't tell you about that.
+Dialogue: 0,0:06:34.53,0:06:37.96,Default,SHIN,0,0,0,,No. This is the first I've heard \Nof other players, too.
+Dialogue: 0,0:06:38.29,0:06:43.79,Default,BERETT,0,0,0,,I see. If I may say so, \Nas your friend's follower,
+Dialogue: 0,0:06:43.79,0:06:46.17,Default,BERETT,0,0,0,,that's a clear act of betrayal.
+Dialogue: 0,0:06:47.13,0:06:52.55,Default,BERETT,0,0,0,,We mustn't deliberately withhold \Nimportant information from our masters.
+Dialogue: 0,0:06:53.05,0:06:57.02,Default,BERETT,0,0,0,,She may be your follower, \Nbut she must be punished.
+Dialogue: 0,0:06:57.02,0:07:00.77,Default,SHIN,0,0,0,,No way. Schnee would never betray me.
+Dialogue: 0,0:07:01.15,0:07:03.23,Italics,SHIN/ID,0,0,0,,Although, earlier...
+Dialogue: 0,0:07:03.23,0:07:05.44,Flashback_Italics,SHIN,0,0,0,,It's called Meow Land.
+Dialogue: 0,0:07:05.44,0:07:06.36,Flashback_Italics,SHIN,0,0,0,,Have you heard of it?
+Dialogue: 0,0:07:06.36,0:07:08.57,Flashback_Italics,SCHNEE,0,0,0,,No. I haven't the faintest idea.
+Dialogue: 0,0:07:08.57,0:07:10.57,Default,BERETT,0,0,0,,I'm just kidding.
+Dialogue: 0,0:07:10.95,0:07:12.49,Default,BERETT,0,0,0,,Don't worry.
+Dialogue: 0,0:07:12.49,0:07:17.87,Default,BERETT,0,0,0,,Given Schnee's personality, I can't imagine \Nshe'd try to hurt you by hiding information.
+Dialogue: 0,0:07:17.87,0:07:19.81,Default,SHIN,0,0,0,,Come on, don't go yanking my chain.
+Dialogue: 0,0:07:19.81,0:07:22.33,Default,SHIN,0,0,0,,But you're right. Schnee would never\N do something like that.
+Dialogue: 0,0:07:22.33,0:07:25.29,Default,BERETT,0,0,0,,Well, that's enough reminiscing.
+Dialogue: 0,0:07:25.29,0:07:27.71,Default,BERETT,0,0,0,,I need to get ready for the flood as well.
+Dialogue: 0,0:07:27.71,0:07:30.42,Default,SHIN,0,0,0,,You do? Will you be fighting too?
+Dialogue: 0,0:07:30.42,0:07:33.72,Default,BERETT,0,0,0,,Oh, no. Valmer's safe with you around.
+Dialogue: 0,0:07:34.09,0:07:36.01,Default,BERETT,0,0,0,,I'll be preparing to stock up.
+Dialogue: 0,0:07:36.01,0:07:38.97,Default,BERETT,0,0,0,,There are plenty of materials \Nto go around after a flood!
+Dialogue: 0,0:07:38.97,0:07:42.73,Italics,SHIN/ID,0,0,0,,Come to think of it, this guy's \Nbackstory is that he loves money.
+Dialogue: 0,0:07:46.94,0:07:51.45,Italics,SHIN/ID,0,0,0,,I did some research on floods, \Nand apparently a powerful individual
+Dialogue: 0,0:07:51.45,0:07:54.24,Italics,SHIN/ID,0,0,0,,has appeared amid \Nlow-level hordes a few times.
+Dialogue: 0,0:07:55.12,0:07:58.37,Italics,SHIN/ID,0,0,0,,The larger the flood, \Nthe more likely they are to show.
+Dialogue: 0,0:07:58.37,0:08:01.08,Italics,SHIN/ID,0,0,0,,So maybe, with this flood...
+Dialogue: 0,0:08:01.08,0:08:02.58,Default,TIERA,0,0,0,,Oh, Shin.
+Dialogue: 0,0:08:02.58,0:08:03.25,Default,SHIN,0,0,0,,That you, Tiera?
+Dialogue: 0,0:08:03.25,0:08:04.17,Default,YUZUHA,0,0,0,,Shin!
+Dialogue: 0,0:08:04.17,0:08:05.63,Default,SHIN,0,0,0,,Whoa.
+Dialogue: 0,0:08:05.63,0:08:07.54,Default,YUZUHA,0,0,0,,I finally got to see you again.
+Dialogue: 0,0:08:07.54,0:08:09.09,Default,TIERA,0,0,0,,Good timing.
+Dialogue: 0,0:08:09.09,0:08:10.59,Default,SHIN,0,0,0,,Where's Schnee?
+Dialogue: 0,0:08:10.59,0:08:12.51,Default,SHIN,0,0,0,,Didn't she finish reporting to the lord?
+Dialogue: 0,0:08:12.51,0:08:14.72,Default,TIERA,0,0,0,,My master's very popular.
+Dialogue: 0,0:08:14.72,0:08:16.89,Default,TIERA,0,0,0,,They wouldn't let her leave so easily.
+Dialogue: 0,0:08:17.22,0:08:20.28,Default,SHIN,0,0,0,,I see. She's got it rough, too.
+Dialogue: 0,0:08:23.39,0:08:26.26,Default,TIERA,0,0,0,,Master, where are you going now?
+Dialogue: 0,0:08:26.26,0:08:29.15,Default,SCHNEE,0,0,0,,To meet with the chosen ones\N at the lord's castle.
+Dialogue: 0,0:08:29.78,0:08:32.24,Default,SCHNEE,0,0,0,,We'll be working together in battle.
+Dialogue: 0,0:08:33.82,0:08:38.16,Italics,SHIN/ID,0,0,0,,Schnee returned in the middle of the night, \Nso I never got to ask her about that.
+Dialogue: 0,0:08:38.16,0:08:40.79,Flashback_Italics,BERETT,0,0,0,,That's a clear act of betrayal.
+Dialogue: 0,0:08:41.41,0:08:42.74,Default,SCHNEE,0,0,0,,Is something the matter?
+Dialogue: 0,0:08:42.74,0:08:44.29,Default,SHIN,0,0,0,,Nope. Let's get a move on.
+Dialogue: 0,0:08:48.84,0:08:52.80,Default,TAURO,0,0,0,,Schnee, thank you for coming.
+Dialogue: 0,0:08:53.17,0:08:54.65,Default,SCHNEE,0,0,0,,Allow me to introduce you.
+Dialogue: 0,0:08:54.65,0:08:57.39,Default,SCHNEE,0,0,0,,This is Shin, and this is Tiera.
+Dialogue: 0,0:08:57.39,0:09:00.51,Default,TAURO,0,0,0,,I am Tauro Yaxfair, lord of Valmer.
+Dialogue: 0,0:09:00.51,0:09:01.93,Default,TAURO,0,0,0,,A pleasure to meet you.
+Dialogue: 0,0:09:01.93,0:09:05.44,Default,TAURO,0,0,0,,We don't have much time \Nbefore the flood arrives.
+Dialogue: 0,0:09:05.81,0:09:12.44,Default,TAURO,0,0,0,,The chosen ones will stand outside \Nof Valmer with knights behind them.
+Dialogue: 0,0:09:12.75,0:09:14.34,Default,TAURO,0,0,0,,Once they are in firing range,
+Dialogue: 0,0:09:14.34,0:09:18.20,Default,TAURO,0,0,0,,our second squad, led by Schnee, will\N attack with magical area-of-effect skills.
+Dialogue: 0,0:09:18.70,0:09:23.95,Default,TAURO,0,0,0,,Our first squad and the knights \Nwill handle any monsters that get past you.
+Dialogue: 0,0:09:24.32,0:09:29.08,Default,SCHNEE,0,0,0,,I see. Then I shall instruct\N the knights personally.
+Dialogue: 0,0:09:29.08,0:09:32.71,Default,TAURO,0,0,0,,That'd be wonderful. We really appreciate it.
+Dialogue: 0,0:09:32.71,0:09:34.21,Default,SCHNEE,0,0,0,,Very well.
+Dialogue: 0,0:09:34.21,0:09:36.51,Default,TIERA,0,0,0,,They'll be training with my master?
+Dialogue: 0,0:09:36.51,0:09:37.72,Default,SHIN,0,0,0,,What's wrong, Tiera?
+Dialogue: 0,0:09:38.09,0:09:43.10,Default,TIERA,0,0,0,,Training with my master is hell. \NI feel sorry for them.
+Dialogue: 0,0:09:43.10,0:09:46.39,Default,SCHNEE,0,0,0,,Tiera, you'll be participating \Nin the training as well.
+Dialogue: 0,0:09:46.73,0:09:48.40,Default,SCHNEE,0,0,0,,After all, teamwork is important.
+Dialogue: 0,0:09:48.40,0:09:50.86,Default,TIERA,0,0,0,,I-I'll do my best.
+Dialogue: 0,0:09:50.86,0:09:52.73,Default,SHIN,0,0,0,,Try not to die, Tiera.
+Dialogue: 0,0:09:57.26,0:09:58.30,Default,SHIN,0,0,0,,What's this?
+Dialogue: 0,0:09:59.05,0:10:01.84,Default,TAURO,0,0,0,,No sign of monsters?
+Dialogue: 0,0:10:01.84,0:10:06.96,Default,SHIN,0,0,0,,No. Monsters normally do appear that far out, \Nbut they've vanished completely.
+Dialogue: 0,0:10:07.47,0:10:09.85,Default,SHIN,0,0,0,,Probably an effect of the flood.
+Dialogue: 0,0:10:09.85,0:10:13.61,Default,TAURO,0,0,0,,As far as I know, there's no record\Nof this happening in the past.
+Dialogue: 0,0:10:13.61,0:10:15.46,Default,SCHNEE,0,0,0,,I've experienced it.
+Dialogue: 0,0:10:15.73,0:10:19.59,Default,SCHNEE,0,0,0,,The monsters in the area all but disappeared,
+Dialogue: 0,0:10:19.59,0:10:22.22,Default,SCHNEE,0,0,0,,then came surging forth like a black wave.
+Dialogue: 0,0:10:22.47,0:10:25.06,Italics,SHIN/ID,0,0,0,,Of course there are no records of that.
+Dialogue: 0,0:10:25.06,0:10:27.48,Italics,SHIN/ID,0,0,0,,It was an in-game event.
+Dialogue: 0,0:10:27.77,0:10:30.40,Italics,SHIN/ID,0,0,0,,I'm glad Schnee played it off.
+Dialogue: 0,0:10:30.40,0:10:31.98,Default,SCHNEE,0,0,0,,Do take care.
+Dialogue: 0,0:10:32.40,0:10:37.11,Default,SCHNEE,0,0,0,,It's possible there will be a powerful \Nindividual leading such a major flood.
+Dialogue: 0,0:10:38.61,0:10:41.62,Italics,SHIN/ID,0,0,0,,In other words, the event boss.
+Dialogue: 0,0:10:44.53,0:10:45.87,Default,TIERA,0,0,0,,I'm exhausted.
+Dialogue: 0,0:10:46.16,0:10:49.25,Default,SHIN,0,0,0,,Good job with your training. \NAnd thank you, Schnee.
+Dialogue: 0,0:10:49.25,0:10:52.38,Default,SHIN,0,0,0,,I appreciate you handling \Nthat conversation for me.
+Dialogue: 0,0:10:52.38,0:10:53.75,Default,SCHNEE,0,0,0,,But of course.
+Dialogue: 0,0:10:54.09,0:10:57.05,Default,SHIN,0,0,0,,By the way, Schnee, after I disappeared,
+Dialogue: 0,0:10:57.05,0:11:00.47,Default,SHIN,0,0,0,,did you ever use large-scale \Nspells in guild battles?
+Dialogue: 0,0:11:00.47,0:11:04.89,Default,SCHNEE,0,0,0,,No. After all, I can handle most things \Nwith standard area-of-effect spells.
+Dialogue: 0,0:11:04.89,0:11:08.23,Default,SHIN,0,0,0,,So I should be careful \Nabout slinging mine around.
+Dialogue: 0,0:11:08.23,0:11:11.31,Default,SHIN,0,0,0,,Could you try using one \Nduring the opening strike?
+Dialogue: 0,0:11:11.31,0:11:14.90,Default,SCHNEE,0,0,0,,Yes. I'm sure that will be\N my only opportunity to use them.
+Dialogue: 0,0:11:15.27,0:11:17.57,Default,SCHNEE,0,0,0,,What are you up to next, Shin?
+Dialogue: 0,0:11:17.57,0:11:23.41,Default,SHIN,0,0,0,,Well, since I have the chance, \NI guess I'll update my disguises!
+Dialogue: 0,0:11:24.24,0:11:25.78,Default,TIERA,0,0,0,,I don't like the look on your face...
+Dialogue: 0,0:11:25.78,0:11:27.79,Default,SIGN,0,0,0,,{\fnTimes New Roman\shad0\b1\fs10\fay-.4\3c&H3C4C68&\pos(265.269,345.692)}Moon Sanctum\N
+Dialogue: 0,0:11:34.50,0:11:35.54,Default,SHIN,0,0,0,,All done.
+Dialogue: 0,0:11:47.43,0:11:51.34,Default,RIONNE,0,0,0,,Scouts have confirmed \Nthe presence of the monsters.
+Dialogue: 0,0:11:51.34,0:11:54.52,Default,SHIN,0,0,0,,Should a princess really be\Ntaking part in a fight like this?
+Dialogue: 0,0:11:54.52,0:11:56.19,Default,RIONNE,0,0,0,,A bit late for that old line, don't you think?
+Dialogue: 0,0:11:56.48,0:11:59.69,Default,RIONNE,0,0,0,,It's a good opportunity \Nto test the sword you gave me.
+Dialogue: 0,0:11:59.69,0:12:02.61,Default,SHIN,0,0,0,,I see. Then watch the rear.
+Dialogue: 0,0:12:02.61,0:12:03.45,Default,RIONNE,0,0,0,,You got it.
+Dialogue: 0,0:12:09.04,0:12:09.95,Default,SCHNEE,0,0,0,,Shin.
+Dialogue: 0,0:12:10.54,0:12:11.46,Default,SHIN,0,0,0,,Schnee.
+Dialogue: 0,0:12:11.91,0:12:15.08,Default,SCHNEE,0,0,0,,There's something I'd like to discuss \Nonce this battle is over.
+Dialogue: 0,0:12:18.34,0:12:20.17,Default,SHIN,0,0,0,,They're here. Schnee.
+Dialogue: 0,0:12:20.17,0:12:20.96,Default,SCHNEE,0,0,0,,Yes.
+Dialogue: 0,0:12:22.52,0:12:23.80,Default,SCHNEE,0,0,0,,Blue Judge.
+Dialogue: 0,0:12:35.15,0:12:37.06,Default,RIONNE,0,0,0,,Begin the offensive!
+Dialogue: 0,0:12:37.06,0:12:37.98,Default,ALL,0,0,0,,Yeah!
+Dialogue: 0,0:12:37.98,0:12:40.57,Default,TIERA,0,0,0,,My master's incredible!
+Dialogue: 0,0:12:41.49,0:12:42.99,Default,YUZUHA,0,0,0,,But it's not over yet.
+Dialogue: 0,0:12:43.32,0:12:45.82,Default,SHIN,0,0,0,,Even after all that, they're still coming.
+Dialogue: 0,0:12:45.82,0:12:48.49,Default,SHIN,0,0,0,,This is no ordinary flood.
+Dialogue: 0,0:12:48.83,0:12:50.87,Italics,SHIN,0,0,0,,Schnee, can you fire off another?
+Dialogue: 0,0:12:50.87,0:12:55.50,Italics,SCHNEE,0,0,0,,No. It seems I can't repeatedly \Nuse large-scale spells.
+Dialogue: 0,0:12:55.50,0:12:57.92,Italics,SHIN/ID,0,0,0,,Just like in the game.
+Dialogue: 0,0:12:58.50,0:13:02.63,Italics,SHIN,0,0,0,,It's not exactly what we planned, \Nbut I'll kite the second wave of monsters.
+Dialogue: 0,0:13:02.63,0:13:03.88,Italics,SCHNEE,0,0,0,,Understood.
+Dialogue: 0,0:13:06.69,0:13:08.35,Default,SHIN,0,0,0,,Say hello to this.
+Dialogue: 0,0:13:08.35,0:13:09.64,Default,SHIN,0,0,0,,Amber Wave!
+Dialogue: 0,0:13:15.01,0:13:15.95,Default,SHIN,0,0,0,,Phoenix Sage!
+Dialogue: 0,0:13:22.78,0:13:24.86,Default,SHIN,0,0,0,,That should do for now.
+Dialogue: 0,0:13:24.86,0:13:28.87,Default,SHIN,0,0,0,,I'd like to save my best abilities \Nfor later, so the rest is up to you.
+Dialogue: 0,0:13:30.24,0:13:31.44,Default,RIONNE,0,0,0,,Get them!
+Dialogue: 0,0:13:31.44,0:13:33.95,Default,RIONNE,0,0,0,,Don't let your guard down \Nuntil they've stopped breathing!
+Dialogue: 0,0:13:33.95,0:13:34.79,Default,ALL,0,0,0,,Yeah!
+Dialogue: 0,0:13:40.38,0:13:42.88,Default,YUZUHA,0,0,0,,Wow, Tiera!
+Dialogue: 0,0:13:42.88,0:13:46.72,Default,TIERA,0,0,0,,Shin said he made some \Nadjustments so I could use it,
+Dialogue: 0,0:13:46.72,0:13:50.80,Default,TIERA,0,0,0,,but he didn't tell me it'd be {\i1}this{\i0} powerful!
+Dialogue: 0,0:13:50.80,0:13:51.76,Default,RIONNE,0,0,0,,Not bad.
+Dialogue: 0,0:13:59.31,0:14:01.52,Default,SOLDIER A,0,0,0,,Follow Rionne's lead!
+Dialogue: 0,0:14:01.52,0:14:02.65,Default,ALL,0,0,0,,Yeah!
+Dialogue: 0,0:14:08.32,0:14:11.12,Default,RIONNE,0,0,0,,Looks like they're not all small fry.
+Dialogue: 0,0:14:17.71,0:14:19.04,Default,TIERA,0,0,0,,I need to help her!
+Dialogue: 0,0:14:20.17,0:14:21.63,Default,YUZUHA,0,0,0,,Tiera?
+Dialogue: 0,0:14:21.63,0:14:24.05,Default,TIERA,0,0,0,,I think I spent too much mana.
+Dialogue: 0,0:14:24.55,0:14:26.59,Default,YUZUHA,0,0,0,,Don't strain yourself.
+Dialogue: 0,0:14:27.08,0:14:28.88,Default,TIERA,0,0,0,,But at this rate...
+Dialogue: 0,0:14:30.59,0:14:31.97,Default,WILHELM,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:14:34.10,0:14:35.47,Default,RIONNE,0,0,0,,You...
+Dialogue: 0,0:14:35.47,0:14:37.52,Default,RIONNE,0,0,0,,You have a letter of introduction.
+Dialogue: 0,0:14:37.52,0:14:38.73,Default,WILHELM,0,0,0,,The name's Wilhelm.
+Dialogue: 0,0:14:38.73,0:14:40.98,Default,WILHELM,0,0,0,,I'm here to save you, princess.
+Dialogue: 0,0:14:41.65,0:14:42.86,Default,TIERA,0,0,0,,It's that man!
+Dialogue: 0,0:14:43.36,0:14:44.81,Default,LACIA,0,0,0,,It's good to see you again.
+Dialogue: 0,0:14:45.40,0:14:46.99,Default,TIERA,0,0,0,,Lacia!
+Dialogue: 0,0:14:46.99,0:14:49.99,Default,LACIA,0,0,0,,Allow me to restore your mana.
+Dialogue: 0,0:14:50.28,0:14:51.49,Default,WILHELM,0,0,0,,Let's go!
+Dialogue: 0,0:14:51.74,0:14:53.03,Default,WILHELM,0,0,0,,Flashing Blossom!
+Dialogue: 0,0:14:53.53,0:14:55.70,Default,RIONNE,0,0,0,,Full Moon Edge!
+Dialogue: 0,0:15:00.83,0:15:02.42,Default,RIONNE,0,0,0,,Thank you.
+Dialogue: 0,0:15:02.42,0:15:04.84,Default,RIONNE,0,0,0,,But what are you doing in Valmer?
+Dialogue: 0,0:15:04.84,0:15:07.01,Default,WILHELM,0,0,0,,The guild received a request for assistance.
+Dialogue: 0,0:15:07.42,0:15:10.01,Default,WILHELM,0,0,0,,Besides, after what she said...
+Dialogue: 0,0:15:10.23,0:15:12.72,Flashback,MILLIE,0,0,0,,There are lots of monsters! They're in danger!
+Dialogue: 0,0:15:13.01,0:15:15.22,Flashback,MILLIE,0,0,0,,Go help Shin!
+Dialogue: 0,0:15:15.50,0:15:19.37,Default,WILHELM,0,0,0,,I doubt he's struggling, though.
+Dialogue: 0,0:15:22.90,0:15:24.06,Default,SHIN,0,0,0,,What's that?
+Dialogue: 0,0:15:26.48,0:15:28.49,Default,SHIN,0,0,0,,I'm finally up.
+Dialogue: 0,0:15:35.33,0:15:36.53,Default,SHIN,0,0,0,,Are you okay?
+Dialogue: 0,0:15:36.53,0:15:38.08,Default,SOLDIER,0,0,0,,Wh-Who are you?
+Dialogue: 0,0:15:38.08,0:15:40.50,Default,SHIN,0,0,0,,Who, me? Well...
+Dialogue: 0,0:15:41.12,0:15:42.67,Default,SHIN,0,0,0,,Call me Red.
+Dialogue: 0,0:15:42.67,0:15:44.00,Default,SOLDIER,0,0,0,,O-Okay.
+Dialogue: 0,0:15:44.54,0:15:46.84,Default,SHIN,0,0,0,,Sorry, but I need you to clear out.
+Dialogue: 0,0:15:46.84,0:15:50.51,Default,SHIN,0,0,0,,I can't use my abilities properly \Nwith you guys around.
+Dialogue: 0,0:15:50.51,0:15:51.76,Default,SOLDIER,0,0,0,,B-But...
+Dialogue: 0,0:15:51.76,0:15:54.39,Default,SHIN,0,0,0,,I might end up killing you, too.
+Dialogue: 0,0:15:55.01,0:15:56.89,Default,SHIN,0,0,0,,That's how this weapon works.
+Dialogue: 0,0:16:00.39,0:16:01.98,Default,SOLDER,0,0,0,,Retreat!
+Dialogue: 0,0:16:01.98,0:16:04.15,Default,SOLDIER 2,0,0,0,,Just who is that guy?
+Dialogue: 0,0:16:07.44,0:16:08.15,Italics,SCHNEE/ID,0,0,0,,Shin...
+Dialogue: 0,0:16:08.82,0:16:10.99,Italics,SCHNEE/ID,0,0,0,,That's a cursed weapon, isn't it?
+Dialogue: 0,0:16:15.12,0:16:16.91,Default,RIONNE,0,0,0,,Wh-What is that?
+Dialogue: 0,0:16:16.91,0:16:21.37,Default,WILHELM,0,0,0,,A weapon that instantly slays—\Nno, consumes everything.
+Dialogue: 0,0:16:21.37,0:16:23.71,Default,WILHELM,0,0,0,,He's a monster.
+Dialogue: 0,0:16:23.71,0:16:25.54,Default,SCYTHE,0,0,0,,Kill, kill!
+Dialogue: 0,0:16:25.83,0:16:28.50,Default,SCYTHE,0,0,0,,Kill, kill! Kill more!
+Dialogue: 0,0:16:28.50,0:16:31.21,Default,SCYTHE,0,0,0,,More, more, more!
+Dialogue: 0,0:16:31.21,0:16:34.80,Default,SHIN,0,0,0,,Oh, shut up. Cursed weapons are so noisy.
+Dialogue: 0,0:16:35.26,0:16:40.27,Default,SHIN,0,0,0,,This scythe is perfect for floods \Nsince it attracts enemy aggro, but...
+Dialogue: 0,0:16:41.14,0:16:42.35,Default,SHIN,0,0,0,,Found it.
+Dialogue: 0,0:16:45.91,0:16:46.98,Default,SHIN,0,0,0,,A demon.
+Dialogue: 0,0:16:47.48,0:16:50.65,Default,SHIN,0,0,0,,That's the event boss leading the flood.
+Dialogue: 0,0:16:58.83,0:17:02.25,Italics,SHIN/ID,0,0,0,,A mind-affecting attack, huh? Too bad...
+Dialogue: 0,0:17:02.77,0:17:04.33,Default,SHIN,0,0,0,,Limit Off.
+Dialogue: 0,0:17:12.05,0:17:15.47,Default,SHIN,0,0,0,,That won't work against a high human like me.
+Dialogue: 0,0:17:18.18,0:17:20.97,Italics,SCHNEE,0,0,0,,Shin, the monsters have been exterminated.
+Dialogue: 0,0:17:21.31,0:17:23.06,Italics,SCHNEE,0,0,0,,We suffered zero casualties.
+Dialogue: 0,0:17:23.06,0:17:24.18,Italics,SHIN,0,0,0,,Roger.
+Dialogue: 0,0:17:28.65,0:17:29.86,Default,SHIN,0,0,0,,I want to go home.
+Dialogue: 0,0:17:29.86,0:17:31.19,Default,TIERA,0,0,0,,Same.
+Dialogue: 0,0:17:31.19,0:17:35.24,Default,SHIN,0,0,0,,I heard they wanted to reward those \Nwho fought admirably against the flood,
+Dialogue: 0,0:17:35.24,0:17:37.28,Default,SHIN,0,0,0,,but I didn't think they'd hold a ceremony.
+Dialogue: 0,0:17:37.28,0:17:40.08,Default,SCHNEE,0,0,0,,If that's the custom in Valmer,\Nwe must endure it.
+Dialogue: 0,0:17:41.58,0:17:44.41,Default,SCHNEE,0,0,0,,Sorry to keep you waiting. Let's go.
+Dialogue: 0,0:17:44.87,0:17:47.04,Default,SHIN,0,0,0,,R-Right...
+Dialogue: 0,0:17:50.25,0:17:53.30,Italics,SHIN/ID,0,0,0,,Stuff like this isn't my thing.
+Dialogue: 0,0:17:54.21,0:17:57.76,Italics,SHIN/ID,0,0,0,,Wilhelm and Lacia said they weren't \Ninterested and left already.
+Dialogue: 0,0:17:59.80,0:18:02.85,Default,SHIN,0,0,0,,Kindly take my arms, ladies!
+Dialogue: 0,0:18:02.85,0:18:04.14,Default,SHIN,0,0,0,,How did that sound?
+Dialogue: 0,0:18:05.18,0:18:07.39,Default,TIERA,0,0,0,,That was so out of character!
+Dialogue: 0,0:18:07.39,0:18:10.56,Default,TIERA,0,0,0,,You should be glad you have \Na lovely lady on each arm today.
+Dialogue: 0,0:18:10.56,0:18:13.65,Default,SCHNEE,0,0,0,,I appreciate the escort.
+Dialogue: 0,0:18:18.32,0:18:20.12,Default,TIERA,0,0,0,,Everyone's looking at us.
+Dialogue: 0,0:18:20.12,0:18:22.49,Default,SHIN,0,0,0,,Yeah, I'll bet they are.
+Dialogue: 0,0:18:22.49,0:18:24.58,Default,SCHNEE,0,0,0,,Shall we move to the edge of the room?
+Dialogue: 0,0:18:24.58,0:18:25.41,Default,SHIN,0,0,0,,Yeah.
+Dialogue: 0,0:18:25.41,0:18:28.00,Default,RIONNE,0,0,0,,Shin! You finally showed.
+Dialogue: 0,0:18:28.67,0:18:29.71,Default,SHIN,0,0,0,,Rionne.
+Dialogue: 0,0:18:31.75,0:18:34.42,Default,SCHNEE,0,0,0,,Shin, I've been wondering...
+Dialogue: 0,0:18:35.01,0:18:37.51,Default,SCHNEE,0,0,0,,Did something happen \Nbetween you and the princess?
+Dialogue: 0,0:18:37.51,0:18:39.80,Default,SHIN,0,0,0,,N-Nothing happened.
+Dialogue: 0,0:18:39.80,0:18:42.85,Default,SHIN,0,0,0,,She's just interested \Nin my equipment and spells.
+Dialogue: 0,0:18:42.85,0:18:47.43,Default,SCHNEE,0,0,0,,I see. I thought she'd made advances on you.
+Dialogue: 0,0:18:47.43,0:18:48.89,Default,SHIN,0,0,0,,Oh, uh...
+Dialogue: 0,0:18:48.89,0:18:51.98,Default,RIONNE,0,0,0,,Shin, don't act so distant \Nafter making eye contact with me.
+Dialogue: 0,0:18:51.98,0:18:55.32,Default,SHIN,0,0,0,,People will stare if I'm with you.
+Dialogue: 0,0:18:55.32,0:18:57.69,Default,RIONNE,0,0,0,,I don't mind at all.
+Dialogue: 0,0:18:57.69,0:18:59.20,Default,SHIN,0,0,0,,Very funny.
+Dialogue: 0,0:18:59.49,0:19:01.82,Default,RIONNE,0,0,0,,Why are you acting so aloof?
+Dialogue: 0,0:19:01.82,0:19:04.28,Default,RIONNE,0,0,0,,You've already proposed to me and everything.
+Dialogue: 0,0:19:04.28,0:19:05.70,Default,SHIN,0,0,0,,Hey! That wasn't...
+Dialogue: 0,0:19:05.70,0:19:08.71,Default,RIONNE,0,0,0,,I'm joking. Forgive me for teasing you.
+Dialogue: 0,0:19:08.71,0:19:10.76,Default,SCHNEE,0,0,0,,I'm going to get some food.
+Dialogue: 0,0:19:10.76,0:19:13.08,Default,SCHNEE,0,0,0,,Don't let me get in your way.
+Dialogue: 0,0:19:13.84,0:19:14.84,Default,SHIN,0,0,0,,Schnee?
+Dialogue: 0,0:19:17.08,0:19:22.43,Default,TIERA,0,0,0,,Rionne, could you regale me with tales\Nof your heroism during the flood?
+Dialogue: 0,0:19:22.43,0:19:23.47,Default,RIONNE,0,0,0,,Of course.
+Dialogue: 0,0:19:23.72,0:19:27.42,Default,TIERA,0,0,0,,Shin, could you go get a drink for Rionne?
+Dialogue: 0,0:19:27.42,0:19:28.06,Default,SHIN,0,0,0,,What?
+Dialogue: 0,0:19:28.64,0:19:30.35,Default,SHIN,0,0,0,,Oh, sure.
+Dialogue: 0,0:19:38.40,0:19:39.99,Default,SHIN,0,0,0,,It's a nice view.
+Dialogue: 0,0:19:39.99,0:19:43.11,Default,SCHNEE,0,0,0,,I'm sorry for stepping away.
+Dialogue: 0,0:19:43.74,0:19:45.45,Default,SHIN,0,0,0,,Were you jealous?
+Dialogue: 0,0:19:45.45,0:19:50.21,Default,SCHNEE,0,0,0,,Well, yes. After all, \NI'm not actually your fiancée.
+Dialogue: 0,0:19:50.21,0:19:51.12,Default,SHIN,0,0,0,,Schnee?
+Dialogue: 0,0:19:51.46,0:19:54.63,Default,SCHNEE,0,0,0,,Did Berett tell you?
+Dialogue: 0,0:19:54.93,0:19:58.09,Default,SHIN,0,0,0,,There are players besides me \Nin this world, right?
+Dialogue: 0,0:19:58.76,0:20:00.59,Default,SHIN,0,0,0,,Player killers, too.
+Dialogue: 0,0:20:01.34,0:20:03.34,Default,SHIN,0,0,0,,Is that what you wanted to talk about?
+Dialogue: 0,0:20:03.34,0:20:06.60,Default,SCHNEE,0,0,0,,Yes. I'm sorry for hiding it from you.
+Dialogue: 0,0:20:06.60,0:20:08.64,Default,SCHNEE,0,0,0,,But I couldn't tell you.
+Dialogue: 0,0:20:09.02,0:20:13.65,Default,SCHNEE,0,0,0,,If you learned of the player killers, \NI thought you'd become {\i1}that{\i0} Shin again.
+Dialogue: 0,0:20:14.90,0:20:18.02,Default,SCHNEE,0,0,0,,The cold Shin who keeps everyone \Nat arm's length.
+Dialogue: 0,0:20:19.69,0:20:23.20,Default,SCHNEE,0,0,0,,If I had as little sense of self as I did \Nin the game, I could endure it.
+Dialogue: 0,0:20:23.95,0:20:27.53,Default,SCHNEE,0,0,0,,But now... Now, I don't think I could.
+Dialogue: 0,0:20:28.21,0:20:30.08,Default,SCHNEE,0,0,0,,I can't stop you.
+Dialogue: 0,0:20:30.08,0:20:33.29,Default,SCHNEE,0,0,0,,I can't replace her!
+Dialogue: 0,0:20:35.29,0:20:41.55,Default,SCHNEE,0,0,0,,Despite knowing that, there's a part \Nof me that's glad she's gone.
+Dialogue: 0,0:20:42.01,0:20:46.43,Default,SCHNEE,0,0,0,,That thought maybe I could replace her.
+Dialogue: 0,0:20:46.43,0:20:48.93,Default,SCHNEE,0,0,0,,Maybe I could be your rock.
+Dialogue: 0,0:20:49.38,0:20:52.01,Default,SCHNEE,0,0,0,,So I... I...
+Dialogue: 0,0:20:57.90,0:20:58.86,Default,SHIN,0,0,0,,Sorry.
+Dialogue: 0,0:21:00.02,0:21:01.69,Default,SCHNEE,0,0,0,,Please don't apologize.
+Dialogue: 0,0:21:02.36,0:21:04.36,Default,SHIN,0,0,0,,Don't blame yourself too much.
+Dialogue: 0,0:21:05.36,0:21:10.70,Default,SHIN,0,0,0,,If I were in your shoes, \NI'd probably do the same.
+Dialogue: 0,0:21:10.70,0:21:12.06,Default,SCHNEE,0,0,0,,Shin...
+Dialogue: 0,0:21:12.06,0:21:15.83,Default,SHIN,0,0,0,,Listen. I'm really glad I found you, too.
+Dialogue: 0,0:21:16.62,0:21:22.17,Default,SHIN,0,0,0,,I thought it was finally all over when I beat \Nthe boss, but then I found myself here again.
+Dialogue: 0,0:21:22.17,0:21:24.17,Default,SHIN,0,0,0,,I didn't know anyone.
+Dialogue: 0,0:21:24.85,0:21:28.09,Default,SHIN,0,0,0,,My home felt like a stranger's house.
+Dialogue: 0,0:21:28.77,0:21:34.73,Default,SHIN,0,0,0,,So when you welcomed me back, \NI felt so relieved.
+Dialogue: 0,0:21:35.18,0:21:37.90,Default,SHIN,0,0,0,,You remembered me.
+Dialogue: 0,0:21:37.90,0:21:39.48,Default,SCHNEE,0,0,0,,Of course I did.
+Dialogue: 0,0:21:39.98,0:21:42.57,Default,SHIN,0,0,0,,Berett called it an act of betrayal,
+Dialogue: 0,0:21:43.15,0:21:47.61,Default,SHIN,0,0,0,,but I won't hold it against you or punish you.
+Dialogue: 0,0:21:48.07,0:21:49.12,Default,SCHNEE,0,0,0,,But I...
+Dialogue: 0,0:21:49.12,0:21:51.87,Default,SHIN,0,0,0,,I can't hear you. I've already made up my mind.
+Dialogue: 0,0:21:52.33,0:21:54.79,Default,SHIN,0,0,0,,I've made my decision.\NI'll hear no objections.
+Dialogue: 0,0:21:56.62,0:21:58.37,Default,SHIN,0,0,0,,No more secrets between us.
+Dialogue: 0,0:21:59.83,0:22:00.88,Default,SCHNEE,0,0,0,,Okay.
+Dialogue: 0,0:22:01.34,0:22:05.01,Italics,SHIN/ID,0,0,0,,Sorry, Schnee. This all started because I...
+Dialogue: 0,0:22:05.01,0:22:09.05,Default,SCHNEE,0,0,0,,Um, Shin, may I ask you something?
+Dialogue: 0,0:22:09.05,0:22:09.89,Default,SHIN,0,0,0,,What is it?
+Dialogue: 0,0:22:13.35,0:22:19.15,Default,SCHNEE,0,0,0,,Do you still love Marino?
+Dialogue: 0,0:22:27.45,0:22:31.24,Default,SHIN,0,0,0,,Yeah. My feelings haven't changed.
+Dialogue: 0,0:22:32.37,0:22:35.66,Default,SCHNEE,0,0,0,,I see. I understand.
+Dialogue: 0,0:22:46.55,0:22:50.18,Default,SCHNEE,0,0,0,,I won't give up. I love you.
+Dialogue: 0,0:22:50.51,0:22:53.76,Default,SCHNEE,0,0,0,,I know you'll return to your world someday,
+Dialogue: 0,0:22:53.76,0:22:56.93,Default,SCHNEE,0,0,0,,but my feelings for you are real.
+Dialogue: 0,0:22:57.60,0:23:00.10,Default,SCHNEE,0,0,0,,W-We should head back inside.
+Dialogue: 0,0:23:02.73,0:23:05.78,Default,SHIN,0,0,0,,I wasn't expecting this...
+Dialogue: 0,0:23:07.69,0:23:10.95,Italics,SHIN/ID,0,0,0,,I still don't know how to return to my world.
+Dialogue: 0,0:23:12.53,0:23:16.04,Italics,SHIN/ID,0,0,0,,I'm worried about the player killers\NI crossed in the game, too.
+Dialogue: 0,0:23:16.58,0:23:22.58,Italics,SHIN/ID,0,0,0,,And if the friends I thought were dead \Nare actually alive, then maybe...
+Dialogue: 0,0:23:25.09,0:23:25.96,Default,SHIN,0,0,0,,Let's go.
+Dialogue: 0,0:23:26.75,0:23:28.13,Default,SHIN,0,0,0,,On to the next town!
+Dialogue: 0,0:23:34.97,0:23:39.98,Default,SIGN,0,0,0,,{\fnTimes New Roman\shad0\blur1\3c&H4A4B87&\pos(468,313.5)}Thank you for watching
