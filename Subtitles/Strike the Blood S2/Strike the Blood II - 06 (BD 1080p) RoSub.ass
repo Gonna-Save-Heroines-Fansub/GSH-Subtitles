@@ -387,24 +387,24 @@ Dialogue: 100,0:24:36.47,0:24:39.49,Dialogue,Yellow,0,0,0,,E o pensiune japonez�
 Dialogue: 100,0:24:39.49,0:24:41.04,Dialogue,Yellow,0,0,0,,Pensiunea din Hakone!
 Dialogue: 100,0:24:41.04,0:24:43.65,Dialogue,Blue,0,0,0,,La mai puțin de douăzeci de \Nkilometri de lacul Kannawa.
 Dialogue: 100,0:24:43.65,0:24:46.09,Dialogue,Blue,0,0,0,,E destul de aproape încât să \Npoți merge pe jos până acolo!
-Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=35}{\an7\pos(444.52,542.71)\c&H66A030&\blur5\p1}m -67 170 l 75 -43 12 -59 -132 150
-Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=35}{\pos(444.52,542.71)\org(453.94,542.71)\fscx75.1\fscy72.63\frz56.115\fry-0.345\frx4.345\fax0.335\fnAG Book Rounded\c&HADBEB0&\blur1.5}Trimite fotografii
-Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=35}{\an7\pos(444.52,542.71)\c&H3D5F15&\blur5\p1}m -67 170 l 75 -43 12 -59 -132 150
-Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=35}{\pos(444.52,542.71)\org(453.94,542.71)\fscx75.1\fscy72.63\frz56.115\fry-0.345\frx4.345\fax0.335\fnAG Book Rounded\c&H617762&\blur1.5}Trimite fotografii
-Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=35}{\an7\pos(444.52,542.71)\c&H212A0A&\blur5\p1}m -67 170 l 75 -43 12 -59 -132 150
-Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=35}{\pos(444.52,542.71)\org(453.94,542.71)\fscx75.1\fscy72.63\frz56.115\fry-0.345\frx4.345\fax0.335\fnAG Book Rounded\c&H343327&\blur1.5}Trimite fotografii
-Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=36}{\an7\pos(457,765.99)\c&HB8BEC6&\blur5\p1}m 32 35 l 68 -27 3 -50 -37 16
-Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=37}{\pos(460.84,761.59)\org(468.38,761.59)\fscx59.88\fscy59.93\frz55.977\fry-0.345\frx4.345\fax0.336\fnAG Book Rounded\c&H7C7775&\blur1.5}Către
-Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=36}{\an7\pos(457,765.99)\c&H717072&\blur5\p1}m 32 35 l 68 -27 3 -50 -37 16
-Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=37}{\pos(460.84,761.59)\org(468.38,761.59)\fscx59.88\fscy59.93\frz55.977\fry-0.345\frx4.345\fax0.336\fnAG Book Rounded\c&H524845&\blur1.5}Către
-Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=36}{\an7\pos(457,765.99)\c&H34302C&\blur5\p1}m 32 35 l 68 -27 3 -50 -37 16
-Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=37}{\pos(460.84,761.59)\org(468.38,761.59)\fscx59.88\fscy59.93\frz55.977\fry-0.345\frx4.345\fax0.336\fnAG Book Rounded\c&H251F19&\blur1.5}Către
+Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(444.52,542.71)\c&H66A030&\blur5\p1}m -67 170 l 75 -43 12 -59 -132 150
+Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\pos(444.52,542.71)\org(453.94,542.71)\fscx75.1\fscy72.63\frz56.115\fry-0.345\frx4.345\fax0.335\fnAG Book Rounded\c&HADBEB0&\blur1.5}Trimite fotografii
+Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(444.52,542.71)\c&H3D5F15&\blur5\p1}m -67 170 l 75 -43 12 -59 -132 150
+Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\pos(444.52,542.71)\org(453.94,542.71)\fscx75.1\fscy72.63\frz56.115\fry-0.345\frx4.345\fax0.335\fnAG Book Rounded\c&H617762&\blur1.5}Trimite fotografii
+Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(444.52,542.71)\c&H212A0A&\blur5\p1}m -67 170 l 75 -43 12 -59 -132 150
+Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\pos(444.52,542.71)\org(453.94,542.71)\fscx75.1\fscy72.63\frz56.115\fry-0.345\frx4.345\fax0.335\fnAG Book Rounded\c&H343327&\blur1.5}Trimite fotografii
+Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(457,765.99)\c&HB8BEC6&\blur5\p1}m 32 35 l 68 -27 3 -50 -37 16
+Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\pos(460.84,761.59)\org(468.38,761.59)\fscx59.88\fscy59.93\frz55.977\fry-0.345\frx4.345\fax0.336\fnAG Book Rounded\c&H7C7775&\blur1.5}Către
+Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(457,765.99)\c&H717072&\blur5\p1}m 32 35 l 68 -27 3 -50 -37 16
+Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\pos(460.84,761.59)\org(468.38,761.59)\fscx59.88\fscy59.93\frz55.977\fry-0.345\frx4.345\fax0.336\fnAG Book Rounded\c&H524845&\blur1.5}Către
+Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(457,765.99)\c&H34302C&\blur5\p1}m 32 35 l 68 -27 3 -50 -37 16
+Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\pos(460.84,761.59)\org(468.38,761.59)\fscx59.88\fscy59.93\frz55.977\fry-0.345\frx4.345\fax0.336\fnAG Book Rounded\c&H251F19&\blur1.5}Către
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(566,615)\c&HBCA053&\blur5\p1}m -16 81 l 75 -67 21 -81 -72 66
-Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=39}{\pos(556.59,616.96)\org(566.61,616.96)\fscx80.1\fscy80.08\frz56.073\fry-0.344\frx4.339\fax0.334\fnAG Book Rounded\c&HBDB4AA&\blur1.5}Kojou
+Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\pos(556.59,616.96)\org(566.61,616.96)\fscx80.1\fscy80.08\frz56.073\fry-0.344\frx4.339\fax0.334\fnAG Book Rounded\c&HBDB4AA&\blur1.5}Kojou
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(566,615)\c&H765F32&\blur5\p1}m -16 81 l 75 -67 21 -81 -72 66
-Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=39}{\pos(556.59,616.96)\org(566.61,616.96)\fscx80.1\fscy80.08\frz56.073\fry-0.344\frx4.339\fax0.334\fnAG Book Rounded\c&H7A6A60&\blur1.5}Kojou
+Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\pos(556.59,616.96)\org(566.61,616.96)\fscx80.1\fscy80.08\frz56.073\fry-0.344\frx4.339\fax0.334\fnAG Book Rounded\c&H7A6A60&\blur1.5}Kojou
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(566,615)\c&H372A17&\blur5\p1}m -16 81 l 75 -67 21 -81 -72 66
-Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=39}{\pos(556.59,616.96)\org(566.61,616.96)\fscx80.1\fscy80.08\frz56.073\fry-0.344\frx4.339\fax0.334\fnAG Book Rounded\c&H393327&\blur1.5}Kojou
+Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\pos(556.59,616.96)\org(566.61,616.96)\fscx80.1\fscy80.08\frz56.073\fry-0.344\frx4.339\fax0.334\fnAG Book Rounded\c&H393327&\blur1.5}Kojou
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H42DBF4&\blur3\clip(1162,305,1535,310)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H41DAF3&\blur3\clip(1162,310,1535,315)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H41DAF3&\blur3\clip(1162,315,1535,320)\p1}m -79 287 l 178 -276 85 -295 -177 257
@@ -525,7 +525,7 @@ Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H37C3DC&\blur3\clip(1162,890,1535,895)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H37C3DC&\blur3\clip(1162,895,1535,900)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H37C3DC&\blur3\clip(1162,900,1535,905)\p1}m -79 287 l 178 -276 85 -295 -177 257
-Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=20}{\pos(1355.28,595.58)\org(1361.26,595.58)\fscx90.4\fscy90.27\frz65.532\fry-0.485\frx4.586\fax0.176\fnAmiko\b1\c&H486065&\blur1.5}Eroare la trimiterea mesajului
+Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\pos(1355.28,595.58)\org(1361.26,595.58)\fscx90.4\fscy90.27\frz65.532\fry-0.485\frx4.586\fax0.176\fnAmiko\b1\c&H486065&\blur1.5}Eroare la trimiterea mesajului
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H2F939E&\blur3\clip(1162,305,1535,310)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H2E929D&\blur3\clip(1162,310,1535,315)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H2E929D&\blur3\clip(1162,315,1535,320)\p1}m -79 287 l 178 -276 85 -295 -177 257
@@ -646,7 +646,7 @@ Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H28737D&\blur3\clip(1162,890,1535,895)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H28737D&\blur3\clip(1162,895,1535,900)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H28737D&\blur3\clip(1162,900,1535,905)\p1}m -79 287 l 178 -276 85 -295 -177 257
-Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=20}{\pos(1355.28,595.58)\org(1361.26,595.58)\fscx90.4\fscy90.27\frz65.532\fry-0.485\frx4.586\fax0.176\fnAmiko\b1\c&H2E3A36&\blur1.5}Eroare la trimiterea mesajului
+Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\pos(1355.28,595.58)\org(1361.26,595.58)\fscx90.4\fscy90.27\frz65.532\fry-0.485\frx4.586\fax0.176\fnAmiko\b1\c&H2E3A36&\blur1.5}Eroare la trimiterea mesajului
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H1F3D3D&\blur3\clip(1162,305,1535,310)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H1E3C3C&\blur3\clip(1162,310,1535,315)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H1E3C3C&\blur3\clip(1162,315,1535,320)\p1}m -79 287 l 178 -276 85 -295 -177 257
@@ -767,7 +767,7 @@ Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H1B3130&\blur3\clip(1162,890,1535,895)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H1B3130&\blur3\clip(1162,895,1535,900)\p1}m -79 287 l 178 -276 85 -295 -177 257
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1348,610.28)\c&H1B3130&\blur3\clip(1162,900,1535,905)\p1}m -79 287 l 178 -276 85 -295 -177 257
-Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=20}{\pos(1355.28,595.58)\org(1361.26,595.58)\fscx90.4\fscy90.27\frz65.532\fry-0.485\frx4.586\fax0.176\fnAmiko\b1\c&H1E1B18&\blur1.5}Eroare la trimiterea mesajului
+Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\pos(1355.28,595.58)\org(1361.26,595.58)\fscx90.4\fscy90.27\frz65.532\fry-0.485\frx4.586\fax0.176\fnAmiko\b1\c&H1E1B18&\blur1.5}Eroare la trimiterea mesajului
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&HD6DDEB&\blur5\clip(1252,234,1745,239)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&HD5DCEA&\blur5\clip(1252,239,1745,244)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&HD5DCEA&\blur5\clip(1252,244,1745,249)\p1}m 116 50 l 442 -750 326 -780 -23 16
@@ -938,9 +938,9 @@ Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&HB4B7BF&\blur5\clip(1252,1069,1745,1074)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&HB3B6BE&\blur5\clip(1252,1074,1745,1079)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&HB3B6BE&\blur5\clip(1252,1079,1745,1084)\p1}m 116 50 l 442 -750 326 -780 -23 16
-Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=21}{\an7\pos(1117.27,730.61)\org(1407.78,754.06)\fscx45.7\fscy62.54\frz66.788\fry-0.369\frx3.983\fax0.206\fnAmiko\c&H7B7B6E&\blur1}A apărut o eroare la trimiterea acestui mesaj.
-Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=11}{\an7\pos(1093.94,609.8)\org(1513.57,632.79)\fscx43.24\fscy61.32\frz67.362\fry-0.378\frx4.084\fax0.214\fnAmiko\c&H7B7B6E&\blur1}Acest lucru se datorează faptului că serverul nu a răspuns în timp util
-Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{=11}{\an7\pos(1212.48,752.79)\org(1509.25,776.66)\fscx45.86\fscy63.67\frz67.94\fry-0.366\frx3.955\fax0.18\fnAmiko\c&H7B7B6E&\blur1}sau din cauza unei conexiuni slabe la internet.
+Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1117.27,730.61)\org(1407.78,754.06)\fscx45.7\fscy62.54\frz66.788\fry-0.369\frx3.983\fax0.206\fnAmiko\c&H7B7B6E&\blur1.5}A apărut o eroare la trimiterea acestui mesaj.
+Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1093.94,609.8)\org(1513.57,632.79)\fscx43.24\fscy61.32\frz67.362\fry-0.378\frx4.084\fax0.214\fnAmiko\c&H7B7B6E&\blur1.5}Acest lucru se datorează faptului că serverul nu a răspuns în timp util
+Dialogue: 1,0:02:26.00,0:02:28.00,DedzuyaSigns,,0,0,0,,{\an7\pos(1212.48,752.79)\org(1509.25,776.66)\fscx45.86\fscy63.67\frz67.94\fry-0.366\frx3.955\fax0.18\fnAmiko\c&H7B7B6E&\blur1.5}sau din cauza unei conexiuni slabe la internet.
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H909697&\blur5\clip(1252,234,1745,239)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H8F9596&\blur5\clip(1252,239,1745,244)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H8F9596&\blur5\clip(1252,244,1745,249)\p1}m 116 50 l 442 -750 326 -780 -23 16
@@ -1111,9 +1111,9 @@ Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H666766&\blur5\clip(1252,1069,1745,1074)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H666665&\blur5\clip(1252,1074,1745,1079)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H666665&\blur5\clip(1252,1079,1745,1084)\p1}m 116 50 l 442 -750 326 -780 -23 16
-Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=21}{\an7\pos(1117.27,730.61)\org(1407.78,754.06)\fscx45.7\fscy62.54\frz66.788\fry-0.369\frx3.983\fax0.206\fnAmiko\c&H584E54&\blur1}A apărut o eroare la trimiterea acestui mesaj.
-Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=11}{\an7\pos(1093.94,609.8)\org(1513.57,632.79)\fscx43.24\fscy61.32\frz67.362\fry-0.378\frx4.084\fax0.214\fnAmiko\c&H584E54&\blur1}Acest lucru se datorează faptului că serverul nu a răspuns în timp util
-Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{=11}{\an7\pos(1212.48,752.79)\org(1509.25,776.66)\fscx45.86\fscy63.67\frz67.94\fry-0.366\frx3.955\fax0.18\fnAmiko\c&H584E54&\blur1}sau din cauza unei conexiuni slabe la internet.
+Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1117.27,730.61)\org(1407.78,754.06)\fscx45.7\fscy62.54\frz66.788\fry-0.369\frx3.983\fax0.206\fnAmiko\c&H584E54&\blur1.5}A apărut o eroare la trimiterea acestui mesaj.
+Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1093.94,609.8)\org(1513.57,632.79)\fscx43.24\fscy61.32\frz67.362\fry-0.378\frx4.084\fax0.214\fnAmiko\c&H584E54&\blur1.5}Acest lucru se datorează faptului că serverul nu a răspuns în timp util
+Dialogue: 1,0:02:28.00,0:02:28.04,DedzuyaSigns,,0,0,0,,{\an7\pos(1212.48,752.79)\org(1509.25,776.66)\fscx45.86\fscy63.67\frz67.94\fry-0.366\frx3.955\fax0.18\fnAmiko\c&H584E54&\blur1.5}sau din cauza unei conexiuni slabe la internet.
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H43413C&\blur5\clip(1252,234,1745,239)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H42403B&\blur5\clip(1252,239,1745,244)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H42403B&\blur5\clip(1252,244,1745,249)\p1}m 116 50 l 442 -750 326 -780 -23 16
@@ -1284,9 +1284,9 @@ Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H302D28&\blur5\clip(1252,1069,1745,1074)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H302D28&\blur5\clip(1252,1074,1745,1079)\p1}m 116 50 l 442 -750 326 -780 -23 16
 Dialogue: 0,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1289.34,1029.33)\c&H302D28&\blur5\clip(1252,1079,1745,1084)\p1}m 116 50 l 442 -750 326 -780 -23 16
-Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=21}{\an7\pos(1117.27,730.61)\org(1407.78,754.06)\fscx45.7\fscy62.54\frz66.788\fry-0.369\frx3.983\fax0.206\fnAmiko\c&H231C1A&\blur1}A apărut o eroare la trimiterea acestui mesaj.
-Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=11}{\an7\pos(1093.94,609.8)\org(1513.57,632.79)\fscx43.24\fscy61.32\frz67.362\fry-0.378\frx4.084\fax0.214\fnAmiko\c&H231C1A&\blur1}Acest lucru se datorează faptului că serverul nu a răspuns în timp util
-Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{=11}{\an7\pos(1212.48,752.79)\org(1509.25,776.66)\fscx45.86\fscy63.67\frz67.94\fry-0.366\frx3.955\fax0.18\fnAmiko\c&H231C1A&\blur1}sau din cauza unei conexiuni slabe la internet.
+Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1117.27,730.61)\org(1407.78,754.06)\fscx45.7\fscy62.54\frz66.788\fry-0.369\frx3.983\fax0.206\fnAmiko\c&H231C1A&\blur1.5}A apărut o eroare la trimiterea acestui mesaj.
+Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1093.94,609.8)\org(1513.57,632.79)\fscx43.24\fscy61.32\frz67.362\fry-0.378\frx4.084\fax0.214\fnAmiko\c&H231C1A&\blur1.5}Acest lucru se datorează faptului că serverul nu a răspuns în timp util
+Dialogue: 1,0:02:28.04,0:02:28.09,DedzuyaSigns,,0,0,0,,{\an7\pos(1212.48,752.79)\org(1509.25,776.66)\fscx45.86\fscy63.67\frz67.94\fry-0.366\frx3.955\fax0.18\fnAmiko\c&H231C1A&\blur1.5}sau din cauza unei conexiuni slabe la internet.
 Dialogue: 0,0:12:03.37,0:12:05.96,DedzuyaSigns,,0,0,0,,{\an7\pos(960,610)\c&H060606&\blur1\p1}m -547 13 l 470 13 470 119 -547 119
 Dialogue: 1,0:12:03.37,0:12:05.96,DedzuyaSigns,,0,0,0,,{\an8\pos(960,610)\fscx110\fscy120\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&\alpha&HFF&\blur10\be10\t(0,480,0.7,\blur0.5\be0\alpha&H00&)}Cavalerul Zeului Păcatelor I
 Comment: 0,0:02:45.81,0:02:45.85,OP TL,,0,0,0,,{OP first Himeragi frame after title}
