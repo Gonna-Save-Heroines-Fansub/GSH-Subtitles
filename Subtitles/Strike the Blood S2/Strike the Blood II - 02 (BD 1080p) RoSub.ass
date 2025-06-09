@@ -17,29 +17,21 @@ WrapStyle: 3
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood II [Ma10p_1080p]/[VCB-Studio] Strike the Blood II [02][Ma10p_1080p][x265_flac].mkv
-Video File: E:/Anime/[VCB] Strike the Blood/[VCB-Studio] Strike the Blood II [Ma10p_1080p]/[VCB-Studio] Strike the Blood II [02][Ma10p_1080p][x265_flac].mkv
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 236
-Active Line: 237
-Video Position: 16702
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Surface,76,&H00FFFFFF,&H000000FF,&H00000000,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2,2,150,150,60,1
-Style: Dialogue Overlap,Surface,76,&H00FFFFFF,&H000000FF,&H00000000,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2,2,150,150,60,1
+Style: Dialogue Overlap,Surface,76,&H00FFFFFF,&H000000FF,&H0036005A,&HB4000000,-1,0,0,0,100,100,0,0,1,4,2,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
+Style: OP TL,FOT-UDMincho Pro B,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,8,50,50,25,1
+Style: ED TL,Pretty Single,66,&H00FFFFFF,&H000000FF,&H00EA5307,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,9,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Prolog}
-Comment: 0,0:03:17.97,0:03:18.01,Dialogue,chptr,0,0,0,,{OP}
-Comment: 0,0:04:48.02,0:04:48.06,Dialogue,chptr,0,0,0,,{Partea A}
-Comment: 0,0:11:16.49,0:11:16.53,Dialogue,chptr,0,0,0,,{Partea B}
-Comment: 0,0:24:01.00,0:24:01.04,Dialogue,chptr,0,0,0,,{ED}
+Comment: 0,0:01:42.00,0:01:42.04,Dialogue,chptr,0,0,0,,{OP}
+Comment: 0,0:03:11.96,0:03:12.00,Dialogue,chptr,0,0,0,,{Partea A}
+Comment: 0,0:11:34.51,0:11:34.55,Dialogue,chptr,0,0,0,,{Partea B}
+Comment: 0,0:23:39.98,0:23:40.02,Dialogue,chptr,0,0,0,,{ED}
 Dialogue: 100,0:00:01.95,0:00:04.48,Dialogue,Sayaka,0,0,0,ep1 23:47,Tunet de Foc și Tunet Sfâșietor...
 Dialogue: 100,0:00:05.44,0:00:08.71,Dialogue,Sayaka,0,0,0,ep1 23:51,Și tu ești... o Preoteasă Luptătoare?
 Dialogue: 100,0:00:09.61,0:00:11.45,Dialogue,Kiriha,0,0,0,ep1 23:55,Eu sunt Preoteasa cu Șase Săbii...
@@ -417,3 +409,71 @@ Dialogue: 100,0:23:19.15,0:23:20.68,Dialogue,Kusuki,0,0,0,,Foarte curând...
 Dialogue: 100,0:23:21.23,0:23:25.80,Dialogue,Kusuki,0,0,0,,Ciocanul de fier al dreptații se va abate asupra umanității atât de arogante.
 Dialogue: 0,0:11:35.42,0:11:38.01,DedzuyaSigns,,0,0,0,,{\an7\pos(960,610)\c&H060606&\blur1\p1}m -547 13 l 470 13 470 119 -547 119
 Dialogue: 1,0:11:35.42,0:11:38.01,DedzuyaSigns,,0,0,0,,{\an8\pos(960,610)\fscx110\fscy120\fnFOT-UDMincho Pro B\fsp2\b1\c&HE5E5E5&\alpha&HFF&\blur10\be10\t(0,480,0.7,\blur0.5\be0\alpha&H00&)}Preoteasa Luptătoare a Umbrelor II
+Comment: 0,0:01:58.81,0:01:58.85,OP TL,,0,0,0,,{OP first Himeragi frame after title}
+Dialogue: 0,0:01:58.81,0:02:07.18,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(8070,8370,1.5,\blur10\fsp3\frz-0.15)}Dacă dreptatea absolută există în această lume,
+Dialogue: 1,0:01:58.81,0:02:07.18,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(8070,8370,1.5,\blur5\fsp3\frz-0.15)}Dacă dreptatea absolută există în această lume,
+Dialogue: 2,0:01:58.81,0:02:07.18,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(8070,8370,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}Dacă dreptatea absolută există în această lume,
+Dialogue: 0,0:02:07.18,0:02:15.45,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(7970,8270,1.5,\blur10\fsp3\frz-0.15)}cu siguranță putrezește cu noblețe într-un loc pustiu
+Dialogue: 1,0:02:07.18,0:02:15.45,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(7970,8270,1.5,\blur5\fsp3\frz-0.15)}cu siguranță putrezește cu noblețe într-un loc pustiu
+Dialogue: 2,0:02:07.18,0:02:15.45,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(7970,8270,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}cu siguranță putrezește cu noblețe într-un loc pustiu
+Dialogue: 0,0:02:15.45,0:02:19.91,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(4160,4460,1.5,\blur10\fsp3\frz-0.15)}Iar dacă asta e concluzia ta,
+Dialogue: 1,0:02:15.45,0:02:19.91,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(4160,4460,1.5,\blur5\fsp3\frz-0.15)}Iar dacă asta e concluzia ta,
+Dialogue: 2,0:02:15.45,0:02:19.91,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(4160,4460,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}Iar dacă asta e concluzia ta,
+Dialogue: 0,0:02:19.91,0:02:23.80,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(3590,3890,1.5,\blur10\fsp3\frz-0.15)}atunci nu a mai rămas nimic în care să te poți încrede
+Dialogue: 1,0:02:19.91,0:02:23.80,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(3590,3890,1.5,\blur5\fsp3\frz-0.15)}atunci nu a mai rămas nimic în care să te poți încrede
+Dialogue: 2,0:02:19.91,0:02:23.80,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(3590,3890,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}atunci nu a mai rămas nimic în care să te poți încrede
+Dialogue: 0,0:02:23.80,0:02:28.29,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(4190,4490,1.5,\blur10\fsp3\frz-0.15)}În loc să acceptăm această realitate,
+Dialogue: 1,0:02:23.80,0:02:28.29,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(4190,4490,1.5,\blur5\fsp3\frz-0.15)}În loc să acceptăm această realitate,
+Dialogue: 2,0:02:23.80,0:02:28.29,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(4190,4490,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}În loc să acceptăm această realitate,
+Dialogue: 0,0:02:28.29,0:02:32.48,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(3890,4190,1.5,\blur10\fsp3\frz-0.15)}haide să ne arătăm o dată pentru totdeauna determinarea
+Dialogue: 1,0:02:28.29,0:02:32.48,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(3890,4190,1.5,\blur5\fsp3\frz-0.15)}haide să ne arătăm o dată pentru totdeauna determinarea
+Dialogue: 2,0:02:28.29,0:02:32.48,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(3890,4190,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}haide să ne arătăm o dată pentru totdeauna determinarea
+Dialogue: 0,0:02:33.09,0:02:37.39,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(3990,4290,1.5,\blur10\fsp3\frz-0.15)}Folosește-ți miracolele ca să găsești o rază de speranță în această lume
+Dialogue: 1,0:02:33.09,0:02:37.39,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(3990,4290,1.5,\blur5\fsp3\frz-0.15)}Folosește-ți miracolele ca să găsești o rază de speranță în această lume
+Dialogue: 2,0:02:33.09,0:02:37.39,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(3990,4290,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}Folosește-ți miracolele ca să găsești o rază de speranță în această lume
+Dialogue: 0,0:02:37.39,0:02:41.64,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(3940,4240,1.5,\blur10\fsp3\frz-0.15)}Croiește-ți drum spre ziua de mâine și continuă să înaintezi
+Dialogue: 1,0:02:37.39,0:02:41.64,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(3940,4240,1.5,\blur5\fsp3\frz-0.15)}Croiește-ți drum spre ziua de mâine și continuă să înaintezi
+Dialogue: 2,0:02:37.39,0:02:41.64,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(3940,4240,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}Croiește-ți drum spre ziua de mâine și continuă să înaintezi
+Dialogue: 0,0:02:41.64,0:02:45.81,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(3860,4160,1.5,\blur10\fsp3\frz-0.15)}Nu trebuie să ne pese de ce cred ceilalți
+Dialogue: 1,0:02:41.64,0:02:45.81,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(3860,4160,1.5,\blur5\fsp3\frz-0.15)}Nu trebuie să ne pese de ce cred ceilalți
+Dialogue: 2,0:02:41.64,0:02:45.81,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(3860,4160,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}Nu trebuie să ne pese de ce cred ceilalți
+Dialogue: 0,0:02:45.81,0:02:50.27,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(4150,4450,1.5,\blur10\fsp3\frz-0.15)}deoarece sângele nostru știe totul
+Dialogue: 1,0:02:45.81,0:02:50.27,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(4150,4450,1.5,\blur5\fsp3\frz-0.15)}deoarece sângele nostru știe totul
+Dialogue: 2,0:02:45.81,0:02:50.27,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(4150,4450,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}deoarece sângele nostru știe totul
+Dialogue: 0,0:02:50.27,0:02:57.27,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\yshad0.01\c&H000000&\blur10\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur6)\t(6700,7000,1.5,\blur10\fsp3\frz-0.15)}Acesta este abia începutul
+Dialogue: 1,0:02:50.27,0:02:57.27,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\c&H000000&\blur5\fad(100,100)\t(0,300,0.5,\frz0\fsp0\blur0.5)\t(6700,7000,1.5,\blur5\fsp3\frz-0.15)}Acesta este abia începutul
+Dialogue: 2,0:02:50.27,0:02:57.27,OP TL,,0,0,0,,{\org(0,100000)\frz0.15\fsp3\bord0\c&H000099&\blur6\t(0,300,0.5,\frz0\fsp0\blur0.5\c&HFFFFFF&)\t(6700,7000,1.5,\blur6\fsp3\frz-0.15\c&H000099&)}Acesta este abia începutul
+Comment: 0,0:23:40.48,0:23:40.52,ED TL,,0,0,0,,{ED first frame when the first circle appear}
+Dialogue: 0,0:24:00.19,0:24:05.18,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Chiar dacă devin emoționată sau mă forțez să-mi păstrez calmul,
+Dialogue: 1,0:24:00.19,0:24:05.18,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Chiar dacă devin emoționată sau mă forțez să-mi păstrez calmul,
+Dialogue: 2,0:24:00.19,0:24:05.18,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Chiar dacă devin emoționată sau mă forțez să-mi păstrez calmul,
+Dialogue: 0,0:24:05.18,0:24:10.30,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}continui să mă prefac că nu știu adevărul
+Dialogue: 1,0:24:05.18,0:24:10.30,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}continui să mă prefac că nu știu adevărul
+Dialogue: 2,0:24:05.18,0:24:10.30,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}continui să mă prefac că nu știu adevărul
+Dialogue: 0,0:24:11.16,0:24:16.17,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Chiar dacă știu că nu pot schimba această situație,
+Dialogue: 1,0:24:11.16,0:24:16.17,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Chiar dacă știu că nu pot schimba această situație,
+Dialogue: 2,0:24:11.16,0:24:16.17,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Chiar dacă știu că nu pot schimba această situație,
+Dialogue: 0,0:24:16.17,0:24:21.44,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Știu foarte bine asta, așa că ezit asupra unui răspuns
+Dialogue: 1,0:24:16.17,0:24:21.44,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Știu foarte bine asta, așa că ezit asupra unui răspuns
+Dialogue: 2,0:24:16.17,0:24:21.44,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Știu foarte bine asta, așa că ezit asupra unui răspuns
+Dialogue: 0,0:24:21.44,0:24:27.97,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Motivul pentru care oftez acum e că am avut o săptămână plină de ghinioane
+Dialogue: 1,0:24:21.44,0:24:27.97,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Motivul pentru care oftez acum e că am avut o săptămână plină de ghinioane
+Dialogue: 2,0:24:21.44,0:24:27.97,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Motivul pentru care oftez acum e că am avut o săptămână plină de ghinioane
+Dialogue: 0,0:24:27.97,0:24:33.55,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Așa că urc acest deal ca să devin mai optimistă
+Dialogue: 1,0:24:27.97,0:24:33.55,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Așa că urc acest deal ca să devin mai optimistă
+Dialogue: 2,0:24:27.97,0:24:33.55,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Așa că urc acest deal ca să devin mai optimistă
+Dialogue: 0,0:24:34.41,0:24:41.23,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Indiferent cât de mult te iubesc, tot nu reușesc să-mi înțeleg sentimentele,
+Dialogue: 1,0:24:34.41,0:24:41.23,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Indiferent cât de mult te iubesc, tot nu reușesc să-mi înțeleg sentimentele,
+Dialogue: 2,0:24:34.41,0:24:41.23,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Indiferent cât de mult te iubesc, tot nu reușesc să-mi înțeleg sentimentele,
+Dialogue: 0,0:24:41.23,0:24:45.45,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}nici măcar un pic
+Dialogue: 1,0:24:41.23,0:24:45.45,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}nici măcar un pic
+Dialogue: 2,0:24:41.23,0:24:45.45,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}nici măcar un pic
+Dialogue: 0,0:24:45.45,0:24:51.44,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Și ca să fiu sigură că nu pierd vreodată acest sentiment cald,
+Dialogue: 1,0:24:45.45,0:24:51.44,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Și ca să fiu sigură că nu pierd vreodată acest sentiment cald,
+Dialogue: 2,0:24:45.45,0:24:51.44,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Și ca să fiu sigură că nu pierd vreodată acest sentiment cald,
+Dialogue: 0,0:24:51.44,0:24:59.49,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Caut să fiu mereu aproape de inima ta
+Dialogue: 1,0:24:51.44,0:24:59.49,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Caut să fiu mereu aproape de inima ta
+Dialogue: 2,0:24:51.44,0:24:59.49,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Caut să fiu mereu aproape de inima ta
+Dialogue: 0,0:25:00.19,0:25:04.72,ED TL,,0,0,0,,{\bord6\c&HEA5307&\alpha&H90&\blur5\fad(200,200)}Aproape de inima ta
+Dialogue: 1,0:25:00.19,0:25:04.72,ED TL,,0,0,0,,{\c&HEA5307&\blur0.8\fad(200,200)}Aproape de inima ta
+Dialogue: 2,0:25:00.19,0:25:04.72,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Aproape de inima ta
