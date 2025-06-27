@@ -18,7 +18,7 @@ Update Details: GSH
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: EYES ON ME TL,MADE Kenfolg,64,&H008E59DB,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,50,50,30,1
+Style: EYES ON ME TL,MADE Kenfolg,60,&H008E59DB,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

@@ -18,11 +18,11 @@ Update Details: GSH
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Dialogue,Exo,78,&H00FFFFFF,&H000000FF,&H003E2C01,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,150,150,60,1
-Style: Dialogue Overlap,Exo,78,&H00FFFFFF,&H000000FF,&H003F4904,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,150,150,60,1
+Style: Dialogue,Exo 2,80,&H00FFFFFF,&H000000FF,&H003E2C01,&HB4000000,-1,0,0,0,100,105,1,0,1,4,1.6,2,150,150,60,1
+Style: Dialogue Overlap,Exo 2,80,&H00FFFFFF,&H000000FF,&H003F4904,&HB4000000,-1,0,0,0,100,105,1,0,1,4,1.6,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: BLOODRED TL,Linux Libertine,62,&H00FFFFFF,&H00A068FF,&H003C00BA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,50,50,30,1
-Style: EYES ON ME TL,MADE Kenfolg,64,&H008E59DB,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,50,50,30,1
+Style: EYES ON ME TL,MADE Kenfolg,60,&H008E59DB,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -231,7 +231,7 @@ Dialogue: 100,0:12:19.34,0:12:23.97,Dialogue,Char,0,0,0,,Hundred-urile pot lua m
 Dialogue: 100,0:12:24.52,0:12:28.64,Dialogue,Char,0,0,0,,De aceea sunt numite Hundred \Nsau Armamentul Secolului.
 Dialogue: 100,0:12:29.98,0:12:32.73,Dialogue,Char,0,0,0,,Claire Harvey folosește asta.
 Dialogue: 100,0:12:32.73,0:12:35.23,Dialogue,Char,0,0,0,,Tunuri plutitoare pe care le \Npoate controla după cum dorește.
-Dialogue: 100,0:12:40.28,0:12:42.66,Dialogue,Char,0,0,0,,Un tip dragon.
+Dialogue: 100,0:12:40.28,0:12:42.66,Dialogue,Char,0,0,0,,Un tip Dragon.
 Dialogue: 100,0:12:43.74,0:12:45.87,Dialogue,Emil,0,0,0,,Nu mă miră că e puternică.
 Dialogue: 100,0:12:46.16,0:12:49.87,Dialogue,Char,0,0,0,,Hundred-urile iau forme diferite, și astfel, stilul lor de luptă diferă.
 Dialogue: 100,0:12:51.63,0:12:54.63,Dialogue,Char,0,0,0,,Dar au un singur scop suprem:
@@ -260,7 +260,7 @@ Dialogue: 100,0:14:07.37,0:14:08.04,Dialogue,Hayato,0,0,0,,Bine.
 Dialogue: 100,0:14:23.09,0:14:24.55,Dialogue,Hayato,0,0,0,,Activare Hundred.
 Dialogue: 100,0:14:50.62,0:14:52.41,Dialogue,Char,0,0,0,,{\i1}Bună treabă, Hayato.
 Dialogue: 100,0:14:53.62,0:14:56.71,Dialogue,Char,0,0,0,,{\i1}Acesta este Hundred-ul tău, \NRândunica Zburătoare.
-Dialogue: 100,0:14:56.71,0:14:58.84,Dialogue,Char,0,0,0,,{\i1}E un tip cavaler.
+Dialogue: 100,0:14:56.71,0:14:58.84,Dialogue,Char,0,0,0,,{\i1}E un tip Cavaler.
 Dialogue: 100,0:15:02.26,0:15:03.22,Dialogue,Hayato,0,0,0,,Rândunica Zburătoare.
 Dialogue: 100,0:15:03.80,0:15:05.47,Dialogue,Hayato,0,0,0,,Hundred-ul meu.
 Dialogue: 100,0:15:05.47,0:15:09.26,Dialogue,Emil,0,0,0,,Știam că Hundred-ul tău va fi grozav!
@@ -272,7 +272,7 @@ Dialogue: 100,0:15:16.44,0:15:18.06,Dialogue,Emil,0,0,0,,S-au întâmplat mai mu
 Dialogue: 100,0:15:20.27,0:15:21.98,Dialogue,Emil,0,0,0,,Activare Hundred.
 Dialogue: 100,0:15:42.42,0:15:45.51,Dialogue,Hayato,0,0,0,,Ce este acel Hundred?
 Dialogue: 100,0:15:45.97,0:15:47.84,Dialogue,Emil,0,0,0,,Acesta este Giulgiul Armelor.
-Dialogue: 100,0:15:47.84,0:15:51.01,Dialogue,Emil,0,0,0,,Tipul meu inocență e puțin special.
+Dialogue: 100,0:15:47.84,0:15:51.01,Dialogue,Emil,0,0,0,,Tipul meu Inocență e puțin mai special.
 Dialogue: 100,0:15:51.01,0:15:52.93,Dialogue,Hayato,0,0,0,,Tip inocență?
 Dialogue: 100,0:15:53.39,0:15:55.73,Dialogue,Emil,0,0,0,,Oricum, duelul este mâine.
 Dialogue: 100,0:15:55.73,0:15:57.14,Dialogue,Emil,0,0,0,,Nu avem timp.
@@ -708,8 +708,8 @@ Dialogue: 0,0:02:06.27,0:02:11.49,BLOODRED TL,,0,0,0,,{\c&H823204&\3c&H823204&\b
 Dialogue: 1,0:02:06.27,0:02:11.49,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Crudului destin ce se află înăuntrul tău
 Dialogue: 0,0:02:11.49,0:02:16.70,BLOODRED TL,,0,0,0,,{\c&H823204&\3c&H823204&\blur6\fad(200,200)}Străpunge acea convingere a distrugerii
 Dialogue: 1,0:02:11.49,0:02:16.70,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Străpunge acea convingere a distrugerii
-Dialogue: 0,0:02:16.70,0:02:22.41,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Cu o sabie care zboară pe cer
-Dialogue: 1,0:02:16.70,0:02:22.41,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Cu o sabie care zboară pe cer
+Dialogue: 0,0:02:16.70,0:02:22.41,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Cu o sabie care străbate cerul
+Dialogue: 1,0:02:16.70,0:02:22.41,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Cu o sabie care străbate cerul
 Dialogue: 0,0:02:22.41,0:02:27.50,BLOODRED TL,,0,0,0,,{\c&H0465A9&\3c&H0465A9&\blur6\fad(200,200)\t(1920,2920,\c&H86044E&\3c&H86044E&)}Acea paradigmă care s-a schimbat în clipa în care ne-am întâlnit
 Dialogue: 1,0:02:22.41,0:02:27.50,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Acea paradigmă care s-a schimbat în clipa în care ne-am întâlnit
 Dialogue: 0,0:02:27.50,0:02:28.92,BLOODRED TL,,0,0,0,,{\c&H30AF04&\3c&H30AF04&\blur6\fad(200,200)}Nu ne lasă niciun loc spre care să mergem

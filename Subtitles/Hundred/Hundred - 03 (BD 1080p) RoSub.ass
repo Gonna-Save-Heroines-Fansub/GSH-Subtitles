@@ -18,11 +18,11 @@ Update Details: GSH
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Dialogue,Exo,78,&H00FFFFFF,&H000000FF,&H003E2C01,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,150,150,60,1
-Style: Dialogue Overlap,Exo,78,&H00FFFFFF,&H000000FF,&H003F4904,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,150,150,60,1
+Style: Dialogue,Exo 2,80,&H00FFFFFF,&H000000FF,&H003E2C01,&HB4000000,-1,0,0,0,100,105,1,0,1,4,1.6,2,150,150,60,1
+Style: Dialogue Overlap,Exo 2,80,&H00FFFFFF,&H000000FF,&H003F4904,&HB4000000,-1,0,0,0,100,105,1,0,1,4,1.6,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: BLOODRED TL,Linux Libertine,62,&H00FFFFFF,&H00A068FF,&H003C00BA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,50,50,30,1
-Style: EYES ON ME TL,MADE Kenfolg,64,&H008E59DB,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,50,50,30,1
+Style: EYES ON ME TL,MADE Kenfolg,60,&H008E59DB,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -377,8 +377,8 @@ Dialogue: 0,0:03:47.25,0:03:52.47,BLOODRED TL,,0,0,0,,{\c&H823204&\3c&H823204&\b
 Dialogue: 1,0:03:47.25,0:03:52.47,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Crudului destin ce se află înăuntrul tău
 Dialogue: 0,0:03:52.47,0:03:57.68,BLOODRED TL,,0,0,0,,{\c&H823204&\3c&H823204&\blur6\fad(200,200)}Străpunge acea convingere a distrugerii
 Dialogue: 1,0:03:52.47,0:03:57.68,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Străpunge acea convingere a distrugerii
-Dialogue: 0,0:03:57.68,0:04:03.39,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Cu o sabie care zboară pe cer
-Dialogue: 1,0:03:57.68,0:04:03.39,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Cu o sabie care zboară pe cer
+Dialogue: 0,0:03:57.68,0:04:03.39,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Cu o sabie care străbate cerul
+Dialogue: 1,0:03:57.68,0:04:03.39,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Cu o sabie care străbate cerul
 Dialogue: 0,0:04:03.39,0:04:08.48,BLOODRED TL,,0,0,0,,{\c&H0465A9&\3c&H0465A9&\blur6\fad(200,200)\t(1920,2920,\c&H86044E&\3c&H86044E&)}Acea paradigmă care s-a schimbat în clipa în care ne-am întâlnit
 Dialogue: 1,0:04:03.39,0:04:08.48,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Acea paradigmă care s-a schimbat în clipa în care ne-am întâlnit
 Dialogue: 0,0:04:08.48,0:04:09.90,BLOODRED TL,,0,0,0,,{\c&H30AF04&\3c&H30AF04&\blur6\fad(200,200)}Nu ne lasă niciun loc spre care să mergem
