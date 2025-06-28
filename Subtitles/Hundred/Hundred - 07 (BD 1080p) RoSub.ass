@@ -16,22 +16,13 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: E:/Anime/Hundred_[BD1080p]/[CH]_Hundred_EP07_[88FCAD50].mkv
-Video File: E:/Anime/Hundred_[BD1080p]/[CH]_Hundred_EP07_[88FCAD50].mkv
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 357
-Active Line: 367
-Video Position: 31567
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Dialogue,Exo,78,&H00FFFFFF,&H000019FF,&H003F2900,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,150,150,60,1
-Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
-Style: OP,Linux Libertine,62,&H00FFFFFF,&H00A07AFF,&H003C15C9,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,100,100,45,1
-Style: OP TL,Linux Libertine,62,&H00FFFFFF,&H00A07AFF,&H003C15C9,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,100,100,45,1
+Style: Dialogue,Exo 2,80,&H00FFFFFF,&H000000FF,&H003E2C01,&HB4000000,-1,0,0,0,100,105,1,0,1,4,1.6,2,150,150,60,1
+Style: Dialogue Overlap,Exo 2,80,&H00FFFFFF,&H000000FF,&H003F4904,&HB4000000,-1,0,0,0,100,105,1,0,1,4,1.6,2,150,150,60,1
+Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
+Style: BLOODRED TL,Linux Libertine,62,&H00FFFFFF,&H00A068FF,&H003C00BA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,50,50,30,1
+Style: Hardy Buddy TL,Crimson Semibold,68,&H00000000,&H000000FF,&H00D4FDF8,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -113,7 +104,7 @@ Dialogue: 100,0:04:51.69,0:04:52.98,Dialogue,K,0,0,0,,Succes!
 Dialogue: 100,0:04:52.10,0:04:52.98,Dialogue,L,0,0,0,,{\an8}Să-i dăm drumul!
 Dialogue: 100,0:04:59.57,0:05:02.16,Dialogue,E,0,0,0,,Hei, e permis să folosești energie?
 Dialogue: 100,0:05:02.53,0:05:04.28,Dialogue,L,0,0,0,,E vreo problemă cu asta?
-Dialogue: 100,0:05:04.28,0:05:07.54,Dialogue,E,0,0,0,,Atunci, voi folosi și eu energie!
+Dialogue: 100,0:05:04.28,0:05:07.54,Dialogue,E,0,0,0,,Atunci, o voi folosi și eu!
 Dialogue: 100,0:05:15.84,0:05:18.26,Dialogue,Gi,0,0,0,,H-Hei... Claire...
 Dialogue: 100,0:05:18.80,0:05:22.43,Dialogue,Gi,0,0,0,,Pot să te dau și pe \Npartea din față cu cremă?
 Dialogue: 100,0:05:22.80,0:05:24.80,Dialogue,Gi,0,0,0,,Nu, eu voi face asta.
@@ -316,7 +307,7 @@ Dialogue: 100,0:17:00.46,0:17:02.50,Dialogue,H,0,0,0,,Înțeleg. Încântat de c
 Dialogue: 100,0:17:02.50,0:17:05.50,Dialogue,Gi,0,0,0,,Emilia, te rog, întoarce-te în Gudenburg!
 Dialogue: 100,0:17:06.92,0:17:08.09,Dialogue,E,0,0,0,,Mă gândeam eu că asta era.
 Dialogue: 100,0:17:08.09,0:17:12.26,Dialogue,Gi,0,0,0,,Toată lumea așteaptă întoarcerea prințesei ascunse, Emilia Gudenburg!
-Dialogue: 100,0:17:12.26,0:17:13.01,Dialogue,,0,0,0,,Șșș!
+Dialogue: 100,0:17:12.26,0:17:13.01,Dialogue,E,0,0,0,,Șșș!
 Dialogue: 100,0:17:13.01,0:17:15.39,Dialogue,H,0,0,0,,P-Prințesa ascunsă?
 Dialogue: 100,0:17:15.39,0:17:16.64,Dialogue,H,0,0,0,,Ce mai e și asta?
 Dialogue: 100,0:17:16.64,0:17:18.85,Dialogue,E,0,0,0,,Păi, ei bine...
@@ -329,7 +320,7 @@ Dialogue: 100,0:17:38.12,0:17:41.42,Dialogue,E,0,0,0,,Cu alte cuvinte, sunt o pr
 Dialogue: 100,0:17:41.96,0:17:42.92,Dialogue,H,0,0,0,,O prințesă?
 Dialogue: 100,0:17:43.75,0:17:46.42,Dialogue,E,0,0,0,,Scuze că am ținut asta secret.
 Dialogue: 100,0:17:46.42,0:17:49.09,Dialogue,E,0,0,0,,Și chiar dacă sunt o prințesă, \Nsunt a treia pretendentă la tron.
-Dialogue: 100,0:17:48.30,0:17:49.59,Dialogue,,0,0,0,,{\an8}E-Ei bine...
+Dialogue: 100,0:17:48.30,0:17:49.59,Dialogue,H,0,0,0,,{\an8}E-Ei bine...
 Dialogue: 100,0:17:49.09,0:17:51.72,Dialogue,Gi,0,0,0,,Emilia, când se va \Ntermina această misiune,
 Dialogue: 100,0:17:51.72,0:17:53.93,Dialogue,Gi,0,0,0,,haide să ne întoarcem \Nîmpreună în Gudenburg!
 Dialogue: 100,0:17:55.22,0:17:56.56,Dialogue,E,0,0,0,,Nu pot face asta.
@@ -406,7 +397,117 @@ Dialogue: 100,0:21:56.59,0:21:59.09,Dialogue,E,0,0,0,,Haide, uită de asta.
 Dialogue: 100,0:21:59.09,0:22:00.80,Dialogue,E,0,0,0,,Îmi este foame.
 Dialogue: 100,0:22:01.76,0:22:03.30,Dialogue,E,0,0,0,,Privește, Xiaolongbao prăjite!
 Dialogue: 100,0:22:03.30,0:22:05.22,Dialogue,H,0,0,0,,Doamne, ce mă voi face cu tine?
-Dialogue: 0,0:01:44.96,0:01:50.30,DedzuyaSigns,,0,0,0,,{\fad(900,900)\an1\pos(110,1020)\fnAveria Serif Light\fs76\bord3\c&H000000&\1a&HFF&\blur0.5\t(900,900,\1a&H00&)\t(4440,4440,1,\1a&HFF&)}Captiva Frumoasă Adormită
-Dialogue: 1,0:01:44.96,0:01:50.30,DedzuyaSigns,,0,0,0,,{\fad(900,900)\an1\pos(110,1020)\fnAveria Serif Light\fs76\blur0.6\c&HFFFFFF&}Captiva {\c&H0F13F4&}Frumoasă Adormită
+Dialogue: 0,0:01:44.96,0:01:50.30,DedzuyaSigns,,0,0,0,,{\an1\pos(110,1020)\fnAveria Serif Light\fs76\bord3\c&H000000&\1a&HFF&\blur0.5\fad(900,900)\t(900,900,\1a&H00&)\t(4440,4440,\1a&HFF&)}Captiva Frumoasă Adormită
+Dialogue: 1,0:01:44.96,0:01:50.30,DedzuyaSigns,,0,0,0,,{\an1\pos(110,1020)\fnAveria Serif Light\fs76\blur0.6\fad(900,900)}Captiva {\c&H0F13F4&}Frumoasă Adormită
 Dialogue: 0,0:23:49.95,0:23:54.96,DedzuyaSigns,,0,0,0,,{\an8\pos(960,620)\fnAveria Serif Light\fs88\fsp1\bord3\c&H000000&\1a&HFF&\blur0.5\fad(1000,0)\t(1000,1000,\1a&H00&)}O noapte la lac
-Dialogue: 1,0:23:49.95,0:23:54.96,DedzuyaSigns,,0,0,0,,{\an8\pos(960,620)\fnAveria Serif Light\fs88\fsp1\blur0.5\fad(1000,0)\c&H1213EA&}O noapte {\c&HFFFFFF&}la lac
+Dialogue: 1,0:23:49.95,0:23:54.96,DedzuyaSigns,,0,0,0,,{\an8\pos(960,620)\fnAveria Serif Light\fs88\fsp1\c&H1213EA&\blur0.5\fad(1000,0)}O noapte {\c&HFFFFFF&}la lac
+Comment: 0,0:00:25.67,0:00:25.71,BLOODRED TL,,0,0,0,,{OP first ship frame}
+Dialogue: 0,0:00:26.05,0:00:28.55,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Dezastrele nu așteaptă niciodată
+Dialogue: 1,0:00:26.05,0:00:28.55,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Dezastrele nu așteaptă niciodată
+Dialogue: 0,0:00:28.55,0:00:31.22,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Momentul a venit, nu mai putem amâna
+Dialogue: 1,0:00:28.55,0:00:31.22,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Momentul a venit, nu mai putem amâna
+Dialogue: 0,0:00:31.22,0:00:33.89,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Zboară printre sute de gloanțe
+Dialogue: 1,0:00:31.22,0:00:33.89,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Zboară printre sute de gloanțe
+Dialogue: 0,0:00:33.89,0:00:37.18,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Și pictează cerul roșu-sângeriu
+Dialogue: 1,0:00:33.89,0:00:37.18,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Și pictează cerul roșu-sângeriu
+Dialogue: 0,0:00:37.18,0:00:42.27,BLOODRED TL,,0,0,0,,{\c&H823204&\3c&H823204&\blur6\fad(200,200)}Privește semnificația
+Dialogue: 1,0:00:37.18,0:00:42.27,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Privește semnificația
+Dialogue: 0,0:00:42.27,0:00:47.49,BLOODRED TL,,0,0,0,,{\c&H823204&\3c&H823204&\blur6\fad(200,200)}Crudului destin ce se află înăuntrul tău
+Dialogue: 1,0:00:42.27,0:00:47.49,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Crudului destin ce se află înăuntrul tău
+Dialogue: 0,0:00:47.49,0:00:52.70,BLOODRED TL,,0,0,0,,{\c&H823204&\3c&H823204&\blur6\fad(200,200)}Străpunge acea convingere a distrugerii
+Dialogue: 1,0:00:47.49,0:00:52.70,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Străpunge acea convingere a distrugerii
+Dialogue: 0,0:00:52.70,0:00:58.41,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Cu o sabie care străbate cerul
+Dialogue: 1,0:00:52.70,0:00:58.41,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Cu o sabie care străbate cerul
+Dialogue: 0,0:00:58.41,0:01:03.50,BLOODRED TL,,0,0,0,,{\c&H0465A9&\3c&H0465A9&\blur6\fad(200,200)\t(1920,2920,\c&H86044E&\3c&H86044E&)}Acea paradigmă care s-a schimbat în clipa în care ne-am întâlnit
+Dialogue: 1,0:00:58.41,0:01:03.50,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Acea paradigmă care s-a schimbat în clipa în care ne-am întâlnit
+Dialogue: 0,0:01:03.50,0:01:04.92,BLOODRED TL,,0,0,0,,{\c&H30AF04&\3c&H30AF04&\blur6\fad(200,200)}Nu ne lasă niciun loc spre care să mergem
+Dialogue: 1,0:01:03.50,0:01:04.92,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Nu ne lasă niciun loc spre care să mergem
+Dialogue: 0,0:01:04.92,0:01:07.63,BLOODRED TL,,0,0,0,,{\c&H30AF04&\3c&H30AF04&\blur6\fad(200,200)}Sau la care să ne întoarcem
+Dialogue: 1,0:01:04.92,0:01:07.63,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Sau la care să ne întoarcem
+Dialogue: 0,0:01:07.63,0:01:10.13,BLOODRED TL,,0,0,0,,{\c&H30AF04&\3c&H30AF04&\blur6\fad(200,200)}Doar o iluzie îndepărtată
+Dialogue: 1,0:01:07.63,0:01:10.13,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Doar o iluzie îndepărtată
+Dialogue: 0,0:01:10.13,0:01:13.51,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Eliberează-ți puterea, este nelimitată,
+Dialogue: 1,0:01:10.13,0:01:13.51,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Eliberează-ți puterea, este nelimitată,
+Dialogue: 0,0:01:13.51,0:01:15.76,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Și alungă-ți frica
+Dialogue: 1,0:01:13.51,0:01:15.76,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Și alungă-ți frica
+Dialogue: 0,0:01:15.76,0:01:18.68,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}De parcă ai striga
+Dialogue: 1,0:01:15.76,0:01:18.68,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}De parcă ai striga
+Dialogue: 0,0:01:18.68,0:01:20.73,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Pentru multele lucruri pierdute
+Dialogue: 1,0:01:18.68,0:01:20.73,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Pentru multele lucruri pierdute
+Dialogue: 0,0:01:20.73,0:01:23.81,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Mânjește-ne inamicii în roșu, roșul nostru sângeriu
+Dialogue: 1,0:01:20.73,0:01:23.81,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Mânjește-ne inamicii în roșu, roșul nostru sângeriu
+Dialogue: 0,0:01:23.81,0:01:25.82,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Lăsând totul în urmă
+Dialogue: 1,0:01:23.81,0:01:25.82,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Lăsând totul în urmă
+Dialogue: 0,0:01:25.82,0:01:31.82,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Încă mai avem lucruri pe care dorim să le protejăm
+Dialogue: 1,0:01:25.82,0:01:31.82,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Încă mai avem lucruri pe care dorim să le protejăm
+Dialogue: 0,0:01:29.57,0:01:31.82,BLOODRED TL,,0,0,100,,{\c&H3C00BA&\blur6\fad(200,200)}Dezastrele nu așteaptă niciodată
+Dialogue: 1,0:01:29.57,0:01:31.82,BLOODRED TL,,0,0,100,,{\bord0\blur0.6\fad(200,200)}Dezastrele nu așteaptă niciodată
+Dialogue: 0,0:01:32.07,0:01:34.78,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Momentul a venit, nu mai putem amâna
+Dialogue: 1,0:01:32.07,0:01:34.78,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Momentul a venit, nu mai putem amâna
+Dialogue: 0,0:01:34.78,0:01:37.37,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Zboară printre sute de gloanțe
+Dialogue: 1,0:01:34.78,0:01:37.37,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Zboară printre sute de gloanțe
+Dialogue: 0,0:01:37.37,0:01:39.87,BLOODRED TL,,0,0,0,,{\c&H3C00BA&\blur6\fad(200,200)}Pictează cerul roșu-sângeriu
+Dialogue: 1,0:01:37.37,0:01:39.87,BLOODRED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Pictează cerul roșu-sângeriu
+Comment: 0,0:22:15.06,0:22:15.11,Hardy Buddy TL,,0,0,0,,{ED first blurry moving frame}
+Dialogue: 0,0:22:20.49,0:22:23.28,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Bun, prietene, acum e momentul, trebuie să încercăm
+Dialogue: 1,0:22:20.49,0:22:23.28,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Bun, prietene, acum e momentul, trebuie să încercăm
+Dialogue: 0,0:22:23.28,0:22:26.33,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Mă voi ridica la așteptările tale, cu orice preț
+Dialogue: 1,0:22:23.28,0:22:26.33,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Mă voi ridica la așteptările tale, cu orice preț
+Dialogue: 0,0:22:26.33,0:22:28.91,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Împreună
+Dialogue: 1,0:22:26.33,0:22:28.91,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}Împreună
+Dialogue: 0,0:22:27.81,0:22:30.30,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Împreună
+Dialogue: 1,0:22:27.81,0:22:30.30,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}Împreună
+Dialogue: 0,0:22:28.91,0:22:30.97,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}suntem de neînvins
+Dialogue: 1,0:22:28.91,0:22:30.97,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}suntem de neînvins
+Dialogue: 0,0:22:30.97,0:22:32.23,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Prietenul meu de oțel
+Dialogue: 1,0:22:30.97,0:22:32.23,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Prietenul meu de oțel
+Dialogue: 0,0:22:37.21,0:22:39.94,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Mereu mă subestimezi
+Dialogue: 1,0:22:37.21,0:22:39.94,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}Mereu mă subestimezi
+Dialogue: 0,0:22:39.31,0:22:42.93,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Îmi e imposibil să schimb asta la mine
+Dialogue: 1,0:22:39.31,0:22:42.93,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}Îmi e imposibil să schimb asta la mine
+Dialogue: 0,0:22:42.93,0:22:45.13,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Dar nu mai sunt un copil
+Dialogue: 1,0:22:42.93,0:22:45.13,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}Dar nu mai sunt un copil
+Dialogue: 0,0:22:45.13,0:22:48.47,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Așa sunt eu, te motivez făcându-ți complimente
+Dialogue: 1,0:22:45.13,0:22:48.47,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}Așa sunt eu, te motivez făcându-ți complimente
+Dialogue: 0,0:22:48.47,0:22:50.74,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Ne-am născut în același loc
+Dialogue: 1,0:22:48.47,0:22:50.74,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}Ne-am născut în același loc
+Dialogue: 0,0:22:50.74,0:22:52.34,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Iar destinul nostru este
+Dialogue: 1,0:22:50.74,0:22:52.34,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}Iar destinul nostru este
+Dialogue: 0,0:22:52.34,0:22:57.81,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}să fim de nedespărțit
+Dialogue: 1,0:22:52.34,0:22:57.81,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}să fim de nedespărțit
+Dialogue: 0,0:22:59.85,0:23:02.44,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Până când
+Dialogue: 1,0:22:59.85,0:23:02.44,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}Până când
+Dialogue: 0,0:23:01.26,0:23:03.93,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}nu vom mai avea nevoie
+Dialogue: 1,0:23:01.26,0:23:03.93,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}nu vom mai avea nevoie
+Dialogue: 0,0:23:02.65,0:23:05.33,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}nici măcar de cuvinte ca să comunicăm
+Dialogue: 1,0:23:02.65,0:23:05.33,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}nici măcar de cuvinte ca să comunicăm
+Dialogue: 0,0:23:05.33,0:23:07.97,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Ne înțelegem reciproc
+Dialogue: 1,0:23:05.33,0:23:07.97,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}Ne înțelegem reciproc
+Dialogue: 0,0:23:06.82,0:23:08.17,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}din priviri
+Dialogue: 1,0:23:06.82,0:23:08.17,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}din priviri
+Dialogue: 0,0:23:08.17,0:23:11.99,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}și după modul cum respirăm
+Dialogue: 1,0:23:08.17,0:23:11.99,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}și după modul cum respirăm
+Dialogue: 0,0:23:11.99,0:23:14.96,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Nu ne voi scăpa niciodată din privire
+Dialogue: 1,0:23:11.99,0:23:14.96,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Nu ne voi scăpa niciodată din privire
+Dialogue: 0,0:23:14.96,0:23:17.98,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Am ajuns până aici depășindu-ne mereu limitele
+Dialogue: 1,0:23:14.96,0:23:17.98,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Am ajuns până aici depășindu-ne mereu limitele
+Dialogue: 0,0:23:17.98,0:23:20.64,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Dacă sunt singură
+Dialogue: 1,0:23:17.98,0:23:20.64,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}Dacă sunt singură
+Dialogue: 0,0:23:19.39,0:23:21.73,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Dacă nu sunt cu tine
+Dialogue: 1,0:23:19.39,0:23:21.73,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}Dacă nu sunt cu tine
+Dialogue: 0,0:23:20.82,0:23:21.73,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}nimic
+Dialogue: 1,0:23:20.82,0:23:21.73,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}nimic
+Dialogue: 0,0:23:21.73,0:23:23.26,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}nu mai are sens
+Dialogue: 1,0:23:21.73,0:23:23.26,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}nu mai are sens
+Dialogue: 0,0:23:23.26,0:23:26.11,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Bun, prietene, acum e momentul, trebuie să încercăm
+Dialogue: 1,0:23:23.26,0:23:26.11,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Bun, prietene, acum e momentul, trebuie să încercăm
+Dialogue: 0,0:23:26.11,0:23:29.11,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Mă voi ridica la așteptările tale, cu orice preț
+Dialogue: 1,0:23:26.11,0:23:29.11,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Mă voi ridica la așteptările tale, cu orice preț
+Dialogue: 0,0:23:29.11,0:23:31.73,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Împreună
+Dialogue: 1,0:23:29.11,0:23:31.73,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}Împreună
+Dialogue: 0,0:23:30.58,0:23:33.03,Hardy Buddy TL,,0,0,0,,{\an7\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Împreună
+Dialogue: 1,0:23:30.58,0:23:33.03,Hardy Buddy TL,,0,0,0,,{\an7\bord0\blur0.6\fad(200,200)}Împreună
+Dialogue: 0,0:23:31.84,0:23:33.69,Hardy Buddy TL,,0,0,0,,{\an9\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}suntem de neînvins
+Dialogue: 1,0:23:31.84,0:23:33.69,Hardy Buddy TL,,0,0,0,,{\an9\bord0\blur0.6\fad(200,200)}suntem de neînvins
+Dialogue: 0,0:23:33.69,0:23:34.94,Hardy Buddy TL,,0,0,0,,{\yshad0.01\c&HD4FDF8&\4c&HD4FDF8&\blur5\fad(200,200)}Prietenul meu de oțel
+Dialogue: 1,0:23:33.69,0:23:34.94,Hardy Buddy TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Prietenul meu de oțel

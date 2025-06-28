@@ -402,7 +402,7 @@ Dialogue: 100,0:21:58.98,0:22:01.13,Dialogue,Krovanh,0,0,0,,Surioară. Nakri.
 Dialogue: 100,0:22:01.54,0:22:05.10,Dialogue,Krovanh,0,0,0,,Se pare că norocul e de partea noastră.
 Dialogue: 0,0:03:45.75,0:03:51.50,DedzuyaSigns,,0,0,0,,{\an1\pos(110,1020)\fnAveria Serif Light\fs76\bord3\c&H000000&\1a&HFF&\blur0.5\fad(1000,900)\t(1000,1000,\1a&H00&)\t(5524,5524,\1a&HFF&)}Noapte la lac
 Dialogue: 1,0:03:45.75,0:03:51.50,DedzuyaSigns,,0,0,0,,{\an1\pos(110,1020)\fnAveria Serif Light\fs76\c&H1111F6&\blur0.6\fad(1000,900)}Noapte {\c&HFFFFFF&}la lac
-Dialogue: 0,0:23:49.99,0:23:55.00,DedzuyaSigns,,0,0,0,,{\an2\pos(960,435)\fnAveria Serif Light\fs36\fsp5\bord3\c&H000000&\1a&HFF&\blur0.5\fad(1000,0)\t(1000,1000,\1a&H00&)}Tip dragon
-Dialogue: 1,0:23:49.99,0:23:55.00,DedzuyaSigns,,0,0,0,,{\an2\pos(960,435)\fnAveria Serif Light\fs36\fsp5\c&HFFFFFF&\blur0.5\fad(1000,0)}Tip {\c&H1612E9&}dragon
+Dialogue: 0,0:23:49.99,0:23:55.00,DedzuyaSigns,,0,0,0,,{\an2\pos(960,435)\fnAveria Serif Light\fs36\fsp5\bord3\c&H000000&\1a&HFF&\blur0.5\fad(1000,0)\t(1000,1000,\1a&H00&)}Tip Dragon
+Dialogue: 1,0:23:49.99,0:23:55.00,DedzuyaSigns,,0,0,0,,{\an2\pos(960,435)\fnAveria Serif Light\fs36\fsp5\c&HFFFFFF&\blur0.5\fad(1000,0)}Tip {\c&H1612E9&}Dragon
 Dialogue: 0,0:23:49.99,0:23:55.00,DedzuyaSigns,,0,0,0,,{\an8\pos(960,630)\fnAveria Serif Light\fs88\fsp1\bord3\c&H000000&\1a&HFF&\blur0.5\fad(1000,0)\t(1000,1000,\1a&H00&)}Tip nou
 Dialogue: 1,0:23:49.99,0:23:55.00,DedzuyaSigns,,0,0,0,,{\an8\pos(960,630)\fnAveria Serif Light\fs88\fsp1\c&HFFFFFF&\blur0.5\fad(1000,0)}Tip {\c&H1612E9&}nou
