@@ -19,14 +19,13 @@ Update Details: GSH
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: E:/Anime/[SCY] HOTD/[SCY] Highschool of the Dead - 01 (BD 1080p Hi10 FLAC) [7B766787].mkv
-Video File: E:/Anime/[SCY] HOTD/[SCY] Highschool of the Dead - 01 (BD 1080p Hi10 FLAC) [7B766787].mkv
-Video AR Mode: 4
+Audio File: ../../../../Anime/[SCY] HOTD/[SCY] Highschool of the Dead - 01 (BD 1080p Hi10 FLAC) [7B766787].mkv
+Video File: ../../../../Anime/[SCY] HOTD/[SCY] Highschool of the Dead - 01 (BD 1080p Hi10 FLAC) [7B766787].mkv
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 18
-Video Position: 2226
+Video Zoom Percent: 0.625000
+Scroll Position: 812
+Active Line: 815
+Video Position: 5118
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,490 +33,936 @@ Style: Dialogue,Merriweather,66,&H00FFFFFF,&H000000FF,&H00010021,&HB4000000,-1,0
 Style: Dialogue Overlap,Merriweather,66,&H00FFFFFF,&H000000FF,&H001B0044,&HB4000000,-1,0,0,0,100,100,0,0,1,3.6,1.4,2,200,200,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: OP,You Are Loved,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,3,0,8,100,100,50,1
-Style: OP TL,You Are Loved,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,100,100,50,1
+Style: OP TL,You Are Loved,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,100,100,30,1
 Style: ED01,Aver,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,100,100,50,1
-Style: ED01 TL,Aver,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,100,100,50,1
+Style: ED01 TL,Aver,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.02,Dialogue,,0,0,0,,{Prolog}
-Comment: 0,0:02:02.97,0:02:03.01,Dialogue,,0,0,0,,{Opening}
-Comment: 0,0:03:32.98,0:03:33.03,Dialogue,,0,0,0,,{Partea A}
-Comment: 0,0:10:12.93,0:10:12.97,Dialogue,,0,0,0,,{Partea B}
-Comment: 0,0:19:45.96,0:19:46.00,Dialogue,,0,0,0,,{Ending}
-Comment: 0,0:21:19.26,0:21:19.30,Dialogue,,0,0,0,,{Epilog}
-Dialogue: 100,0:00:04.93,0:00:10.94,Dialogue,,0,0,0,,{\i1}Am stat treaz până târziu în noaptea de dinaintea \Nzilei în care lumea pe care o știam s-a prăbușit.
-Dialogue: 100,0:00:36.72,0:00:37.88,Dialogue,,0,0,0,,Grăbiți-vă!
-Dialogue: 100,0:00:44.99,0:00:46.56,Dialogue,,0,0,0,,Ești în regulă, Hisashi?
-Dialogue: 100,0:00:52.53,0:00:53.61,Dialogue,,0,0,0,,Idioato!
-Dialogue: 100,0:00:53.82,0:00:54.79,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:01:07.83,0:01:09.96,Dialogue,,0,0,0,,Nu! Nu te apropia!
-Dialogue: 100,0:01:10.58,0:01:11.19,Dialogue,,0,0,0,,Re—
-Dialogue: 100,0:01:11.19,0:01:12.05,Dialogue,,0,0,0,,Rei!
-Dialogue: 100,0:01:21.72,0:01:22.81,Dialogue,,0,0,0,,Hisashi!
-Dialogue: 100,0:01:22.81,0:01:23.93,Dialogue,,0,0,0,,Ați văzut asta?
+Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Prolog}
+Comment: 0,0:02:02.98,0:02:03.02,Dialogue,chptr,0,0,0,,{OP}
+Comment: 0,0:03:32.98,0:03:33.03,Dialogue,chptr,0,0,0,,{Partea A}
+Comment: 0,0:10:12.97,0:10:13.01,Dialogue,chptr,0,0,0,,{Partea B}
+Comment: 0,0:19:46.00,0:19:46.04,Dialogue,chptr,0,0,0,,{ED}
+Comment: 0,0:21:18.97,0:21:19.01,Dialogue,chptr,0,0,0,,{Epilog}
+Dialogue: 100,0:00:04.94,0:00:10.95,Dialogue,,0,0,0,,{\i1}Am stat treaz până târziu în noaptea de dinaintea \Nzilei în care lumea pe care o știam s-a prăbușit.
+Dialogue: 100,0:00:36.72,0:00:37.89,Dialogue,,0,0,0,,Grăbiți-vă!
+Dialogue: 100,0:00:44.98,0:00:46.57,Dialogue,,0,0,0,,Ești în regulă, Hisashi?
+Dialogue: 100,0:00:52.53,0:00:53.62,Dialogue,,0,0,0,,Idioato!
+Dialogue: 100,0:00:53.83,0:00:54.78,Dialogue,,0,0,0,,Dar...
+Dialogue: 100,0:01:07.84,0:01:09.97,Dialogue,,0,0,0,,Nu! Nu te apropia!
+Dialogue: 100,0:01:10.59,0:01:11.18,Dialogue,,0,0,0,,Re...
+Dialogue: 100,0:01:11.18,0:01:12.05,Dialogue,,0,0,0,,Rei!
+Dialogue: 100,0:01:21.73,0:01:22.81,Dialogue,,0,0,0,,Hisashi!
+Dialogue: 100,0:01:22.81,0:01:23.94,Dialogue,,0,0,0,,Ați văzut asta?
 Dialogue: 100,0:01:24.31,0:01:27.73,Dialogue,,0,0,0,,Trebuie să le zdrobim \Ncapetele ca să-i oprim.
 Dialogue: 100,0:01:32.82,0:01:35.74,Dialogue,,0,0,0,,Rei! Hisashi! \NPe aici! Grăbiți-vă!
-Dialogue: 100,0:01:35.74,0:01:36.57,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:01:42.62,0:01:43.66,Dialogue,,0,0,0,,La naiba...
-Dialogue: 100,0:01:43.91,0:01:45.62,Dialogue,,0,0,0,,Ce este asta?!
+Dialogue: 100,0:01:35.74,0:01:36.58,Dialogue,,0,0,0,,Bine!
+Dialogue: 100,0:01:42.62,0:01:43.67,Dialogue,,0,0,0,,La naiba...
+Dialogue: 100,0:01:43.92,0:01:45.63,Dialogue,,0,0,0,,Ce e asta?!
 Dialogue: 100,0:01:52.97,0:01:58.14,Dialogue,,0,0,0,,Ce naiba se petrece?!
 Dialogue: 100,0:03:42.41,0:03:45.96,Dialogue,,0,0,0,,Voi fi soția ta, Takashi!
-Dialogue: 100,0:03:46.71,0:03:49.11,Dialogue,,0,0,0,,Serios? Chiar vorbești serios?
-Dialogue: 100,0:03:49.11,0:03:52.53,Dialogue,,0,0,0,,Da! Promisiune pe degetul mic!
-Dialogue: 100,0:03:54.92,0:03:56.96,Dialogue,,0,0,0,,De ce repeți anul?
-Dialogue: 100,0:03:57.21,0:03:58.97,Dialogue,,0,0,0,,Ești o elevă de nota 10.
-Dialogue: 100,0:03:59.82,0:04:02.09,Dialogue,,0,0,0,,Tu nu poți înțelege, Takashi.
+Dialogue: 100,0:03:46.71,0:03:49.13,Dialogue,,0,0,0,,Serios? Chiar vorbești serios?
+Dialogue: 100,0:03:49.13,0:03:52.55,Dialogue,,0,0,0,,Da! Promisiune pe degetul mic!
+Dialogue: 100,0:03:54.92,0:03:56.97,Dialogue,,0,0,0,,De ce repeți anul?
+Dialogue: 100,0:03:57.22,0:03:58.97,Dialogue,,0,0,0,,Ești o elevă de nota 10.
+Dialogue: 100,0:03:59.80,0:04:02.10,Dialogue,,0,0,0,,Tu nu ai putea înțelege, Takashi.
 Dialogue: 100,0:04:03.47,0:04:06.77,Dialogue,,0,0,0,,Suntem în aceeași clasă din nou. \NSă ne înțelegem bine.
-Dialogue: 100,0:04:14.78,0:04:16.97,Dialogue,,0,0,0,,Promisiune pe degetul mic...
-Dialogue: 100,0:04:17.97,0:04:22.36,Dialogue,,0,0,0,,Nu face promisiuni pe \Ncare nu le poți ține...
+Dialogue: 100,0:04:14.78,0:04:16.99,Dialogue,,0,0,0,,Promisiune pe degetul mic...
+Dialogue: 100,0:04:17.99,0:04:22.37,Dialogue,,0,0,0,,Nu face promisiuni pe \Ncare nu le poți ține...
 Dialogue: 100,0:04:23.37,0:04:25.16,Dialogue,,0,0,0,,Ești prost?
-Dialogue: 100,0:04:25.69,0:04:26.84,Dialogue,,0,0,0,,Takagi...
-Dialogue: 100,0:04:26.84,0:04:30.02,Dialogue,,0,0,0,,Mereu fugi în același loc de \Nfiecare dată când ai o problemă.
-Dialogue: 100,0:04:30.02,0:04:32.04,Dialogue,,0,0,0,,Parcă ai fi un copil.
-Dialogue: 100,0:04:32.04,0:04:35.50,Dialogue,,0,0,0,,E abia începutul semestrului.
-Dialogue: 100,0:04:35.50,0:04:38.55,Dialogue,,0,0,0,,Continuă să chiulești de la ore și va trebui să recuperezi sau, chiar mai rău, să repeți anul.
+Dialogue: 100,0:04:25.70,0:04:26.83,Dialogue,,0,0,0,,Takagi...
+Dialogue: 100,0:04:26.83,0:04:30.00,Dialogue,,0,0,0,,Mereu fugi în același loc de \Nfiecare dată când ai o problemă.
+Dialogue: 100,0:04:30.00,0:04:32.04,Dialogue,,0,0,0,,Parcă ai fi un copil.
+Dialogue: 100,0:04:32.04,0:04:35.51,Dialogue,,0,0,0,,E abia începutul semestrului.
+Dialogue: 100,0:04:35.51,0:04:38.55,Dialogue,,0,0,0,,Continua să chiulești și vei fi nevoit să recuperezi sau, mai rău, să repeți anul.
 Dialogue: 100,0:04:39.55,0:04:41.22,Dialogue,,0,0,0,,Tu vorbești?
-Dialogue: 100,0:04:41.47,0:04:43.43,Dialogue,,0,0,0,,Ești aici, deși a cincea oră \Nîncă nu s-a terminat.
-Dialogue: 100,0:04:43.43,0:04:45.69,Dialogue,,0,0,0,,E în regulă ca eu să chiulesc \Ndeoarece sunt un geniu.
-Dialogue: 100,0:04:45.69,0:04:48.85,Dialogue,,0,0,0,,Tu, pe de altă parte, \Nai intrat aici printr-un miracol.
+Dialogue: 100,0:04:41.47,0:04:43.43,Dialogue,,0,0,0,,A cincea oră încă nu s-a \Nterminat, iar tu ești aici.
+Dialogue: 100,0:04:43.43,0:04:45.68,Dialogue,,0,0,0,,E în regulă ca eu să chiulesc \Ndeoarece sunt un geniu.
+Dialogue: 100,0:04:45.68,0:04:48.85,Dialogue,,0,0,0,,Tu, pe de altă parte, \Nai intrat aici printr-un miracol.
 Dialogue: 100,0:04:48.85,0:04:50.65,Dialogue,,0,0,0,,Hei, Takagi...
 Dialogue: 100,0:04:50.65,0:04:52.02,Dialogue,,0,0,0,,De ce ești mereu...
 Dialogue: 100,0:04:52.02,0:04:53.40,Dialogue,,0,0,0,,Urăsc oamenii proști.
 Dialogue: 100,0:04:54.40,0:04:57.90,Dialogue,,0,0,0,,Îi urăsc în special pe cei \Ncare nu știu că sunt proști.
-Dialogue: 100,0:04:57.90,0:05:01.40,Dialogue,,0,0,0,,Din fericire, tu nu ești unul dintre ei.
-Dialogue: 100,0:05:01.40,0:05:05.28,Dialogue,,0,0,0,,Deci, dacă voi continua să-ți spun că ești prost, \Natunci poate vei deveni mai puțin prost.
-Dialogue: 100,0:05:05.28,0:05:06.03,Dialogue,,0,0,0,,Prostule!
-Dialogue: 100,0:05:10.18,0:05:11.35,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:05:11.35,0:05:14.04,Dialogue,,0,0,0,,Faci toate astea doar pentru că \Nprietena ta din copilărie te-a refuzat?
+Dialogue: 100,0:04:57.90,0:05:01.41,Dialogue,,0,0,0,,Din fericire, tu nu ești unul dintre ei.
+Dialogue: 100,0:05:01.41,0:05:05.28,Dialogue,,0,0,0,,Deci, dacă voi continua să-ți spun că ești prost, \Natunci poate vei deveni mai puțin prost.
+Dialogue: 100,0:05:05.28,0:05:06.04,Dialogue,,0,0,0,,Prostule!
+Dialogue: 100,0:05:10.16,0:05:11.33,Dialogue,,0,0,0,,Ce este?
+Dialogue: 100,0:05:11.33,0:05:14.04,Dialogue,,0,0,0,,Faci toate astea doar pentru că \Nprietena ta din copilărie te-a refuzat?
 Dialogue: 100,0:05:14.21,0:05:15.29,Dialogue,,0,0,0,,Ești așa de prost.
-Dialogue: 100,0:05:17.50,0:05:19.25,Dialogue,,0,0,0,,În legătură cu Takashi...
-Dialogue: 100,0:05:19.37,0:05:26.09,Dialogue,,0,0,0,,Simțeam asta pentru el atunci, \Ndar el nu a observat niciodată, deci...
-Dialogue: 100,0:05:31.99,0:05:34.56,Dialogue,,0,0,0,,Deci? Deci ce?
-Dialogue: 100,0:05:40.72,0:05:42.18,Dialogue,,0,0,0,,Cine este acela?
-Dialogue: 100,0:05:42.18,0:05:43.53,Dialogue,,0,0,0,,Pare un ciudat.
-Dialogue: 100,0:05:48.99,0:05:51.04,Dialogue,,0,0,0,,Scuză-mă, dar ce crezi că faci?
-Dialogue: 100,0:05:51.15,0:05:53.16,Dialogue,,0,0,0,,Încetează odată!
+Dialogue: 100,0:05:17.51,0:05:19.26,Dialogue,,0,0,0,,În legătură cu Takashi...
+Dialogue: 100,0:05:19.38,0:05:26.10,Dialogue,,0,0,0,,Simțeam asta pentru el atunci, \Ndar el nu a observat niciodată, deci...
+Dialogue: 100,0:05:31.98,0:05:34.56,Dialogue,,0,0,0,,Deci? Deci ce?
+Dialogue: 100,0:05:40.74,0:05:42.20,Dialogue,,0,0,0,,Cine e ăla?
+Dialogue: 100,0:05:42.20,0:05:43.53,Dialogue,,0,0,0,,Pare un ciudat.
+Dialogue: 100,0:05:49.00,0:05:51.04,Dialogue,,0,0,0,,Scuză-mă, dar ce crezi că faci?
+Dialogue: 100,0:05:51.16,0:05:53.17,Dialogue,,0,0,0,,Încetează odată!
 Dialogue: 100,0:05:53.54,0:05:55.29,Dialogue,,0,0,0,,Liniștește-te, domnișoară Hayashi.
-Dialogue: 100,0:05:55.89,0:05:57.71,Dialogue,,0,0,0,,Mă voi ocupa eu de el.
-Dialogue: 100,0:05:59.14,0:06:00.13,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:06:00.25,0:06:02.05,Dialogue,,0,0,0,,Așteaptă, profesore Tejima!
+Dialogue: 100,0:05:55.88,0:05:57.71,Dialogue,,0,0,0,,Mă voi ocupa eu de el.
+Dialogue: 100,0:05:59.13,0:06:00.13,Dialogue,,0,0,0,,Hei!
+Dialogue: 100,0:06:00.26,0:06:02.05,Dialogue,,0,0,0,,Așteaptă, profesore Tejima!
 Dialogue: 100,0:06:02.05,0:06:03.97,Dialogue,,0,0,0,,Nu recurge la violență...
-Dialogue: 100,0:06:24.15,0:06:26.46,Dialogue,,0,0,0,,A-A murit...
-Dialogue: 100,0:06:26.46,0:06:27.82,Dialogue,,0,0,0,,Nu se poate...
-Dialogue: 100,0:06:27.82,0:06:30.16,Dialogue,,0,0,0,,A fost doar o mușcătură...
-Dialogue: 100,0:06:33.41,0:06:36.07,Dialogue,,0,0,0,,Ești bine, profesore Tejima?
-Dialogue: 100,0:06:37.33,0:06:39.08,Dialogue,,0,0,0,,Profesore Tejima!
-Dialogue: 100,0:06:39.08,0:06:39.71,Dialogue,,0,0,0,,Ce ușu—
-Dialogue: 100,0:06:59.65,0:07:00.75,Dialogue,,0,0,0,,Komuro!
-Dialogue: 100,0:07:00.75,0:07:03.65,Dialogue,,0,0,0,,Nu era de ajuns doar să chiulești de la oră? \NMai trebuie să deranjezi și restul clasei!
+Dialogue: 100,0:06:24.16,0:06:26.45,Dialogue,,0,0,0,,A-A murit...
+Dialogue: 100,0:06:26.45,0:06:27.83,Dialogue,,0,0,0,,Nu se poate...
+Dialogue: 100,0:06:27.83,0:06:30.16,Dialogue,,0,0,0,,A fost doar o mușcătură...
+Dialogue: 100,0:06:33.41,0:06:36.08,Dialogue,,0,0,0,,Ești bine, profesore Tejima?
+Dialogue: 100,0:06:37.34,0:06:39.09,Dialogue,,0,0,0,,Profesore Tejima!
+Dialogue: 100,0:06:39.09,0:06:39.71,Dialogue,,0,0,0,,Ce ușu...
+Dialogue: 100,0:06:59.65,0:07:00.73,Dialogue,,0,0,0,,Komuro!
+Dialogue: 100,0:07:00.73,0:07:03.65,Dialogue,,0,0,0,,Nu era de ajuns să chiulești de la oră? \NAcum mai deranjezi și restul clasei!
 Dialogue: 100,0:07:03.65,0:07:05.32,Dialogue,,0,0,0,,Vino, trebuie să plecăm de aici.
-Dialogue: 100,0:07:05.32,0:07:07.65,Dialogue,,0,0,0,,C-Ce?
-Dialogue: 100,0:07:07.65,0:07:09.65,Dialogue,,0,0,0,,Ce se petrece, Takashi?
-Dialogue: 100,0:07:09.65,0:07:12.91,Dialogue,,0,0,0,,Câteva persoane au fost omorâte la poarta școlii. Este prea periculos să rămânem aici.
+Dialogue: 100,0:07:05.32,0:07:07.66,Dialogue,,0,0,0,,C-Ce?
+Dialogue: 100,0:07:07.66,0:07:09.66,Dialogue,,0,0,0,,Ce se petrece, Takashi?
+Dialogue: 100,0:07:09.66,0:07:12.91,Dialogue,,0,0,0,,Câteva persoane au fost omorâte la poarta școlii. E prea periculos să rămânem aici.
 Dialogue: 100,0:07:13.12,0:07:14.41,Dialogue,,0,0,0,,Vorbești serios?
 Dialogue: 100,0:07:14.41,0:07:17.58,Dialogue,,0,0,0,,Ce aș avea de câștigat dacă aș minți?
-Dialogue: 100,0:07:17.58,0:07:19.21,Dialogue,,0,0,0,,Care este problema ta?
-Dialogue: 100,0:07:19.21,0:07:21.00,Dialogue,,0,0,0,,Nu am înțeles niciodată ce îți trece prin cap—
-Dialogue: 100,0:07:23.57,0:07:23.92,Dialogue,,0,0,0,,Ce—
+Dialogue: 100,0:07:17.58,0:07:19.21,Dialogue,,0,0,0,,Care e problema ta?
+Dialogue: 100,0:07:19.21,0:07:21.00,Dialogue,,0,0,0,,Nu am înțeles niciodată ce îți trece prin cap...
+Dialogue: 100,0:07:23.59,0:07:23.92,Dialogue,,0,0,0,,Ce...
 Dialogue: 100,0:07:23.92,0:07:26.34,Dialogue,,0,0,0,,Taci și ascultă!
 Dialogue: 100,0:07:30.89,0:07:32.93,Dialogue,,0,0,0,,Deci, ne vei spune ce se întâmplă?
 Dialogue: 100,0:07:33.22,0:07:35.27,Dialogue,,0,0,0,,Era o persoană la poarta școlii.
-Dialogue: 100,0:07:35.27,0:07:37.88,Dialogue,,0,0,0,,Când profesorii de sport au fost să verifice, ceva s-a întâmplat.
-Dialogue: 100,0:07:37.88,0:07:40.25,Dialogue,,0,0,0,,Iar acum, acei profesori \Nde sport se omoară între ei.
-Dialogue: 100,0:07:40.25,0:07:42.09,Dialogue,,0,0,0,,Și noi ar trebui să credem asta?
-Dialogue: 100,0:07:43.82,0:07:45.81,Dialogue,,0,0,0,,Ce este? Ai uitat ceva?
-Dialogue: 100,0:07:45.81,0:07:48.95,Dialogue,,0,0,0,,Dacă ceea ce ai spus este adevărat, atunci vom avea nevoie de arme.
-Dialogue: 100,0:07:50.16,0:07:51.30,Dialogue,,0,0,0,,Poftim, Rei.
-Dialogue: 100,0:07:51.30,0:07:52.29,Dialogue,,0,0,0,,Dar tu?
-Dialogue: 100,0:07:52.29,0:07:54.49,Dialogue,,0,0,0,,Poate nu se vede, \Ndar am centura neagră în karate.
-Dialogue: 100,0:07:54.49,0:07:56.44,Dialogue,,0,0,0,,Oricum, haideți să ieșim de aici.
-Dialogue: 100,0:07:56.44,0:07:59.16,Dialogue,,0,0,0,,Să sunăm la poliție, mai întâi. \NTatăl meu este ofițer.
-Dialogue: 100,0:07:59.50,0:08:02.08,Dialogue,,0,0,0,,Regulile au fost făcute ca \Nsă fie încălcate, nu-i așa?
-Dialogue: 100,0:08:11.56,0:08:12.59,Dialogue,,0,0,0,,Nu se poate...
+Dialogue: 100,0:07:35.27,0:07:37.90,Dialogue,,0,0,0,,Când profesorii de sport au fost să verifice, ceva s-a întâmplat.
+Dialogue: 100,0:07:37.90,0:07:40.23,Dialogue,,0,0,0,,Iar acum, acei profesori \Nde sport se omoară între ei.
+Dialogue: 100,0:07:40.23,0:07:42.11,Dialogue,,0,0,0,,Și noi ar trebui să credem asta?
+Dialogue: 100,0:07:43.82,0:07:45.82,Dialogue,,0,0,0,,Ce este? Ai uitat ceva?
+Dialogue: 100,0:07:45.82,0:07:48.95,Dialogue,,0,0,0,,Dacă ceea ce ai spus este adevărat, atunci vom avea nevoie de arme.
+Dialogue: 100,0:07:50.16,0:07:51.28,Dialogue,,0,0,0,,Poftim, Rei.
+Dialogue: 100,0:07:51.28,0:07:52.28,Dialogue,,0,0,0,,Dar tu?
+Dialogue: 100,0:07:52.28,0:07:54.50,Dialogue,,0,0,0,,Poate nu se vede, \Ndar am centura neagră în karate.
+Dialogue: 100,0:07:54.50,0:07:56.46,Dialogue,,0,0,0,,Oricum, haideți să ieșim de aici.
+Dialogue: 100,0:07:56.46,0:07:59.17,Dialogue,,0,0,0,,Să sunăm la poliție, mai întâi. \NTatăl meu e polițist.
+Dialogue: 100,0:07:59.50,0:08:02.09,Dialogue,,0,0,0,,Regulile au fost făcute ca \Nsă fie încălcate, nu-i așa?
+Dialogue: 100,0:08:11.55,0:08:12.60,Dialogue,,0,0,0,,Nu se poate...
 Dialogue: 100,0:08:12.89,0:08:13.93,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:08:14.43,0:08:18.80,Dialogue,,0,0,0,,{\an8\i1}Vă rugăm să așteptați și să \Nîncercați să sunați mai târziu.
-Dialogue: 100,0:08:18.80,0:08:24.07,Dialogue,,0,0,0,,{\an8\i1}Linia de urgențe a poliției \Neste momentan ocupată.
-Dialogue: 100,0:08:24.07,0:08:28.19,Dialogue,,0,0,0,,{\an8\i1}Vă rugăm să așteptați și să \Nîncercați să sunați mai târziu.
-Dialogue: 100,0:08:24.31,0:08:28.19,Dialogue,,0,0,0,,Linia este ocupată? Nu se poate...
-Dialogue: 100,0:08:29.34,0:08:31.32,Dialogue,,0,0,0,,{\an8}Atențiune, către toți elevii!
-Dialogue: 100,0:08:31.98,0:08:34.87,Dialogue,,0,0,0,,{\an8}Un incident violent a izbucnit în campus!
-Dialogue: 100,0:08:35.49,0:08:39.66,Dialogue,,0,0,0,,{\an8}Elevii trebuie să părăsească campusul urmând îndrumările profesorilor lor.
-Dialogue: 100,0:08:39.66,0:08:40.91,Dialogue,,0,0,0,,{\an8}Repet.
-Dialogue: 100,0:08:40.91,0:08:43.17,Dialogue,,0,0,0,,{\an8}Un incident violent a izbucnit în campus!
-Dialogue: 100,0:08:41.22,0:08:43.17,Dialogue,,0,0,0,,În sfârșit au observat.
-Dialogue: 100,0:08:43.17,0:08:45.88,Dialogue,,0,0,0,,{\an8}Elevii trebuie să părăsească campusul—
-Dialogue: 100,0:08:49.78,0:08:50.97,Dialogue,,0,0,0,,Nu se poate...
-Dialogue: 100,0:08:53.01,0:08:56.52,Dialogue,,0,0,0,,Ajutor! Cineva să mă salveze!
-Dialogue: 100,0:09:00.05,0:09:00.94,Dialogue,,0,0,0,,Hirano.
-Dialogue: 100,0:09:01.97,0:09:03.44,Dialogue,,0,0,0,,Takagi...
+Dialogue: 100,0:08:14.43,0:08:18.81,Dialogue,,0,0,0,,{\an8\i1}Vă rugăm să încercați să sunați mai târziu.
+Dialogue: 100,0:08:18.81,0:08:24.07,Dialogue,,0,0,0,,{\an8\i1}Linia de urgențe a poliției \Neste momentan ocupată.
+Dialogue: 100,0:08:24.07,0:08:28.20,Dialogue,,0,0,0,,{\an8\i1}Vă rugăm să încercați să sunați mai târziu.
+Dialogue: 100,0:08:24.32,0:08:28.20,Dialogue,,0,0,0,,Linia este ocupată? Nu se poate...
+Dialogue: 100,0:08:29.32,0:08:31.32,Dialogue,,0,0,0,,{\an8}Atențiune, către toți elevii!
+Dialogue: 100,0:08:31.99,0:08:34.87,Dialogue,,0,0,0,,{\an8}Un incident violent a izbucnit în campus!
+Dialogue: 100,0:08:35.49,0:08:39.67,Dialogue,,0,0,0,,{\an8}Elevii trebuie să părăsească campusul urmând îndrumările profesorilor lor.
+Dialogue: 100,0:08:39.67,0:08:40.92,Dialogue,,0,0,0,,{\an8}Repet.
+Dialogue: 100,0:08:40.92,0:08:43.17,Dialogue,,0,0,0,,{\an8}Un incident violent a izbucnit în campus!
+Dialogue: 100,0:08:41.21,0:08:43.17,Dialogue,,0,0,0,,Au observat, în cele din urmă.
+Dialogue: 100,0:08:43.17,0:08:45.88,Dialogue,,0,0,0,,{\an8}Elevii trebuie să părăsească campusul...
+Dialogue: 100,0:08:49.80,0:08:50.97,Dialogue,,0,0,0,,Nu se poate...
+Dialogue: 100,0:08:53.01,0:08:56.52,Dialogue,,0,0,0,,Ajutor! Cineva să mă ajute!
+Dialogue: 100,0:09:00.06,0:09:00.94,Dialogue,,0,0,0,,Hirano.
+Dialogue: 100,0:09:01.98,0:09:03.44,Dialogue,,0,0,0,,Takagi...
 Dialogue: 100,0:09:03.94,0:09:05.23,Dialogue,,0,0,0,,Vom ieși de aici.
 Dialogue: 100,0:09:05.65,0:09:09.15,Dialogue,,0,0,0,,{\an8}Nu! Ajutor!
 Dialogue: 100,0:09:36.68,0:09:37.22,Dialogue,,0,0,0,,Mișcă!
-Dialogue: 100,0:09:45.33,0:09:46.48,Dialogue,,0,0,0,,Pe aici!
+Dialogue: 100,0:09:45.31,0:09:46.48,Dialogue,,0,0,0,,Pe aici!
 Dialogue: 100,0:09:46.48,0:09:48.19,Dialogue,,0,0,0,,Nu mergem afară?
-Dialogue: 100,0:09:48.19,0:09:50.45,Dialogue,,0,0,0,,Toți elevii vor ieși din clase.
-Dialogue: 100,0:09:50.45,0:09:52.07,Dialogue,,0,0,0,,Vom ieși prin cancelarie!
-Dialogue: 100,0:09:52.07,0:09:55.54,Dialogue,,0,0,0,,Hisashi are mereu dreptate. \NDoar fă ce spune el.
-Dialogue: 100,0:09:55.54,0:09:56.91,Dialogue,,0,0,0,,Știu!
-Dialogue: 100,0:10:02.79,0:10:05.79,Dialogue,,0,0,0,,Nu este acela profesorul nostru de \NJaponeză Modernă, domnul Wakisaka?
-Dialogue: 100,0:10:07.07,0:10:09.58,Dialogue,,0,0,0,,Aveți grijă! Este—
+Dialogue: 100,0:09:48.19,0:09:50.44,Dialogue,,0,0,0,,Toți elevii vor ieși din clase.
+Dialogue: 100,0:09:50.44,0:09:52.07,Dialogue,,0,0,0,,Vom ieși prin cancelarie!
+Dialogue: 100,0:09:52.07,0:09:55.53,Dialogue,,0,0,0,,Hisashi are mereu dreptate. \NDoar fă ce spune el.
+Dialogue: 100,0:09:55.53,0:09:56.91,Dialogue,,0,0,0,,Știu!
+Dialogue: 100,0:10:02.79,0:10:05.79,Dialogue,,0,0,0,,Nu e acela profesorul nostru de \NJaponeză Modernă, domnul Wakisaka?
+Dialogue: 100,0:10:07.09,0:10:09.59,Dialogue,,0,0,0,,Aveți grijă! Este...
 Dialogue: 100,0:10:21.39,0:10:23.73,Dialogue,,0,0,0,,Nu! Stai departe!
 Dialogue: 100,0:10:23.81,0:10:25.10,Dialogue,,0,0,0,,Rei! Înjunghie-l!
-Dialogue: 100,0:10:26.10,0:10:28.44,Dialogue,,0,0,0,,Nu te opri! Doar fă-o!
+Dialogue: 100,0:10:26.11,0:10:28.44,Dialogue,,0,0,0,,Nu te opri! Doar fă-o!
 Dialogue: 100,0:10:33.28,0:10:34.57,Dialogue,,0,0,0,,Nu!
 Dialogue: 100,0:10:37.16,0:10:41.83,Dialogue,,0,0,0,,Nu subestima pe cineva din Clubul de Sojutsu!
-Dialogue: 100,0:10:48.79,0:10:49.79,Dialogue,,0,0,0,,Ai reușit!
+Dialogue: 100,0:10:48.79,0:10:49.80,Dialogue,,0,0,0,,Ai reușit!
 Dialogue: 100,0:11:02.68,0:11:03.81,Dialogue,,0,0,0,,Nu se poate!
-Dialogue: 100,0:11:04.10,0:11:05.96,Dialogue,,0,0,0,,I-am străpuns inima!
-Dialogue: 100,0:11:05.96,0:11:07.52,Dialogue,,0,0,0,,De ce încă mișcă?!
-Dialogue: 100,0:11:08.81,0:11:11.14,Dialogue,,0,0,0,,Scoate-l acum!
-Dialogue: 100,0:11:11.77,0:11:13.32,Dialogue,,0,0,0,,Îndepărtează-te de el, Hisashi!
+Dialogue: 100,0:11:04.10,0:11:05.98,Dialogue,,0,0,0,,I-am străpuns inima!
+Dialogue: 100,0:11:05.98,0:11:07.52,Dialogue,,0,0,0,,De ce încă mișcă?!
+Dialogue: 100,0:11:08.81,0:11:11.15,Dialogue,,0,0,0,,Scoate-l acum!
+Dialogue: 100,0:11:11.78,0:11:13.32,Dialogue,,0,0,0,,Îndepărtează-te de el, Hisashi!
 Dialogue: 100,0:11:13.44,0:11:16.99,Dialogue,,0,0,0,,Nu-ți face griji. Îl pot ține.
 Dialogue: 100,0:11:20.95,0:11:23.79,Dialogue,,0,0,0,,De ce este atât de puternic?
 Dialogue: 100,0:11:26.25,0:11:29.08,Dialogue,,0,0,0,,Nemernicule, dă-i drumul lui Hisashi!
-Dialogue: 100,0:11:29.25,0:11:30.33,Dialogue,,0,0,0,,Hisashi!
-Dialogue: 100,0:11:33.25,0:11:34.61,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:11:34.61,0:11:36.42,Dialogue,,0,0,0,,De ce nu-ți dă drumul?!
-Dialogue: 100,0:11:36.42,0:11:38.30,Dialogue,,0,0,0,,Știam eu...
-Dialogue: 100,0:11:38.30,0:11:39.38,Dialogue,,0,0,0,,Este mort.
-Dialogue: 100,0:11:39.84,0:11:42.22,Dialogue,,0,0,0,,Este mort, dar mișcă!
+Dialogue: 100,0:11:29.25,0:11:30.34,Dialogue,,0,0,0,,Hisashi!
+Dialogue: 100,0:11:33.26,0:11:34.59,Dialogue,,0,0,0,,De ce?
+Dialogue: 100,0:11:34.59,0:11:36.43,Dialogue,,0,0,0,,De ce nu-ți dă drumul?!
+Dialogue: 100,0:11:36.43,0:11:38.30,Dialogue,,0,0,0,,Știam eu...
+Dialogue: 100,0:11:38.30,0:11:39.39,Dialogue,,0,0,0,,Este mort.
+Dialogue: 100,0:11:39.85,0:11:42.22,Dialogue,,0,0,0,,Este mort, dar mișcă!
 Dialogue: 100,0:11:46.02,0:11:47.10,Dialogue,,0,0,0,,Hisashi!
 Dialogue: 100,0:11:50.06,0:11:51.90,Dialogue,,0,0,0,,Ajută-l, Takashi!
-Dialogue: 100,0:11:52.19,0:11:53.71,Dialogue,,0,0,0,,Nu ești băiat?!
-Dialogue: 100,0:11:53.71,0:11:54.52,Dialogue,,0,0,0,,Doar...
-Dialogue: 100,0:11:54.52,0:11:55.86,Dialogue,,0,0,0,,Doar fă ceva!
-Dialogue: 100,0:12:10.97,0:12:13.59,Dialogue,,0,0,0,,Ești bine, Hisashi?
-Dialogue: 100,0:12:13.59,0:12:17.56,Dialogue,,0,0,0,,Este doar o zgârietură. Nu vă faceți griji.
-Dialogue: 100,0:12:17.56,0:12:21.93,Dialogue,,0,0,0,,Nu! Nu mă mușca!
-Dialogue: 100,0:12:23.01,0:12:25.97,Dialogue,,0,0,0,,Nu-i putem înfrunta pe toți singuri.
+Dialogue: 100,0:11:52.19,0:11:53.69,Dialogue,,0,0,0,,Ești bărbat, nu-i așa?!
+Dialogue: 100,0:11:53.69,0:11:54.53,Dialogue,,0,0,0,,Doar...
+Dialogue: 100,0:11:54.53,0:11:55.86,Dialogue,,0,0,0,,Doar fă ceva!
+Dialogue: 100,0:12:10.96,0:12:13.59,Dialogue,,0,0,0,,Ești bine, Hisashi?
+Dialogue: 100,0:12:13.59,0:12:17.55,Dialogue,,0,0,0,,E doar o zgârietură. \NNu vă faceți griji.
+Dialogue: 100,0:12:17.55,0:12:21.93,Dialogue,,0,0,0,,Nu! Nu mă mușca!
+Dialogue: 100,0:12:23.01,0:12:25.98,Dialogue,,0,0,0,,Nu-i putem înfrunta pe toți de unii singuri.
 Dialogue: 100,0:12:26.14,0:12:27.18,Dialogue,,0,0,0,,Să mergem pe acoperiș.
-Dialogue: 100,0:12:27.63,0:12:28.76,Dialogue,,0,0,0,,Acoperiș?
-Dialogue: 100,0:12:28.76,0:12:30.74,Dialogue,,0,0,0,,Ne vom ascunde acolo \Npână ce vor veni ajutoare.
-Dialogue: 100,0:12:30.74,0:12:32.56,Dialogue,,0,0,0,,Observatorul astronomic este acolo.
-Dialogue: 100,0:12:47.99,0:12:50.21,Dialogue,,0,0,0,,Ce naiba...
-Dialogue: 100,0:12:51.35,0:12:53.75,Dialogue,,0,0,0,,Ce naiba se petrece?
-Dialogue: 100,0:12:54.31,0:12:58.13,Dialogue,,0,0,0,,Totul era normal până acum câteva minute!
+Dialogue: 100,0:12:27.64,0:12:28.77,Dialogue,,0,0,0,,Acoperiș?
+Dialogue: 100,0:12:28.77,0:12:30.73,Dialogue,,0,0,0,,Ne vom ascunde acolo \Npână ce vor veni ajutoare.
+Dialogue: 100,0:12:30.73,0:12:32.56,Dialogue,,0,0,0,,Acolo e și observatorul astronomic.
+Dialogue: 100,0:12:48.00,0:12:50.21,Dialogue,,0,0,0,,Ce naiba...
+Dialogue: 100,0:12:51.33,0:12:53.75,Dialogue,,0,0,0,,Ce naiba se petrece?
+Dialogue: 100,0:12:54.29,0:12:58.13,Dialogue,,0,0,0,,Totul era normal până acum câteva minute!
 Dialogue: 100,0:13:09.14,0:13:10.56,Dialogue,,0,0,0,,Elicoptere Black Hawk?
-Dialogue: 100,0:13:10.68,0:13:12.15,Dialogue,,0,0,0,,Armata americană?
-Dialogue: 100,0:13:12.15,0:13:14.34,Dialogue,,0,0,0,,Nu, acelea sunt din Forțele \NApărării Naționale ale Japoniei.
-Dialogue: 100,0:13:14.34,0:13:18.07,Dialogue,,0,0,0,,Dar de unde vin? \NNu există nicio bază prin apropiere.
-Dialogue: 100,0:13:18.59,0:13:20.18,Dialogue,,0,0,0,,Salvați-ne!
-Dialogue: 100,0:13:20.18,0:13:21.57,Dialogue,,0,0,0,,Nu te obosi.
+Dialogue: 100,0:13:10.69,0:13:12.15,Dialogue,,0,0,0,,Armata americană?
+Dialogue: 100,0:13:12.15,0:13:14.36,Dialogue,,0,0,0,,Nu, acelea sunt din Forțele Armate Japoneze.
+Dialogue: 100,0:13:14.36,0:13:18.07,Dialogue,,0,0,0,,Dar de unde vin? \NNu există nicio bază prin apropiere.
+Dialogue: 100,0:13:18.61,0:13:20.20,Dialogue,,0,0,0,,Salvați-ne!
+Dialogue: 100,0:13:20.20,0:13:21.57,Dialogue,,0,0,0,,Nu te obosi.
 Dialogue: 100,0:13:21.57,0:13:25.45,Dialogue,,0,0,0,,Nu ar fi venit până aici \Ndacă nu ar fi avut un motiv.
 Dialogue: 100,0:13:25.66,0:13:28.70,Dialogue,,0,0,0,,Sunt într-o misiune specială probabil.
-Dialogue: 100,0:13:29.49,0:13:31.45,Dialogue,,0,0,0,,Nu au timp ca să ne salveze.
-Dialogue: 100,0:13:31.96,0:13:33.75,Dialogue,,0,0,0,,Nici măcar nu fac ceva în legătură cu aia.
-Dialogue: 100,0:13:34.42,0:13:37.75,Dialogue,,0,0,0,,Am putea încerca să scăpăm pe \Nacolo chiar dacă este un haos total.
-Dialogue: 100,0:13:34.68,0:13:37.09,Dialogue,,0,0,0,,{\an8}Nu! Oprește-te!
-Dialogue: 100,0:13:37.09,0:13:38.75,Dialogue,,0,0,0,,{\an8}Cineva, ajutor, vă rog!
+Dialogue: 100,0:13:29.50,0:13:31.46,Dialogue,,0,0,0,,Nu au timp ca să ne salveze pe noi.
+Dialogue: 100,0:13:31.96,0:13:33.75,Dialogue,,0,0,0,,Nu fac nimic nici măcar în legătură cu aia.
+Dialogue: 100,0:13:34.42,0:13:37.76,Dialogue,,0,0,0,,Am putea încerca să scăpăm pe \Nacolo chiar dacă e un haos total.
+Dialogue: 100,0:13:34.67,0:13:37.09,Dialogue,,0,0,0,,{\an8}Nu! Oprește-te!
+Dialogue: 100,0:13:37.09,0:13:38.76,Dialogue,,0,0,0,,{\an8}Cineva, ajutor, vă rog!
 Dialogue: 100,0:13:39.09,0:13:40.55,Dialogue,,0,0,0,,Au!
 Dialogue: 100,0:13:41.05,0:13:43.30,Dialogue,,0,0,0,,Mă întreb ce se petrece \Nacum în interiorul școlii...
-Dialogue: 100,0:13:43.80,0:13:46.09,Dialogue,,0,0,0,,Vom fi bine cât timp \Nsuntem împreună, Misuzu!
-Dialogue: 100,0:13:46.34,0:13:50.53,Dialogue,,0,0,0,,Desigur! Vom fi cele mai bune \Nprietene pentru totdeauna, Toshimi!
-Dialogue: 100,0:13:54.81,0:13:57.74,Dialogue,,0,0,0,,Nu! S-Salvează-mă!
-Dialogue: 100,0:13:57.74,0:13:58.94,Dialogue,,0,0,0,,Salvează-mă, Misuzu!
+Dialogue: 100,0:13:43.80,0:13:46.10,Dialogue,,0,0,0,,Vom fi bine cât timp \Nsuntem împreună, Misuzu!
+Dialogue: 100,0:13:46.35,0:13:50.52,Dialogue,,0,0,0,,Desigur! Vom fi cele mai bune \Nprietene pentru totdeauna, Toshimi!
+Dialogue: 100,0:13:54.81,0:13:57.73,Dialogue,,0,0,0,,Nu! S-Salvează-mă!
+Dialogue: 100,0:13:57.73,0:13:58.94,Dialogue,,0,0,0,,Salvează-mă, Misuzu!
 Dialogue: 100,0:13:59.49,0:14:00.69,Dialogue,,0,0,0,,Dă-mi drumul!
-Dialogue: 100,0:14:01.11,0:14:02.90,Dialogue,,0,0,0,,Am spus să-mi dai drumul!
-Dialogue: 100,0:14:14.19,0:14:15.71,Dialogue,,0,0,0,,Sunt și aici?
-Dialogue: 100,0:14:19.23,0:14:21.55,Dialogue,,0,0,0,,Asta nu se poate întâmpla.
-Dialogue: 100,0:14:22.29,0:14:23.47,Dialogue,,0,0,0,,Este un vis.
-Dialogue: 100,0:14:23.47,0:14:25.63,Dialogue,,0,0,0,,Da, este un coșmar.
-Dialogue: 100,0:14:26.43,0:14:29.30,Dialogue,,0,0,0,,Trebuie să mă trezesc \Nși să merg la școală.
-Dialogue: 100,0:14:29.69,0:14:33.85,Dialogue,,0,0,0,,Trebuie să chinuiesc \Nmembrii cei noi astăzi.
-Dialogue: 100,0:14:39.47,0:14:42.97,Dialogue,,0,0,0,,Ei sunt de vină. \NTe infectează cu vreun fel de boală.
-Dialogue: 100,0:14:42.97,0:14:44.19,Dialogue,,0,0,0,,Ei?
-Dialogue: 100,0:14:45.03,0:14:49.86,Dialogue,,0,0,0,,Suntem atacați de cadavre, \Ndar acesta nu este un film sau un joc video.
-Dialogue: 100,0:14:49.86,0:14:51.80,Dialogue,,0,0,0,,De aceea, "ei".
-Dialogue: 100,0:14:51.80,0:14:57.87,Dialogue,,0,0,0,,Ei mănâncă oameni și oricine \Neste mâncat devine unul dintre ei.
-Dialogue: 100,0:14:57.87,0:14:59.08,Dialogue,,0,0,0,,Și nu înțeleg de ce,
-Dialogue: 100,0:14:59.58,0:15:02.59,Dialogue,,0,0,0,,dar singurul mod de a-i ucide este să le zdrobim capetele.
-Dialogue: 100,0:15:04.08,0:15:05.80,Dialogue,,0,0,0,,Deci, ce facem acum?
-Dialogue: 100,0:15:06.73,0:15:09.80,Dialogue,,0,0,0,,Vom urca acolo și vom bloca scările.
-Dialogue: 100,0:15:12.08,0:15:13.14,Dialogue,,0,0,0,,Să mergem!
-Dialogue: 100,0:15:23.57,0:15:24.03,Dialogue,,0,0,0,,Re—
+Dialogue: 100,0:14:01.11,0:14:02.91,Dialogue,,0,0,0,,Am spus să-mi dai drumul!
+Dialogue: 100,0:14:14.21,0:14:15.71,Dialogue,,0,0,0,,Sunt și aici?
+Dialogue: 100,0:14:19.21,0:14:21.55,Dialogue,,0,0,0,,Asta nu se poate întâmpla.
+Dialogue: 100,0:14:22.30,0:14:23.47,Dialogue,,0,0,0,,Este un vis.
+Dialogue: 100,0:14:23.47,0:14:25.64,Dialogue,,0,0,0,,Da, este un coșmar.
+Dialogue: 100,0:14:26.43,0:14:29.31,Dialogue,,0,0,0,,Trebuie să mă trezesc \Nși să merg la școală.
+Dialogue: 100,0:14:29.68,0:14:33.85,Dialogue,,0,0,0,,Trebuie să-i chinuiesc \Npe noii membri astăzi.
+Dialogue: 100,0:14:39.48,0:14:42.99,Dialogue,,0,0,0,,Ei sunt de vină. Te infectează \Ncu vreun fel de boală.
+Dialogue: 100,0:14:42.99,0:14:44.20,Dialogue,,0,0,0,,Ei?
+Dialogue: 100,0:14:45.03,0:14:49.87,Dialogue,,0,0,0,,Suntem atacați de cadavre, \Ndar acesta nu e un film sau un joc video.
+Dialogue: 100,0:14:49.87,0:14:51.79,Dialogue,,0,0,0,,De asta am folosit pronumele: ei.
+Dialogue: 100,0:14:51.79,0:14:57.88,Dialogue,,0,0,0,,Ei mănâncă oameni și oricine \Ne mâncat devine unul dintre ei.
+Dialogue: 100,0:14:57.88,0:14:59.09,Dialogue,,0,0,0,,Și nu înțeleg de ce,
+Dialogue: 100,0:14:59.59,0:15:02.59,Dialogue,,0,0,0,,dar singurul mod de a-i \Nucide e să le zdrobim capetele.
+Dialogue: 100,0:15:04.09,0:15:05.80,Dialogue,,0,0,0,,Deci, ce facem acum?
+Dialogue: 100,0:15:06.72,0:15:09.81,Dialogue,,0,0,0,,Vom urca acolo și vom bloca scările.
+Dialogue: 100,0:15:12.10,0:15:13.14,Dialogue,,0,0,0,,Să mergem!
+Dialogue: 100,0:15:23.57,0:15:24.03,Dialogue,,0,0,0,,Re...
 Dialogue: 100,0:15:24.03,0:15:24.36,Dialogue,,0,0,0,,Rei!
-Dialogue: 100,0:15:36.98,0:15:38.43,Dialogue,,0,0,0,,De ce...
-Dialogue: 100,0:15:38.43,0:15:40.04,Dialogue,,0,0,0,,De ce se întâmplă asta?
+Dialogue: 100,0:15:37.00,0:15:38.42,Dialogue,,0,0,0,,De ce...
+Dialogue: 100,0:15:38.42,0:15:40.04,Dialogue,,0,0,0,,De ce se întâmplă asta?
 Dialogue: 100,0:15:41.30,0:15:43.21,Dialogue,,0,0,0,,Trebuie să existe un motiv.
 Dialogue: 100,0:15:43.51,0:15:47.22,Dialogue,,0,0,0,,Dacă am știi motivul, \Nne-am putea da seama și ce să facem.
 Dialogue: 100,0:15:53.72,0:15:57.23,Dialogue,,0,0,0,,Să căutăm o brichetă sau \Nniște chibrituri în observator.
-Dialogue: 100,0:15:57.23,0:16:03.68,Dialogue,,0,0,0,,Dacă nu facem un foc acum, \Nnu vom reuși să-i vedem la noap—
-Dialogue: 100,0:16:08.57,0:16:10.95,Dialogue,,0,0,0,,Hisashi! Ce este în neregulă?!
+Dialogue: 100,0:15:57.23,0:16:03.69,Dialogue,,0,0,0,,Dacă nu facem un foc acum, \Nnu vom reuși să-i vedem la noap...
+Dialogue: 100,0:16:08.57,0:16:10.95,Dialogue,,0,0,0,,Hisashi! Ce e în neregulă?!
 Dialogue: 100,0:16:11.37,0:16:13.62,Dialogue,,0,0,0,,Takashi! Hisashi este...
-Dialogue: 100,0:16:28.83,0:16:30.15,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:16:30.15,0:16:31.64,Dialogue,,0,0,0,,De ce...
-Dialogue: 100,0:16:31.64,0:16:33.55,Dialogue,,0,0,0,,Acea mușcătură era mică...
-Dialogue: 100,0:16:33.55,0:16:36.18,Dialogue,,0,0,0,,De ce ți s-a înrăutățit \Nstarea atât de mult?
-Dialogue: 100,0:16:36.18,0:16:38.64,Dialogue,,0,0,0,,Este exact ca în filme.
-Dialogue: 100,0:16:39.02,0:16:41.53,Dialogue,,0,0,0,,S-a terminat totul odată ce ai fost mușcat.
-Dialogue: 100,0:16:41.53,0:16:45.23,Dialogue,,0,0,0,,Nu se poate! Acele lucruri \Nse petrec numai în fil—
-Dialogue: 100,0:16:45.23,0:16:47.82,Dialogue,,0,0,0,,Totul în jurul nostru pare ca dintr-un film.
-Dialogue: 100,0:16:53.74,0:16:55.42,Dialogue,,0,0,0,,Takashi.
-Dialogue: 100,0:16:55.42,0:16:57.33,Dialogue,,0,0,0,,Ajută-mă.
-Dialogue: 100,0:16:58.14,0:16:59.91,Dialogue,,0,0,0,,Cu ce să te ajut?
+Dialogue: 100,0:16:28.84,0:16:30.14,Dialogue,,0,0,0,,Dar...
+Dialogue: 100,0:16:30.14,0:16:31.64,Dialogue,,0,0,0,,De ce...
+Dialogue: 100,0:16:31.64,0:16:33.56,Dialogue,,0,0,0,,Acea mușcătură era mică...
+Dialogue: 100,0:16:33.56,0:16:36.18,Dialogue,,0,0,0,,De ce ți s-a înrăutățit \Nstarea atât de mult?
+Dialogue: 100,0:16:36.18,0:16:38.64,Dialogue,,0,0,0,,E exact ca în filme.
+Dialogue: 100,0:16:39.02,0:16:41.52,Dialogue,,0,0,0,,S-a terminat totul odată ce ai fost mușcat.
+Dialogue: 100,0:16:41.52,0:16:45.23,Dialogue,,0,0,0,,Nu se poate! Acele lucruri \Nse petrec numai în fil...
+Dialogue: 100,0:16:45.23,0:16:47.82,Dialogue,,0,0,0,,Tot ce se petrece în jurul \Nnostru pare scos dintr-un film.
+Dialogue: 100,0:16:53.74,0:16:55.41,Dialogue,,0,0,0,,Takashi.
+Dialogue: 100,0:16:55.41,0:16:57.33,Dialogue,,0,0,0,,Ajută-mă.
+Dialogue: 100,0:16:58.12,0:16:59.92,Dialogue,,0,0,0,,Cu ce să te ajut?
 Dialogue: 100,0:17:03.71,0:17:07.21,Dialogue,,0,0,0,,Dacă voi cădea de acolo,
 Dialogue: 100,0:17:07.67,0:17:12.18,Dialogue,,0,0,0,,probabil îmi voi zdrobi capul...
-Dialogue: 100,0:17:15.83,0:17:16.64,Dialogue,,0,0,0,,Despre ce—
+Dialogue: 100,0:17:15.85,0:17:16.64,Dialogue,,0,0,0,,Ce tot spui...
 Dialogue: 100,0:17:16.64,0:17:18.56,Dialogue,,0,0,0,,Nu vreau să devin unul din ei!
-Dialogue: 100,0:17:20.74,0:17:22.19,Dialogue,,0,0,0,,Hisashi!
-Dialogue: 100,0:17:22.69,0:17:24.22,Dialogue,,0,0,0,,Hisashi!
-Dialogue: 100,0:17:24.22,0:17:24.94,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:17:33.39,0:17:34.66,Dialogue,,0,0,0,,Haide...
-Dialogue: 100,0:17:34.90,0:17:36.78,Dialogue,,0,0,0,,Takashi, te implor...
-Dialogue: 100,0:17:38.64,0:17:42.46,Dialogue,,0,0,0,,Vreau să mor fiind eu însumi.
+Dialogue: 100,0:17:20.73,0:17:22.19,Dialogue,,0,0,0,,Hisashi!
+Dialogue: 100,0:17:22.69,0:17:24.23,Dialogue,,0,0,0,,Hisashi!
+Dialogue: 100,0:17:24.23,0:17:24.94,Dialogue,,0,0,0,,Nu!
+Dialogue: 100,0:17:33.41,0:17:34.66,Dialogue,,0,0,0,,Haide...
+Dialogue: 100,0:17:34.91,0:17:36.79,Dialogue,,0,0,0,,Takashi, te implor...
+Dialogue: 100,0:17:38.62,0:17:42.46,Dialogue,,0,0,0,,Vreau să mor fiind eu însumi.
 Dialogue: 100,0:17:48.21,0:17:49.05,Dialogue,,0,0,0,,Hisashi!
-Dialogue: 100,0:17:49.86,0:17:51.09,Dialogue,,0,0,0,,De ce?!
-Dialogue: 100,0:17:54.14,0:17:55.25,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:17:55.67,0:17:59.43,Dialogue,,0,0,0,,Nu muri!
-Dialogue: 100,0:18:36.42,0:18:37.93,Dialogue,,0,0,0,,Îndepărtează-te, Rei.
-Dialogue: 100,0:18:41.92,0:18:42.85,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:18:43.14,0:18:45.04,Dialogue,,0,0,0,,Nu-l poți ucide!
-Dialogue: 100,0:18:45.04,0:18:46.42,Dialogue,,0,0,0,,Nu se va...
-Dialogue: 100,0:18:46.42,0:18:48.65,Dialogue,,0,0,0,,Nu se va transforma într-unul din ei!
+Dialogue: 100,0:17:49.84,0:17:51.09,Dialogue,,0,0,0,,De ce?!
+Dialogue: 100,0:17:54.14,0:17:55.26,Dialogue,,0,0,0,,Nu!
+Dialogue: 100,0:17:55.68,0:17:59.43,Dialogue,,0,0,0,,Nu muri!
+Dialogue: 100,0:18:36.43,0:18:37.93,Dialogue,,0,0,0,,Îndepărtează-te, Rei.
+Dialogue: 100,0:18:41.93,0:18:42.85,Dialogue,,0,0,0,,Nu!
+Dialogue: 100,0:18:43.14,0:18:45.02,Dialogue,,0,0,0,,Nu-l poți ucide!
+Dialogue: 100,0:18:45.02,0:18:46.44,Dialogue,,0,0,0,,Nu se va...
+Dialogue: 100,0:18:46.44,0:18:48.65,Dialogue,,0,0,0,,Nu se va transforma într-unul din ei!
 Dialogue: 100,0:18:48.65,0:18:50.78,Dialogue,,0,0,0,,El este special!
-Dialogue: 100,0:18:51.48,0:18:52.36,Dialogue,,0,0,0,,Îndepărtează-te.
-Dialogue: 100,0:18:54.83,0:18:56.03,Dialogue,,0,0,0,,Hisashi?
-Dialogue: 100,0:18:56.89,0:18:58.37,Dialogue,,0,0,0,,Vezi, Takashi?
-Dialogue: 100,0:18:58.37,0:19:00.74,Dialogue,,0,0,0,,Hisashi nu ar muri de la așa—
-Dialogue: 100,0:19:05.01,0:19:06.50,Dialogue,,0,0,0,,Hisashi...
-Dialogue: 100,0:19:10.57,0:19:12.09,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:19:15.49,0:19:16.86,Dialogue,,0,0,0,,Hisashi!
+Dialogue: 100,0:18:51.49,0:18:52.36,Dialogue,,0,0,0,,Îndepărtează-te.
+Dialogue: 100,0:18:54.82,0:18:56.03,Dialogue,,0,0,0,,Hisashi?
+Dialogue: 100,0:18:56.91,0:18:58.37,Dialogue,,0,0,0,,Vezi, Takashi?
+Dialogue: 100,0:18:58.37,0:19:00.74,Dialogue,,0,0,0,,Hisashi nu ar muri de la așa...
+Dialogue: 100,0:19:05.00,0:19:06.50,Dialogue,,0,0,0,,Hisashi...
+Dialogue: 100,0:19:10.59,0:19:12.09,Dialogue,,0,0,0,,Ce este?
+Dialogue: 100,0:19:15.51,0:19:16.84,Dialogue,,0,0,0,,Hisashi!
 Dialogue: 100,0:19:18.64,0:19:19.72,Dialogue,,0,0,0,,Nu se poate.
-Dialogue: 100,0:19:20.39,0:19:22.36,Dialogue,,0,0,0,,Asta nu se poate întâmpla.
-Dialogue: 100,0:19:22.36,0:19:23.68,Dialogue,,0,0,0,,Este imposibil.
-Dialogue: 100,0:19:25.51,0:19:27.81,Dialogue,,0,0,0,,Asta chiar este de necrezut.
-Dialogue: 100,0:19:29.52,0:19:31.36,Dialogue,,0,0,0,,Atât de greu de crezut \Nîncât este stupid.
-Dialogue: 100,0:19:32.49,0:19:33.69,Dialogue,,0,0,0,,Takashi...
-Dialogue: 100,0:19:36.47,0:19:37.24,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:19:37.88,0:19:38.99,Dialogue,,0,0,0,,Oprește-te.
-Dialogue: 100,0:19:46.01,0:19:48.85,Dialogue,,0,0,140,,Nu!
-Dialogue: 100,0:19:39.31,0:19:41.21,Dialogue,,0,0,0,,...chiar se întâmplă!
-Dialogue: 100,0:21:21.61,0:21:22.88,Dialogue,,0,0,0,,De ce...
-Dialogue: 100,0:21:24.29,0:21:25.60,Dialogue,,0,0,0,,De ce...
-Dialogue: 100,0:21:26.53,0:21:29.38,Dialogue,,0,0,0,,Ai fi fost mâncată dacă nu aș fi făcut-o.
-Dialogue: 100,0:21:29.38,0:21:32.44,Dialogue,,0,0,0,,Nu voiam ca să mă salvezi.
-Dialogue: 100,0:21:32.77,0:21:36.77,Dialogue,,0,0,0,,Nu voiam să-l văd astfel!
-Dialogue: 100,0:21:36.77,0:21:42.68,Dialogue,,0,0,0,,Aș fi preferat să fiu mușcată de Hisashi \Nși să devin una din ei decât să trăiesc așa!
-Dialogue: 100,0:21:42.68,0:21:45.36,Dialogue,,0,0,0,,Eu nu cred că Hisashi ar fi vrut asta.
-Dialogue: 100,0:21:47.11,0:21:49.45,Dialogue,,0,0,0,,O, te rog, ce știi tu, Takashi?
-Dialogue: 100,0:21:50.65,0:21:53.96,Dialogue,,0,0,0,,O, da. Așa este.
-Dialogue: 100,0:21:54.51,0:21:57.83,Dialogue,,0,0,0,,Cu siguranță l-ai urât!
-Dialogue: 100,0:21:57.83,0:22:00.13,Dialogue,,0,0,0,,Deoarece noi ieșeam împreună!
-Dialogue: 100,0:22:04.96,0:22:07.76,Dialogue,,0,0,0,,Așteaptă. Unde te duci?
-Dialogue: 100,0:22:08.54,0:22:10.91,Dialogue,,0,0,0,,Simt că te deranjez.
-Dialogue: 100,0:22:10.91,0:22:13.18,Dialogue,,0,0,0,,Deci... Voi merge să zdrobesc niște capete.
-Dialogue: 100,0:22:14.04,0:22:15.27,Dialogue,,0,0,0,,Ce tot spui?
-Dialogue: 100,0:22:15.57,0:22:18.23,Dialogue,,0,0,0,,Nu poți face asta de unul singur!
-Dialogue: 100,0:22:21.48,0:22:24.40,Dialogue,,0,0,0,,Hei... Takashi...
-Dialogue: 100,0:22:26.93,0:22:28.03,Dialogue,,0,0,0,,Nu o face!
-Dialogue: 100,0:22:28.03,0:22:29.69,Dialogue,,0,0,0,,Oprește-te!
-Dialogue: 100,0:22:29.69,0:22:34.33,Dialogue,,0,0,0,,Îmi cer scuze! Nu vorbeam serios! Chiar nu vorbeam serios!
-Dialogue: 100,0:22:35.05,0:22:40.50,Dialogue,,0,0,0,,Te rog! Te rog, rămâi aici cu mine!
+Dialogue: 100,0:19:20.39,0:19:22.35,Dialogue,,0,0,0,,Asta nu se poate întâmpla.
+Dialogue: 100,0:19:22.35,0:19:23.68,Dialogue,,0,0,0,,E imposibil.
+Dialogue: 100,0:19:25.52,0:19:27.81,Dialogue,,0,0,0,,Asta chiar e de necrezut.
+Dialogue: 100,0:19:29.52,0:19:31.36,Dialogue,,0,0,0,,Atât de greu de crezut încât e stupid.
+Dialogue: 100,0:19:32.48,0:19:33.69,Dialogue,,0,0,0,,Takashi...
+Dialogue: 100,0:19:36.49,0:19:37.24,Dialogue,,0,0,0,,Dar...
+Dialogue: 100,0:19:37.86,0:19:38.99,Dialogue,,0,0,0,,Oprește-te.
+Dialogue: 100,0:19:46.00,0:19:48.83,Dialogue,,0,0,0,,Nu!
+Dialogue: 100,0:19:39.32,0:19:41.20,Dialogue,,0,0,0,,...chiar se întâmplă!
+Dialogue: 100,0:21:21.59,0:21:22.89,Dialogue,,0,0,0,,De ce...
+Dialogue: 100,0:21:24.30,0:21:25.60,Dialogue,,0,0,0,,De ce...
+Dialogue: 100,0:21:26.52,0:21:29.39,Dialogue,,0,0,0,,Ai fi fost mâncată dacă nu aș fi făcut-o.
+Dialogue: 100,0:21:29.39,0:21:32.44,Dialogue,,0,0,0,,Nu voiam să mă salvezi.
+Dialogue: 100,0:21:32.77,0:21:36.78,Dialogue,,0,0,0,,Nu voiam să-l văd astfel!
+Dialogue: 100,0:21:36.78,0:21:42.70,Dialogue,,0,0,0,,Aș fi preferat să fiu mușcată de Hisashi \Nși să devin una din ei decât să trăiesc așa!
+Dialogue: 100,0:21:42.70,0:21:45.37,Dialogue,,0,0,0,,Eu nu cred că Hisashi ar fi vrut asta.
+Dialogue: 100,0:21:47.12,0:21:49.45,Dialogue,,0,0,0,,Oh, te rog, ce știi tu, Takashi?
+Dialogue: 100,0:21:50.66,0:21:53.96,Dialogue,,0,0,0,,O, da. Așa este.
+Dialogue: 100,0:21:54.50,0:21:57.84,Dialogue,,0,0,0,,Cu siguranță l-ai urât!
+Dialogue: 100,0:21:57.84,0:22:00.13,Dialogue,,0,0,0,,Deoarece noi eram împreună!
+Dialogue: 100,0:22:04.97,0:22:07.76,Dialogue,,0,0,0,,Așteaptă. Unde te duci?
+Dialogue: 100,0:22:08.56,0:22:10.89,Dialogue,,0,0,0,,Simt că te deranjez.
+Dialogue: 100,0:22:10.89,0:22:13.19,Dialogue,,0,0,0,,Așa că voi merge să zdrobesc niște capete.
+Dialogue: 100,0:22:14.02,0:22:15.27,Dialogue,,0,0,0,,Ce tot spui acolo?
+Dialogue: 100,0:22:15.56,0:22:18.23,Dialogue,,0,0,0,,Nu poți face asta de unul singur!
+Dialogue: 100,0:22:21.49,0:22:24.41,Dialogue,,0,0,0,,Hei... Takashi...
+Dialogue: 100,0:22:26.95,0:22:28.03,Dialogue,,0,0,0,,Nu face asta!
+Dialogue: 100,0:22:28.03,0:22:29.70,Dialogue,,0,0,0,,Oprește-te!
+Dialogue: 100,0:22:29.70,0:22:34.33,Dialogue,,0,0,0,,Îmi cer scuze! Nu vorbeam serios! \NChiar nu vorbeam serios!
+Dialogue: 100,0:22:35.04,0:22:40.51,Dialogue,,0,0,0,,Te rog! Te rog, rămâi aici cu mine!
 Dialogue: 100,0:22:59.48,0:23:02.36,Dialogue,,0,0,0,,{\i1}În acea zi, când lumea s-a prăbușit,
-Dialogue: 100,0:23:03.30,0:23:06.73,Dialogue,,0,0,0,,{\i1}mi-am ucis cel mai bun prieten
-Dialogue: 100,0:23:07.84,0:23:11.78,Dialogue,,0,0,0,,{\i1}și am ținut-o în brațe pentru prima oară pe femeia pe care o iubeam.
-Dialogue: 0,0:03:33.44,0:03:39.28,DedzuyaSigns,,0,0,0,,{\1a&HFF&\t(800,800,1,\1a&H00&)\t(4865,4865,1,\1a&HFF&)\3a&HFF&\t(0,800,1,\3a&H00&)\t(4865,0,1,\3a&HFF&)\fnParents Suck\fs90\bord3\blur5\an9\pos(1800,70)\c&HFFFFFF&\3c&HFFFFFF&}Actul 1: {\fs120}Primăvara morților
-Dialogue: 1,0:03:33.44,0:03:39.28,DedzuyaSigns,,0,0,0,,{\fad(800,1000)\fnParents Suck\fs90\blur1\an9\pos(1800,70)\c&H000000&}Actul {\c&H0F0AE3&}1{\c&H000000&}: {\fs120}Primăvara morților
-Dialogue: 0,0:19:46.04,0:19:49.46,DedzuyaSigns,,0,0,0,,{\alpha&HD5&\t(0,440,1,\alpha&H00&)\fnUKIJ Kufi Yay\b1\fs80\blur1\an2\pos(960,350)}Actul 1: {\fs130}Primăvara morților
-Dialogue: 0,0:23:23.34,0:23:25.92,DedzuyaSigns,,0,0,0,,{\fnUKIJ Kufi Yay\b1\fs130\fsp5\blur1\an9\pos(1790,100)}va urma...
-Dialogue: 0,0:23:25.92,0:23:26.93,DedzuyaSigns,,0,0,0,,{\fnUKIJ Kufi Yay\b1\fs200\blur1\an2\pos(960,350)}Data viitoare
-Comment: 0,0:02:03.01,0:02:03.03,OP,,0,0,0,,{OP start frame}
-Dialogue: 0,0:02:26.72,0:02:37.87,OP,,0,0,0,,{\fad(240,0)\fsp1\fscx110\blur3\bord3\c&H602E0B&\3c&H602E0B&\t(7380,7380,1,\c&H72500C&\3c&H72500C&)}yureta genjitsukan nakushita mama de
-Dialogue: 1,0:02:26.72,0:02:37.87,OP,,0,0,0,,{\fad(240,0)\fsp1\fscx110\blur0.55\bord0}yureta genjitsukan nakushita mama de
-Dialogue: 0,0:02:37.87,0:02:42.83,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H72500C&\3c&H72500C&\t(2660,3030,1,\c&H144370&\3c&H144370&)}gareki no youni tsumikasanaru
-Dialogue: 1,0:02:37.87,0:02:42.83,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}gareki no youni tsumikasanaru
-Dialogue: 0,0:02:42.83,0:02:47.03,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H144370&\3c&H144370&\t(3160,3160,1,\c&H007DE7&\3c&H007DE7&)\t(3700,3700,1,\c&H753187&\3c&H753187&)}kono kanshou wa doko e yuku
-Dialogue: 1,0:02:42.83,0:02:47.03,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}kono kanshou wa doko e yuku
-Dialogue: 0,0:02:47.03,0:02:49.28,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0060B1&\3c&H0060B1&}tsuieta kibou kakae
-Dialogue: 1,0:02:47.03,0:02:49.28,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}tsuieta kibou kakae
-Dialogue: 0,0:02:49.28,0:02:57.62,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H010299&\3c&H010299&\t(2630,2630,1,\c&H2F2D2C&\3c&H2F2D2C&)\t(6600,6600,1,\c&H2A1B40&\3c&H2A1B40&)}akai ame wo harai hashitta muchuu ni
-Dialogue: 1,0:02:49.28,0:02:57.62,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}akai ame wo harai hashitta muchuu ni
-Dialogue: 0,0:02:57.62,0:03:04.02,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H2F2D2C&\3c&H2F2D2C&\t(630,840,1,\c&H2E6602&\3c&H2E6602&)\t(2800,3800,1,\c&H664B6F&\3c&H664B6F&)\t(5350,5650,1,\c&H0156A4&\3c&H0156A4&)}kuzureta kanjou no hate ni
-Dialogue: 1,0:02:57.62,0:03:04.02,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}kuzureta kanjou no hate ni
-Dialogue: 0,0:03:04.02,0:03:05.28,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&}nani wo miru
-Dialogue: 1,0:03:04.02,0:03:05.28,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}nani wo miru
-Dialogue: 0,0:03:05.28,0:03:06.58,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&}nani ga aru
-Dialogue: 1,0:03:05.28,0:03:06.58,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}nani ga aru
-Dialogue: 0,0:03:06.58,0:03:08.26,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&\t(1350,1350,1,\c&H7087C9&\3c&H7087C9&)}mada shiranai
-Dialogue: 1,0:03:06.58,0:03:08.26,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}mada shiranai
-Dialogue: 0,0:03:08.26,0:03:14.26,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0B7D74&\3c&H0B7D74&}hakanai subete no mirai wa
-Dialogue: 1,0:03:08.26,0:03:14.26,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}hakanai subete no mirai wa
-Dialogue: 0,0:03:14.26,0:03:16.76,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0F8FE0&\3c&H0F8FE0&}tada muon ni me no mae ni
-Dialogue: 1,0:03:14.26,0:03:16.76,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}tada muon ni me no mae ni
-Dialogue: 0,0:03:16.76,0:03:23.65,OP,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0F8FE0&\3c&H0F8FE0&\t(1820,2050,1,\c&H6E3E37&\3c&H6E3E37&)\t(5520,5520,1,\c&H7D4413&\3c&H7D4413&)\t(6810,6810,1,\c&H05D1BC&\3c&H05D1BC&)}hirogari tsudzuketa
-Dialogue: 1,0:03:16.76,0:03:23.65,OP,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}hirogari tsudzuketa
-Dialogue: 0,0:02:26.72,0:02:37.87,OP TL,,0,0,0,,{\fad(240,0)\fsp1\fscx110\blur3\bord3\c&H602E0B&\3c&H602E0B&\t(7380,7380,1,\c&H72500C&\3c&H72500C&)}În timp ce îmi pierd contactul slab cu realitatea,
-Dialogue: 1,0:02:26.72,0:02:37.87,OP TL,,0,0,0,,{\fad(240,0)\fsp1\fscx110\blur0.55\bord0}În timp ce îmi pierd contactul slab cu realitatea,
-Dialogue: 0,0:02:37.87,0:02:42.83,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H72500C&\3c&H72500C&\t(2660,3030,1,\c&H144370&\3c&H144370&)}emoțiile mele se strâng precum dărămăturile
-Dialogue: 1,0:02:37.87,0:02:42.83,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}emoțiile mele se strâng precum dărămăturile
-Dialogue: 0,0:02:42.83,0:02:47.03,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H144370&\3c&H144370&\t(3160,3160,1,\c&H007DE7&\3c&H007DE7&)\t(3700,3700,1,\c&H753187&\3c&H753187&)}Unde cred ele că merg?
-Dialogue: 1,0:02:42.83,0:02:47.03,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Unde cred ele că merg?
-Dialogue: 0,0:02:47.03,0:02:49.28,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0060B1&\3c&H0060B1&}Cu speranța zdrobită,
-Dialogue: 1,0:02:47.03,0:02:49.28,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Cu speranța zdrobită,
-Dialogue: 0,0:02:49.28,0:02:57.62,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H010299&\3c&H010299&\t(2630,2630,1,\c&H2F2D2C&\3c&H2F2D2C&)\t(6600,6600,1,\c&H2A1B40&\3c&H2A1B40&)}alerg frenetic prin ploaia sângerie
-Dialogue: 1,0:02:49.28,0:02:57.62,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}alerg frenetic prin ploaia sângerie
-Dialogue: 0,0:02:57.62,0:03:04.02,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H2F2D2C&\3c&H2F2D2C&\t(630,840,1,\c&H2E6602&\3c&H2E6602&)\t(2800,3800,1,\c&H664B6F&\3c&H664B6F&)\t(5350,5650,1,\c&H0156A4&\3c&H0156A4&)}După ce emoțiile mele vor începe să se reverse,
-Dialogue: 1,0:02:57.62,0:03:04.02,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}După ce emoțiile mele vor începe să se reverse,
-Dialogue: 0,0:03:04.02,0:03:05.28,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&}oare ce voi vedea?
-Dialogue: 1,0:03:04.02,0:03:05.28,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}oare ce voi vedea?
-Dialogue: 0,0:03:05.28,0:03:06.58,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&}Oare ce voi avea?
-Dialogue: 1,0:03:05.28,0:03:06.58,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Oare ce voi avea?
-Dialogue: 0,0:03:06.58,0:03:08.26,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&\t(1350,1350,1,\c&H7087C9&\3c&H7087C9&)}Încă nu știu
-Dialogue: 1,0:03:06.58,0:03:08.26,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Încă nu știu
-Dialogue: 0,0:03:08.26,0:03:14.26,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0B7D74&\3c&H0B7D74&}Dar în această tăcere,
-Dialogue: 1,0:03:08.26,0:03:14.26,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Dar în această tăcere,
+Dialogue: 100,0:23:03.32,0:23:06.74,Dialogue,,0,0,0,,{\i1}mi-am ucis cel mai bun prieten
+Dialogue: 100,0:23:07.82,0:23:11.79,Dialogue,,0,0,0,,{\i1\c&H5446C9&\3c&H5446C9&\blur5\bord3}și am ținut-o în brațe pentru prima oară pe femeia pe care o iubeam.
+Dialogue: 0,0:02:16.53,0:02:16.57,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(132.2,80.74)\fscx334.24\fscy350.16\frz-5.96\fnDisintegration\bord4.77\c&H5446C9&\3c&H5446C9&\blur9.55}Liceul morților
+Dialogue: 0,0:02:16.57,0:02:16.61,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(118.51,116.78)\fscx333.24\fscy349.11\frz-5.96\fnDisintegration\bord4.76\c&H5446C9&\3c&H5446C9&\blur9.52}Liceul morților
+Dialogue: 0,0:02:16.61,0:02:16.65,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(106.61,145.07)\fscx332.21\fscy348.03\frz-5.96\fnDisintegration\bord4.75\c&H5446C9&\3c&H5446C9&\blur9.49}Liceul morților
+Dialogue: 0,0:02:16.65,0:02:16.69,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(102.36,156.53)\fscx331.15\fscy346.92\frz-5.96\fnDisintegration\bord4.73\c&H5446C9&\3c&H5446C9&\blur9.46}Liceul morților
+Dialogue: 0,0:02:16.69,0:02:16.74,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(93.94,156.44)\fscx330.1\fscy345.82\frz-5.96\fnDisintegration\bord4.72\c&H5446C9&\3c&H5446C9&\blur9.43}Liceul morților
+Dialogue: 0,0:02:16.74,0:02:16.78,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(89.64,155.18)\fscx329.1\fscy344.77\frz-5.96\fnDisintegration\bord4.7\c&H5446C9&\3c&H5446C9&\blur9.4}Liceul morților
+Dialogue: 0,0:02:16.78,0:02:16.82,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(88.92,144.71)\fscx328.04\fscy343.67\frz-5.96\fnDisintegration\bord4.69\c&H5446C9&\3c&H5446C9&\blur9.37}Liceul morților
+Dialogue: 0,0:02:16.82,0:02:16.86,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(84.75,141.77)\fscx326.98\fscy342.55\frz-5.96\fnDisintegration\bord4.67\c&H5446C9&\3c&H5446C9&\blur9.34}Liceul morților
+Dialogue: 0,0:02:16.86,0:02:16.90,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(78.12,140.17)\fscx325.94\fscy341.46\frz-5.96\fnDisintegration\bord4.66\c&H5446C9&\3c&H5446C9&\blur9.31}Liceul morților
+Dialogue: 0,0:02:16.90,0:02:16.94,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(93.69,150.72)\fscx324.89\fscy340.36\frz-5.96\fnDisintegration\bord4.64\c&H5446C9&\3c&H5446C9&\blur9.28}Liceul morților
+Dialogue: 0,0:02:16.94,0:02:16.99,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(105.12,166.88)\fscx323.77\fscy339.19\frz-5.96\fnDisintegration\bord4.63\c&H5446C9&\3c&H5446C9&\blur9.25}Liceul morților
+Dialogue: 0,0:02:16.99,0:02:17.03,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(111.6,176.8)\fscx322.73\fscy338.1\frz-5.96\fnDisintegration\bord4.61\c&H5446C9&\3c&H5446C9&\blur9.22}Liceul morților
+Dialogue: 0,0:02:17.03,0:02:17.07,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(105.2,175.73)\fscx321.65\fscy336.96\frz-5.96\fnDisintegration\bord4.59\c&H5446C9&\3c&H5446C9&\blur9.19}Liceul morților
+Dialogue: 0,0:02:17.07,0:02:17.11,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(105.12,174.25)\fscx320.6\fscy335.87\frz-5.96\fnDisintegration\bord4.58\c&H5446C9&\3c&H5446C9&\blur9.16}Liceul morților
+Dialogue: 0,0:02:17.11,0:02:17.15,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(103.1,163.34)\fscx319.56\fscy334.77\frz-5.96\fnDisintegration\bord4.57\c&H5446C9&\3c&H5446C9&\blur9.13}Liceul morților
+Dialogue: 0,0:02:17.15,0:02:17.20,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(113.22,162.87)\fscx318.46\fscy333.62\frz-5.96\fnDisintegration\bord4.55\c&H5446C9&\3c&H5446C9&\blur9.1}Liceul morților
+Dialogue: 0,0:02:17.20,0:02:17.24,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(121.6,157.99)\fscx317.38\fscy332.5\frz-5.96\fnDisintegration\bord4.53\c&H5446C9&\3c&H5446C9&\blur9.07}Liceul morților
+Dialogue: 0,0:02:17.24,0:02:17.28,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(129.74,158.74)\fscx316.34\fscy331.41\frz-5.96\fnDisintegration\bord4.52\c&H5446C9&\3c&H5446C9&\blur9.04}Liceul morților
+Dialogue: 0,0:02:17.28,0:02:17.32,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(132.72,157.09)\fscx315.3\fscy330.31\frz-5.96\fnDisintegration\bord4.5\c&H5446C9&\3c&H5446C9&\blur9.01}Liceul morților
+Dialogue: 0,0:02:17.32,0:02:17.36,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(142.56,161.8)\fscx314.22\fscy329.18\frz-5.96\fnDisintegration\bord4.49\c&H5446C9&\3c&H5446C9&\blur8.98}Liceul morților
+Dialogue: 0,0:02:17.36,0:02:17.40,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(148.37,158.6)\fscx313.14\fscy328.05\frz-5.96\fnDisintegration\bord4.47\c&H5446C9&\3c&H5446C9&\blur8.95}Liceul morților
+Dialogue: 0,0:02:17.40,0:02:17.45,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(149.52,157.28)\fscx311.98\fscy326.84\frz-5.96\fnDisintegration\bord4.46\c&H5446C9&\3c&H5446C9&\blur8.91}Liceul morților
+Dialogue: 0,0:02:17.45,0:02:17.49,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(138.73,155.39)\fscx311.08\fscy325.89\frz-5.96\fnDisintegration\bord4.44\c&H5446C9&\3c&H5446C9&\blur8.89}Liceul morților
+Dialogue: 0,0:02:17.49,0:02:17.53,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(127.56,160.13)\fscx309.99\fscy324.75\frz-5.96\fnDisintegration\bord4.43\c&H5446C9&\3c&H5446C9&\blur8.86}Liceul morților
+Dialogue: 0,0:02:17.53,0:02:17.57,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(127.69,161.13)\fscx308.91\fscy323.62\frz-5.96\fnDisintegration\bord4.41\c&H5446C9&\3c&H5446C9&\blur8.83}Liceul morților
+Dialogue: 0,0:02:17.57,0:02:17.61,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(124.54,163.1)\fscx307.85\fscy322.51\frz-5.96\fnDisintegration\bord4.4\c&H5446C9&\3c&H5446C9&\blur8.8}Liceul morților
+Dialogue: 0,0:02:17.61,0:02:17.65,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(113.51,164.66)\fscx306.78\fscy321.39\frz-5.96\fnDisintegration\bord4.38\c&H5446C9&\3c&H5446C9&\blur8.77}Liceul morților
+Dialogue: 0,0:02:17.65,0:02:17.70,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(113.21,172.91)\fscx305.69\fscy320.25\frz-5.96\fnDisintegration\bord4.37\c&H5446C9&\3c&H5446C9&\blur8.73}Liceul morților
+Dialogue: 0,0:02:17.70,0:02:17.74,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(115.01,170.13)\fscx304.61\fscy319.12\frz-5.96\fnDisintegration\bord4.35\c&H5446C9&\3c&H5446C9&\blur8.7}Liceul morților
+Dialogue: 0,0:02:17.74,0:02:17.78,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(118.79,173.89)\fscx303.55\fscy318\frz-5.96\fnDisintegration\bord4.34\c&H5446C9&\3c&H5446C9&\blur8.67}Liceul morților
+Dialogue: 0,0:02:17.78,0:02:17.82,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(120.35,172.06)\fscx302.49\fscy316.89\frz-5.96\fnDisintegration\bord4.32\c&H5446C9&\3c&H5446C9&\blur8.64}Liceul morților
+Dialogue: 0,0:02:17.82,0:02:17.86,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(123.4,180.43)\fscx301.43\fscy315.78\frz-5.96\fnDisintegration\bord4.31\c&H5446C9&\3c&H5446C9&\blur8.61}Liceul morților
+Dialogue: 0,0:02:17.86,0:02:17.90,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(129.13,191.11)\fscx300.32\fscy314.63\frz-5.96\fnDisintegration\bord4.29\c&H5446C9&\3c&H5446C9&\blur8.58}Liceul morților
+Dialogue: 0,0:02:17.90,0:02:17.95,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(136.68,197.77)\fscx299.32\fscy313.57\frz-5.96\fnDisintegration\bord4.28\c&H5446C9&\3c&H5446C9&\blur8.55}Liceul morților
+Dialogue: 0,0:02:17.95,0:02:17.99,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(141.72,201.61)\fscx298.25\fscy312.45\frz-5.96\fnDisintegration\bord4.26\c&H5446C9&\3c&H5446C9&\blur8.52}Liceul morților
+Dialogue: 0,0:02:17.99,0:02:18.03,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(153.31,202.21)\fscx297.14\fscy311.29\frz-5.96\fnDisintegration\bord4.24\c&H5446C9&\3c&H5446C9&\blur8.49}Liceul morților
+Dialogue: 0,0:02:18.03,0:02:18.07,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(167.29,203.13)\fscx296.06\fscy310.16\frz-5.96\fnDisintegration\bord4.23\c&H5446C9&\3c&H5446C9&\blur8.46}Liceul morților
+Dialogue: 0,0:02:18.07,0:02:18.11,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(185.45,209.55)\fscx294.99\fscy309.03\frz-5.96\fnDisintegration\bord4.21\c&H5446C9&\3c&H5446C9&\blur8.43}Liceul morților
+Dialogue: 0,0:02:18.11,0:02:18.15,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(200.89,211.68)\fscx293.93\fscy307.93\frz-5.96\fnDisintegration\bord4.2\c&H5446C9&\3c&H5446C9&\blur8.4}Liceul morților
+Dialogue: 0,0:02:18.15,0:02:18.20,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(221.99,209.87)\fscx292.86\fscy306.8\frz-5.96\fnDisintegration\bord4.18\c&H5446C9&\3c&H5446C9&\blur8.37}Liceul morților
+Dialogue: 0,0:02:18.20,0:02:18.24,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(222.29,204.95)\fscx291.8\fscy305.7\frz-5.96\fnDisintegration\bord4.17\c&H5446C9&\3c&H5446C9&\blur8.34}Liceul morților
+Dialogue: 0,0:02:18.24,0:02:18.28,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(217.88,196.76)\fscx290.75\fscy304.6\frz-5.96\fnDisintegration\bord4.15\c&H5446C9&\3c&H5446C9&\blur8.31}Liceul morților
+Dialogue: 0,0:02:18.28,0:02:18.32,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(202.38,177.53)\fscx289.68\fscy303.47\frz-5.96\fnDisintegration\bord4.14\c&H5446C9&\3c&H5446C9&\blur8.28}Liceul morților
+Dialogue: 0,0:02:18.32,0:02:18.36,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(193.53,176.9)\fscx288.63\fscy302.38\frz-5.96\fnDisintegration\bord4.12\c&H5446C9&\3c&H5446C9&\blur8.25}Liceul morților
+Dialogue: 0,0:02:18.36,0:02:18.40,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(186.38,172.38)\fscx287.52\fscy301.21\frz-5.96\fnDisintegration\bord4.11\c&H5446C9&\3c&H5446C9&\blur8.21}Liceul morților
+Dialogue: 0,0:02:18.40,0:02:18.45,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(196.58,175.29)\fscx286.44\fscy300.08\frz-5.96\fnDisintegration\bord4.09\c&H5446C9&\3c&H5446C9&\blur8.18}Liceul morților
+Dialogue: 0,0:02:18.45,0:02:18.49,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(201.03,175.44)\fscx285.39\fscy298.98\frz-5.96\fnDisintegration\bord4.08\c&H5446C9&\3c&H5446C9&\blur8.15}Liceul morților
+Dialogue: 0,0:02:18.49,0:02:18.53,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(212.76,185.71)\fscx284.32\fscy297.86\frz-5.96\fnDisintegration\bord4.06\c&H5446C9&\3c&H5446C9&\blur8.12}Liceul morților
+Dialogue: 0,0:02:18.53,0:02:18.57,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(213.06,192.85)\fscx283.29\fscy296.78\frz-5.96\fnDisintegration\bord4.05\c&H5446C9&\3c&H5446C9&\blur8.09}Liceul morților
+Dialogue: 0,0:02:18.57,0:02:18.61,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(213.64,194.65)\fscx282.22\fscy295.66\frz-5.96\fnDisintegration\bord4.03\c&H5446C9&\3c&H5446C9&\blur8.06}Liceul morților
+Dialogue: 0,0:02:18.61,0:02:18.65,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(210.66,191.85)\fscx281.19\fscy294.59\frz-5.96\fnDisintegration\bord4.02\c&H5446C9&\3c&H5446C9&\blur8.03}Liceul morților
+Dialogue: 0,0:02:18.65,0:02:18.70,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(216.22,194)\fscx280.09\fscy293.43\frz-5.96\fnDisintegration\bord4\c&H5446C9&\3c&H5446C9&\blur8}Liceul morților
+Dialogue: 0,0:02:18.70,0:02:18.74,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(214.95,187.66)\fscx279.06\fscy292.35\frz-5.96\fnDisintegration\bord3.99\c&H5446C9&\3c&H5446C9&\blur7.97}Liceul morților
+Dialogue: 0,0:02:18.74,0:02:18.78,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(215.4,188.25)\fscx278\fscy291.23\frz-5.96\fnDisintegration\bord3.97\c&H5446C9&\3c&H5446C9&\blur7.94}Liceul morților
+Dialogue: 0,0:02:18.78,0:02:18.82,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(223.67,183.3)\fscx276.93\fscy290.12\frz-5.96\fnDisintegration\bord3.96\c&H5446C9&\3c&H5446C9&\blur7.91}Liceul morților
+Dialogue: 0,0:02:18.82,0:02:18.86,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(228.98,180.44)\fscx275.85\fscy288.99\frz-5.96\fnDisintegration\bord3.94\c&H5446C9&\3c&H5446C9&\blur7.88}Liceul morților
+Dialogue: 0,0:02:18.86,0:02:18.91,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(229.03,190.54)\fscx274.81\fscy287.89\frz-5.96\fnDisintegration\bord3.93\c&H5446C9&\3c&H5446C9&\blur7.85}Liceul morților
+Dialogue: 0,0:02:18.91,0:02:18.95,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(240.89,192.37)\fscx273.73\fscy286.77\frz-5.96\fnDisintegration\bord3.91\c&H5446C9&\3c&H5446C9&\blur7.82}Liceul morților
+Dialogue: 0,0:02:18.95,0:02:18.99,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(243.75,188.8)\fscx272.65\fscy285.64\frz-5.96\fnDisintegration\bord3.9\c&H5446C9&\3c&H5446C9&\blur7.79}Liceul morților
+Dialogue: 0,0:02:18.99,0:02:19.03,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(247.54,189.49)\fscx271.6\fscy284.53\frz-5.96\fnDisintegration\bord3.88\c&H5446C9&\3c&H5446C9&\blur7.76}Liceul morților
+Dialogue: 0,0:02:19.03,0:02:19.07,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(253.36,181.22)\fscx270.52\fscy283.4\frz-5.96\fnDisintegration\bord3.86\c&H5446C9&\3c&H5446C9&\blur7.73}Liceul morților
+Dialogue: 0,0:02:19.07,0:02:19.11,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(263.03,183.81)\fscx269.48\fscy282.31\frz-5.96\fnDisintegration\bord3.85\c&H5446C9&\3c&H5446C9&\blur7.7}Liceul morților
+Dialogue: 0,0:02:19.11,0:02:19.16,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(273.74,180.64)\fscx268.41\fscy281.19\frz-5.96\fnDisintegration\bord3.83\c&H5446C9&\3c&H5446C9&\blur7.67}Liceul morților
+Dialogue: 0,0:02:19.16,0:02:19.20,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(287.34,176.68)\fscx267.34\fscy280.07\frz-5.96\fnDisintegration\bord3.82\c&H5446C9&\3c&H5446C9&\blur7.64}Liceul morților
+Dialogue: 0,0:02:19.20,0:02:19.24,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(288.88,175.98)\fscx266.28\fscy278.96\frz-5.96\fnDisintegration\bord3.8\c&H5446C9&\3c&H5446C9&\blur7.61}Liceul morților
+Dialogue: 0,0:02:19.24,0:02:19.28,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(285.52,174.48)\fscx265.25\fscy277.88\frz-5.96\fnDisintegration\bord3.79\c&H5446C9&\3c&H5446C9&\blur7.58}Liceul morților
+Dialogue: 0,0:02:19.28,0:02:19.32,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(282.87,169.96)\fscx264.18\fscy276.76\frz-5.96\fnDisintegration\bord3.77\c&H5446C9&\3c&H5446C9&\blur7.55}Liceul morților
+Dialogue: 0,0:02:19.32,0:02:19.36,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(289.05,170.65)\fscx263.08\fscy275.61\frz-5.96\fnDisintegration\bord3.76\c&H5446C9&\3c&H5446C9&\blur7.52}Liceul morților
+Dialogue: 0,0:02:19.36,0:02:19.41,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(289.37,164.29)\fscx262.13\fscy274.61\frz-5.96\fnDisintegration\bord3.74\c&H5446C9&\3c&H5446C9&\blur7.49}Liceul morților
+Dialogue: 0,0:02:19.41,0:02:19.45,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(295.7,169.8)\fscx261.05\fscy273.48\frz-5.96\fnDisintegration\bord3.73\c&H5446C9&\3c&H5446C9&\blur7.46}Liceul morților
+Dialogue: 0,0:02:19.45,0:02:19.49,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(303.34,169.35)\fscx259.96\fscy272.34\frz-5.96\fnDisintegration\bord3.71\c&H5446C9&\3c&H5446C9&\blur7.43}Liceul morților
+Dialogue: 0,0:02:19.49,0:02:19.53,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(319.39,172.82)\fscx258.88\fscy271.21\frz-5.96\fnDisintegration\bord3.7\c&H5446C9&\3c&H5446C9&\blur7.4}Liceul morților
+Dialogue: 0,0:02:19.53,0:02:19.57,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(328.71,171.62)\fscx257.81\fscy270.09\frz-5.96\fnDisintegration\bord3.68\c&H5446C9&\3c&H5446C9&\blur7.37}Liceul morților
+Dialogue: 0,0:02:19.57,0:02:19.61,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(335.2,172.64)\fscx256.77\fscy269\frz-5.96\fnDisintegration\bord3.67\c&H5446C9&\3c&H5446C9&\blur7.34}Liceul morților
+Dialogue: 0,0:02:19.61,0:02:19.66,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(329.75,170.98)\fscx255.7\fscy267.87\frz-5.96\fnDisintegration\bord3.65\c&H5446C9&\3c&H5446C9&\blur7.31}Liceul morților
+Dialogue: 0,0:02:19.66,0:02:19.70,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(332.88,169.39)\fscx254.62\fscy266.75\frz-5.96\fnDisintegration\bord3.64\c&H5446C9&\3c&H5446C9&\blur7.27}Liceul morților
+Dialogue: 0,0:02:19.70,0:02:19.74,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(335.54,165.82)\fscx253.59\fscy265.66\frz-5.96\fnDisintegration\bord3.62\c&H5446C9&\3c&H5446C9&\blur7.25}Liceul morților
+Dialogue: 0,0:02:19.74,0:02:19.78,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(342.58,161.49)\fscx252.57\fscy264.6\frz-5.96\fnDisintegration\bord3.61\c&H5446C9&\3c&H5446C9&\blur7.22}Liceul morților
+Dialogue: 0,0:02:19.78,0:02:19.82,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(357.96,157.48)\fscx251.49\fscy263.47\frz-5.96\fnDisintegration\bord3.59\c&H5446C9&\3c&H5446C9&\blur7.19}Liceul morților
+Dialogue: 0,0:02:19.82,0:02:19.86,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(367.04,164.91)\fscx250.45\fscy262.37\frz-5.96\fnDisintegration\bord3.58\c&H5446C9&\3c&H5446C9&\blur7.16}Liceul morților
+Dialogue: 0,0:02:19.86,0:02:19.91,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(356.68,171.52)\fscx249.43\fscy261.31\frz-5.96\fnDisintegration\bord3.56\c&H5446C9&\3c&H5446C9&\blur7.13}Liceul morților
+Dialogue: 0,0:02:19.91,0:02:19.95,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(357.09,191.57)\fscx248.34\fscy260.17\frz-5.96\fnDisintegration\bord3.55\c&H5446C9&\3c&H5446C9&\blur7.1}Liceul morților
+Dialogue: 0,0:02:19.95,0:02:19.99,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(356.84,207.07)\fscx247.3\fscy259.08\frz-5.96\fnDisintegration\bord3.53\c&H5446C9&\3c&H5446C9&\blur7.07}Liceul morților
+Dialogue: 0,0:02:19.99,0:02:20.03,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(355.85,223.84)\fscx246.25\fscy257.97\frz-5.96\fnDisintegration\bord3.52\c&H5446C9&\3c&H5446C9&\blur7.04}Liceul morților
+Dialogue: 0,0:02:20.03,0:02:20.07,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(347.78,229.49)\fscx245.17\fscy256.85\frz-5.96\fnDisintegration\bord3.5\c&H5446C9&\3c&H5446C9&\blur7}Liceul morților
+Dialogue: 0,0:02:20.07,0:02:20.11,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(337.75,240.42)\fscx244.11\fscy255.73\frz-5.96\fnDisintegration\bord3.49\c&H5446C9&\3c&H5446C9&\blur6.97}Liceul morților
+Dialogue: 0,0:02:20.11,0:02:20.16,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(321.85,238.78)\fscx243.03\fscy254.6\frz-5.96\fnDisintegration\bord3.47\c&H5446C9&\3c&H5446C9&\blur6.94}Liceul morților
+Dialogue: 0,0:02:20.16,0:02:20.20,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(315.79,237.21)\fscx241.97\fscy253.49\frz-5.96\fnDisintegration\bord3.46\c&H5446C9&\3c&H5446C9&\blur6.91}Liceul morților
+Dialogue: 0,0:02:20.20,0:02:20.24,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(308.98,228.91)\fscx240.88\fscy252.35\frz-5.96\fnDisintegration\bord3.44\c&H5446C9&\3c&H5446C9&\blur6.88}Liceul morților
+Dialogue: 0,0:02:20.24,0:02:20.28,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(311.53,222.55)\fscx239.83\fscy251.26\frz-5.96\fnDisintegration\bord3.43\c&H5446C9&\3c&H5446C9&\blur6.85}Liceul morților
+Dialogue: 0,0:02:20.28,0:02:20.32,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(320.57,220.23)\fscx238.76\fscy250.13\frz-5.96\fnDisintegration\bord3.41\c&H5446C9&\3c&H5446C9&\blur6.82}Liceul morților
+Dialogue: 0,0:02:20.32,0:02:20.37,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(329.7,223.59)\fscx237.69\fscy249.01\frz-5.96\fnDisintegration\bord3.4\c&H5446C9&\3c&H5446C9&\blur6.79}Liceul morților
+Dialogue: 0,0:02:20.37,0:02:20.41,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(321.54,217.33)\fscx236.63\fscy247.9\frz-5.96\fnDisintegration\bord3.38\c&H5446C9&\3c&H5446C9&\blur6.76}Liceul morților
+Dialogue: 0,0:02:20.41,0:02:20.45,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(324.69,216.15)\fscx235.57\fscy246.79\frz-5.96\fnDisintegration\bord3.37\c&H5446C9&\3c&H5446C9&\blur6.73}Liceul morților
+Dialogue: 0,0:02:20.45,0:02:20.49,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(325.95,219.57)\fscx234.5\fscy245.67\frz-5.96\fnDisintegration\bord3.35\c&H5446C9&\3c&H5446C9&\blur6.7}Liceul morților
+Dialogue: 0,0:02:20.49,0:02:20.53,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(329.66,224.54)\fscx233.46\fscy244.58\frz-5.96\fnDisintegration\bord3.34\c&H5446C9&\3c&H5446C9&\blur6.67}Liceul morților
+Dialogue: 0,0:02:20.53,0:02:20.57,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(334.88,223.72)\fscx232.37\fscy243.44\frz-5.96\fnDisintegration\bord3.32\c&H5446C9&\3c&H5446C9&\blur6.64}Liceul morților
+Dialogue: 0,0:02:20.57,0:02:20.62,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(344.39,220.26)\fscx231.33\fscy242.35\frz-5.96\fnDisintegration\bord3.3\c&H5446C9&\3c&H5446C9&\blur6.61}Liceul morților
+Dialogue: 0,0:02:20.62,0:02:20.66,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(347.12,214.21)\fscx230.26\fscy241.23\frz-5.96\fnDisintegration\bord3.29\c&H5446C9&\3c&H5446C9&\blur6.58}Liceul morților
+Dialogue: 0,0:02:20.66,0:02:20.70,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(355.84,216.81)\fscx229.19\fscy240.11\frz-5.96\fnDisintegration\bord3.27\c&H5446C9&\3c&H5446C9&\blur6.55}Liceul morților
+Dialogue: 0,0:02:20.70,0:02:20.74,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(368.79,223.42)\fscx228.11\fscy238.97\frz-5.96\fnDisintegration\bord3.26\c&H5446C9&\3c&H5446C9&\blur6.52}Liceul morților
+Dialogue: 0,0:02:20.74,0:02:20.78,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(375.6,234.43)\fscx227.08\fscy237.9\frz-5.96\fnDisintegration\bord3.24\c&H5446C9&\3c&H5446C9&\blur6.49}Liceul morților
+Dialogue: 0,0:02:20.78,0:02:20.82,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(380.07,247.39)\fscx226.03\fscy236.8\frz-5.96\fnDisintegration\bord3.23\c&H5446C9&\3c&H5446C9&\blur6.46}Liceul morților
+Dialogue: 0,0:02:20.82,0:02:20.87,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(391.97,264.78)\fscx224.98\fscy235.7\frz-5.96\fnDisintegration\bord3.21\c&H5446C9&\3c&H5446C9&\blur6.43}Liceul morților
+Dialogue: 0,0:02:20.87,0:02:20.91,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(392.74,265.5)\fscx223.96\fscy234.63\frz-5.96\fnDisintegration\bord3.2\c&H5446C9&\3c&H5446C9&\blur6.4}Liceul morților
+Dialogue: 0,0:02:20.91,0:02:20.95,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(401.38,268.9)\fscx222.85\fscy233.46\frz-5.96\fnDisintegration\bord3.18\c&H5446C9&\3c&H5446C9&\blur6.37}Liceul morților
+Dialogue: 0,0:02:20.95,0:02:20.99,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(411.02,265.9)\fscx221.81\fscy232.37\frz-5.96\fnDisintegration\bord3.17\c&H5446C9&\3c&H5446C9&\blur6.34}Liceul morților
+Dialogue: 0,0:02:20.99,0:02:21.03,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(425.98,257.88)\fscx220.73\fscy231.25\frz-5.96\fnDisintegration\bord3.15\c&H5446C9&\3c&H5446C9&\blur6.31}Liceul morților
+Dialogue: 0,0:02:21.03,0:02:21.07,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(440.72,253.17)\fscx219.63\fscy230.09\frz-5.96\fnDisintegration\bord3.14\c&H5446C9&\3c&H5446C9&\blur6.28}Liceul morților
+Dialogue: 0,0:02:21.07,0:02:21.12,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(449.51,252.01)\fscx218.56\fscy228.97\frz-5.96\fnDisintegration\bord3.12\c&H5446C9&\3c&H5446C9&\blur6.24}Liceul morților
+Dialogue: 0,0:02:21.12,0:02:21.16,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(443.54,255.83)\fscx217.46\fscy227.82\frz-5.96\fnDisintegration\bord3.11\c&H5446C9&\3c&H5446C9&\blur6.21}Liceul morților
+Dialogue: 0,0:02:21.16,0:02:21.20,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(446.19,260.23)\fscx216.39\fscy226.69\frz-5.96\fnDisintegration\bord3.09\c&H5446C9&\3c&H5446C9&\blur6.18}Liceul morților
+Dialogue: 0,0:02:21.20,0:02:21.24,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(446.26,252.32)\fscx215.29\fscy225.54\frz-5.96\fnDisintegration\bord3.08\c&H5446C9&\3c&H5446C9&\blur6.15}Liceul morților
+Dialogue: 0,0:02:21.24,0:02:21.28,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(450.1,253.05)\fscx214.22\fscy224.42\frz-5.96\fnDisintegration\bord3.06\c&H5446C9&\3c&H5446C9&\blur6.12}Liceul morților
+Dialogue: 0,0:02:21.28,0:02:21.32,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(441.2,265.08)\fscx213.18\fscy223.33\frz-5.96\fnDisintegration\bord3.05\c&H5446C9&\3c&H5446C9&\blur6.09}Liceul morților
+Dialogue: 0,0:02:21.32,0:02:21.37,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(434.61,281.7)\fscx212.1\fscy222.2\frz-5.96\fnDisintegration\bord3.03\c&H5446C9&\3c&H5446C9&\blur6.06}Liceul morților
+Dialogue: 0,0:02:21.37,0:02:21.41,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(419.01,293.59)\fscx211.02\fscy221.06\frz-5.96\fnDisintegration\bord3.01\c&H5446C9&\3c&H5446C9&\blur6.03}Liceul morților
+Dialogue: 0,0:02:21.41,0:02:21.45,DedzuyaSigns,,0,0,0,,{=3}{\an1\pos(407.02,311.29)\fscx210\fscy220\frz-5.96\fnDisintegration\bord3\c&H5446C9&\3c&H5446C9&\blur6}Liceul morților
+Dialogue: 1,0:02:16.53,0:02:16.57,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(132.2,80.74)\fscx334.24\fscy350.16\frz-5.96\fnDisintegration\c&H151315&\blur1.91}Liceul morților
+Dialogue: 1,0:02:16.57,0:02:16.61,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(118.51,116.78)\fscx333.24\fscy349.11\frz-5.96\fnDisintegration\c&H151315&\blur1.9}Liceul morților
+Dialogue: 1,0:02:16.61,0:02:16.65,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(106.61,145.07)\fscx332.21\fscy348.03\frz-5.96\fnDisintegration\c&H151315&\blur1.9}Liceul morților
+Dialogue: 1,0:02:16.65,0:02:16.69,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(102.36,156.53)\fscx331.15\fscy346.92\frz-5.96\fnDisintegration\c&H151315&\blur1.89}Liceul morților
+Dialogue: 1,0:02:16.69,0:02:16.74,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(93.94,156.44)\fscx330.1\fscy345.82\frz-5.96\fnDisintegration\c&H151315&\blur1.89}Liceul morților
+Dialogue: 1,0:02:16.74,0:02:16.78,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(89.64,155.18)\fscx329.1\fscy344.77\frz-5.96\fnDisintegration\c&H151315&\blur1.88}Liceul morților
+Dialogue: 1,0:02:16.78,0:02:16.82,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(88.92,144.71)\fscx328.04\fscy343.67\frz-5.96\fnDisintegration\c&H151416&\blur1.87}Liceul morților
+Dialogue: 1,0:02:16.82,0:02:16.86,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(84.75,141.77)\fscx326.98\fscy342.55\frz-5.96\fnDisintegration\c&H161416&\blur1.87}Liceul morților
+Dialogue: 1,0:02:16.86,0:02:16.90,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(78.12,140.17)\fscx325.94\fscy341.46\frz-5.96\fnDisintegration\c&H161416&\blur1.86}Liceul morților
+Dialogue: 1,0:02:16.90,0:02:16.94,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(93.69,150.72)\fscx324.89\fscy340.36\frz-5.96\fnDisintegration\c&H161416&\blur1.86}Liceul morților
+Dialogue: 1,0:02:16.94,0:02:16.99,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(105.12,166.88)\fscx323.77\fscy339.19\frz-5.96\fnDisintegration\c&H161416&\blur1.85}Liceul morților
+Dialogue: 1,0:02:16.99,0:02:17.03,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(111.6,176.8)\fscx322.73\fscy338.1\frz-5.96\fnDisintegration\c&H161416&\blur1.84}Liceul morților
+Dialogue: 1,0:02:17.03,0:02:17.07,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(105.2,175.73)\fscx321.65\fscy336.96\frz-5.96\fnDisintegration\c&H161416&\blur1.84}Liceul morților
+Dialogue: 1,0:02:17.07,0:02:17.11,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(105.12,174.25)\fscx320.6\fscy335.87\frz-5.96\fnDisintegration\c&H161416&\blur1.83}Liceul morților
+Dialogue: 1,0:02:17.11,0:02:17.15,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(103.1,163.34)\fscx319.56\fscy334.77\frz-5.96\fnDisintegration\c&H161416&\blur1.83}Liceul morților
+Dialogue: 1,0:02:17.15,0:02:17.20,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(113.22,162.87)\fscx318.46\fscy333.62\frz-5.96\fnDisintegration\c&H161416&\blur1.82}Liceul morților
+Dialogue: 1,0:02:17.20,0:02:17.24,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(121.6,157.99)\fscx317.38\fscy332.5\frz-5.96\fnDisintegration\c&H161516&\blur1.81}Liceul morților
+Dialogue: 1,0:02:17.24,0:02:17.28,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(129.74,158.74)\fscx316.34\fscy331.41\frz-5.96\fnDisintegration\c&H161516&\blur1.81}Liceul morților
+Dialogue: 1,0:02:17.28,0:02:17.32,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(132.72,157.09)\fscx315.3\fscy330.31\frz-5.96\fnDisintegration\c&H161517&\blur1.8}Liceul morților
+Dialogue: 1,0:02:17.32,0:02:17.36,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(142.56,161.8)\fscx314.22\fscy329.18\frz-5.96\fnDisintegration\c&H161517&\blur1.8}Liceul morților
+Dialogue: 1,0:02:17.36,0:02:17.40,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(148.37,158.6)\fscx313.14\fscy328.05\frz-5.96\fnDisintegration\c&H171517&\blur1.79}Liceul morților
+Dialogue: 1,0:02:17.40,0:02:17.45,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(149.52,157.28)\fscx311.98\fscy326.84\frz-5.96\fnDisintegration\c&H171517&\blur1.78}Liceul morților
+Dialogue: 1,0:02:17.45,0:02:17.49,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(138.73,155.39)\fscx311.08\fscy325.89\frz-5.96\fnDisintegration\c&H171517&\blur1.78}Liceul morților
+Dialogue: 1,0:02:17.49,0:02:17.53,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(127.56,160.13)\fscx309.99\fscy324.75\frz-5.96\fnDisintegration\c&H171517&\blur1.77}Liceul morților
+Dialogue: 1,0:02:17.53,0:02:17.57,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(127.69,161.13)\fscx308.91\fscy323.62\frz-5.96\fnDisintegration\c&H171517&\blur1.77}Liceul morților
+Dialogue: 1,0:02:17.57,0:02:17.61,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(124.54,163.1)\fscx307.85\fscy322.51\frz-5.96\fnDisintegration\c&H171517&\blur1.76}Liceul morților
+Dialogue: 1,0:02:17.61,0:02:17.65,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(113.51,164.66)\fscx306.78\fscy321.39\frz-5.96\fnDisintegration\c&H171517&\blur1.75}Liceul morților
+Dialogue: 1,0:02:17.65,0:02:17.70,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(113.21,172.91)\fscx305.69\fscy320.25\frz-5.96\fnDisintegration\c&H171617&\blur1.75}Liceul morților
+Dialogue: 1,0:02:17.70,0:02:17.74,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(115.01,170.13)\fscx304.61\fscy319.12\frz-5.96\fnDisintegration\c&H171617&\blur1.74}Liceul morților
+Dialogue: 1,0:02:17.74,0:02:17.78,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(118.79,173.89)\fscx303.55\fscy318\frz-5.96\fnDisintegration\c&H171617&\blur1.73}Liceul morților
+Dialogue: 1,0:02:17.78,0:02:17.82,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(120.35,172.06)\fscx302.49\fscy316.89\frz-5.96\fnDisintegration\c&H171618&\blur1.73}Liceul morților
+Dialogue: 1,0:02:17.82,0:02:17.86,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(123.4,180.43)\fscx301.43\fscy315.78\frz-5.96\fnDisintegration\c&H171618&\blur1.72}Liceul morților
+Dialogue: 1,0:02:17.86,0:02:17.90,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(129.13,191.11)\fscx300.32\fscy314.63\frz-5.96\fnDisintegration\c&H171618&\blur1.72}Liceul morților
+Dialogue: 1,0:02:17.90,0:02:17.95,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(136.68,197.77)\fscx299.32\fscy313.57\frz-5.96\fnDisintegration\c&H181618&\blur1.71}Liceul morților
+Dialogue: 1,0:02:17.95,0:02:17.99,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(141.72,201.61)\fscx298.25\fscy312.45\frz-5.96\fnDisintegration\c&H181618&\blur1.7}Liceul morților
+Dialogue: 1,0:02:17.99,0:02:18.03,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(153.31,202.21)\fscx297.14\fscy311.29\frz-5.96\fnDisintegration\c&H181618&\blur1.7}Liceul morților
+Dialogue: 1,0:02:18.03,0:02:18.07,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(167.29,203.13)\fscx296.06\fscy310.16\frz-5.96\fnDisintegration\c&H181618&\blur1.69}Liceul morților
+Dialogue: 1,0:02:18.07,0:02:18.11,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(185.45,209.55)\fscx294.99\fscy309.03\frz-5.96\fnDisintegration\c&H181618&\blur1.69}Liceul morților
+Dialogue: 1,0:02:18.11,0:02:18.15,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(200.89,211.68)\fscx293.93\fscy307.93\frz-5.96\fnDisintegration\c&H181718&\blur1.68}Liceul morților
+Dialogue: 1,0:02:18.15,0:02:18.20,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(221.99,209.87)\fscx292.86\fscy306.8\frz-5.96\fnDisintegration\c&H181718&\blur1.67}Liceul morților
+Dialogue: 1,0:02:18.20,0:02:18.24,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(222.29,204.95)\fscx291.8\fscy305.7\frz-5.96\fnDisintegration\c&H181718&\blur1.67}Liceul morților
+Dialogue: 1,0:02:18.24,0:02:18.28,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(217.88,196.76)\fscx290.75\fscy304.6\frz-5.96\fnDisintegration\c&H181719&\blur1.66}Liceul morților
+Dialogue: 1,0:02:18.28,0:02:18.32,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(202.38,177.53)\fscx289.68\fscy303.47\frz-5.96\fnDisintegration\c&H181719&\blur1.66}Liceul morților
+Dialogue: 1,0:02:18.32,0:02:18.36,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(193.53,176.9)\fscx288.63\fscy302.38\frz-5.96\fnDisintegration\c&H181719&\blur1.65}Liceul morților
+Dialogue: 1,0:02:18.36,0:02:18.40,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(186.38,172.38)\fscx287.52\fscy301.21\frz-5.96\fnDisintegration\c&H181719&\blur1.64}Liceul morților
+Dialogue: 1,0:02:18.40,0:02:18.45,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(196.58,175.29)\fscx286.44\fscy300.08\frz-5.96\fnDisintegration\c&H181719&\blur1.64}Liceul morților
+Dialogue: 1,0:02:18.45,0:02:18.49,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(201.03,175.44)\fscx285.39\fscy298.98\frz-5.96\fnDisintegration\c&H191719&\blur1.63}Liceul morților
+Dialogue: 1,0:02:18.49,0:02:18.53,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(212.76,185.71)\fscx284.32\fscy297.86\frz-5.96\fnDisintegration\c&H191719&\blur1.62}Liceul morților
+Dialogue: 1,0:02:18.53,0:02:18.57,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(213.06,192.85)\fscx283.29\fscy296.78\frz-5.96\fnDisintegration\c&H191819&\blur1.62}Liceul morților
+Dialogue: 1,0:02:18.57,0:02:18.61,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(213.64,194.65)\fscx282.22\fscy295.66\frz-5.96\fnDisintegration\c&H191819&\blur1.61}Liceul morților
+Dialogue: 1,0:02:18.61,0:02:18.65,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(210.66,191.85)\fscx281.19\fscy294.59\frz-5.96\fnDisintegration\c&H191819&\blur1.61}Liceul morților
+Dialogue: 1,0:02:18.65,0:02:18.70,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(216.22,194)\fscx280.09\fscy293.43\frz-5.96\fnDisintegration\c&H191819&\blur1.6}Liceul morților
+Dialogue: 1,0:02:18.70,0:02:18.74,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(214.95,187.66)\fscx279.06\fscy292.35\frz-5.96\fnDisintegration\c&H191819&\blur1.59}Liceul morților
+Dialogue: 1,0:02:18.74,0:02:18.78,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(215.4,188.25)\fscx278\fscy291.23\frz-5.96\fnDisintegration\c&H19181A&\blur1.59}Liceul morților
+Dialogue: 1,0:02:18.78,0:02:18.82,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(223.67,183.3)\fscx276.93\fscy290.12\frz-5.96\fnDisintegration\c&H19181A&\blur1.58}Liceul morților
+Dialogue: 1,0:02:18.82,0:02:18.86,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(228.98,180.44)\fscx275.85\fscy288.99\frz-5.96\fnDisintegration\c&H19181A&\blur1.58}Liceul morților
+Dialogue: 1,0:02:18.86,0:02:18.91,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(229.03,190.54)\fscx274.81\fscy287.89\frz-5.96\fnDisintegration\c&H19181A&\blur1.57}Liceul morților
+Dialogue: 1,0:02:18.91,0:02:18.95,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(240.89,192.37)\fscx273.73\fscy286.77\frz-5.96\fnDisintegration\c&H19181A&\blur1.56}Liceul morților
+Dialogue: 1,0:02:18.95,0:02:18.99,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(243.75,188.8)\fscx272.65\fscy285.64\frz-5.96\fnDisintegration\c&H19181A&\blur1.56}Liceul morților
+Dialogue: 1,0:02:18.99,0:02:19.03,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(247.54,189.49)\fscx271.6\fscy284.53\frz-5.96\fnDisintegration\c&H1A191A&\blur1.55}Liceul morților
+Dialogue: 1,0:02:19.03,0:02:19.07,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(253.36,181.22)\fscx270.52\fscy283.4\frz-5.96\fnDisintegration\c&H1A191A&\blur1.55}Liceul morților
+Dialogue: 1,0:02:19.07,0:02:19.11,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(263.03,183.81)\fscx269.48\fscy282.31\frz-5.96\fnDisintegration\c&H1A191A&\blur1.54}Liceul morților
+Dialogue: 1,0:02:19.11,0:02:19.16,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(273.74,180.64)\fscx268.41\fscy281.19\frz-5.96\fnDisintegration\c&H1A191A&\blur1.53}Liceul morților
+Dialogue: 1,0:02:19.16,0:02:19.20,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(287.34,176.68)\fscx267.34\fscy280.07\frz-5.96\fnDisintegration\c&H1A191A&\blur1.53}Liceul morților
+Dialogue: 1,0:02:19.20,0:02:19.24,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(288.88,175.98)\fscx266.28\fscy278.96\frz-5.96\fnDisintegration\c&H1A191A&\blur1.52}Liceul morților
+Dialogue: 1,0:02:19.24,0:02:19.28,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(285.52,174.48)\fscx265.25\fscy277.88\frz-5.96\fnDisintegration\c&H1A191B&\blur1.52}Liceul morților
+Dialogue: 1,0:02:19.28,0:02:19.32,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(282.87,169.96)\fscx264.18\fscy276.76\frz-5.96\fnDisintegration\c&H1A191B&\blur1.51}Liceul morților
+Dialogue: 1,0:02:19.32,0:02:19.36,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(289.05,170.65)\fscx263.08\fscy275.61\frz-5.96\fnDisintegration\c&H1A191B&\blur1.5}Liceul morților
+Dialogue: 1,0:02:19.36,0:02:19.41,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(289.37,164.29)\fscx262.13\fscy274.61\frz-5.96\fnDisintegration\c&H1A191B&\blur1.5}Liceul morților
+Dialogue: 1,0:02:19.41,0:02:19.45,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(295.7,169.8)\fscx261.05\fscy273.48\frz-5.96\fnDisintegration\c&H1A191B&\blur1.49}Liceul morților
+Dialogue: 1,0:02:19.45,0:02:19.49,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(303.34,169.35)\fscx259.96\fscy272.34\frz-5.96\fnDisintegration\c&H1A1A1B&\blur1.49}Liceul morților
+Dialogue: 1,0:02:19.49,0:02:19.53,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(319.39,172.82)\fscx258.88\fscy271.21\frz-5.96\fnDisintegration\c&H1A1A1B&\blur1.48}Liceul morților
+Dialogue: 1,0:02:19.53,0:02:19.57,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(328.71,171.62)\fscx257.81\fscy270.09\frz-5.96\fnDisintegration\c&H1B1A1B&\blur1.47}Liceul morților
+Dialogue: 1,0:02:19.57,0:02:19.61,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(335.2,172.64)\fscx256.77\fscy269\frz-5.96\fnDisintegration\c&H1B1A1B&\blur1.47}Liceul morților
+Dialogue: 1,0:02:19.61,0:02:19.66,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(329.75,170.98)\fscx255.7\fscy267.87\frz-5.96\fnDisintegration\c&H1B1A1B&\blur1.46}Liceul morților
+Dialogue: 1,0:02:19.66,0:02:19.70,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(332.88,169.39)\fscx254.62\fscy266.75\frz-5.96\fnDisintegration\c&H1B1A1B&\blur1.45}Liceul morților
+Dialogue: 1,0:02:19.70,0:02:19.74,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(335.54,165.82)\fscx253.59\fscy265.66\frz-5.96\fnDisintegration\c&H1B1A1B&\blur1.45}Liceul morților
+Dialogue: 1,0:02:19.74,0:02:19.78,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(342.58,161.49)\fscx252.57\fscy264.6\frz-5.96\fnDisintegration\c&H1B1A1C&\blur1.44}Liceul morților
+Dialogue: 1,0:02:19.78,0:02:19.82,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(357.96,157.48)\fscx251.49\fscy263.47\frz-5.96\fnDisintegration\c&H1B1A1C&\blur1.44}Liceul morților
+Dialogue: 1,0:02:19.82,0:02:19.86,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(367.04,164.91)\fscx250.45\fscy262.37\frz-5.96\fnDisintegration\c&H1B1A1C&\blur1.43}Liceul morților
+Dialogue: 1,0:02:19.86,0:02:19.91,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(356.68,171.52)\fscx249.43\fscy261.31\frz-5.96\fnDisintegration\c&H1B1B1C&\blur1.43}Liceul morților
+Dialogue: 1,0:02:19.91,0:02:19.95,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(357.09,191.57)\fscx248.34\fscy260.17\frz-5.96\fnDisintegration\c&H1B1B1C&\blur1.42}Liceul morților
+Dialogue: 1,0:02:19.95,0:02:19.99,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(356.84,207.07)\fscx247.3\fscy259.08\frz-5.96\fnDisintegration\c&H1B1B1C&\blur1.41}Liceul morților
+Dialogue: 1,0:02:19.99,0:02:20.03,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(355.85,223.84)\fscx246.25\fscy257.97\frz-5.96\fnDisintegration\c&H1B1B1C&\blur1.41}Liceul morților
+Dialogue: 1,0:02:20.03,0:02:20.07,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(347.78,229.49)\fscx245.17\fscy256.85\frz-5.96\fnDisintegration\c&H1B1B1C&\blur1.4}Liceul morților
+Dialogue: 1,0:02:20.07,0:02:20.11,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(337.75,240.42)\fscx244.11\fscy255.73\frz-5.96\fnDisintegration\c&H1C1B1C&\blur1.39}Liceul morților
+Dialogue: 1,0:02:20.11,0:02:20.16,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(321.85,238.78)\fscx243.03\fscy254.6\frz-5.96\fnDisintegration\c&H1C1B1C&\blur1.39}Liceul morților
+Dialogue: 1,0:02:20.16,0:02:20.20,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(315.79,237.21)\fscx241.97\fscy253.49\frz-5.96\fnDisintegration\c&H1C1B1C&\blur1.38}Liceul morților
+Dialogue: 1,0:02:20.20,0:02:20.24,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(308.98,228.91)\fscx240.88\fscy252.35\frz-5.96\fnDisintegration\c&H1C1B1D&\blur1.38}Liceul morților
+Dialogue: 1,0:02:20.24,0:02:20.28,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(311.53,222.55)\fscx239.83\fscy251.26\frz-5.96\fnDisintegration\c&H1C1B1D&\blur1.37}Liceul morților
+Dialogue: 1,0:02:20.28,0:02:20.32,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(320.57,220.23)\fscx238.76\fscy250.13\frz-5.96\fnDisintegration\c&H1C1B1D&\blur1.36}Liceul morților
+Dialogue: 1,0:02:20.32,0:02:20.37,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(329.7,223.59)\fscx237.69\fscy249.01\frz-5.96\fnDisintegration\c&H1C1C1D&\blur1.36}Liceul morților
+Dialogue: 1,0:02:20.37,0:02:20.41,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(321.54,217.33)\fscx236.63\fscy247.9\frz-5.96\fnDisintegration\c&H1C1C1D&\blur1.35}Liceul morților
+Dialogue: 1,0:02:20.41,0:02:20.45,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(324.69,216.15)\fscx235.57\fscy246.79\frz-5.96\fnDisintegration\c&H1C1C1D&\blur1.35}Liceul morților
+Dialogue: 1,0:02:20.45,0:02:20.49,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(325.95,219.57)\fscx234.5\fscy245.67\frz-5.96\fnDisintegration\c&H1C1C1D&\blur1.34}Liceul morților
+Dialogue: 1,0:02:20.49,0:02:20.53,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(329.66,224.54)\fscx233.46\fscy244.58\frz-5.96\fnDisintegration\c&H1C1C1D&\blur1.33}Liceul morților
+Dialogue: 1,0:02:20.53,0:02:20.57,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(334.88,223.72)\fscx232.37\fscy243.44\frz-5.96\fnDisintegration\c&H1C1C1D&\blur1.33}Liceul morților
+Dialogue: 1,0:02:20.57,0:02:20.62,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(344.39,220.26)\fscx231.33\fscy242.35\frz-5.96\fnDisintegration\c&H1C1C1D&\blur1.32}Liceul morților
+Dialogue: 1,0:02:20.62,0:02:20.66,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(347.12,214.21)\fscx230.26\fscy241.23\frz-5.96\fnDisintegration\c&H1D1C1D&\blur1.32}Liceul morților
+Dialogue: 1,0:02:20.66,0:02:20.70,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(355.84,216.81)\fscx229.19\fscy240.11\frz-5.96\fnDisintegration\c&H1D1C1D&\blur1.31}Liceul morților
+Dialogue: 1,0:02:20.70,0:02:20.74,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(368.79,223.42)\fscx228.11\fscy238.97\frz-5.96\fnDisintegration\c&H1D1C1E&\blur1.3}Liceul morților
+Dialogue: 1,0:02:20.74,0:02:20.78,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(375.6,234.43)\fscx227.08\fscy237.9\frz-5.96\fnDisintegration\c&H1D1C1E&\blur1.3}Liceul morților
+Dialogue: 1,0:02:20.78,0:02:20.82,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(380.07,247.39)\fscx226.03\fscy236.8\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.29}Liceul morților
+Dialogue: 1,0:02:20.82,0:02:20.87,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(391.97,264.78)\fscx224.98\fscy235.7\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.29}Liceul morților
+Dialogue: 1,0:02:20.87,0:02:20.91,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(392.74,265.5)\fscx223.96\fscy234.63\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.28}Liceul morților
+Dialogue: 1,0:02:20.91,0:02:20.95,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(401.38,268.9)\fscx222.85\fscy233.46\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.27}Liceul morților
+Dialogue: 1,0:02:20.95,0:02:20.99,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(411.02,265.9)\fscx221.81\fscy232.37\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.27}Liceul morților
+Dialogue: 1,0:02:20.99,0:02:21.03,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(425.98,257.88)\fscx220.73\fscy231.25\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.26}Liceul morților
+Dialogue: 1,0:02:21.03,0:02:21.07,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(440.72,253.17)\fscx219.63\fscy230.09\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.26}Liceul morților
+Dialogue: 1,0:02:21.07,0:02:21.12,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(449.51,252.01)\fscx218.56\fscy228.97\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.25}Liceul morților
+Dialogue: 1,0:02:21.12,0:02:21.16,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(443.54,255.83)\fscx217.46\fscy227.82\frz-5.96\fnDisintegration\c&H1D1D1E&\blur1.24}Liceul morților
+Dialogue: 1,0:02:21.16,0:02:21.20,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(446.19,260.23)\fscx216.39\fscy226.69\frz-5.96\fnDisintegration\c&H1E1D1E&\blur1.24}Liceul morților
+Dialogue: 1,0:02:21.20,0:02:21.24,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(446.26,252.32)\fscx215.29\fscy225.54\frz-5.96\fnDisintegration\c&H1E1E1F&\blur1.23}Liceul morților
+Dialogue: 1,0:02:21.24,0:02:21.28,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(450.1,253.05)\fscx214.22\fscy224.42\frz-5.96\fnDisintegration\c&H1E1E1F&\blur1.22}Liceul morților
+Dialogue: 1,0:02:21.28,0:02:21.32,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(441.2,265.08)\fscx213.18\fscy223.33\frz-5.96\fnDisintegration\c&H1E1E1F&\blur1.22}Liceul morților
+Dialogue: 1,0:02:21.32,0:02:21.37,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(434.61,281.7)\fscx212.1\fscy222.2\frz-5.96\fnDisintegration\c&H1E1E1F&\blur1.21}Liceul morților
+Dialogue: 1,0:02:21.37,0:02:21.41,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(419.01,293.59)\fscx211.02\fscy221.06\frz-5.96\fnDisintegration\c&H1E1E1F&\blur1.21}Liceul morților
+Dialogue: 1,0:02:21.41,0:02:21.45,DedzuyaSigns,,0,0,0,,{=2}{\an1\pos(407.02,311.29)\fscx210\fscy220\frz-5.96\fnDisintegration\c&H1E1E1F&\blur1.2}Liceul morților
+Dialogue: 0,0:02:21.57,0:02:21.62,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(3.28,335.65)\fscx530.01\fscy470\frz8.02\fnDisintegration\blur20}Liceul morților
+Dialogue: 0,0:02:21.62,0:02:21.66,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(15,333.45)\fscx528.18\fscy468.37\frz8.02\fnDisintegration\blur19.93}Liceul morților
+Dialogue: 0,0:02:21.66,0:02:21.70,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(22.67,344.51)\fscx526.42\fscy466.82\frz8.02\fnDisintegration\blur19.86}Liceul morților
+Dialogue: 0,0:02:21.70,0:02:21.74,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(25.57,335.17)\fscx524.56\fscy465.16\frz8.02\fnDisintegration\blur19.79}Liceul morților
+Dialogue: 0,0:02:21.74,0:02:21.78,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(28.76,339.32)\fscx522.7\fscy463.51\frz8.02\fnDisintegration\blur19.72}Liceul morților
+Dialogue: 0,0:02:21.78,0:02:21.82,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(28.62,330.24)\fscx520.93\fscy461.95\frz8.02\fnDisintegration\blur19.66}Liceul morților
+Dialogue: 0,0:02:21.82,0:02:21.87,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(31.13,334.6)\fscx519.11\fscy460.34\frz8.02\fnDisintegration\blur19.59}Liceul morților
+Dialogue: 0,0:02:21.87,0:02:21.91,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(40.51,325.63)\fscx517.26\fscy458.69\frz8.02\fnDisintegration\blur19.52}Liceul morților
+Dialogue: 0,0:02:21.91,0:02:21.95,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(43.61,329.92)\fscx515.45\fscy457.09\frz8.02\fnDisintegration\blur19.45}Liceul morților
+Dialogue: 0,0:02:21.95,0:02:21.99,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(54.99,320.68)\fscx513.64\fscy455.48\frz8.02\fnDisintegration\blur19.38}Liceul morților
+Dialogue: 0,0:02:21.99,0:02:22.03,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(62.62,324.67)\fscx511.84\fscy453.89\frz8.02\fnDisintegration\blur19.31}Liceul morților
+Dialogue: 0,0:02:22.03,0:02:22.08,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(71.01,315.18)\fscx510.02\fscy452.27\frz8.02\fnDisintegration\blur19.25}Liceul morților
+Dialogue: 0,0:02:22.08,0:02:22.12,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(57.51,324.21)\fscx508.22\fscy450.68\frz8.02\fnDisintegration\blur19.18}Liceul morților
+Dialogue: 0,0:02:22.12,0:02:22.16,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(61.01,319.98)\fscx506.33\fscy449\frz8.02\fnDisintegration\blur19.11}Liceul morților
+Dialogue: 0,0:02:22.16,0:02:22.20,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(65.2,329.05)\fscx504.7\fscy447.56\frz8.02\fnDisintegration\blur19.05}Liceul morților
+Dialogue: 0,0:02:22.20,0:02:22.24,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(57.21,324.9)\fscx502.81\fscy445.88\frz8.02\fnDisintegration\blur18.97}Liceul morților
+Dialogue: 0,0:02:22.24,0:02:22.28,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(61.94,334.14)\fscx501.02\fscy444.29\frz8.02\fnDisintegration\blur18.91}Liceul morților
+Dialogue: 0,0:02:22.28,0:02:22.33,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(58.01,330.06)\fscx499.21\fscy442.69\frz8.02\fnDisintegration\blur18.84}Liceul morților
+Dialogue: 0,0:02:22.33,0:02:22.37,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(60.87,339.34)\fscx497.4\fscy441.08\frz8.02\fnDisintegration\blur18.77}Liceul morților
+Dialogue: 0,0:02:22.37,0:02:22.41,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(61.07,335.27)\fscx495.63\fscy439.51\frz8.02\fnDisintegration\blur18.7}Liceul morților
+Dialogue: 0,0:02:22.41,0:02:22.45,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(59.21,344.52)\fscx493.82\fscy437.91\frz8.02\fnDisintegration\blur18.63}Liceul morților
+Dialogue: 0,0:02:22.45,0:02:22.49,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(59.26,333.84)\fscx492.01\fscy436.3\frz8.02\fnDisintegration\blur18.57}Liceul morților
+Dialogue: 0,0:02:22.49,0:02:22.53,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(60.16,336.46)\fscx490.21\fscy434.71\frz8.02\fnDisintegration\blur18.5}Liceul morților
+Dialogue: 0,0:02:22.53,0:02:22.58,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(59.18,325.79)\fscx488.35\fscy433.06\frz8.02\fnDisintegration\blur18.43}Liceul morților
+Dialogue: 0,0:02:22.58,0:02:22.62,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(64.55,328.51)\fscx486.57\fscy431.48\frz8.02\fnDisintegration\blur18.36}Liceul morților
+Dialogue: 0,0:02:22.62,0:02:22.66,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(63.29,318)\fscx484.73\fscy429.85\frz8.02\fnDisintegration\blur18.29}Liceul morților
+Dialogue: 0,0:02:22.66,0:02:22.70,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(71.44,321.03)\fscx482.94\fscy428.26\frz8.02\fnDisintegration\blur18.22}Liceul morților
+Dialogue: 0,0:02:22.70,0:02:22.74,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(79.8,311)\fscx481.14\fscy426.66\frz8.02\fnDisintegration\blur18.16}Liceul morților
+Dialogue: 0,0:02:22.74,0:02:22.78,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(77.86,321.99)\fscx479.3\fscy425.04\frz8.02\fnDisintegration\blur18.09}Liceul morților
+Dialogue: 0,0:02:22.78,0:02:22.83,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(82.47,319.73)\fscx477.51\fscy423.45\frz8.02\fnDisintegration\blur18.02}Liceul morților
+Dialogue: 0,0:02:22.83,0:02:22.87,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(91.63,330.94)\fscx475.59\fscy421.74\frz8.02\fnDisintegration\blur17.95}Liceul morților
+Dialogue: 0,0:02:22.87,0:02:22.91,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(100.48,328.78)\fscx473.84\fscy420.19\frz8.02\fnDisintegration\blur17.88}Liceul morților
+Dialogue: 0,0:02:22.91,0:02:22.95,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(97.18,339.93)\fscx472.11\fscy418.65\frz8.02\fnDisintegration\blur17.82}Liceul morților
+Dialogue: 0,0:02:22.95,0:02:22.99,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(107.37,337.72)\fscx470.31\fscy417.06\frz8.02\fnDisintegration\blur17.75}Liceul morților
+Dialogue: 0,0:02:22.99,0:02:23.03,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(108.63,348.81)\fscx468.5\fscy415.46\frz8.02\fnDisintegration\blur17.68}Liceul morților
+Dialogue: 0,0:02:23.03,0:02:23.08,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(113.89,346.48)\fscx466.72\fscy413.88\frz8.02\fnDisintegration\blur17.61}Liceul morților
+Dialogue: 0,0:02:23.08,0:02:23.12,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(129.21,357.16)\fscx464.29\fscy411.72\frz8.02\fnDisintegration\blur17.52}Liceul morților
+Dialogue: 0,0:02:23.12,0:02:23.16,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(122.8,354.67)\fscx462.78\fscy410.38\frz8.02\fnDisintegration\blur17.46}Liceul morților
+Dialogue: 0,0:02:23.16,0:02:23.20,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(136,365.45)\fscx461.25\fscy409.03\frz8.02\fnDisintegration\blur17.41}Liceul morților
+Dialogue: 0,0:02:23.20,0:02:23.24,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(137.08,362.69)\fscx459.74\fscy407.68\frz8.02\fnDisintegration\blur17.35}Liceul morților
+Dialogue: 0,0:02:23.24,0:02:23.28,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(136.38,373.11)\fscx458.22\fscy406.34\frz8.02\fnDisintegration\blur17.29}Liceul morților
+Dialogue: 0,0:02:23.28,0:02:23.33,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(142.21,369.83)\fscx456.37\fscy404.7\frz8.02\fnDisintegration\blur17.22}Liceul morților
+Dialogue: 0,0:02:23.33,0:02:23.37,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(152.64,379.33)\fscx454.58\fscy403.11\frz8.02\fnDisintegration\blur17.15}Liceul morților
+Dialogue: 0,0:02:23.37,0:02:23.41,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(159.45,371.95)\fscx452.74\fscy401.48\frz8.02\fnDisintegration\blur17.08}Liceul morților
+Dialogue: 0,0:02:23.41,0:02:23.45,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(152.48,378.23)\fscx450.91\fscy399.86\frz8.02\fnDisintegration\blur17.02}Liceul morților
+Dialogue: 0,0:02:23.45,0:02:23.49,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(160.31,371.26)\fscx449.11\fscy398.26\frz8.02\fnDisintegration\blur16.95}Liceul morților
+Dialogue: 0,0:02:23.49,0:02:23.53,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(160.81,377.58)\fscx447.33\fscy396.68\frz8.02\fnDisintegration\blur16.88}Liceul morților
+Dialogue: 0,0:02:23.53,0:02:23.58,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(166.91,370.54)\fscx445.53\fscy395.09\frz8.02\fnDisintegration\blur16.81}Liceul morților
+Dialogue: 0,0:02:23.58,0:02:23.62,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(171.99,376.71)\fscx443.64\fscy393.41\frz8.02\fnDisintegration\blur16.74}Liceul morților
+Dialogue: 0,0:02:23.62,0:02:23.66,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(178.57,369.44)\fscx441.85\fscy391.83\frz8.02\fnDisintegration\blur16.67}Liceul morților
+Dialogue: 0,0:02:23.66,0:02:23.70,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(184.33,375.36)\fscx440.06\fscy390.23\frz8.02\fnDisintegration\blur16.61}Liceul morților
+Dialogue: 0,0:02:23.70,0:02:23.74,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(182.04,367.8)\fscx438.36\fscy388.73\frz8.02\fnDisintegration\blur16.54}Liceul morților
+Dialogue: 0,0:02:23.74,0:02:23.79,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(181.47,373.4)\fscx436.67\fscy387.23\frz8.02\fnDisintegration\blur16.48}Liceul morților
+Dialogue: 0,0:02:23.79,0:02:23.83,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(192.41,365.45)\fscx434.99\fscy385.74\frz8.02\fnDisintegration\blur16.41}Liceul morților
+Dialogue: 0,0:02:23.83,0:02:23.87,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(196.26,370.57)\fscx433.34\fscy384.27\frz8.02\fnDisintegration\blur16.35}Liceul morților
+Dialogue: 0,0:02:23.87,0:02:23.91,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(193.74,361.9)\fscx431.11\fscy382.29\frz8.02\fnDisintegration\blur16.27}Liceul morților
+Dialogue: 0,0:02:23.91,0:02:23.95,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(205.55,366.38)\fscx429.32\fscy380.71\frz8.02\fnDisintegration\blur16.2}Liceul morților
+Dialogue: 0,0:02:23.95,0:02:23.99,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(202.71,357.13)\fscx427.48\fscy379.08\frz8.02\fnDisintegration\blur16.13}Liceul morților
+Dialogue: 0,0:02:23.99,0:02:24.04,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(207.58,367.48)\fscx425.71\fscy377.51\frz8.02\fnDisintegration\blur16.06}Liceul morților
+Dialogue: 0,0:02:24.04,0:02:24.08,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(204.41,364.95)\fscx423.92\fscy375.92\frz8.02\fnDisintegration\blur16}Liceul morților
+Dialogue: 0,0:02:24.08,0:02:24.12,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(206.9,376.27)\fscx422.13\fscy374.33\frz8.02\fnDisintegration\blur15.93}Liceul morților
+Dialogue: 0,0:02:24.12,0:02:24.16,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(207.35,374.65)\fscx420.34\fscy372.74\frz8.02\fnDisintegration\blur15.86}Liceul morților
+Dialogue: 0,0:02:24.16,0:02:24.20,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(209.4,386.71)\fscx418.59\fscy371.2\frz8.02\fnDisintegration\blur15.8}Liceul morților
+Dialogue: 0,0:02:24.20,0:02:24.24,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(203.6,385.54)\fscx416.84\fscy369.64\frz8.02\fnDisintegration\blur15.73}Liceul morților
+Dialogue: 0,0:02:24.24,0:02:24.29,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(200.46,397.64)\fscx415.2\fscy368.19\frz8.02\fnDisintegration\blur15.67}Liceul morților
+Dialogue: 0,0:02:24.29,0:02:24.33,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(196.13,396.3)\fscx413.26\fscy366.47\frz8.02\fnDisintegration\blur15.59}Liceul morților
+Dialogue: 0,0:02:24.33,0:02:24.37,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(197.27,407.88)\fscx411.44\fscy364.85\frz8.02\fnDisintegration\blur15.53}Liceul morților
+Dialogue: 0,0:02:24.37,0:02:24.41,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(209.1,397.21)\fscx409.62\fscy363.25\frz8.02\fnDisintegration\blur15.46}Liceul morților
+Dialogue: 0,0:02:24.41,0:02:24.45,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(207.21,399.95)\fscx407.81\fscy361.64\frz8.02\fnDisintegration\blur15.39}Liceul morților
+Dialogue: 0,0:02:24.45,0:02:24.49,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(220.82,389.41)\fscx405.98\fscy360.01\frz8.02\fnDisintegration\blur15.32}Liceul morților
+Dialogue: 0,0:02:24.49,0:02:24.54,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(219.57,392.3)\fscx404.15\fscy358.39\frz8.02\fnDisintegration\blur15.25}Liceul morților
+Dialogue: 0,0:02:24.54,0:02:24.58,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(224.2,381.91)\fscx402.32\fscy356.76\frz8.02\fnDisintegration\blur15.18}Liceul morților
+Dialogue: 0,0:02:24.58,0:02:24.62,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(240.95,384.97)\fscx400.51\fscy355.16\frz8.02\fnDisintegration\blur15.11}Liceul morților
+Dialogue: 0,0:02:24.62,0:02:24.66,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(244.43,374.79)\fscx398.72\fscy353.57\frz8.02\fnDisintegration\blur15.05}Liceul morților
+Dialogue: 0,0:02:24.66,0:02:24.70,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(241,378.17)\fscx396.91\fscy351.97\frz8.02\fnDisintegration\blur14.98}Liceul morților
+Dialogue: 0,0:02:24.70,0:02:24.74,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(248.8,368.44)\fscx395.08\fscy350.35\frz8.02\fnDisintegration\blur14.91}Liceul morților
+Dialogue: 0,0:02:24.74,0:02:24.79,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(261.52,372.6)\fscx393.29\fscy348.76\frz8.02\fnDisintegration\blur14.84}Liceul morților
+Dialogue: 0,0:02:24.79,0:02:24.83,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(252.46,369.17)\fscx391.47\fscy347.15\frz8.02\fnDisintegration\blur14.77}Liceul morților
+Dialogue: 0,0:02:24.83,0:02:24.87,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(254.03,378.59)\fscx389.64\fscy345.52\frz8.02\fnDisintegration\blur14.7}Liceul morților
+Dialogue: 0,0:02:24.87,0:02:24.91,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(260.68,374.36)\fscx387.82\fscy343.91\frz8.02\fnDisintegration\blur14.63}Liceul morților
+Dialogue: 0,0:02:24.91,0:02:24.95,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(269.46,383.3)\fscx386.03\fscy342.32\frz8.02\fnDisintegration\blur14.57}Liceul morților
+Dialogue: 0,0:02:24.95,0:02:24.99,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(264.03,378.8)\fscx384.26\fscy340.75\frz8.02\fnDisintegration\blur14.5}Liceul morților
+Dialogue: 0,0:02:24.99,0:02:25.04,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(274.61,387.59)\fscx382.4\fscy339.11\frz8.02\fnDisintegration\blur14.43}Liceul morților
+Dialogue: 0,0:02:25.04,0:02:25.08,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(276.8,383.02)\fscx380.62\fscy337.52\frz8.02\fnDisintegration\blur14.36}Liceul morților
+Dialogue: 0,0:02:25.08,0:02:25.12,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(271.67,391.8)\fscx378.82\fscy335.93\frz8.02\fnDisintegration\blur14.29}Liceul morților
+Dialogue: 0,0:02:25.12,0:02:25.16,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(278.43,387.28)\fscx376.94\fscy334.26\frz8.02\fnDisintegration\blur14.22}Liceul morților
+Dialogue: 0,0:02:25.16,0:02:25.20,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(287.59,396.19)\fscx375.14\fscy332.67\frz8.02\fnDisintegration\blur14.16}Liceul morților
+Dialogue: 0,0:02:25.20,0:02:25.24,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(290.21,391.81)\fscx373.31\fscy331.04\frz8.02\fnDisintegration\blur14.09}Liceul morților
+Dialogue: 0,0:02:25.24,0:02:25.29,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(281.86,400.86)\fscx371.51\fscy329.45\frz8.02\fnDisintegration\blur14.02}Liceul morților
+Dialogue: 0,0:02:25.29,0:02:25.33,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(291.83,396.68)\fscx369.67\fscy327.81\frz8.02\fnDisintegration\blur13.95}Liceul morților
+Dialogue: 0,0:02:25.33,0:02:25.37,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(291.04,405.97)\fscx367.86\fscy326.21\frz8.02\fnDisintegration\blur13.88}Liceul morților
+Dialogue: 0,0:02:25.37,0:02:25.41,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(297.03,402.06)\fscx366.06\fscy324.61\frz8.02\fnDisintegration\blur13.81}Liceul morților
+Dialogue: 0,0:02:25.41,0:02:25.45,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(300.58,411.66)\fscx364.26\fscy323.01\frz8.02\fnDisintegration\blur13.75}Liceul morților
+Dialogue: 0,0:02:25.45,0:02:25.50,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(295.64,408.07)\fscx362.42\fscy321.39\frz8.02\fnDisintegration\blur13.68}Liceul morților
+Dialogue: 0,0:02:25.50,0:02:25.54,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(302.34,418.03)\fscx360.61\fscy319.78\frz8.02\fnDisintegration\blur13.61}Liceul morților
+Dialogue: 0,0:02:25.54,0:02:25.58,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(316.42,411.86)\fscx358.79\fscy318.16\frz8.02\fnDisintegration\blur13.54}Liceul morților
+Dialogue: 0,0:02:25.58,0:02:25.62,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(322.32,419.01)\fscx356.96\fscy316.54\frz8.02\fnDisintegration\blur13.47}Liceul morților
+Dialogue: 0,0:02:25.62,0:02:25.66,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(321.66,412.79)\fscx355.12\fscy314.91\frz8.02\fnDisintegration\blur13.4}Liceul morților
+Dialogue: 0,0:02:25.66,0:02:25.70,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(332.35,419.92)\fscx353.29\fscy313.29\frz8.02\fnDisintegration\blur13.33}Liceul morților
+Dialogue: 0,0:02:25.70,0:02:25.75,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(346.09,413.69)\fscx351.46\fscy311.67\frz8.02\fnDisintegration\blur13.26}Liceul morților
+Dialogue: 0,0:02:25.75,0:02:25.79,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(351.24,420.8)\fscx349.62\fscy310.03\frz8.02\fnDisintegration\blur13.19}Liceul morților
+Dialogue: 0,0:02:25.79,0:02:25.83,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(350.2,414.54)\fscx347.84\fscy308.46\frz8.02\fnDisintegration\blur13.13}Liceul morților
+Dialogue: 0,0:02:25.83,0:02:25.87,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(361.22,421.65)\fscx346\fscy306.83\frz8.02\fnDisintegration\blur13.06}Liceul morților
+Dialogue: 0,0:02:25.87,0:02:25.91,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(365.08,415.4)\fscx344.2\fscy305.23\frz8.02\fnDisintegration\blur12.99}Liceul morților
+Dialogue: 0,0:02:25.91,0:02:25.95,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(368.42,420.82)\fscx342.39\fscy303.62\frz8.02\fnDisintegration\blur12.92}Liceul morților
+Dialogue: 0,0:02:25.95,0:02:26.00,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(369.86,413.09)\fscx340.59\fscy302.03\frz8.02\fnDisintegration\blur12.85}Liceul morților
+Dialogue: 0,0:02:26.00,0:02:26.04,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(375.95,418.85)\fscx338.78\fscy300.42\frz8.02\fnDisintegration\blur12.78}Liceul morților
+Dialogue: 0,0:02:26.04,0:02:26.08,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(371.91,411.31)\fscx336.99\fscy298.83\frz8.02\fnDisintegration\blur12.72}Liceul morților
+Dialogue: 0,0:02:26.08,0:02:26.12,DedzuyaSigns,,0,0,0,,{=14}{\an1\pos(375.11,417.16)\fscx335.2\fscy297.24\frz8.02\fnDisintegration\blur12.65}Liceul morților
+Dialogue: 1,0:02:21.57,0:02:21.62,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(3.28,335.65)\fscx530.01\fscy470\frz8.02\fnDisintegration\1c&H242826&\blur1.2}Liceul morților
+Dialogue: 1,0:02:21.62,0:02:21.66,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(15,333.45)\fscx528.18\fscy468.37\frz8.02\fnDisintegration\1c&H242826&\blur1.2}Liceul morților
+Dialogue: 1,0:02:21.66,0:02:21.70,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(22.67,344.51)\fscx526.42\fscy466.82\frz8.02\fnDisintegration\1c&H242826&\blur1.19}Liceul morților
+Dialogue: 1,0:02:21.70,0:02:21.74,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(25.57,335.17)\fscx524.56\fscy465.16\frz8.02\fnDisintegration\1c&H242826&\blur1.19}Liceul morților
+Dialogue: 1,0:02:21.74,0:02:21.78,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(28.76,339.32)\fscx522.7\fscy463.51\frz8.02\fnDisintegration\1c&H242826&\blur1.18}Liceul morților
+Dialogue: 1,0:02:21.78,0:02:21.82,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(28.62,330.24)\fscx520.93\fscy461.95\frz8.02\fnDisintegration\1c&H242826&\blur1.18}Liceul morților
+Dialogue: 1,0:02:21.82,0:02:21.87,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(31.13,334.6)\fscx519.11\fscy460.34\frz8.02\fnDisintegration\1c&H242826&\blur1.18}Liceul morților
+Dialogue: 1,0:02:21.87,0:02:21.91,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(40.51,325.63)\fscx517.26\fscy458.69\frz8.02\fnDisintegration\1c&H242827&\blur1.17}Liceul morților
+Dialogue: 1,0:02:21.91,0:02:21.95,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(43.61,329.92)\fscx515.45\fscy457.09\frz8.02\fnDisintegration\1c&H242827&\blur1.17}Liceul morților
+Dialogue: 1,0:02:21.95,0:02:21.99,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(54.99,320.68)\fscx513.64\fscy455.48\frz8.02\fnDisintegration\1c&H242827&\blur1.16}Liceul morților
+Dialogue: 1,0:02:21.99,0:02:22.03,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(62.62,324.67)\fscx511.84\fscy453.89\frz8.02\fnDisintegration\1c&H242827&\blur1.16}Liceul morților
+Dialogue: 1,0:02:22.03,0:02:22.08,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(71.01,315.18)\fscx510.02\fscy452.27\frz8.02\fnDisintegration\1c&H252827&\blur1.15}Liceul morților
+Dialogue: 1,0:02:22.08,0:02:22.12,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(57.51,324.21)\fscx508.22\fscy450.68\frz8.02\fnDisintegration\1c&H252827&\blur1.15}Liceul morților
+Dialogue: 1,0:02:22.12,0:02:22.16,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(61.01,319.98)\fscx506.33\fscy449\frz8.02\fnDisintegration\1c&H252927&\blur1.15}Liceul morților
+Dialogue: 1,0:02:22.16,0:02:22.20,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(65.2,329.05)\fscx504.7\fscy447.56\frz8.02\fnDisintegration\1c&H252928&\blur1.14}Liceul morților
+Dialogue: 1,0:02:22.20,0:02:22.24,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(57.21,324.9)\fscx502.81\fscy445.88\frz8.02\fnDisintegration\1c&H252928&\blur1.14}Liceul morților
+Dialogue: 1,0:02:22.24,0:02:22.28,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(61.94,334.14)\fscx501.02\fscy444.29\frz8.02\fnDisintegration\1c&H252928&\blur1.13}Liceul morților
+Dialogue: 1,0:02:22.28,0:02:22.33,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(58.01,330.06)\fscx499.21\fscy442.69\frz8.02\fnDisintegration\1c&H252928&\blur1.13}Liceul morților
+Dialogue: 1,0:02:22.33,0:02:22.37,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(60.87,339.34)\fscx497.4\fscy441.08\frz8.02\fnDisintegration\1c&H252928&\blur1.13}Liceul morților
+Dialogue: 1,0:02:22.37,0:02:22.41,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(61.07,335.27)\fscx495.63\fscy439.51\frz8.02\fnDisintegration\1c&H252928&\blur1.12}Liceul morților
+Dialogue: 1,0:02:22.41,0:02:22.45,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(59.21,344.52)\fscx493.82\fscy437.91\frz8.02\fnDisintegration\1c&H252928&\blur1.12}Liceul morților
+Dialogue: 1,0:02:22.45,0:02:22.49,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(59.26,333.84)\fscx492.01\fscy436.3\frz8.02\fnDisintegration\1c&H252928&\blur1.11}Liceul morților
+Dialogue: 1,0:02:22.49,0:02:22.53,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(60.16,336.46)\fscx490.21\fscy434.71\frz8.02\fnDisintegration\1c&H262929&\blur1.11}Liceul morților
+Dialogue: 1,0:02:22.53,0:02:22.58,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(59.18,325.79)\fscx488.35\fscy433.06\frz8.02\fnDisintegration\1c&H262929&\blur1.11}Liceul morților
+Dialogue: 1,0:02:22.58,0:02:22.62,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(64.55,328.51)\fscx486.57\fscy431.48\frz8.02\fnDisintegration\1c&H262929&\blur1.1}Liceul morților
+Dialogue: 1,0:02:22.62,0:02:22.66,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(63.29,318)\fscx484.73\fscy429.85\frz8.02\fnDisintegration\1c&H262929&\blur1.1}Liceul morților
+Dialogue: 1,0:02:22.66,0:02:22.70,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(71.44,321.03)\fscx482.94\fscy428.26\frz8.02\fnDisintegration\1c&H262929&\blur1.09}Liceul morților
+Dialogue: 1,0:02:22.70,0:02:22.74,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(79.8,311)\fscx481.14\fscy426.66\frz8.02\fnDisintegration\1c&H262A29&\blur1.09}Liceul morților
+Dialogue: 1,0:02:22.74,0:02:22.78,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(77.86,321.99)\fscx479.3\fscy425.04\frz8.02\fnDisintegration\1c&H262A29&\blur1.09}Liceul morților
+Dialogue: 1,0:02:22.78,0:02:22.83,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(82.47,319.73)\fscx477.51\fscy423.45\frz8.02\fnDisintegration\1c&H262A2A&\blur1.08}Liceul morților
+Dialogue: 1,0:02:22.83,0:02:22.87,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(91.63,330.94)\fscx475.59\fscy421.74\frz8.02\fnDisintegration\1c&H262A2A&\blur1.08}Liceul morților
+Dialogue: 1,0:02:22.87,0:02:22.91,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(100.48,328.78)\fscx473.84\fscy420.19\frz8.02\fnDisintegration\1c&H262A2A&\blur1.07}Liceul morților
+Dialogue: 1,0:02:22.91,0:02:22.95,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(97.18,339.93)\fscx472.11\fscy418.65\frz8.02\fnDisintegration\1c&H262A2A&\blur1.07}Liceul morților
+Dialogue: 1,0:02:22.95,0:02:22.99,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(107.37,337.72)\fscx470.31\fscy417.06\frz8.02\fnDisintegration\1c&H272A2A&\blur1.06}Liceul morților
+Dialogue: 1,0:02:22.99,0:02:23.03,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(108.63,348.81)\fscx468.5\fscy415.46\frz8.02\fnDisintegration\1c&H272A2A&\blur1.06}Liceul morților
+Dialogue: 1,0:02:23.03,0:02:23.08,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(113.89,346.48)\fscx466.72\fscy413.88\frz8.02\fnDisintegration\1c&H272A2A&\blur1.06}Liceul morților
+Dialogue: 1,0:02:23.08,0:02:23.12,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(129.21,357.16)\fscx464.29\fscy411.72\frz8.02\fnDisintegration\1c&H272A2B&\blur1.05}Liceul morților
+Dialogue: 1,0:02:23.12,0:02:23.16,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(122.8,354.67)\fscx462.78\fscy410.38\frz8.02\fnDisintegration\1c&H272A2B&\blur1.05}Liceul morților
+Dialogue: 1,0:02:23.16,0:02:23.20,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(136,365.45)\fscx461.25\fscy409.03\frz8.02\fnDisintegration\1c&H272A2B&\blur1.04}Liceul morților
+Dialogue: 1,0:02:23.20,0:02:23.24,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(137.08,362.69)\fscx459.74\fscy407.68\frz8.02\fnDisintegration\1c&H272A2B&\blur1.04}Liceul morților
+Dialogue: 1,0:02:23.24,0:02:23.28,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(136.38,373.11)\fscx458.22\fscy406.34\frz8.02\fnDisintegration\1c&H272A2B&\blur1.04}Liceul morților
+Dialogue: 1,0:02:23.28,0:02:23.33,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(142.21,369.83)\fscx456.37\fscy404.7\frz8.02\fnDisintegration\1c&H272B2B&\blur1.03}Liceul morților
+Dialogue: 1,0:02:23.33,0:02:23.37,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(152.64,379.33)\fscx454.58\fscy403.11\frz8.02\fnDisintegration\1c&H272B2B&\blur1.03}Liceul morților
+Dialogue: 1,0:02:23.37,0:02:23.41,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(159.45,371.95)\fscx452.74\fscy401.48\frz8.02\fnDisintegration\1c&H282B2C&\blur1.03}Liceul morților
+Dialogue: 1,0:02:23.41,0:02:23.45,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(152.48,378.23)\fscx450.91\fscy399.86\frz8.02\fnDisintegration\1c&H282B2C&\blur1.02}Liceul morților
+Dialogue: 1,0:02:23.45,0:02:23.49,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(160.31,371.26)\fscx449.11\fscy398.26\frz8.02\fnDisintegration\1c&H282B2C&\blur1.02}Liceul morților
+Dialogue: 1,0:02:23.49,0:02:23.53,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(160.81,377.58)\fscx447.33\fscy396.68\frz8.02\fnDisintegration\1c&H282B2C&\blur1.01}Liceul morților
+Dialogue: 1,0:02:23.53,0:02:23.58,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(166.91,370.54)\fscx445.53\fscy395.09\frz8.02\fnDisintegration\1c&H282B2C&\blur1.01}Liceul morților
+Dialogue: 1,0:02:23.58,0:02:23.62,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(171.99,376.71)\fscx443.64\fscy393.41\frz8.02\fnDisintegration\1c&H282B2C&\blur1}Liceul morților
+Dialogue: 1,0:02:23.62,0:02:23.66,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(178.57,369.44)\fscx441.85\fscy391.83\frz8.02\fnDisintegration\1c&H282B2C&\blur1}Liceul morților
+Dialogue: 1,0:02:23.66,0:02:23.70,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(184.33,375.36)\fscx440.06\fscy390.23\frz8.02\fnDisintegration\1c&H282B2C&\blur1}Liceul morților
+Dialogue: 1,0:02:23.70,0:02:23.74,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(182.04,367.8)\fscx438.36\fscy388.73\frz8.02\fnDisintegration\1c&H282B2D&\blur0.99}Liceul morților
+Dialogue: 1,0:02:23.74,0:02:23.79,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(181.47,373.4)\fscx436.67\fscy387.23\frz8.02\fnDisintegration\1c&H282B2D&\blur0.99}Liceul morților
+Dialogue: 1,0:02:23.79,0:02:23.83,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(192.41,365.45)\fscx434.99\fscy385.74\frz8.02\fnDisintegration\1c&H282B2D&\blur0.98}Liceul morților
+Dialogue: 1,0:02:23.83,0:02:23.87,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(196.26,370.57)\fscx433.34\fscy384.27\frz8.02\fnDisintegration\1c&H292C2D&\blur0.98}Liceul morților
+Dialogue: 1,0:02:23.87,0:02:23.91,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(193.74,361.9)\fscx431.11\fscy382.29\frz8.02\fnDisintegration\1c&H292C2D&\blur0.98}Liceul morților
+Dialogue: 1,0:02:23.91,0:02:23.95,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(205.55,366.38)\fscx429.32\fscy380.71\frz8.02\fnDisintegration\1c&H292C2D&\blur0.97}Liceul morților
+Dialogue: 1,0:02:23.95,0:02:23.99,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(202.71,357.13)\fscx427.48\fscy379.08\frz8.02\fnDisintegration\1c&H292C2D&\blur0.97}Liceul morților
+Dialogue: 1,0:02:23.99,0:02:24.04,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(207.58,367.48)\fscx425.71\fscy377.51\frz8.02\fnDisintegration\1c&H292C2E&\blur0.96}Liceul morților
+Dialogue: 1,0:02:24.04,0:02:24.08,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(204.41,364.95)\fscx423.92\fscy375.92\frz8.02\fnDisintegration\1c&H292C2E&\blur0.96}Liceul morților
+Dialogue: 1,0:02:24.08,0:02:24.12,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(206.9,376.27)\fscx422.13\fscy374.33\frz8.02\fnDisintegration\1c&H292C2E&\blur0.96}Liceul morților
+Dialogue: 1,0:02:24.12,0:02:24.16,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(207.35,374.65)\fscx420.34\fscy372.74\frz8.02\fnDisintegration\1c&H292C2E&\blur0.95}Liceul morților
+Dialogue: 1,0:02:24.16,0:02:24.20,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(209.4,386.71)\fscx418.59\fscy371.2\frz8.02\fnDisintegration\1c&H292C2E&\blur0.95}Liceul morților
+Dialogue: 1,0:02:24.20,0:02:24.24,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(203.6,385.54)\fscx416.84\fscy369.64\frz8.02\fnDisintegration\1c&H292C2E&\blur0.94}Liceul morților
+Dialogue: 1,0:02:24.24,0:02:24.29,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(200.46,397.64)\fscx415.2\fscy368.19\frz8.02\fnDisintegration\1c&H292C2E&\blur0.94}Liceul morților
+Dialogue: 1,0:02:24.29,0:02:24.33,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(196.13,396.3)\fscx413.26\fscy366.47\frz8.02\fnDisintegration\1c&H2A2C2F&\blur0.94}Liceul morților
+Dialogue: 1,0:02:24.33,0:02:24.37,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(197.27,407.88)\fscx411.44\fscy364.85\frz8.02\fnDisintegration\1c&H2A2C2F&\blur0.93}Liceul morților
+Dialogue: 1,0:02:24.37,0:02:24.41,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(209.1,397.21)\fscx409.62\fscy363.25\frz8.02\fnDisintegration\1c&H2A2C2F&\blur0.93}Liceul morților
+Dialogue: 1,0:02:24.41,0:02:24.45,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(207.21,399.95)\fscx407.81\fscy361.64\frz8.02\fnDisintegration\1c&H2A2D2F&\blur0.92}Liceul morților
+Dialogue: 1,0:02:24.45,0:02:24.49,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(220.82,389.41)\fscx405.98\fscy360.01\frz8.02\fnDisintegration\1c&H2A2D2F&\blur0.92}Liceul morților
+Dialogue: 1,0:02:24.49,0:02:24.54,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(219.57,392.3)\fscx404.15\fscy358.39\frz8.02\fnDisintegration\1c&H2A2D2F&\blur0.92}Liceul morților
+Dialogue: 1,0:02:24.54,0:02:24.58,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(224.2,381.91)\fscx402.32\fscy356.76\frz8.02\fnDisintegration\1c&H2A2D2F&\blur0.91}Liceul morților
+Dialogue: 1,0:02:24.58,0:02:24.62,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(240.95,384.97)\fscx400.51\fscy355.16\frz8.02\fnDisintegration\1c&H2A2D2F&\blur0.91}Liceul morților
+Dialogue: 1,0:02:24.62,0:02:24.66,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(244.43,374.79)\fscx398.72\fscy353.57\frz8.02\fnDisintegration\1c&H2A2D30&\blur0.9}Liceul morților
+Dialogue: 1,0:02:24.66,0:02:24.70,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(241,378.17)\fscx396.91\fscy351.97\frz8.02\fnDisintegration\1c&H2A2D30&\blur0.9}Liceul morților
+Dialogue: 1,0:02:24.70,0:02:24.74,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(248.8,368.44)\fscx395.08\fscy350.35\frz8.02\fnDisintegration\1c&H2A2D30&\blur0.89}Liceul morților
+Dialogue: 1,0:02:24.74,0:02:24.79,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(261.52,372.6)\fscx393.29\fscy348.76\frz8.02\fnDisintegration\1c&H2B2D30&\blur0.89}Liceul morților
+Dialogue: 1,0:02:24.79,0:02:24.83,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(252.46,369.17)\fscx391.47\fscy347.15\frz8.02\fnDisintegration\1c&H2B2D30&\blur0.89}Liceul morților
+Dialogue: 1,0:02:24.83,0:02:24.87,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(254.03,378.59)\fscx389.64\fscy345.52\frz8.02\fnDisintegration\1c&H2B2D30&\blur0.88}Liceul morților
+Dialogue: 1,0:02:24.87,0:02:24.91,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(260.68,374.36)\fscx387.82\fscy343.91\frz8.02\fnDisintegration\1c&H2B2D30&\blur0.88}Liceul morților
+Dialogue: 1,0:02:24.91,0:02:24.95,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(269.46,383.3)\fscx386.03\fscy342.32\frz8.02\fnDisintegration\1c&H2B2D31&\blur0.87}Liceul morților
+Dialogue: 1,0:02:24.95,0:02:24.99,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(264.03,378.8)\fscx384.26\fscy340.75\frz8.02\fnDisintegration\1c&H2B2D31&\blur0.87}Liceul morților
+Dialogue: 1,0:02:24.99,0:02:25.04,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(274.61,387.59)\fscx382.4\fscy339.11\frz8.02\fnDisintegration\1c&H2B2E31&\blur0.87}Liceul morților
+Dialogue: 1,0:02:25.04,0:02:25.08,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(276.8,383.02)\fscx380.62\fscy337.52\frz8.02\fnDisintegration\1c&H2B2E31&\blur0.86}Liceul morților
+Dialogue: 1,0:02:25.08,0:02:25.12,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(271.67,391.8)\fscx378.82\fscy335.93\frz8.02\fnDisintegration\1c&H2B2E31&\blur0.86}Liceul morților
+Dialogue: 1,0:02:25.12,0:02:25.16,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(278.43,387.28)\fscx376.94\fscy334.26\frz8.02\fnDisintegration\1c&H2B2E31&\blur0.85}Liceul morților
+Dialogue: 1,0:02:25.16,0:02:25.20,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(287.59,396.19)\fscx375.14\fscy332.67\frz8.02\fnDisintegration\1c&H2B2E31&\blur0.85}Liceul morților
+Dialogue: 1,0:02:25.20,0:02:25.24,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(290.21,391.81)\fscx373.31\fscy331.04\frz8.02\fnDisintegration\1c&H2C2E32&\blur0.85}Liceul morților
+Dialogue: 1,0:02:25.24,0:02:25.29,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(281.86,400.86)\fscx371.51\fscy329.45\frz8.02\fnDisintegration\1c&H2C2E32&\blur0.84}Liceul morților
+Dialogue: 1,0:02:25.29,0:02:25.33,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(291.83,396.68)\fscx369.67\fscy327.81\frz8.02\fnDisintegration\1c&H2C2E32&\blur0.84}Liceul morților
+Dialogue: 1,0:02:25.33,0:02:25.37,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(291.04,405.97)\fscx367.86\fscy326.21\frz8.02\fnDisintegration\1c&H2C2E32&\blur0.83}Liceul morților
+Dialogue: 1,0:02:25.37,0:02:25.41,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(297.03,402.06)\fscx366.06\fscy324.61\frz8.02\fnDisintegration\1c&H2C2E32&\blur0.83}Liceul morților
+Dialogue: 1,0:02:25.41,0:02:25.45,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(300.58,411.66)\fscx364.26\fscy323.01\frz8.02\fnDisintegration\1c&H2C2E32&\blur0.82}Liceul morților
+Dialogue: 1,0:02:25.45,0:02:25.50,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(295.64,408.07)\fscx362.42\fscy321.39\frz8.02\fnDisintegration\1c&H2C2E32&\blur0.82}Liceul morților
+Dialogue: 1,0:02:25.50,0:02:25.54,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(302.34,418.03)\fscx360.61\fscy319.78\frz8.02\fnDisintegration\1c&H2C2E33&\blur0.82}Liceul morților
+Dialogue: 1,0:02:25.54,0:02:25.58,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(316.42,411.86)\fscx358.79\fscy318.16\frz8.02\fnDisintegration\1c&H2C2F33&\blur0.81}Liceul morților
+Dialogue: 1,0:02:25.58,0:02:25.62,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(322.32,419.01)\fscx356.96\fscy316.54\frz8.02\fnDisintegration\1c&H2C2F33&\blur0.81}Liceul morților
+Dialogue: 1,0:02:25.62,0:02:25.66,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(321.66,412.79)\fscx355.12\fscy314.91\frz8.02\fnDisintegration\1c&H2C2F33&\blur0.8}Liceul morților
+Dialogue: 1,0:02:25.66,0:02:25.70,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(332.35,419.92)\fscx353.29\fscy313.29\frz8.02\fnDisintegration\1c&H2D2F33&\blur0.8}Liceul morților
+Dialogue: 1,0:02:25.70,0:02:25.75,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(346.09,413.69)\fscx351.46\fscy311.67\frz8.02\fnDisintegration\1c&H2D2F33&\blur0.8}Liceul morților
+Dialogue: 1,0:02:25.75,0:02:25.79,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(351.24,420.8)\fscx349.62\fscy310.03\frz8.02\fnDisintegration\1c&H2D2F33&\blur0.79}Liceul morților
+Dialogue: 1,0:02:25.79,0:02:25.83,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(350.2,414.54)\fscx347.84\fscy308.46\frz8.02\fnDisintegration\1c&H2D2F33&\blur0.79}Liceul morților
+Dialogue: 1,0:02:25.83,0:02:25.87,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(361.22,421.65)\fscx346\fscy306.83\frz8.02\fnDisintegration\1c&H2D2F34&\blur0.78}Liceul morților
+Dialogue: 1,0:02:25.87,0:02:25.91,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(365.08,415.4)\fscx344.2\fscy305.23\frz8.02\fnDisintegration\1c&H2D2F34&\blur0.78}Liceul morților
+Dialogue: 1,0:02:25.91,0:02:25.95,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(368.42,420.82)\fscx342.39\fscy303.62\frz8.02\fnDisintegration\1c&H2D2F34&\blur0.78}Liceul morților
+Dialogue: 1,0:02:25.95,0:02:26.00,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(369.86,413.09)\fscx340.59\fscy302.03\frz8.02\fnDisintegration\1c&H2D2F34&\blur0.77}Liceul morților
+Dialogue: 1,0:02:26.00,0:02:26.04,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(375.95,418.85)\fscx338.78\fscy300.42\frz8.02\fnDisintegration\1c&H2D2F34&\blur0.77}Liceul morților
+Dialogue: 1,0:02:26.04,0:02:26.08,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(371.91,411.31)\fscx336.99\fscy298.83\frz8.02\fnDisintegration\1c&H2D2F34&\blur0.76}Liceul morților
+Dialogue: 1,0:02:26.08,0:02:26.12,DedzuyaSigns,,0,0,0,,{=13}{\an1\pos(375.11,417.16)\fscx335.2\fscy297.24\frz8.02\fnDisintegration\1c&H2D2F34&\blur0.76}Liceul morților
+Dialogue: 0,0:02:26.13,0:02:26.17,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(50,300)\fscx500\fscy440\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.17,0:02:26.21,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(45.46,308.24)\fscx500\fscy440\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.37,0:02:26.41,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(50,300)\fscx500\fscy440\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.41,0:02:26.45,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(57.74,308.23)\fscx500.02\fscy440.01\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.45,0:02:26.50,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(54.15,299.98)\fscx500.02\fscy440.01\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.50,0:02:26.54,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(59.68,308.22)\fscx500.01\fscy440.01\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.54,0:02:26.58,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(54.36,299.98)\fscx500.01\fscy440.01\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.58,0:02:26.62,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(50.7,308.21)\fscx500.01\fscy440.01\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.62,0:02:26.66,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(50.86,299.98)\fscx500.01\fscy440\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:02:26.66,0:02:26.70,DedzuyaSigns,,0,0,0,,{=1}{\an1\pos(54.71,308.22)\fscx500.01\fscy440\frz8.02\fnDisintegration\c&HFDFEFE&\blur2}Liceul morților
+Dialogue: 0,0:10:13.00,0:10:13.05,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(959.31,624.23)\fscx159.86\fscy169.85\fnDisintegration\c&HF2F3F3&\alpha&H60&\blur4}Liceul morților
+Dialogue: 0,0:10:13.00,0:10:13.05,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(959.31,614.23)\fscx159.86\fscy169.85\fnDisintegration\c&HF2F3F3&\alpha&H60&\blur4}Liceul morților
+Dialogue: 0,0:10:13.00,0:10:13.05,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(959.31,604.23)\fscx159.86\fscy169.85\fnDisintegration\c&HF2F3F3&\alpha&H60&\blur4}Liceul morților
+Dialogue: 0,0:10:13.05,0:10:13.09,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(925.74,649.61)\fscx159.94\fscy169.94\fnDisintegration\c&HF2F3F3&\blur3}Liceul morților
+Dialogue: 0,0:10:13.09,0:10:13.13,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(944.54,648.71)\fscx159.99\fscy169.99\fnDisintegration\c&HF2F3F3&\blur1.8}Liceul morților
+Dialogue: 0,0:10:13.13,0:10:13.17,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(947.06,634.41)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.17,0:10:13.21,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(918.46,639.82)\fscx159.98\fscy169.98\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.21,0:10:13.25,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.22,640.18)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.25,0:10:13.30,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.2,641.44)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.30,0:10:13.34,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,640.56)\fscx159.96\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.34,0:10:13.38,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,639.73)\fscx159.96\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.38,0:10:13.42,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.2,640.28)\fscx159.95\fscy169.95\fnDisintegration\c&HDEE0DF&\blur1.5}L{\c&HE0E1E1&}i{\c&HE2E3E3&}c{\c&HE4E5E5&}e{\c&HE6E7E7&}u{\c&HE8E9E9&}l {\c&HECEDED&}m{\c&HEEEEEF&}o{\c&HF0F0F1&}r{\c&HF2F2F3&}ț{\c&HF4F4F5&}i{\c&HF6F6F7&}l{\c&HF8F8F9&}o{\c&HFAFAFB&}r
+Dialogue: 0,0:10:13.42,0:10:13.46,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.18,640.79)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.46,0:10:13.50,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,638.97)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.50,0:10:13.55,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,639.87)\fscx159.96\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.55,0:10:13.59,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.2,639.92)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.59,0:10:13.63,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.18,638.94)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.63,0:10:13.67,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,638.53)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.67,0:10:13.71,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,638.71)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.71,0:10:13.75,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,638.96)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.75,0:10:13.80,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,639.38)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.80,0:10:13.84,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,639.87)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.84,0:10:13.88,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.14,638.11)\fscx159.97\fscy169.97\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.88,0:10:13.92,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,640.55)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.92,0:10:13.96,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,639.02)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:13.96,0:10:14.00,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,641.24)\fscx159.97\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.00,0:10:14.05,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,638.82)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.05,0:10:14.09,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,638.74)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.09,0:10:14.13,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,637.92)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.13,0:10:14.17,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,638.63)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.17,0:10:14.21,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,637.37)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.21,0:10:14.26,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,639.87)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.26,0:10:14.30,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,641.08)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.30,0:10:14.34,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,638.17)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.34,0:10:14.38,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.2,639.91)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.38,0:10:14.42,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.14,638.28)\fscx159.97\fscy169.97\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.42,0:10:14.46,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.13,638.85)\fscx159.97\fscy169.97\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.46,0:10:14.51,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,637.93)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.51,0:10:14.55,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,641.53)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.55,0:10:14.59,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,639.76)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.59,0:10:14.63,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,637.61)\fscx159.97\fscy169.97\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.63,0:10:14.67,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,641.59)\fscx159.97\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.67,0:10:14.71,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,640.4)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.71,0:10:14.76,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.13,639.01)\fscx159.97\fscy169.97\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.76,0:10:14.80,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,641.07)\fscx159.97\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.80,0:10:14.84,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,638.52)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.84,0:10:14.88,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.14,640.26)\fscx159.97\fscy169.97\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.88,0:10:14.92,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.15,638.8)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.5}Liceul morților
+Dialogue: 0,0:10:14.92,0:10:14.96,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.23,637.9)\fscx159.95\fscy169.94\fnDisintegration\c&HD6D7D6&\blur1.6}L{\c&HD8D9D8&}i{\c&HDBDCDB&}c{\c&HDDDEDD&}e{\c&HE0E1E0&}u{\c&HE2E3E3&}l {\c&HE8E8E8&}m{\c&HEAEBEB&}o{\c&HEDEDED&}r{\c&HEFF0F0&}ț{\c&HF2F2F3&}i{\c&HF4F5F5&}l{\c&HF7F7F8&}o{\c&HFAFAFB&}r
+Dialogue: 0,0:10:14.96,0:10:15.01,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,639.65)\fscx159.96\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.01,0:10:15.05,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.18,637.63)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.05,0:10:15.09,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,638.42)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.09,0:10:15.13,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.2,637.93)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.13,0:10:15.17,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,638.43)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.17,0:10:15.21,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.16,640.58)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.21,0:10:15.26,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.19,639.6)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.26,0:10:15.30,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.2,637.71)\fscx159.95\fscy169.95\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.30,0:10:15.34,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.17,638.18)\fscx159.96\fscy169.96\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.34,0:10:15.38,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.84,641.59)\fscx160.04\fscy170.04\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.38,0:10:15.42,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.52,640.98)\fscx160.11\fscy170.12\fnDisintegration\c&HF2F3F3&\blur2}Liceul morților
+Dialogue: 0,0:10:15.42,0:10:15.46,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.15,669.36)\fscx160.2\fscy170.22\fnDisintegration\c&HF2F3F3&\blur2}Liceul morților
+Dialogue: 0,0:10:15.46,0:10:15.51,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935.64,594.76)\fscx159.84\fscy169.83\fnDisintegration\c&HF2F3F3&\blur3}Liceul morților
+Dialogue: 0,0:10:15.51,0:10:15.55,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.98,641.27)\fscx160.01\fscy170.01\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.55,0:10:15.59,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.99,640.84)\fscx160.01\fscy170.01\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.59,0:10:15.63,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.91,637.32)\fscx160.02\fscy170.03\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.63,0:10:15.67,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.92,637.97)\fscx160.02\fscy170.02\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.67,0:10:15.71,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.9,640.37)\fscx160.02\fscy170.03\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.71,0:10:15.76,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.91,641.74)\fscx160.03\fscy170.03\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.76,0:10:15.80,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.93,637.68)\fscx160.02\fscy170.02\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.80,0:10:15.84,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.96,638.98)\fscx160.01\fscy170.01\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.84,0:10:15.88,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.95,638.4)\fscx160.01\fscy170.01\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.88,0:10:15.92,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(934.96,640.99)\fscx160.01\fscy170.01\fnDisintegration\c&HF2F3F3&\blur1.6}Liceul morților
+Dialogue: 0,0:10:15.92,0:10:15.97,DedzuyaSigns,,0,0,0,,{=0}{\an1\pos(935,640)\fscx160\fscy170\fnDisintegration\c&HFAFCFC&\blur1.6}Liceul morților
+Dialogue: 0,0:03:33.44,0:03:39.28,DedzuyaSigns,,0,0,0,,{\1a&HFF&\t(800,800,1,\1a&H00&)\t(4865,4865,1,\1a&HFF&)\3a&HFF&\t(0,800,1,\3a&H00&)\t(4865,0,1,\3a&HFF&)\fnParents Suck\fs90\bord3\blur5\an9\pos(1800,70)\c&HFFFFFF&\3c&HFFFFFF&}ACTUL 1: {\fs120}Primăvara morților
+Dialogue: 1,0:03:33.44,0:03:39.28,DedzuyaSigns,,0,0,0,,{\fad(800,1000)\fnParents Suck\fs90\blur1\an9\pos(1800,70)\c&H000000&}ACTUL {\c&H0F0AE3&}1{\c&H000000&}: {\fs120}Primăvara morților
+Dialogue: 0,0:19:46.04,0:19:49.46,DedzuyaSigns,,0,0,0,,{\alpha&HD5&\t(0,440,1,\alpha&H00&)\fnUKIJ Kufi Yay\b1\fs80\blur1\an2\pos(960,350)}ACTUL 1: {\fs130}Primăvara morților
+Dialogue: 0,0:23:23.34,0:23:25.93,DedzuyaSigns,,0,0,0,,{\fnUKIJ Kufi Yay\b1\fs130\fsp5\blur1\an9\pos(1790,100)}va urma...
+Comment: 0,0:02:04.15,0:02:04.19,OP,,0,0,0,,{OP first Rei frame}
+Dialogue: 0,0:02:26.71,0:02:37.89,OP TL,,0,0,0,,{\fad(240,0)\fsp1\fscx110\blur3\bord3\c&H602E0B&\3c&H602E0B&\t(7380,7380,1,\c&H72500C&\3c&H72500C&)}În timp ce-mi pierd încet contactul cu realitatea,
+Dialogue: 1,0:02:26.71,0:02:37.89,OP TL,,0,0,0,,{\fad(240,0)\fsp1\fscx110\blur0.55\bord0}În timp ce-mi pierd încet contactul cu realitatea,
+Dialogue: 0,0:02:37.89,0:02:42.85,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H72500C&\3c&H72500C&\t(2660,3030,1,\c&H144370&\3c&H144370&)}emoțiile mele se strâng precum dărămăturile
+Dialogue: 1,0:02:37.89,0:02:42.85,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}emoțiile mele se strâng precum dărămăturile
+Dialogue: 0,0:02:42.85,0:02:47.02,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H144370&\3c&H144370&\t(3160,3160,1,\c&H007DE7&\3c&H007DE7&)\t(3700,3700,1,\c&H753187&\3c&H753187&)}Unde cred că se duc?
+Dialogue: 1,0:02:42.85,0:02:47.02,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Unde cred că se duc?
+Dialogue: 0,0:02:47.02,0:02:49.27,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0060B1&\3c&H0060B1&}Cu speranța zdrobită,
+Dialogue: 1,0:02:47.02,0:02:49.27,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Cu speranța zdrobită,
+Dialogue: 0,0:02:49.27,0:02:57.62,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H010299&\3c&H010299&\t(2630,2630,1,\c&H2F2D2C&\3c&H2F2D2C&)\t(6600,6600,1,\c&H2A1B40&\3c&H2A1B40&)}alerg frenetic prin ploaia sângerie
+Dialogue: 1,0:02:49.27,0:02:57.62,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}alerg frenetic prin ploaia sângerie
+Dialogue: 0,0:02:57.62,0:03:04.04,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H2F2D2C&\3c&H2F2D2C&\t(630,840,1,\c&H2E6602&\3c&H2E6602&)\t(2800,3800,1,\c&H664B6F&\3c&H664B6F&)\t(5350,5650,1,\c&H0156A4&\3c&H0156A4&)}Când emoțiile mele vor începe să se reverse,
+Dialogue: 1,0:02:57.62,0:03:04.04,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Când emoțiile mele vor începe să se reverse,
+Dialogue: 0,0:03:04.04,0:03:05.29,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&}oare ce voi vedea?
+Dialogue: 1,0:03:04.04,0:03:05.29,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}oare ce voi vedea?
+Dialogue: 0,0:03:05.29,0:03:06.58,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&}Oare ce voi avea?
+Dialogue: 1,0:03:05.29,0:03:06.58,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Oare ce voi avea?
+Dialogue: 0,0:03:06.58,0:03:08.25,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0156A4&\3c&H0156A4&\t(1350,1350,1,\c&H7087C9&\3c&H7087C9&)}Încă nu știu
+Dialogue: 1,0:03:06.58,0:03:08.25,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Încă nu știu
+Dialogue: 0,0:03:08.25,0:03:14.26,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0B7D74&\3c&H0B7D74&}Dar în această tăcere,
+Dialogue: 1,0:03:08.25,0:03:14.26,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}Dar în această tăcere,
 Dialogue: 0,0:03:14.26,0:03:16.76,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0F8FE0&\3c&H0F8FE0&}toate rezultatele fragile
 Dialogue: 1,0:03:14.26,0:03:16.76,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}toate rezultatele fragile
-Dialogue: 0,0:03:16.76,0:03:23.65,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0F8FE0&\3c&H0F8FE0&\t(1820,2050,1,\c&H6E3E37&\3c&H6E3E37&)\t(5520,5520,1,\c&H7D4413&\3c&H7D4413&)\t(6810,6810,1,\c&H05D1BC&\3c&H05D1BC&)}se întind la nesfârșit înaintea mea
-Dialogue: 1,0:03:16.76,0:03:23.65,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}se întind la nesfârșit înaintea mea
-Dialogue: 0,0:19:48.13,0:19:57.25,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}owaranai sekai no naka de
-Dialogue: 1,0:19:48.13,0:19:57.25,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}owaranai sekai no naka de
-Dialogue: 2,0:19:48.13,0:19:57.25,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}owaranai sekai no naka de
-Dialogue: 0,0:19:57.25,0:20:07.07,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}sakimidareta saigo no kotoba
-Dialogue: 1,0:19:57.25,0:20:07.07,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}sakimidareta saigo no kotoba
-Dialogue: 2,0:19:57.25,0:20:07.07,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}sakimidareta saigo no kotoba
-Dialogue: 0,0:20:07.07,0:20:12.34,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}sneer at the despair
-Dialogue: 1,0:20:07.07,0:20:12.34,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}sneer at the despair
-Dialogue: 2,0:20:07.07,0:20:12.34,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}sneer at the despair
-Dialogue: 0,0:20:12.34,0:20:19.01,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}mou furikaeranai
-Dialogue: 1,0:20:12.34,0:20:19.01,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}mou furikaeranai
-Dialogue: 2,0:20:12.34,0:20:19.01,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}mou furikaeranai
-Dialogue: 0,0:20:19.01,0:20:25.01,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}koe wo karashite sakebe
-Dialogue: 1,0:20:19.01,0:20:25.01,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}koe wo karashite sakebe
-Dialogue: 2,0:20:19.01,0:20:25.01,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}koe wo karashite sakebe
-Dialogue: 0,0:20:25.01,0:20:34.24,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}atarimae no nichijou ga hazeru
-Dialogue: 1,0:20:25.01,0:20:34.24,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}atarimae no nichijou ga hazeru
-Dialogue: 2,0:20:25.01,0:20:34.24,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}atarimae no nichijou ga hazeru
-Dialogue: 0,0:20:34.24,0:20:42.48,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}kimi to taiyou ga shinda hi
-Dialogue: 1,0:20:34.24,0:20:42.48,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}kimi to taiyou ga shinda hi
-Dialogue: 2,0:20:34.24,0:20:42.48,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}kimi to taiyou ga shinda hi
-Dialogue: 0,0:20:43.52,0:20:52.73,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}nozomanai noizu no uzu ni
-Dialogue: 1,0:20:43.52,0:20:52.73,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}nozomanai noizu no uzu ni
-Dialogue: 2,0:20:43.52,0:20:52.73,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}nozomanai noizu no uzu ni
-Dialogue: 0,0:20:52.73,0:21:02.45,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}hitoshirezu ni nomikomarete yuku
-Dialogue: 1,0:20:52.73,0:21:02.45,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}hitoshirezu ni nomikomarete yuku
-Dialogue: 2,0:20:52.73,0:21:02.45,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}hitoshirezu ni nomikomarete yuku
-Dialogue: 0,0:21:02.45,0:21:14.38,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}wasurenaide watashi no koe wo
-Dialogue: 1,0:21:02.45,0:21:14.38,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}wasurenaide watashi no koe wo
-Dialogue: 2,0:21:02.45,0:21:14.38,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}wasurenaide watashi no koe wo
-Dialogue: 0,0:21:14.38,0:21:19.70,ED01,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}mata deau sono hi made
-Dialogue: 1,0:21:14.38,0:21:19.70,ED01,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}mata deau sono hi made
-Dialogue: 2,0:21:14.38,0:21:19.70,ED01,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}mata deau sono hi made
-Dialogue: 0,0:19:48.13,0:19:57.25,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}În această lume fără sfârșit,
-Dialogue: 1,0:19:48.13,0:19:57.25,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}În această lume fără sfârșit,
-Dialogue: 2,0:19:48.13,0:19:57.25,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}În această lume fără sfârșit,
-Dialogue: 0,0:19:57.25,0:20:07.07,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}ultimele tale cuvinte înfloritoare
-Dialogue: 1,0:19:57.25,0:20:07.07,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}ultimele tale cuvinte înfloritoare
-Dialogue: 2,0:19:57.25,0:20:07.07,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}ultimele tale cuvinte înfloritoare
-Dialogue: 0,0:20:07.07,0:20:12.34,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}râd în fața disperării
-Dialogue: 1,0:20:07.07,0:20:12.34,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}râd în fața disperării
-Dialogue: 2,0:20:07.07,0:20:12.34,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}râd în fața disperării
-Dialogue: 0,0:20:12.34,0:20:19.01,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Nu-ți mai întoarce privirea
-Dialogue: 1,0:20:12.34,0:20:19.01,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Nu-ți mai întoarce privirea
-Dialogue: 2,0:20:12.34,0:20:19.01,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Nu-ți mai întoarce privirea
-Dialogue: 0,0:20:19.01,0:20:25.01,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Strigă asta cu vocea ta fermă
-Dialogue: 1,0:20:19.01,0:20:25.01,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Strigă asta cu vocea ta fermă
-Dialogue: 2,0:20:19.01,0:20:25.01,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Strigă asta cu vocea ta fermă
-Dialogue: 0,0:20:25.01,0:20:34.24,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Viața mea obișnuită a explodat
-Dialogue: 1,0:20:25.01,0:20:34.24,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Viața mea obișnuită a explodat
-Dialogue: 2,0:20:25.01,0:20:34.24,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Viața mea obișnuită a explodat
-Dialogue: 0,0:20:34.24,0:20:42.48,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}în ziua în care tu și soarele ați murit
-Dialogue: 1,0:20:34.24,0:20:42.48,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}în ziua în care tu și soarele ați murit
-Dialogue: 2,0:20:34.24,0:20:42.48,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}în ziua în care tu și soarele ați murit
-Dialogue: 0,0:20:43.52,0:20:52.73,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Am fost înghițită fără ca ceilalți să știe
-Dialogue: 1,0:20:43.52,0:20:52.73,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Am fost înghițită fără ca ceilalți să știe
-Dialogue: 2,0:20:43.52,0:20:52.73,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Am fost înghițită fără ca ceilalți să știe
+Dialogue: 0,0:03:16.76,0:03:23.64,OP TL,,0,0,0,,{\fsp1\fscx110\blur3\bord3\c&H0F8FE0&\3c&H0F8FE0&\t(1820,2050,1,\c&H6E3E37&\3c&H6E3E37&)\t(5520,5520,1,\c&H7D4413&\3c&H7D4413&)\t(6810,6810,1,\c&H05D1BC&\3c&H05D1BC&)}se întind la nesfârșit înaintea mea
+Dialogue: 1,0:03:16.76,0:03:23.64,OP TL,,0,0,0,,{\fsp1\fscx110\blur0.55\bord0}se întind la nesfârșit înaintea mea
+Comment: 0,0:19:49.46,0:19:49.50,ED01 TL,,0,0,0,,{ED first frame}
+Dialogue: 0,0:19:48.13,0:19:57.26,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}În această lume fără sfârșit,
+Dialogue: 1,0:19:48.13,0:19:57.26,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}În această lume fără sfârșit,
+Dialogue: 2,0:19:48.13,0:19:57.26,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}În această lume fără sfârșit,
+Dialogue: 0,0:19:57.26,0:20:07.06,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}ultimele tale cuvinte înfloritoare
+Dialogue: 1,0:19:57.26,0:20:07.06,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}ultimele tale cuvinte înfloritoare
+Dialogue: 2,0:19:57.26,0:20:07.06,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}ultimele tale cuvinte înfloritoare
+Dialogue: 0,0:20:07.06,0:20:12.36,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}râd în fața disperării
+Dialogue: 1,0:20:07.06,0:20:12.36,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}râd în fața disperării
+Dialogue: 2,0:20:07.06,0:20:12.36,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}râd în fața disperării
+Dialogue: 0,0:20:12.36,0:20:19.03,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Nu-ți mai întoarce privirea
+Dialogue: 1,0:20:12.36,0:20:19.03,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Nu-ți mai întoarce privirea
+Dialogue: 2,0:20:12.36,0:20:19.03,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Nu-ți mai întoarce privirea
+Dialogue: 0,0:20:19.03,0:20:25.00,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Strigă asta cu vocea ta fermă
+Dialogue: 1,0:20:19.03,0:20:25.00,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Strigă asta cu vocea ta fermă
+Dialogue: 2,0:20:19.03,0:20:25.00,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Strigă asta cu vocea ta fermă
+Dialogue: 0,0:20:25.00,0:20:34.25,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Viața mea obișnuită a explodat
+Dialogue: 1,0:20:25.00,0:20:34.25,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Viața mea obișnuită a explodat
+Dialogue: 2,0:20:25.00,0:20:34.25,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Viața mea obișnuită a explodat
+Dialogue: 0,0:20:34.25,0:20:42.47,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}în ziua în care tu și soarele ați murit
+Dialogue: 1,0:20:34.25,0:20:42.47,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}în ziua în care tu și soarele ați murit
+Dialogue: 2,0:20:34.25,0:20:42.47,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}în ziua în care tu și soarele ați murit
+Dialogue: 0,0:20:43.51,0:20:52.73,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Am fost înghițită fără ca ceilalți să știe
+Dialogue: 1,0:20:43.51,0:20:52.73,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Am fost înghițită fără ca ceilalți să știe
+Dialogue: 2,0:20:43.51,0:20:52.73,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Am fost înghițită fără ca ceilalți să știe
 Dialogue: 0,0:20:52.73,0:21:02.45,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}de spirala nedorită de zgomote
 Dialogue: 1,0:20:52.73,0:21:02.45,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}de spirala nedorită de zgomote
 Dialogue: 2,0:20:52.73,0:21:02.45,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}de spirala nedorită de zgomote
 Dialogue: 0,0:21:02.45,0:21:14.38,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}Nu-mi uita vocea
 Dialogue: 1,0:21:02.45,0:21:14.38,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Nu-mi uita vocea
 Dialogue: 2,0:21:02.45,0:21:14.38,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}Nu-mi uita vocea
-Dialogue: 0,0:21:14.38,0:21:19.70,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}până în ziua când ne vom revedea
-Dialogue: 1,0:21:14.38,0:21:19.70,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}până în ziua când ne vom revedea
-Dialogue: 2,0:21:14.38,0:21:19.70,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}până în ziua când ne vom revedea
-Dialogue: 0,0:21:21.77,0:21:26.06,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}ubatta te no itami wa
-Dialogue: 1,0:21:21.77,0:21:26.06,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}ubatta te no itami wa
-Dialogue: 2,0:21:21.77,0:21:26.06,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}ubatta te no itami wa
-Dialogue: 0,0:21:26.47,0:21:30.61,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}taemanaku kasanatteku
-Dialogue: 1,0:21:26.47,0:21:30.61,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}taemanaku kasanatteku
-Dialogue: 2,0:21:26.47,0:21:30.61,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}taemanaku kasanatteku
-Dialogue: 0,0:21:31.14,0:21:35.58,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}kudaketa garasu nigeru shinjitsu
-Dialogue: 1,0:21:31.14,0:21:35.58,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}kudaketa garasu nigeru shinjitsu
-Dialogue: 2,0:21:31.14,0:21:35.58,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}kudaketa garasu nigeru shinjitsu
-Dialogue: 0,0:21:35.58,0:21:39.72,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}nagareta kuroi namida
-Dialogue: 1,0:21:35.58,0:21:39.72,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}nagareta kuroi namida
-Dialogue: 2,0:21:35.58,0:21:39.72,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}nagareta kuroi namida
-Dialogue: 0,0:21:40.03,0:21:49.24,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}maichiru kisetsu yo
-Dialogue: 1,0:21:40.03,0:21:49.24,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}maichiru kisetsu yo
-Dialogue: 2,0:21:40.03,0:21:49.24,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}maichiru kisetsu yo
-Dialogue: 0,0:21:49.24,0:21:57.25,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}zetsubou e michibike
-Dialogue: 1,0:21:49.24,0:21:57.25,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}zetsubou e michibike
-Dialogue: 2,0:21:49.24,0:21:57.25,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}zetsubou e michibike
-Dialogue: 0,0:21:57.25,0:22:06.63,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}hajimatta kono karuma ni mo
-Dialogue: 1,0:21:57.25,0:22:06.63,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}hajimatta kono karuma ni mo
-Dialogue: 2,0:21:57.25,0:22:06.63,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}hajimatta kono karuma ni mo
-Dialogue: 0,0:22:06.63,0:22:16.37,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}kanarazu kitto imi ga aru dakara
-Dialogue: 1,0:22:06.63,0:22:16.37,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}kanarazu kitto imi ga aru dakara
-Dialogue: 2,0:22:06.63,0:22:16.37,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}kanarazu kitto imi ga aru dakara
-Dialogue: 0,0:22:16.37,0:22:21.45,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}decide and get my way
-Dialogue: 1,0:22:16.37,0:22:21.45,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}decide and get my way
-Dialogue: 2,0:22:16.37,0:22:21.45,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}decide and get my way
-Dialogue: 0,0:22:21.45,0:22:28.03,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}sou kimi rashiku are
-Dialogue: 1,0:22:21.45,0:22:28.03,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}sou kimi rashiku are
-Dialogue: 2,0:22:21.45,0:22:28.03,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}sou kimi rashiku are
-Dialogue: 0,0:22:28.03,0:22:33.93,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}mayoi uchinuki susume
-Dialogue: 1,0:22:28.03,0:22:33.93,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}mayoi uchinuki susume
-Dialogue: 2,0:22:28.03,0:22:33.93,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}mayoi uchinuki susume
-Dialogue: 0,0:22:35.24,0:22:40.06,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}sayonara
-Dialogue: 1,0:22:35.24,0:22:40.06,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}sayonara
-Dialogue: 2,0:22:35.24,0:22:40.06,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}sayonara
-Dialogue: 0,0:22:40.06,0:22:44.64,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}mou iku yo
-Dialogue: 1,0:22:40.06,0:22:44.64,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}mou iku yo
-Dialogue: 2,0:22:40.06,0:22:44.64,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}mou iku yo
-Dialogue: 0,0:22:44.64,0:22:54.00,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}owari no hajimari e
-Dialogue: 1,0:22:44.64,0:22:54.00,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}owari no hajimari e
-Dialogue: 2,0:22:44.64,0:22:54.00,ED01,,0,50,100,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}owari no hajimari e
-Dialogue: 0,0:21:21.77,0:21:26.06,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Durerea din mâinile mele care încearcă să te fure
-Dialogue: 1,0:21:21.77,0:21:26.06,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Durerea din mâinile mele care încearcă să te fure
-Dialogue: 2,0:21:21.77,0:21:26.06,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Durerea din mâinile mele care încearcă să te fure
-Dialogue: 0,0:21:26.47,0:21:30.61,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Continuă să se multiplice la nesfârșit
-Dialogue: 1,0:21:26.47,0:21:30.61,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Continuă să se multiplice la nesfârșit
-Dialogue: 2,0:21:26.47,0:21:30.61,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Continuă să se multiplice la nesfârșit
-Dialogue: 0,0:21:31.14,0:21:35.58,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Sticlă spartă, adevăruri ascunse
-Dialogue: 1,0:21:31.14,0:21:35.58,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Sticlă spartă, adevăruri ascunse
-Dialogue: 2,0:21:31.14,0:21:35.58,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Sticlă spartă, adevăruri ascunse
-Dialogue: 0,0:21:35.58,0:21:39.72,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}și lacrimile mele negre pe care le-am vărsat
-Dialogue: 1,0:21:35.58,0:21:39.72,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}și lacrimile mele negre pe care le-am vărsat
-Dialogue: 2,0:21:35.58,0:21:39.72,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}și lacrimile mele negre pe care le-am vărsat
-Dialogue: 0,0:21:40.03,0:21:49.24,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Aceste anotimpuri spulberate
-Dialogue: 1,0:21:40.03,0:21:49.24,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Aceste anotimpuri spulberate
-Dialogue: 2,0:21:40.03,0:21:49.24,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Aceste anotimpuri spulberate
-Dialogue: 0,0:21:49.24,0:21:57.25,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}mă conduc spre disperare
-Dialogue: 1,0:21:49.24,0:21:57.25,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}mă conduc spre disperare
-Dialogue: 2,0:21:49.24,0:21:57.25,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}mă conduc spre disperare
-Dialogue: 0,0:21:57.25,0:22:06.63,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Trebuie să existe un motiv ascuns
-Dialogue: 1,0:21:57.25,0:22:06.63,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Trebuie să existe un motiv ascuns
-Dialogue: 2,0:21:57.25,0:22:06.63,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Trebuie să existe un motiv ascuns
-Dialogue: 0,0:22:06.63,0:22:16.37,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}în această karmă care a început
-Dialogue: 1,0:22:06.63,0:22:16.37,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}în această karmă care a început
-Dialogue: 2,0:22:06.63,0:22:16.37,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}în această karmă care a început
-Dialogue: 0,0:22:16.37,0:22:21.45,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Deci, decide-te și vino cu mine
-Dialogue: 1,0:22:16.37,0:22:21.45,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Deci, decide-te și vino cu mine
-Dialogue: 2,0:22:16.37,0:22:21.45,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Deci, decide-te și vino cu mine
-Dialogue: 0,0:22:21.45,0:22:28.03,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Așa este, fii tu însuți
-Dialogue: 1,0:22:21.45,0:22:28.03,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Așa este, fii tu însuți
-Dialogue: 2,0:22:21.45,0:22:28.03,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Așa este, fii tu însuți
-Dialogue: 0,0:22:28.03,0:22:33.93,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Alungă-ți ezitarea și înaintează
-Dialogue: 1,0:22:28.03,0:22:33.93,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Alungă-ți ezitarea și înaintează
-Dialogue: 2,0:22:28.03,0:22:33.93,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Alungă-ți ezitarea și înaintează
-Dialogue: 0,0:22:35.24,0:22:40.06,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Adio
-Dialogue: 1,0:22:35.24,0:22:40.06,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Adio
-Dialogue: 2,0:22:35.24,0:22:40.06,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Adio
-Dialogue: 0,0:22:40.06,0:22:44.64,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Voi pleca acum
-Dialogue: 1,0:22:40.06,0:22:44.64,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Voi pleca acum
-Dialogue: 2,0:22:40.06,0:22:44.64,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Voi pleca acum
-Dialogue: 0,0:22:44.64,0:22:54.00,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}spre începutul sfârșitului
-Dialogue: 1,0:22:44.64,0:22:54.00,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}spre începutul sfârșitului
-Dialogue: 2,0:22:44.64,0:22:54.00,ED01 TL,,0,50,30,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}spre începutul sfârșitului
+Dialogue: 0,0:21:14.38,0:21:19.72,ED01 TL,,0,0,0,,{\fad(250,250)\blur1.5\bord5\c&H000000&\3c&H000000&}până în ziua când ne vom revedea
+Dialogue: 1,0:21:14.38,0:21:19.72,ED01 TL,,0,0,0,,{\fad(250,250)\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}până în ziua când ne vom revedea
+Dialogue: 2,0:21:14.38,0:21:19.72,ED01 TL,,0,0,0,,{\fad(250,250)\blur0.6\bord0\c&H000000&}până în ziua când ne vom revedea
+Dialogue: 0,0:21:21.76,0:21:26.06,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Durerea din mâinile mele care încearcă să te fure
+Dialogue: 1,0:21:21.76,0:21:26.06,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Durerea din mâinile mele care încearcă să te fure
+Dialogue: 2,0:21:21.76,0:21:26.06,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Durerea din mâinile mele care încearcă să te fure
+Dialogue: 0,0:21:26.47,0:21:30.60,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Continuă să se multiplice la nesfârșit
+Dialogue: 1,0:21:26.47,0:21:30.60,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Continuă să se multiplice la nesfârșit
+Dialogue: 2,0:21:26.47,0:21:30.60,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Continuă să se multiplice la nesfârșit
+Dialogue: 0,0:21:31.14,0:21:35.57,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Sticlă spartă, adevăruri ascunse
+Dialogue: 1,0:21:31.14,0:21:35.57,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Sticlă spartă, adevăruri ascunse
+Dialogue: 2,0:21:31.14,0:21:35.57,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Sticlă spartă, adevăruri ascunse
+Dialogue: 0,0:21:35.57,0:21:39.74,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}și lacrimile mele negre pe care le-am vărsat
+Dialogue: 1,0:21:35.57,0:21:39.74,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}și lacrimile mele negre pe care le-am vărsat
+Dialogue: 2,0:21:35.57,0:21:39.74,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}și lacrimile mele negre pe care le-am vărsat
+Dialogue: 0,0:21:40.03,0:21:49.25,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Aceste anotimpuri spulberate
+Dialogue: 1,0:21:40.03,0:21:49.25,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Aceste anotimpuri spulberate
+Dialogue: 2,0:21:40.03,0:21:49.25,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Aceste anotimpuri spulberate
+Dialogue: 0,0:21:49.25,0:21:57.25,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}mă conduc spre disperare
+Dialogue: 1,0:21:49.25,0:21:57.25,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}mă conduc spre disperare
+Dialogue: 2,0:21:49.25,0:21:57.25,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}mă conduc spre disperare
+Dialogue: 0,0:21:57.25,0:22:06.64,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Trebuie să existe un motiv ascuns
+Dialogue: 1,0:21:57.25,0:22:06.64,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Trebuie să existe un motiv ascuns
+Dialogue: 2,0:21:57.25,0:22:06.64,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Trebuie să existe un motiv ascuns
+Dialogue: 0,0:22:06.64,0:22:16.36,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}în această karmă care a început
+Dialogue: 1,0:22:06.64,0:22:16.36,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}în această karmă care a început
+Dialogue: 2,0:22:06.64,0:22:16.36,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}în această karmă care a început
+Dialogue: 0,0:22:16.36,0:22:21.44,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Deci, decide-te și vino cu mine
+Dialogue: 1,0:22:16.36,0:22:21.44,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Deci, decide-te și vino cu mine
+Dialogue: 2,0:22:16.36,0:22:21.44,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Deci, decide-te și vino cu mine
+Dialogue: 0,0:22:21.44,0:22:28.03,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Așa este, fii tu însuți
+Dialogue: 1,0:22:21.44,0:22:28.03,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Așa este, fii tu însuți
+Dialogue: 2,0:22:21.44,0:22:28.03,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Așa este, fii tu însuți
+Dialogue: 0,0:22:28.03,0:22:33.92,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Alungă-ți ezitarea și înaintează
+Dialogue: 1,0:22:28.03,0:22:33.92,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Alungă-ți ezitarea și înaintează
+Dialogue: 2,0:22:28.03,0:22:33.92,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Alungă-ți ezitarea și înaintează
+Dialogue: 0,0:22:35.25,0:22:40.05,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Adio
+Dialogue: 1,0:22:35.25,0:22:40.05,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Adio
+Dialogue: 2,0:22:35.25,0:22:40.05,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Adio
+Dialogue: 0,0:22:40.05,0:22:44.63,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}Voi pleca acum
+Dialogue: 1,0:22:40.05,0:22:44.63,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}Voi pleca acum
+Dialogue: 2,0:22:40.05,0:22:44.63,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}Voi pleca acum
+Dialogue: 0,0:22:44.63,0:22:54.02,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1.5\bord5\c&H000000&\3c&H000000&}spre începutul sfârșitului
+Dialogue: 1,0:22:44.63,0:22:54.02,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur1\bord3\c&HFFFFFF&\3c&HFFFFFF&}spre începutul sfârșitului
+Dialogue: 2,0:22:44.63,0:22:54.02,ED01 TL,,0,0,0,,{\fad(250,250)\an9\fs60\blur0.6\bord0\c&H000000&}spre începutul sfârșitului
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"originalText"#3A"{\\an1\\fnDisintegration\\fscx160\\fscy170\\blur1.6\\pos(935#2C640)}Liceul mor#C8#9Bilor"#2C"uuid"#3A"2179c97f-b546-4f89-a6e6-f9b582e99303"}
+Data: 1,a-mo,e{"originalText"#3A"{\\fnDisintegration\\an1\\fscy440\\fscx500\\blur2\\frz8.02\\c&HFDFEFE&\\pos(50#2C300)}Liceul mor#C8#9Bilor"#2C"uuid"#3A"ec7ec46e-1522-4ec3-8a03-c6037f28775e"}
+Data: 2,a-mo,e{"originalText"#3A"{\\an1\\c&H1C1D1F&\\frz-5.96\\fnDisintegration\\fscy220\\fscx210\\pos(407.02#2C311.29)\\blur1.2}L{*\\c&H1D1E20&}i{*\\c&H1F1F22&}c{*\\c&H202023&}e{*\\c&H222225&}u{*\\c&H232326&}l {*\\c&H272629&}m{*\\c&H28272B&}o{*\\c&H2A282C&}r{*\\c&H2B292E&}#C8#9B{*\\c&H2D2B2F&}i{*\\c&H2E2C31&}l{*\\c&H302D32&}o{\\c&H322F34&}r"#2C"uuid"#3A"cfd24e16-8705-492d-89eb-920cb820243b"}
+Data: 3,a-mo,e{"originalText"#3A"{\\an1\\c&H5446C9&\\frz-5.96\\fnDisintegration\\fscy220\\fscx210\\pos(407.02#2C311.29)\\3c&H5446C9&\\blur6\\bord3}Liceul mor#C8#9Bilor"#2C"uuid"#3A"8e7739c8-4fe2-412e-90bd-94a654603d80"}
+Data: 13,a-mo,e{"originalText"#3A"{\\an1\\pos(3.28#2C335.65)\\fscx530.01\\fscy470\\frz8.02\\fnDisintegration\\blur1.2\\c&H242826&\\t(\\c&H2E3035&)}Liceul mor#C8#9Bilor"#2C"uuid"#3A"d6d21f69-0086-41d8-b9ae-075d665b59cc"}
+Data: 14,a-mo,e{"originalText"#3A"{\\alpha&H00&\\fnDisintegration\\an1\\fscy470\\fscx530.01\\blur20\\frz8.02\\c&HFFFFFF&\\pos(3.28#2C335.65)}Liceul mor#C8#9Bilor"#2C"uuid"#3A"d1836a63-4cfc-4876-8590-699db7ef7d2e"}
