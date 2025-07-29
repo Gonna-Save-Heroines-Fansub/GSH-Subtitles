@@ -19,10 +19,10 @@ YCbCr Matrix: TV.709
 Audio File: E:/Anime/Shuumatsu no Harem [BD]/[Sekkon] Shuumatsu no Harem - 05 [BDRIP][1080p][Hi10P][FLAC] [C8ADE24E].mkv
 Video File: E:/Anime/Shuumatsu no Harem [BD]/[Sekkon] Shuumatsu no Harem - 05 [BDRIP][1080p][Hi10P][FLAC] [C8ADE24E].mkv
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 322
-Active Line: 330
-Video Position: 28879
+Video Zoom Percent: 0.500000
+Scroll Position: 130
+Active Line: 140
+Video Position: 13309
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,21 +133,21 @@ Dialogue: 100,0:06:36.54,0:06:37.50,Dialogue,Gi,0,0,0,,Bine...
 Dialogue: 100,0:06:38.13,0:06:41.55,Dialogue,Gu,0,0,0,,Kuroda, ai spus că \Nstudiezi virologia, nu?
 Dialogue: 100,0:06:41.55,0:06:42.63,Dialogue,Gi,0,0,0,,Da.
 Dialogue: 100,0:06:42.63,0:06:47.14,Dialogue,Gi,0,0,0,,Cred că știu ceva lucruri \Ndespre virusul MK.
-Dialogue: 100,0:06:47.14,0:06:49.89,Dialogue,Gi,0,0,0,,{\fad(300,100)\i1\3c&HFFFFFF&\4c&HFFFFFF&\t(0,300,1,\3c&H440554&\4c&H000000&)\t(2650,0,1,\3c&HFFFFFF&\4c&HFFFFFF&)}Virusul MK a fost creat de oameni!
-Dialogue: 100,0:06:50.26,0:06:54.14,Dialogue,Gu,0,0,0,,Cum crezi că a luat naștere?
-Dialogue: 100,0:06:54.14,0:06:56.73,Dialogue,Gi,0,0,0,,Există trei teorii despre \Ncum au apărut virusurile:
-Dialogue: 100,0:06:56.73,0:07:01.90,Dialogue,Gi,0,0,0,,ipoteza regresivă, ipoteza originii celulare și ipoteza co-evoluției.
-Dialogue: 100,0:07:01.90,0:07:03.94,Dialogue,Gi,0,0,0,,Dar încă nu știm cu exactitate.
-Dialogue: 100,0:07:03.94,0:07:08.28,Dialogue,Gi,0,0,0,,Și din moment ce nu știm cu exactitate, nu cred că e corect să pui întrebarea „cum a luat naștere”.
-Dialogue: 100,0:07:08.82,0:07:14.41,Dialogue,Gi,0,0,0,,E posibil ca abia acum, ceva ce exista de milioane de ani să fi intrat în contact cu umanitatea.
-Dialogue: 100,0:07:14.41,0:07:19.54,Dialogue,Gi,0,0,0,,De fapt, în biologie, virusurile nu sunt văzute drept creaturi vii...
-Dialogue: 100,0:07:19.54,0:07:21.55,Dialogue,Gu,0,0,0,,{\i1}Brusc, e mult mai vorbăreață...
-Dialogue: 100,0:07:21.55,0:07:25.30,Dialogue,Gi,0,0,0,,E posibil să fi fost creat de oameni?
-Dialogue: 100,0:07:26.09,0:07:28.93,Dialogue,Gu,0,0,0,,Asta e o teorie interesantă.
-Dialogue: 100,0:07:29.68,0:07:31.06,Dialogue,Gi,0,0,0,,Pune niște haine pe tine.
-Dialogue: 100,0:07:31.06,0:07:35.56,Dialogue,Gi,0,0,0,,Am putea găsi niște \Nindicii acolo unde mergem.
-Dialogue: 100,0:07:35.73,0:07:37.85,Dialogue,Gu,0,0,0,,C-Ce vrei să spui?
-Dialogue: 100,0:07:37.85,0:07:43.94,Dialogue,Gi,0,0,0,,În orașul Keimon a apărut prima victimă a virusului MK din Japonia.
+Dialogue: 100,0:06:47.14,0:06:49.89,Dialogue,Erisa,0,0,0,ep2 17:37,{\fad(300,100)\i1\3c&HFFFFFF&\4c&HFFFFFF&\t(0,300,1,\3c&H440554&\4c&H000000&)\t(2650,0,1,\3c&HFFFFFF&\4c&HFFFFFF&)}Virusul MK a fost creat de oameni!
+Dialogue: 100,0:06:50.26,0:06:54.14,Dialogue,Reito,0,0,0,,Cum crezi că a luat naștere?
+Dialogue: 100,0:06:54.14,0:06:56.73,Dialogue,Kuroda,0,0,0,,Există trei teorii despre \Ncum au apărut virusurile:
+Dialogue: 100,0:06:56.73,0:07:01.90,Dialogue,Kuroda,0,0,0,,ipoteza regresivă, ipoteza originii celulare și ipoteza co-evoluției.
+Dialogue: 100,0:07:01.90,0:07:03.94,Dialogue,Kuroda,0,0,0,,Dar încă nu știm cu exactitate.
+Dialogue: 100,0:07:03.94,0:07:08.28,Dialogue,Kuroda,0,0,0,,Și din moment ce nu știm cu exactitate, nu cred că e corect să pui întrebarea „cum a luat naștere”.
+Dialogue: 100,0:07:08.82,0:07:14.41,Dialogue,Kuroda,0,0,0,,E posibil ca abia acum, ceva ce exista de milioane de ani să fi intrat în contact cu umanitatea.
+Dialogue: 100,0:07:14.41,0:07:19.54,Dialogue,Kuroda,0,0,0,,De fapt, în biologie, virusurile nu sunt văzute drept creaturi vii...
+Dialogue: 100,0:07:19.54,0:07:21.55,Dialogue,Reito,0,0,0,,{\i1}Brusc, e mult mai vorbăreață...
+Dialogue: 100,0:07:21.55,0:07:25.30,Dialogue,Reito,0,0,0,,E posibil să fi fost creat de oameni?
+Dialogue: 100,0:07:26.09,0:07:28.93,Dialogue,Kuroda,0,0,0,,Asta e o teorie interesantă.
+Dialogue: 100,0:07:29.68,0:07:31.06,Dialogue,Reito,0,0,0,,Pune niște haine pe tine.
+Dialogue: 100,0:07:31.06,0:07:35.56,Dialogue,Kuroda,0,0,0,,Am putea găsi niște \Nindicii acolo unde mergem.
+Dialogue: 100,0:07:35.73,0:07:37.85,Dialogue,Reito,0,0,0,,C-Ce vrei să spui?
+Dialogue: 100,0:07:37.85,0:07:43.94,Dialogue,Kuroda,0,0,0,,În orașul Keimon a apărut prima victimă a virusului MK din Japonia.
 Dialogue: 100,0:07:47.07,0:07:48.70,Dialogue,Gi,0,0,0,,E imens!
 Dialogue: 100,0:07:48.70,0:07:51.08,Dialogue,Gi,0,0,0,,Lacul e așa de mare!
 Dialogue: 100,0:07:51.08,0:07:55.25,Dialogue,Gi,0,0,0,,Mai e un grup de \Nstudenți în excursie aici,
@@ -156,27 +156,27 @@ Dialogue: 100,0:07:56.58,0:07:58.92,Dialogue,Gi,0,0,0,,Am auzit că vom avea lan
 Dialogue: 100,0:07:58.92,0:08:00.96,Dialogue,Gi,0,0,0,,Haideți să jucăm ping-pong! Ping-pong!
 Dialogue: 100,0:08:00.96,0:08:02.71,Dialogue,Gi,0,0,0,,Mai bine mergem la izvoarele termale!
 Dialogue: 100,0:08:02.96,0:08:05.30,Dialogue,Gi,0,0,0,,Nu suntem aici ca să ne jucăm!
-Dialogue: 100,0:08:05.97,0:08:07.55,Dialogue,Gu,0,0,0,,Acest loc e drăguț...
+Dialogue: 100,0:08:05.97,0:08:07.55,Dialogue,Reito,0,0,0,,Acest loc e drăguț...
 Dialogue: 100,0:08:07.84,0:08:10.55,Dialogue,Gi,0,0,0,,Mi-aș fi dorit ca și \NMahiru să fi putut veni.
 Dialogue: 100,0:08:10.55,0:08:13.68,Dialogue,Gi,0,0,0,,Nu putem lăsa o persoană \Ndin afară să vină cu noi.
 Dialogue: 100,0:08:13.68,0:08:17.81,Dialogue,Gi,0,0,0,,Una din atribuțiile tale e să creezi un mediu relaxant pentru Reito, nu crezi?
 Dialogue: 100,0:08:18.14,0:08:21.36,Dialogue,Gi,0,0,0,,Treaba mea e să mă ocup \Nde viața lui de zi cu zi
 Dialogue: 100,0:08:21.36,0:08:24.07,Dialogue,Gi,0,0,0,,și să-l ajut să se concentreze \Nla crearea unui vaccin.
 Dialogue: 100,0:08:24.36,0:08:26.44,Dialogue,Gi,0,0,0,,Se pare că nu suntem de \Nacord în această privință.
-Dialogue: 100,0:08:27.40,0:08:28.20,Dialogue,Gu,0,0,0,,Hei...
+Dialogue: 100,0:08:27.40,0:08:28.20,Dialogue,Reito,0,0,0,,Hei...
 Dialogue: 100,0:08:31.20,0:08:33.99,Dialogue,GI,0,0,0,,Pare distractiv! \NVreau să mă alătur și eu!
 Dialogue: 100,0:08:34.70,0:08:36.54,Dialogue,GI,0,0,0,,Încetați!
-Dialogue: 100,0:08:39.87,0:08:42.63,Dialogue,Gu,0,0,0,,Mi-aș fi dorit să pot merge \Nși eu în baia în aer liber...
-Dialogue: 100,0:08:45.80,0:08:47.59,Dialogue,Gu,0,0,0,,O hologramă a unei băi în aer liber!
+Dialogue: 100,0:08:39.87,0:08:42.63,Dialogue,Reito,0,0,0,,Mi-aș fi dorit să pot merge \Nși eu în baia în aer liber...
+Dialogue: 100,0:08:45.80,0:08:47.59,Dialogue,Reito,0,0,0,,O hologramă a unei băi în aer liber!
 Dialogue: 100,0:08:48.97,0:08:50.84,Dialogue,Gi,0,0,0,,Nu e rău deloc.
 Dialogue: 100,0:08:57.22,0:08:57.85,Dialogue,Gi,0,0,0,,De ce...
 Dialogue: 100,0:08:57.85,0:09:01.77,Dialogue,Gi,0,0,0,,E în regulă. E mai \Ndistractiv dacă suntem toți.
 Dialogue: 100,0:09:01.77,0:09:04.98,Dialogue,Gi,0,0,0,,Nu mai există „baia bărbaților” \Nși „baia femeilor” acum.
-Dialogue: 100,0:09:05.86,0:09:07.32,Dialogue,Gu,0,0,0,,Voi ieși...
+Dialogue: 100,0:09:05.86,0:09:07.32,Dialogue,Reito,0,0,0,,Voi ieși...
 Dialogue: 100,0:09:07.32,0:09:08.24,Dialogue,Gi,0,0,0,,Așteaptă.
 Dialogue: 100,0:09:08.49,0:09:11.86,Dialogue,Gi,0,0,0,,Te voi spăla pe spate drept mulțumire pentru tot ajutorul oferit.
-Dialogue: 100,0:09:11.86,0:09:15.08,Dialogue,Gu,0,0,0,,Nu, tu ești cea care mă ajută mereu!
-Dialogue: 100,0:09:15.08,0:09:16.62,Dialogue,Gu,0,0,0,,E fix pe dos!
+Dialogue: 100,0:09:11.86,0:09:15.08,Dialogue,Reito,0,0,0,,Nu, tu ești cea care mă ajută mereu!
+Dialogue: 100,0:09:15.08,0:09:16.62,Dialogue,Reito,0,0,0,,E fix pe dos!
 Dialogue: 100,0:09:17.54,0:09:19.37,Dialogue,Gi,0,0,0,,Atunci, poate voi apela la ajutorul tău.
 Dialogue: 100,0:09:20.50,0:09:23.79,Dialogue,Gi,0,0,0,,Ce-ai zice dacă ne-ai \Nspăla pe toate pe spate.
 Dialogue: 100,0:09:26.25,0:09:31.30,Dialogue,Gi,0,0,0,,E așa de plăcut să fiu \Nspălată pe spate de Reito!
