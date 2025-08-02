@@ -16,6 +16,10 @@ ScaledBorderAndShadow: yes
 Original Script: CR
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+Scroll Position: 334
+Active Line: 355
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fira Sans Medium,70,&H00FFFFFF,&H000000FF,&H0042036F,&HB4000000,0,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,1
@@ -382,7 +386,7 @@ Dialogue: 100,0:21:57.46,0:22:00.38,Dialogue,Marie; internal,0,0,0,,{\i1}D-Deci 
 Dialogue: 100,0:22:01.76,0:22:04.30,Dialogue,Mio,0,0,0,,Deci a fost o capcană până \Nla urmă, prințule Luiphon!
 Dialogue: 100,0:22:06.81,0:22:09.52,Dialogue,Luipohn,0,0,0,,Eu sunt Luiphon Sandhalkia Diltz,
 Dialogue: 100,0:22:09.52,0:22:12.02,Dialogue,Luiphon,0,0,0,,al treilea prinț al acestei țări \Nși căpitanul cavalerilor.
-Dialogue: 100,0:22:12.31,0:22:14.48,Dialogue,Luiphon,0,0,0,,Dar, mai presus de toate...
+Dialogue: 100,0:22:12.31,0:22:14.48,Dialogue,Luiphon,0,0,0,,Dar poate mai presus de toate...
 Dialogue: 100,0:22:15.69,0:22:17.98,Dialogue,Luiphon,0,0,0,,Sunt un prieten drag al lui Kyros!
 Dialogue: 100,0:22:18.36,0:22:21.03,Dialogue,Luiphon,0,0,0,,Încântat de cunoștință, draga mea Maria!
 Dialogue: 100,0:22:21.74,0:22:24.70,Dialogue,Marie; internal,0,0,0,,{\i1}D-Deci acesta este prințul.
