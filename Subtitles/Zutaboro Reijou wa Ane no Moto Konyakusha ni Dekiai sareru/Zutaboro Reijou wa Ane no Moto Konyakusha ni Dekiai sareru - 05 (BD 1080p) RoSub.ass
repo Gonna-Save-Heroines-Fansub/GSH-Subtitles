@@ -96,7 +96,7 @@ Dialogue: 100,0:04:37.80,0:04:42.35,Dialogue,Luiphon,0,0,0,,Iar în capul meu er
 Dialogue: 100,0:04:42.35,0:04:44.43,Dialogue,Luiphon,0,0,0,,A ieșit o adevărată zarvă.
 Dialogue: 100,0:04:47.31,0:04:49.60,Dialogue,Marie,0,0,0,,Oare chiar e de râs?
 Dialogue: 100,0:04:54.73,0:04:57.07,Dialogue,referee,0,0,0,,Câștigătorul este războinicul negru!
-Dialogue: 100,0:04:57.78,0:05:00.03,Dialogue,Marie,0,0,0,,Oh, s-a termiant deja?
+Dialogue: 100,0:04:57.78,0:05:00.03,Dialogue,Marie,0,0,0,,Oh, s-a terminat deja?
 Dialogue: 100,0:05:00.03,0:05:03.28,Dialogue,Luiphon,0,0,0,,Da. Parând vârful sabiei \Ncavalerului albastru,
 Dialogue: 100,0:05:03.28,0:05:05.70,Dialogue,Luiphon,0,0,0,,războinicul negru a reușit să \Ncâștige cu o singură lovitură.
 Dialogue: 100,0:05:05.70,0:05:07.91,Dialogue,Luiphon,0,0,0,,Dar nu a luptat cu toată puterea.
@@ -205,7 +205,7 @@ Dialogue: 100,0:10:47.34,0:10:48.42,Dialogue,Marie; internal,0,0,0,,{\i1}Dar...
 Dialogue: 100,0:10:49.34,0:10:53.55,Dialogue,Luiphon,0,0,0,,Exact cum credeam, nu simți nimic pentru Kyros, cu atât mai puțin dragoste.
 Dialogue: 100,0:10:53.55,0:10:55.76,Dialogue,Kyros,0,0,0,,Nu te mai lua de ea. \NCe te-a supărat atât de tare?
 Dialogue: 100,0:10:55.76,0:10:59.97,Dialogue,Luiphon,0,0,0,,Când am auzit că urmează să te logodești, am fost foarte fericit.
-Dialogue: 100,0:10:59.97,0:11:05.90,Dialogue,Luiphon,0,0,0,,Dragul meu prieten încăpățânat, care refuzase orice domniță nobilă îi ieși în cale, și-a găsit, în sfârșit, primăvara.
+Dialogue: 100,0:10:59.97,0:11:05.90,Dialogue,Luiphon,0,0,0,,Dragul meu prieten încăpățânat, care refuzase orice domniță nobilă îi ieșise în cale, și-a găsit, în sfârșit, primăvara.
 Dialogue: 100,0:11:06.77,0:11:08.69,Dialogue,Luiphon,0,0,0,,Dar în cele din urmă...
 Dialogue: 100,0:11:09.61,0:11:11.44,Dialogue,Luiphon,0,0,0,,E doar o căsătorie politică, nu?
 Dialogue: 100,0:11:11.44,0:11:14.95,Dialogue,Luiphon,0,0,0,,Și cu o femeie căreia nu îi \Nplac obiceiurile nobililor
@@ -243,7 +243,7 @@ Dialogue: 100,0:13:24.87,0:13:29.04,Dialogue,Kyros,0,0,0,,Foarte bine. Atunci, c
 Dialogue: 100,0:13:29.04,0:13:29.79,Dialogue,Marie,0,0,0,,Ce?
 Dialogue: 100,0:13:30.29,0:13:31.50,Dialogue,Kyros,0,0,0,,A fost doar o glumă.
 Dialogue: 100,0:13:35.42,0:13:37.76,Dialogue,Kyros,0,0,0,,Iar acum, voi merge să-mi \Nînving cel mai bun prieten.
-Dialogue: 100,0:13:38.46,0:13:40.05,Dialogue,Marie,0,0,0,,D-Da.
+Dialogue: 100,0:13:38.46,0:13:40.05,Dialogue,Marie,0,0,0,,B-Bine.
 Dialogue: 100,0:13:43.97,0:13:45.05,Dialogue,referee,0,0,0,,Acum...
 Dialogue: 100,0:13:45.05,0:13:48.31,Dialogue,referee,0,0,0,,îi avem pe câștigătorul competiției de scrimă, contele Kyros Granado,
 Dialogue: 100,0:13:48.31,0:13:51.23,Dialogue,referee,0,0,0,,și pe cel de-al treilea prinț al Regatului Diltz, căpitanul cavalerilor,
@@ -251,7 +251,7 @@ Dialogue: 100,0:13:51.23,0:13:55.19,Dialogue,referee,0,0,0,,Altețea Sa, Luiphon
 Dialogue: 100,0:13:55.19,0:13:56.65,Dialogue,Marie; internal,0,0,0,,{\i1}O puteți face, lordule Kyros.
 Dialogue: 100,0:13:59.49,0:14:02.61,Dialogue,Kyros,0,0,0,,Luiphon, pune-ți coiful. \NAi putea să fii rănit grav.
 Dialogue: 100,0:14:02.61,0:14:03.91,Dialogue,Luiphon,0,0,0,,Și tu, dragul meu Kyros.
-Dialogue: 100,0:14:03.91,0:14:07.91,Dialogue,Luiphon,0,0,0,,Dacă-ți voi turni cumva nasul tău nobil, \Ns-ar putea ca draga de Maria să înceapă să te urască.
+Dialogue: 100,0:14:03.91,0:14:07.91,Dialogue,Luiphon,0,0,0,,Dacă-ți voi turti cumva nasul tău nobil, \Ns-ar putea ca draga de Maria să înceapă să te urască.
 Dialogue: 100,0:14:07.91,0:14:09.04,Dialogue,Luiphon,0,0,0,,Pune-ți coiful.
 Dialogue: 100,0:14:13.50,0:14:14.75,Dialogue,referee,0,0,0,,Î-În acest caz...
 Dialogue: 100,0:14:16.25,0:14:17.30,Dialogue,referee,0,0,0,,Începeți!
@@ -581,7 +581,7 @@ Dialogue: 0,0:00:42.86,0:00:42.90,DedzuyaSigns,,0,0,0,,{\pos(959.89,205.35)\fscx
 Dialogue: 0,0:00:42.90,0:00:42.94,DedzuyaSigns,,0,0,0,,{\pos(959.79,205.51)\fscx139.76\fscy139.76\fnMargarine\fsp5\1c&HDFB804&\alpha&H3D&\blur7.74}Lo{\1c&HA36EFE&}go{\1c&HDFB804&}di{\1c&HA36EFE&}tă {\fscx119.8\fscy119.8\fnLinux Libertine\fsp0\b1\1c&H2686A9&}cu {\1c&H6400FF&}fostul partener {\1c&H2686A9&}al {\1c&H6401FD&}surorii mele
 Dialogue: 0,0:01:49.30,0:01:53.26,DedzuyaSigns,,0,0,0,,{\an3\pos(1835,965)\fscx80\fscy80\fax-0.12\fnLora Medium\i1\bord1\shad4\c&H000000&\1a&HFE&\3a&HA0&\4a&H70&\blur5\fad(480,480)}Episodul 5: Prințul și războinicul negru
 Dialogue: 1,0:01:49.30,0:01:53.26,DedzuyaSigns,,0,0,0,,{\an3\pos(1835,965)\fscx80\fscy80\fax-0.12\fnLora Medium\i1\blur0.5\fad(480,480)}Episodul 5: Prințul și războinicul negru
-Dialogue: 0,0:06:35.50,0:06:39.13,DedzuyaSigns,,0,0,0,,{\pos(188.22,643.22)\fscx76\fscy76\fnShaky Hand Some Comic\fsp3\c&H523697&\4c&H5C499B&\blur0.8}Pradă de 
+Dialogue: 0,0:06:35.50,0:06:39.13,DedzuyaSigns,,0,0,0,,{\pos(188.22,643.22)\fscx76\fscy76\fnShaky Hand Some Comic\fsp3\c&H523697&\4c&H5C499B&\blur0.8}Pradă de
 Dialogue: 1,0:06:35.50,0:06:39.13,DedzuyaSigns,,0,0,0,,{\pos(188.22,640.22)\fscx76\fscy76\fnShaky Hand Some Comic\fsp3\c&H7E60D8&\4c&H5C499B&\blur0.8}Pradă de
 Dialogue: 2,0:06:35.50,0:06:39.13,DedzuyaSigns,,0,0,0,,{\pos(188.22,640.22)\fscx76\fscy76\fnShaky Hand Some Comic\fsp3\c&H7E60D8&\4c&H5C499B&\blur0.8}Pradă de
 Dialogue: 0,0:06:35.50,0:06:39.13,DedzuyaSigns,,0,0,0,,{\pos(188.22,788.22)\fscx76\fscy76\fnShaky Hand Some Comic\fsp3\c&H523697&\4c&H5C499B&\blur0.8}război
