@@ -20,9 +20,10 @@ Last Style Storage: Default
 Audio File: E:/Anime/Shuumatsu no Harem [BD]/[Sekkon] Shuumatsu no Harem - 11 [BDRIP][1080p][Hi10P][FLAC] [89888618].mkv
 Video File: E:/Anime/Shuumatsu no Harem [BD]/[Sekkon] Shuumatsu no Harem - 11 [BDRIP][1080p][Hi10P][FLAC] [89888618].mkv
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 351
-Video Position: 21593
+Video Zoom Percent: 0.500000
+Scroll Position: 342
+Active Line: 354
+Video Position: 33157
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,17 +83,17 @@ Dialogue: 100,0:02:46.19,0:02:49.15,Dialogue,,0,0,0,,Chifuyu, mă bucur că ați
 Dialogue: 100,0:02:47.27,0:02:50.94,Dialogue,,0,0,0,,{\an8}Mereu sunt bine!
 Dialogue: 100,0:02:49.15,0:02:53.49,Dialogue,,0,0,0,,Dar de ce e îmbrăcată cu acele haine?
 Dialogue: 100,0:02:50.94,0:02:53.49,Dialogue,,0,0,0,,{\an8}Mi-am făcut griji pentru tine!
-Dialogue: 100,0:02:55.53,0:02:56.95,Dialogue,,0,0,0,,Mai întâi atacul terorist
+Dialogue: 100,0:02:55.53,0:02:56.95,Dialogue,,0,0,0,,Mai întâi, atacul terorist
 Dialogue: 100,0:02:57.32,0:03:02.62,Dialogue,,0,0,0,,și apoi aflăm că mai există încă patru bărbați rezistenți la virus, pe lângă Shouta.
 Dialogue: 100,0:03:02.62,0:03:05.08,Dialogue,,0,0,0,,Au fost niște zile nebune.
 Dialogue: 100,0:03:05.08,0:03:08.46,Dialogue,,0,0,0,,Creierul meu nu reușește să țină pasul!
-Dialogue: 100,0:03:08.46,0:03:12.84,Dialogue,,0,0,0,,O, așa e. Vă mulțumesc că ați a-avut grijă de sora mea mai mică!
+Dialogue: 100,0:03:08.46,0:03:12.84,Dialogue,,0,0,0,,Oh, așa e. Vă mulțumesc că ați a-avut grijă de sora mea mai mică!
 Dialogue: 100,0:03:12.84,0:03:14.34,Dialogue,,0,0,0,,Nu, ei bine...
 Dialogue: 100,0:03:14.63,0:03:17.51,Dialogue,,0,0,0,,Eu sunt cea care are grijă de ele!
 Dialogue: 100,0:03:17.51,0:03:20.35,Dialogue,,0,0,0,,Nu trebuie să te pleci în fața lor!
 Dialogue: 100,0:03:20.35,0:03:24.73,Dialogue,,0,0,0,,Ți-am tot spus să nu te mai porți așa!
 Dialogue: 100,0:03:24.73,0:03:26.69,Dialogue,,0,0,0,,Vai, Doamne...
-Dialogue: 100,0:03:26.69,0:03:28.35,Dialogue,,0,0,0,,O, așa e! Soră mai mare!
+Dialogue: 100,0:03:26.69,0:03:28.35,Dialogue,,0,0,0,,Oh, așa e! Soră mai mare!
 Dialogue: 100,0:03:28.35,0:03:32.94,Dialogue,,0,0,0,,Am auzit că ești însoțitoarea \NNumărului 2, nu-i așa?
 Dialogue: 100,0:03:32.94,0:03:34.32,Dialogue,,0,0,0,,Da, dar...
 Dialogue: 100,0:03:34.32,0:03:36.24,Dialogue,,0,0,0,,Te-ai împerecheat cu el?
@@ -216,7 +217,7 @@ Dialogue: 100,0:11:57.03,0:11:59.57,Dialogue,,0,0,0,,Poți folosi ce cuvânt dor
 Dialogue: 100,0:11:59.57,0:12:03.66,Dialogue,,0,0,0,,dar cred că o persoană japoneză ar trebui să conducă Japonia.
 Dialogue: 100,0:12:03.95,0:12:07.79,Dialogue,,0,0,0,,Văd că-ți place să mă iei \Npe ocolite. Spune-o direct.
 Dialogue: 100,0:12:09.42,0:12:12.04,Dialogue,,0,0,0,,Îmi vei oferi mie acel post?
-Dialogue: 100,0:12:14.92,0:12:17.55,Dialogue,,0,0,0,,Cel de ministrur al Afacerilor Interne.
+Dialogue: 100,0:12:14.92,0:12:17.55,Dialogue,,0,0,0,,Cel de director al Afacerilor Interne.
 Dialogue: 100,0:12:25.98,0:12:26.93,Dialogue,,0,0,0,,Acesta e locul.
 Dialogue: 100,0:12:34.57,0:12:35.57,Dialogue,,0,0,0,,Frățioare Rei!
 Dialogue: 100,0:12:35.86,0:12:37.07,Dialogue,,0,0,0,,Mahiru!
@@ -233,7 +234,7 @@ Dialogue: 100,0:13:11.15,0:13:11.98,Dialogue,,0,0,0,,Ce e?
 Dialogue: 100,0:13:11.98,0:13:13.90,Dialogue,,0,0,0,,Nimic...
 Dialogue: 100,0:13:13.90,0:13:19.53,Dialogue,,0,0,0,,Totuși, încă nu-mi vine să cred că Mizuhara Reito e fratele tău!
 Dialogue: 100,0:13:19.53,0:13:21.24,Dialogue,,0,0,0,,Îmi cer scuze că nu v-am spus.
-Dialogue: 100,0:13:21.53,0:13:24.99,Dialogue,,0,0,0,,Toată lumea are secrete în zilele noastre.
+Dialogue: 100,0:13:21.53,0:13:24.99,Dialogue,,0,0,0,,Toată lumea are secrete \Nîn zilele noastre.
 Dialogue: 100,0:13:26.62,0:13:29.71,Dialogue,,0,0,0,,Ești mai drăguț în \Nrealitate decât la TV!
 Dialogue: 100,0:13:29.71,0:13:30.25,Dialogue,,0,0,0,,Mulțumesc.
 Dialogue: 100,0:13:30.25,0:13:34.00,Dialogue,,0,0,0,,Hei, ia-ți mâinile de pe \Ncomoara umanității!
@@ -269,12 +270,12 @@ Dialogue: 100,0:15:22.99,0:15:25.61,Dialogue,,0,0,0,,Da, chiar a fost grozav.
 Dialogue: 100,0:15:27.74,0:15:28.82,Dialogue,,0,0,0,,Ce s-a întâmplat?
 Dialogue: 100,0:15:29.28,0:15:34.37,Dialogue,,0,0,0,,Nimic, doar că acum pari un adult în toată firea! Mă bucur!
 Dialogue: 100,0:15:34.37,0:15:36.62,Dialogue,,0,0,0,,Ne-a dat un Mansfield un răspuns?
-Dialogue: 100,0:15:36.62,0:15:39.75,Dialogue,,0,0,0,,Tot ce a spus e: „Mă voi gândi la asta.”
-Dialogue: 100,0:15:39.75,0:15:43.26,Dialogue,,0,0,0,,Bănuiesc că nu va fi atât de ușor să facem rost de postul de ministru al Afacerilor Interne.
+Dialogue: 100,0:15:36.62,0:15:39.75,Dialogue,,0,0,0,,Tot ce a spus e: \N„Mă voi gândi la asta.”
+Dialogue: 100,0:15:39.75,0:15:43.26,Dialogue,,0,0,0,,Bănuiesc că nu va fi atât de ușor să facem rost de postul de director al Afacerilor Interne.
 Dialogue: 100,0:15:44.01,0:15:47.38,Dialogue,,0,0,0,,Și se pare că Numărul 2 a fugit.
 Dialogue: 100,0:15:49.09,0:15:52.39,Dialogue,,0,0,0,,{\i1}E mai curajos decât credeam.
 Dialogue: 100,0:15:52.39,0:15:55.31,Dialogue,,0,0,0,,O să fim destul de ocupați!
-Dialogue: 100,0:15:55.31,0:15:57.81,Dialogue,,0,0,0,,Va trebuie să le cerem \Najutorul și fetelor!
+Dialogue: 100,0:15:55.31,0:15:57.81,Dialogue,,0,0,0,,Va trebui să le cerem \Najutor și fetelor!
 Dialogue: 100,0:16:04.36,0:16:05.53,Dialogue,,0,0,0,,Aceea e.
 Dialogue: 100,0:16:06.07,0:16:07.24,Dialogue,,0,0,0,,Vom folosi această navă?
 Dialogue: 100,0:16:09.03,0:16:11.33,Dialogue,,0,0,0,,Până aici putem merge eu și cu Mira.
@@ -311,7 +312,7 @@ Dialogue: 100,0:17:59.56,0:18:00.68,Dialogue,,0,0,0,,Erisa...
 Dialogue: 100,0:18:00.68,0:18:02.35,Dialogue,,0,0,0,,A spus că vrea să te vadă.
 Dialogue: 100,0:18:09.57,0:18:12.90,Dialogue,,0,0,0,,S-au întâmplat atât de multe de când am fost trezit din somnul criogenic.
 Dialogue: 100,0:18:16.03,0:18:17.28,Dialogue,,0,0,0,,{\i1}Suou...
-Dialogue: 100,0:18:18.91,0:18:21.41,Dialogue,,0,0,0,,{\i1}chiar nu poți trăda filiala japoneză a OF?
+Dialogue: 100,0:18:18.91,0:18:21.41,Dialogue,,0,0,0,,{\i1}chiar nu poți trăda \Nfiliala japoneză a OF?
 Dialogue: 100,0:18:22.33,0:18:24.83,Dialogue,,0,0,0,,Te gândeai la Suou, nu-i așa?
 Dialogue: 100,0:18:24.83,0:18:26.79,Dialogue,,0,0,0,,Mahiru, nu e...
 Dialogue: 100,0:18:26.79,0:18:28.42,Dialogue,,0,0,0,,Îi voi spune lui Erisa!
@@ -360,7 +361,7 @@ Dialogue: 100,0:20:52.98,0:20:55.65,Dialogue,,0,0,0,,Ce prietenie frumoasă.
 Dialogue: 100,0:20:55.65,0:21:01.74,Dialogue,,0,0,0,,Sau... poate că „prietenie” nu e cuvântul corect care să descrie asta?
 Dialogue: 100,0:21:03.62,0:21:06.08,Dialogue,,0,0,0,,Duceți-le în celule.
 Dialogue: 100,0:21:06.54,0:21:07.25,Dialogue,,0,0,0,,Să mergem.
-Dialogue: 100,0:21:09.87,0:21:13.08,Dialogue,,0,0,0,,Și acum, e timpul pentru următoarea etapă...
+Dialogue: 100,0:21:09.87,0:21:13.08,Dialogue,,0,0,0,,Și acum, e timpul pentru \Nurmătoarea etapă...
 Dialogue: 100,0:21:13.88,0:21:16.55,Dialogue,,0,0,0,,a planului de exterminare \Na tuturor bărbaților...
 Dialogue: 100,0:21:18.88,0:21:20.26,Dialogue,,0,0,0,,Și am ajuns!
 Dialogue: 100,0:21:20.59,0:21:21.55,Dialogue,,0,0,0,,Ce e acest loc?
@@ -371,7 +372,7 @@ Dialogue: 100,0:21:34.02,0:21:36.65,Dialogue,,0,0,0,,Alege pe cine dorești.
 Dialogue: 100,0:21:36.65,0:21:38.19,Dialogue,,0,0,0,,Pe oricine doresc de acolo?
 Dialogue: 100,0:21:39.36,0:21:41.32,Dialogue,,0,0,0,,Pe ea am văzut-o ieri...
 Dialogue: 100,0:21:41.32,0:21:45.78,Dialogue,,0,0,0,,Era o actriță când tu \Nai fost criogenizat.
-Dialogue: 100,0:21:46.03,0:21:48.87,Dialogue,,0,0,0,,Mă gândeam eu că-mi părea cunoscută.
+Dialogue: 100,0:21:46.03,0:21:48.87,Dialogue,,0,0,0,,Mă gândeam eu că-mi \Npărea cunoscută.
 Dialogue: 100,0:21:48.87,0:21:51.37,Dialogue,,0,0,0,,Dar ea e partenera lui Hino, nu?
 Dialogue: 100,0:21:51.37,0:21:57.75,Dialogue,,0,0,0,,{\q2}Când cei de la sediul mondial OF au venit, au cerut oprirea \Nactelor de împerechere pentru toate Numerele, nu?
 Dialogue: 100,0:21:57.75,0:21:59.67,Dialogue,,0,0,0,,Cu excepția ta.
@@ -385,14 +386,14 @@ Dialogue: 100,0:22:22.74,0:22:24.36,Dialogue,,0,0,0,,E incredibil!
 Dialogue: 100,0:22:25.07,0:22:26.07,Dialogue,,0,0,0,,Uau.
 Dialogue: 100,0:22:26.07,0:22:26.99,Dialogue,,0,0,0,,Acesta e locul.
 Dialogue: 100,0:22:27.83,0:22:28.95,Dialogue,,0,0,0,,{\i1}Erisa...
-Dialogue: 100,0:22:29.33,0:22:31.00,Dialogue,,0,0,0,,{\i1}Vor reuși în sfârșit să te văd?
+Dialogue: 100,0:22:29.33,0:22:31.00,Dialogue,,0,0,0,,{\i1}Voi reuși, în sfârșit, să te văd?
 Dialogue: 100,0:22:49.64,0:22:50.68,Dialogue,,0,0,0,,Erisa...
 Dialogue: 100,0:22:51.85,0:22:53.02,Dialogue,,0,0,0,,Reito...
 Dialogue: 100,0:22:58.69,0:23:02.11,Dialogue,,0,0,0,,Reito, mă bucur că te-ai vindecat...
-Dialogue: 100,0:23:02.90,0:23:05.53,Dialogue,,0,0,0,,Sunt... Sunt așa de fericit că ești bine!
+Dialogue: 100,0:23:02.90,0:23:05.53,Dialogue,,0,0,0,,Sunt... Sunt așa de \Nfericit că ești bine!
 Dialogue: 100,0:23:08.20,0:23:09.41,Dialogue,,0,0,0,,Te-am așteptat...
 Dialogue: 100,0:23:12.87,0:23:14.21,Dialogue,,0,0,0,,atât de mult...
-Dialogue: 100,0:23:15.92,0:23:19.63,Dialogue,,0,0,0,,Erisa, voi crea un vaccin pentru virusul MK.
+Dialogue: 100,0:23:15.92,0:23:19.63,Dialogue,,0,0,0,,Erisa, voi crea un vaccin \Npentru virusul MK.
 Dialogue: 100,0:23:22.38,0:23:25.76,Dialogue,,0,0,0,,Dacă nimeni altcineva nu \No va face, o vom face noi.
 Dialogue: 100,0:23:25.76,0:23:29.39,Dialogue,,0,0,0,,Dacă vom lucra împreună, \Nvom avea mai multe șanse să reușim...
 Dialogue: 100,0:23:29.39,0:23:30.35,Dialogue,,0,0,0,,Nu-i așa?
@@ -726,8 +727,8 @@ Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c
 Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B4B5&\blur5\clip(563,598,1368,599)\p1}m -379 -120 l 392 -120 392 114 -379 114
 Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B4B5&\blur5\clip(563,599,1368,600)\p1}m -379 -120 l 392 -120 392 114 -379 114
 Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B4B5&\blur5\clip(563,600,1368,601)\p1}m -379 -120 l 392 -120 392 114 -379 114
-Dialogue: 1,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\pos(958.8,474.27)\fnRyumin ExtraHeavy\fs54\bord3.5\c&H2A292C&\3c&H2A292C&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne
-Dialogue: 2,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\pos(958.8,474.27)\fnRyumin ExtraHeavy\fs54\c&HB6B5B7&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne
+Dialogue: 1,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\pos(958.8,474.27)\fnRyumin ExtraHeavy\fs75\bord2\c&H2A292C&\3c&H2A292C&\blur0.6\fscx70\fscy70}Filiala japoneză OF \N{\fscx120\fscy120\bord3}Biroul directorului \NAfacerilor Interne
+Dialogue: 2,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\pos(958.8,474.27)\fnRyumin ExtraHeavy\fs75\c&HB6B5B7&\blur0.8\fscx70\fscy70\bord2}Filiala japoneză OF \N{\fscx120\fscy120\bord3}Biroul directorului \NAfacerilor Interne
 Dialogue: 0,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCFD0CC&\blur5\clip(552,344,1391,345)\p1}m -396 -125 l 409 -125 409 121 -396 121
 Dialogue: 0,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCED0CB&\blur5\clip(552,345,1391,346)\p1}m -396 -125 l 409 -125 409 121 -396 121
 Dialogue: 0,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCED0CB&\blur5\clip(552,346,1391,347)\p1}m -396 -125 l 409 -125 409 121 -396 121
@@ -999,5 +1000,5 @@ Dialogue: 0,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\
 Dialogue: 0,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,612,1391,613)\p1}m -396 -125 l 409 -125 409 121 -396 121
 Dialogue: 0,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,613,1391,614)\p1}m -396 -125 l 409 -125 409 121 -396 121
 Dialogue: 0,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,614,1391,615)\p1}m -396 -125 l 409 -125 409 121 -396 121
-Dialogue: 1,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\pos(964.93,481.74)\fnRyumin ExtraHeavy\fs57\bord3.5\c&H292B2E&\3c&H292B2E&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne
-Dialogue: 2,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\pos(964.93,481.74)\fnRyumin ExtraHeavy\fs57\c&HB7B6B8&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne
+Dialogue: 1,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\pos(964.93,481.74)\fnRyumin ExtraHeavy\fs57\bord3.5\c&H292B2E&\3c&H292B2E&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul directorului \NAfacerilor Interne
+Dialogue: 2,0:20:36.09,0:20:38.47,DedzuyaSigns,,0,0,0,,{\pos(964.93,481.74)\fnRyumin ExtraHeavy\fs57\c&HB7B6B8&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul directorului \NAfacerilor Interne

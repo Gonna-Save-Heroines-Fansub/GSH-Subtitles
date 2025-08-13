@@ -21,9 +21,10 @@ Audio File: E:/Anime/Shuumatsu no Harem [BD]/[Sekkon] Shuumatsu no Harem - 08 [B
 Video File: E:/Anime/Shuumatsu no Harem [BD]/[Sekkon] Shuumatsu no Harem - 08 [BDRIP][1080p][Hi10P][FLAC] [0D6F14A0].mkv
 Keyframes File: E:/Anime/Shuumatsu no Harem [BD]/[Sekkon] Shuumatsu no Harem - 08 [BDRIP][1080p][Hi10P][FLAC] [0D6F14A0]_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 76
+Video Zoom Percent: 0.625000
+Scroll Position: 301
+Active Line: 308
+Video Position: 31034
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,7 +93,7 @@ Dialogue: 100,0:04:20.82,0:04:22.33,Dialogue,,0,0,0,,Shunka, să mergem.
 Dialogue: 100,0:04:26.58,0:04:29.67,Dialogue,,0,0,0,,Toate suntem rivale într-un anumit fel.
 Dialogue: 100,0:04:29.92,0:04:32.84,Dialogue,,0,0,0,,Eu, Shunka, Natsu și \Ncelelalte fete de aici
 Dialogue: 100,0:04:32.84,0:04:36.92,Dialogue,,0,0,0,,suntem rivale, dar suntem \Nși prietene, totodată.
-Dialogue: 100,0:04:37.17,0:04:38.84,Dialogue,,0,0,0,,Însă tu nu ești una de-a noastră.
+Dialogue: 100,0:04:37.17,0:04:38.84,Dialogue,,0,0,0,,Însă tu nu ești una dintre noi.
 Dialogue: 100,0:04:39.38,0:04:42.22,Dialogue,,0,0,0,,Scuze, dar nimeni nu o să te ajute.
 Dialogue: 100,0:04:45.93,0:04:48.94,Dialogue,,0,0,0,,Se pare că lucrurile merg bine!
 Dialogue: 100,0:04:48.94,0:04:51.56,Dialogue,,0,0,0,,Ai adus-o pe Hoshino aici, nu?
@@ -169,18 +170,18 @@ Dialogue: 100,0:09:51.86,0:09:53.41,Dialogue,,0,0,0,,Da...
 Dialogue: 100,0:09:53.41,0:09:55.70,Dialogue,,0,0,0,,Atunci, există ceva...
 Dialogue: 100,0:09:57.03,0:09:59.75,Dialogue,,0,0,0,,Vreau să aduci pe cineva aici.
 Dialogue: 100,0:10:00.83,0:10:02.37,Dialogue,,0,600,0,,Și cine ar putea fi acea persoană?
-Dialogue: 100,0:10:05.54,0:10:08.05,Dialogue,,0,0,0,ep7,Atât de multe femei cu cunoștințe în medicină și farmaceutică...
-Dialogue: 100,0:10:08.05,0:10:11.67,Dialogue,,0,0,0,ep7,și toate au dispărut la spitalul \Nunde domnul Taniguchi,
-Dialogue: 100,0:10:11.67,0:10:15.30,Dialogue,,0,0,0,ep7,prima victimă a virusului \NMK din Japonia, a fost dusă.
-Dialogue: 100,0:10:17.01,0:10:20.10,Dialogue,,0,0,0,ep7,Poate ne grăbim puțin să \Nsărim la concluzii, dar...
-Dialogue: 100,0:10:20.10,0:10:21.02,Dialogue,,0,0,0,ep7,Spune-ne ce gândești.
-Dialogue: 100,0:10:23.06,0:10:27.44,Dialogue,,0,0,0,ep7,Acesta ar putea fi spitalul \Nunde a fost creat virusul MK!
+Dialogue: 100,0:10:05.54,0:10:09.02,Dialogue,,0,0,0,ep7 21:41,Multe cercetătoare în \Nmedicină și farmaceutică
+Dialogue: 100,0:10:09.02,0:10:11.67,Dialogue,,0,0,0,ep7 21:45,și toate au dispărut la spitalul \Nunde domnul Taniguchi,
+Dialogue: 100,0:10:11.67,0:10:15.30,Dialogue,,0,0,0,ep7 21:47,prima victimă a virusului \NMK din Japonia, a fost dusă.
+Dialogue: 100,0:10:17.01,0:10:20.10,Dialogue,,0,0,0,ep7 21:53,Poate ne grăbim puțin să \Nsărim la concluzii, dar...
+Dialogue: 100,0:10:20.10,0:10:21.02,Dialogue,,0,0,0,ep7 21:56,Spune-ne ce gândești.
+Dialogue: 100,0:10:23.06,0:10:27.44,Dialogue,,0,0,0,ep7 21:59,Acesta ar putea fi spitalul \Nunde a fost creat virusul MK!
 Dialogue: 100,0:10:28.44,0:10:30.07,Dialogue,,0,0,0,,Ce vrei să spui?
 Dialogue: 100,0:10:30.07,0:10:34.95,Dialogue,,0,0,0,,Dacă virusul MK a fost creat artificial,
 Dialogue: 100,0:10:34.95,0:10:40.29,Dialogue,,0,0,0,,atunci, motivul pentru care nu ne putem da seama de unde a venit e pentru că a făcut-o de acolo.
 Dialogue: 100,0:10:40.29,0:10:42.45,Dialogue,,0,0,0,,A ieșit din acel spital?
-Dialogue: 100,0:10:42.45,0:10:45.96,Dialogue,,0,0,0,,Deci dacă mergem acolo, \Nam putea găsi un indiciu.
-Dialogue: 100,0:10:47.21,0:10:49.34,Dialogue,,0,0,0,,Asta dacă am dreptate.
+Dialogue: 100,0:10:42.45,0:10:45.96,Dialogue,,0,0,0,,Deci am putea găsi indicii \Ndacă am merge acolo.
+Dialogue: 100,0:10:47.21,0:10:49.34,Dialogue,,0,0,0,,Dacă ipoteza mea e corectă.
 Dialogue: 100,0:10:49.96,0:10:52.01,Dialogue,,0,0,0,,Dar trebuie să verificăm.
 Dialogue: 100,0:10:52.88,0:10:58.55,Dialogue,,0,0,0,,{\i1}Poate aș putea recrea datele \Nde producere a virusului MK.
 Dialogue: 100,0:11:03.48,0:11:06.48,Dialogue,,0,0,0,,Nouăzeci și patru de centimetri...
@@ -206,7 +207,7 @@ Dialogue: 100,0:12:00.37,0:12:03.79,Dialogue,,0,0,0,,Dar știi de ce o facem aș
 Dialogue: 100,0:12:04.04,0:12:07.37,Dialogue,,0,0,0,,Ca să-mi oferiți șansa să ating fetele
 Dialogue: 100,0:12:07.37,0:12:11.00,Dialogue,,0,0,0,,și să fiu mai conștient de \Nforma corpurilor lor, nu?
 Dialogue: 100,0:12:11.79,0:12:12.54,Dialogue,,0,0,0,,Ești deștept.
-Dialogue: 100,0:12:13.30,0:12:17.30,Dialogue,,0,0,0,,Kamiya spunea tuturor că ești.
+Dialogue: 100,0:12:13.30,0:12:17.30,Dialogue,,0,0,0,,Kamiya a spus tuturor asta.
 Dialogue: 100,0:12:18.22,0:12:21.30,Dialogue,,0,0,0,,Poți folosi acest pat dacă dorești.
 Dialogue: 100,0:12:26.73,0:12:30.23,Dialogue,,0,0,0,,Scuze, a durat câteva zile ca \Nsă obținem ceea ce doreai!
 Dialogue: 100,0:12:30.23,0:12:33.07,Dialogue,,0,0,0,,Nu, a fost mai rapid decât aș fi crezut!
@@ -219,7 +220,7 @@ Dialogue: 100,0:12:46.16,0:12:47.50,Dialogue,,0,0,0,,A trecut ceva timp.
 Dialogue: 100,0:12:47.83,0:12:49.00,Dialogue,,0,0,0,,Dojii...
 Dialogue: 100,0:12:51.71,0:12:55.34,Dialogue,,0,0,0,,Nu crezi că ești puțin cam bătrână pentru această uniformă?
 Dialogue: 100,0:12:55.34,0:12:57.80,Dialogue,,0,0,0,,Dojii, nu vei scăpa \Nbasma curată, nemernicule!
-Dialogue: 100,0:12:57.80,0:13:03.01,Dialogue,,0,0,0,,Erika, îți înțelegi \Npoziția în care te afli, nu?
+Dialogue: 100,0:12:57.80,0:13:03.01,Dialogue,,0,0,0,,Erika, sper că înțelegi \Npoziția în care te afli, nu?
 Dialogue: 100,0:13:06.06,0:13:07.77,Dialogue,,0,0,0,,Îmi cer scuze.
 Dialogue: 100,0:13:08.02,0:13:12.23,Dialogue,,0,0,0,,După cum poți vedea, \Nam domesticit-o pentru tine!
 Dialogue: 100,0:13:12.23,0:13:14.31,Dialogue,,0,0,0,,Distrează-te!
@@ -232,7 +233,7 @@ Dialogue: 100,0:13:42.01,0:13:46.14,Dialogue,,0,0,0,,Dacă vei încerca să mă 
 Dialogue: 100,0:13:46.14,0:13:47.51,Dialogue,,0,0,0,,Ai înțeles complet greșit.
 Dialogue: 100,0:13:47.51,0:13:49.27,Dialogue,,0,0,0,,Nu mă voi împerechea cu tine.
 Dialogue: 100,0:13:55.23,0:13:56.11,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:13:58.40,0:14:03.28,Dialogue,,0,0,0,,Uneori, rănile făcute de \Nprietenul tău mă ustură.
+Dialogue: 100,0:13:58.40,0:14:03.28,Dialogue,,0,0,0,,Uneori, rănile făcute de \Nprietenul tău încă mă dor.
 Dialogue: 100,0:14:04.49,0:14:07.12,Dialogue,,0,0,0,,Fă ceva ca durerea să dispară.
 Dialogue: 100,0:14:08.41,0:14:10.54,Dialogue,,0,0,0,,Linge-le.
 Dialogue: 100,0:14:11.79,0:14:13.04,Dialogue,,0,0,0,,Vei refuza?
@@ -252,9 +253,9 @@ Dialogue: 100,0:15:09.72,0:15:12.77,Dialogue,,0,0,0,,Un mesager de la sediul mon
 Dialogue: 100,0:15:12.77,0:15:15.69,Dialogue,,0,0,0,,{\i1}Da. Nu știm cine va veni,
 Dialogue: 100,0:15:15.69,0:15:19.27,Dialogue,,0,0,0,,{\i1}dar pare că s-au cam \Nprins de celelalte numere.
 Dialogue: 100,0:15:19.27,0:15:21.98,Dialogue,,0,0,0,,Crezi că au o cârtiță pe undeva?
-Dialogue: 100,0:15:21.98,0:15:25.74,Dialogue,,0,0,0,,Parcă spuneai că directorul tehnologiei era destul de suspicios, nu?
+Dialogue: 100,0:15:21.98,0:15:25.74,Dialogue,,0,0,0,,Parcă spuneai că directoarea Institutului Tehnologic era destul de suspicioasă, nu?
 Dialogue: 100,0:15:26.41,0:15:29.74,Dialogue,,0,0,0,,{\i1}Ea a venit de la sediul mondial OF.
-Dialogue: 100,0:15:29.99,0:15:33.00,Dialogue,,0,0,0,,Suntem în siguranță aici?
+Dialogue: 100,0:15:29.99,0:15:33.00,Dialogue,,0,0,0,,Oare suntem în siguranță aici?
 Dialogue: 100,0:15:33.25,0:15:35.75,Dialogue,,0,0,0,,{\i1}Probabil e mai bine să \Nnu facem nicio mișcare.
 Dialogue: 100,0:15:36.42,0:15:39.75,Dialogue,,0,0,0,,{\i1}Nu-ți face griji. \NȘcoala e bine păzită.
 Dialogue: 100,0:15:39.75,0:15:41.21,Dialogue,,0,0,0,,Bine.
@@ -267,24 +268,25 @@ Dialogue: 100,0:16:14.79,0:16:18.17,Dialogue,,0,0,0,,Nu credeți că ar trebui s
 Dialogue: 100,0:16:18.50,0:16:23.30,Dialogue,,0,0,0,,Nimic de la această școală \Nnu are sens, deci distrați-vă!
 Dialogue: 100,0:16:26.26,0:16:28.43,Dialogue,,0,0,0,,Ora e pe cale să înceapă!
 Dialogue: 100,0:16:28.76,0:16:30.14,Dialogue,,0,0,0,,Ce păcat.
-Dialogue: 100,0:16:31.39,0:16:34.68,Dialogue,,0,0,0,,Shou se pricepe la sărutat, \Ndeci nu m-am putut opri.
+Dialogue: 100,0:16:31.39,0:16:34.68,Dialogue,,0,0,0,,Shou e așa de bun la săruturi \Nîncât nu m-am putut opri.
 Dialogue: 100,0:16:34.68,0:16:35.93,Dialogue,,0,0,0,,S-Serios?
-Dialogue: 100,0:16:38.94,0:16:41.52,Dialogue,,0,0,0,,{\i1}Pe cine ar trebui să aleg astăzi?
+Dialogue: 100,0:16:38.94,0:16:41.52,Dialogue,,0,0,0,,{\i1}Oare pe cine ar trebui să aleg astăzi?
 Dialogue: 100,0:16:42.86,0:16:44.61,Dialogue,,0,0,0,,Nu vei înota?
 Dialogue: 100,0:16:44.90,0:16:46.57,Dialogue,,0,0,0,,Sunt puțin obosit.
-Dialogue: 100,0:16:46.57,0:16:49.36,Dialogue,,0,0,0,,Doar ai avut parte de un altfel \Nde exercițiu noaptea trecută.
+Dialogue: 100,0:16:46.57,0:16:49.36,Dialogue,,0,0,0,,Doar ai avut parte de altfel \Nde exerciții noaptea trecută.
 Dialogue: 100,0:16:50.49,0:16:53.45,Dialogue,,0,0,0,,Acest costum de baie e nou.
 Dialogue: 100,0:16:54.24,0:16:56.50,Dialogue,,0,0,0,,Vezi cât de strâmt e?
 Dialogue: 100,0:16:56.50,0:16:57.91,Dialogue,,0,0,0,,Se mulează atât de bine...
 Dialogue: 100,0:16:58.75,0:17:00.96,Dialogue,,0,0,0,,E-E făcut din materiale bune!
-Dialogue: 100,0:17:00.96,0:17:03.00,Dialogue,,0,0,0,,Bine, atunci, nu voi pierde!
+Dialogue: 100,0:17:00.96,0:17:03.00,Dialogue,,0,0,0,,Bun, nu voi pierde!
 Dialogue: 100,0:17:03.29,0:17:06.26,Dialogue,,0,0,0,,Haide să ne întrecem ca să vedem cine va avea următoarea șansă la Shou!
 Dialogue: 100,0:17:06.26,0:17:08.47,Dialogue,,0,0,0,,Eu voi câștiga!
 Dialogue: 100,0:17:09.30,0:17:12.43,Dialogue,,0,0,0,,Sunt cunoscută drept Fulgerul de la Munchen! \NE evident că eu voi câștiga!
 Dialogue: 100,0:17:12.43,0:17:14.01,Dialogue,,0,0,0,,Vreau să mă alătur...
 Dialogue: 100,0:17:14.01,0:17:15.39,Dialogue,,0,0,0,,Koyu.
 Dialogue: 100,0:17:15.39,0:17:17.02,Dialogue,,0,0,0,,Crezi că ai vreo șansă?
-Dialogue: 100,0:17:18.77,0:17:21.48,Dialogue,,0,0,0,,Fiti gata... start!
+Dialogue: 100,0:17:18.77,0:17:19.91,Dialogue,,0,0,0,,Fiți gata...
+Dialogue: 100,0:17:20.39,0:17:21.48,Dialogue,,0,0,0,,Start!
 Dialogue: 100,0:17:23.73,0:17:26.32,Dialogue,,0,0,0,,Oare Chifuyu va fi bine?
 Dialogue: 100,0:17:26.32,0:17:27.40,Dialogue,,0,0,0,,Și au început.
 Dialogue: 100,0:17:27.73,0:17:30.65,Dialogue,,0,0,0,,Nu credeam că va \Nparticipa până și Koyuki.
@@ -293,14 +295,14 @@ Dialogue: 100,0:17:34.66,0:17:38.08,Dialogue,,0,0,0,,Shunka și Yanagi sunt prie
 Dialogue: 100,0:17:38.08,0:17:42.46,Dialogue,,0,0,0,,Shouta, ai vrea să te \Nridici pentru o secundă?
 Dialogue: 100,0:17:42.46,0:17:44.25,Dialogue,,0,0,0,,Ce este?
 Dialogue: 100,0:17:47.42,0:17:49.17,Dialogue,,0,0,0,,Ce tot faci?
-Dialogue: 100,0:17:50.42,0:17:52.43,Dialogue,,0,0,0,,Te vor vedea.
-Dialogue: 100,0:17:52.72,0:17:56.18,Dialogue,,0,0,0,,Nu mai poți purta acest \Ncostum de baie, nu?
+Dialogue: 100,0:17:50.42,0:17:52.43,Dialogue,,0,0,0,,Fetelor te vor vedea.
+Dialogue: 100,0:17:52.72,0:17:56.18,Dialogue,,0,0,0,,Nu mai poți purta acest \Ncostum de baie acum, nu?
 Dialogue: 100,0:17:56.18,0:17:59.56,Dialogue,,0,0,0,,Shouta, intră aici.
 Dialogue: 100,0:18:00.43,0:18:04.44,Dialogue,,0,0,0,,Akira e înaltă. Te poți ascunde cu ea.
 Dialogue: 100,0:18:04.44,0:18:08.07,Dialogue,,0,0,0,,Costumul ei de baie e la \Nfel de mulat ca al meu.
 Dialogue: 100,0:18:08.07,0:18:09.44,Dialogue,,0,0,0,,Vorbești serios?
 Dialogue: 100,0:18:09.44,0:18:10.65,Dialogue,,0,0,0,,Desigur!
-Dialogue: 100,0:18:10.65,0:18:14.70,Dialogue,,0,0,0,,Grăbește-te sau te \Nvor vedea dezbrăcat!
+Dialogue: 100,0:18:10.65,0:18:14.70,Dialogue,,0,0,0,,Grăbește-te sau vei fi văzut dezbrăcat!
 Dialogue: 100,0:18:14.70,0:18:17.45,Dialogue,,0,0,0,,Haide, Doi.
 Dialogue: 100,0:18:23.71,0:18:26.84,Dialogue,,0,0,0,,E atât de strâmt încât corpurile noastre se apasă reciproc.
 Dialogue: 100,0:18:28.17,0:18:30.71,Dialogue,,0,0,0,,Eu am fost mai rapidă! \NSunt sigură de asta!
@@ -314,7 +316,7 @@ Dialogue: 100,0:18:45.85,0:18:48.77,Dialogue,,0,0,0,,Mereu mi se face foame dup�
 Dialogue: 100,0:18:48.77,0:18:49.86,Dialogue,,0,0,0,,Știu cum e!
 Dialogue: 100,0:18:49.86,0:18:51.86,Dialogue,,0,0,0,,Vreau o chiflă cu yakisoba.
 Dialogue: 100,0:18:52.86,0:18:54.36,Dialogue,,0,0,0,,Au plecat toate.
-Dialogue: 100,0:18:54.36,0:18:56.11,Dialogue,,0,0,0,,Ai reușit să nu fii văzut.
+Dialogue: 100,0:18:54.36,0:18:56.11,Dialogue,,0,0,0,,Nu te-a văzut nimeni.
 Dialogue: 100,0:18:56.11,0:18:59.87,Dialogue,,0,0,0,,Asta e distractiv, dar nu credeți \Ncă e puțin cam exagerat?
 Dialogue: 100,0:19:00.16,0:19:02.87,Dialogue,,0,0,0,,Îmi cer scuze. \NTe-ai supărat, nu?
 Dialogue: 100,0:19:03.29,0:19:06.88,Dialogue,,0,0,0,,Pedepsește-ne, te rugăm.
@@ -328,8 +330,8 @@ Dialogue: 100,0:20:12.36,0:20:16.99,Dialogue,,0,0,0,,{\i1}Acela a fost momentul 
 Dialogue: 100,0:20:24.13,0:20:26.59,Dialogue,,0,0,0,,Doi... te vreau...
 Dialogue: 100,0:20:28.71,0:20:32.76,Dialogue,,0,0,0,,{\i1}E real? Sau e doar un vis?
 Dialogue: 100,0:20:33.18,0:20:34.64,Dialogue,,0,0,0,,{\i1}Nu prea mi-am putut da seama.
-Dialogue: 100,0:20:46.61,0:20:50.61,Dialogue,,0,0,0,,Dragule Shou, acum e rândul meu, bine?
-Dialogue: 100,0:20:51.36,0:20:53.53,Dialogue,,0,0,0,,{\i1}Sunt curios în legătură cu lumea de afară,
+Dialogue: 100,0:20:46.61,0:20:50.61,Dialogue,,0,0,0,,Shou, acum e rândul meu, bine?
+Dialogue: 100,0:20:51.36,0:20:53.53,Dialogue,,0,0,0,,{\i1}Aș vrea să știu cum stau \Nlucrurile în lumea de afară,
 Dialogue: 100,0:20:54.32,0:20:57.45,Dialogue,,0,0,0,,{\i1}dar chiar dacă e totul o minciună, eu...
 Dialogue: 100,0:20:59.62,0:21:01.12,Dialogue,,0,0,0,,E el...
 Dialogue: 100,0:21:01.12,0:21:01.91,Dialogue,,0,0,0,,Uau.
@@ -344,8 +346,8 @@ Dialogue: 100,0:21:25.52,0:21:28.61,Dialogue,,0,0,0,,Deci asta e camera ta, Doi?
 Dialogue: 100,0:21:28.61,0:21:30.02,Dialogue,,0,0,0,,Cine e ea?
 Dialogue: 100,0:21:30.02,0:21:31.61,Dialogue,,0,0,0,,Oh, nu-i da atenție.
 Dialogue: 100,0:21:31.61,0:21:33.11,Dialogue,,0,0,0,,E doar un animal de companie.
-Dialogue: 100,0:21:34.36,0:21:38.16,Dialogue,,0,0,0,,Oh, iubitul tău, Takamatsu.
-Dialogue: 100,0:21:38.62,0:21:42.83,Dialogue,,0,0,0,,A murit de la virus? Sau e criogenizat?
+Dialogue: 100,0:21:34.36,0:21:38.16,Dialogue,,0,0,0,,Apropo, iubitul tău, Takamatsu.
+Dialogue: 100,0:21:38.62,0:21:42.83,Dialogue,,0,0,0,,A murit de la virus? \NSau e criogenizat?
 Dialogue: 100,0:21:43.41,0:21:44.62,Dialogue,,0,0,0,,Nu știu.
 Dialogue: 100,0:21:45.54,0:21:49.63,Dialogue,,0,0,0,,Ei bine, nu-mi pasă dacă \Nacel idiot e viu sau mort.
 Dialogue: 100,0:21:49.63,0:21:53.59,Dialogue,,0,0,0,,Mă bucur doar că lumea s-a schimbat.
