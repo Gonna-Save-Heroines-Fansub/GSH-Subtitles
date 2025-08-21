@@ -18,11 +18,10 @@ Update Details: GSH
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Only Wish TL,Kelvinch,80,&H00FFFFFF,&H000000FF,&H00A31556,&H00000000,0,-1,0,0,100,100,0,0,1,4,0,9,50,50,30,1
+Style: Only Wish TL,Kelvinch,78,&H00FFFFFF,&H000000FF,&H00A31556,&H00000000,0,-1,0,0,100,100,0,0,1,4,0,9,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{ED01}
 Dialogue: 0,0:00:00.40,0:00:05.76,Only Wish TL,,0,0,0,,{\c&HA31556&\blur6\fad(200,500)}Călătorind prin timp,
 Dialogue: 1,0:00:00.40,0:00:05.76,Only Wish TL,,0,0,0,,{\bord0\blur0.6\fad(200,500)}Călătorind prin timp,
 Dialogue: 0,0:00:05.76,0:00:11.17,Only Wish TL,,0,0,0,,{\c&HA31556&\blur6\fad(200,500)}singura ta dorință

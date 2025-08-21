@@ -22,7 +22,6 @@ Style: Precious TL,Azkara,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Dialogue,chptr,0,0,0,,{ED02}
 Dialogue: 0,0:00:17.29,0:00:21.38,Precious TL,,0,0,0,,{\bord5\3c&HFFFFFF&\blur6\fad(200,400)}Adânc în inima mea,
 Dialogue: 1,0:00:17.29,0:00:21.38,Precious TL,,0,0,0,,{\c&H000000&\blur0.6\fad(200,400)\t(0,1200,\c&HC2A752&\3c&HC2A752&)}Adânc în inima mea,
 Dialogue: 2,0:00:17.29,0:00:21.38,Precious TL,,0,0,0,,{\bord0\blur0.5\fad(200,400)}Adânc în inima mea,
