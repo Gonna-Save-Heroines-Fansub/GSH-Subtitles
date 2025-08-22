@@ -18,16 +18,6 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../Anime/[Deany] Zettai Junpaku Mahou Shoujo [BDRip 1080p HEVC FLAC].mkv
-Video File: ../../../../Anime/[Deany] Zettai Junpaku Mahou Shoujo [BDRip 1080p HEVC FLAC].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 4
-Video Position: 540
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Cabin,74,&H00FFFFFF,&H000000FF,&H00503801,&HB4000000,-1,0,0,0,100,100,1,0,1,3.6,1.6,2,150,150,60,1
@@ -54,7 +44,7 @@ Dialogue: 99,0:01:08.55,0:01:10.47,Dialogue,,0,0,0,,Ah! Uite-l!
 Dialogue: 99,0:01:35.16,0:01:37.99,Dialogue,,0,0,0,,Se pare că Asai a rămas \Nun pervers și un prost.
 Dialogue: 99,0:01:37.99,0:01:40.20,Dialogue,,0,0,0,,Nu mă deranjează asta la el.
 Dialogue: 99,0:01:40.20,0:01:40.83,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:01:40.83,0:01:44.25,Dialogue,,0,0,0,,Y-Yui! Ești prea tânără \Nca să-ți faci un iubit!
+Dialogue: 99,0:01:40.83,0:01:44.25,Dialogue,,0,0,0,,Y-Yui! Ești prea mică \Npentru a-ți face un iubit!
 Dialogue: 99,0:01:47.92,0:01:50.84,Dialogue,,0,0,0,,Oh, prada noastră a ieșit la iveală?
 Dialogue: 99,0:01:53.20,0:01:54.72,Dialogue,,0,0,0,,Ce a fost această \Nundă electromagnetică?
 Dialogue: 99,0:01:58.93,0:02:00.52,Dialogue,,0,0,0,,Nu poate fi decât...
@@ -65,7 +55,7 @@ Dialogue: 99,0:03:27.31,0:03:28.77,Dialogue,,0,0,0,,Ține asta!
 Dialogue: 99,0:04:33.25,0:04:34.67,Dialogue,,0,0,0,,{\i1}Condensare!
 Dialogue: 99,0:04:43.01,0:04:45.26,Dialogue,,0,0,0,,Asta ar trebui să \Nse numească trișat.
 Dialogue: 99,0:04:55.94,0:04:57.78,Dialogue,,0,0,0,,Simt privirea unui \Npervers pe pielea mea!
-Dialogue: 99,0:05:00.86,0:05:04.37,Dialogue,,0,0,0,,{\i1}Asta e o situație gravă! \NMă va vedea așa!
+Dialogue: 99,0:05:00.86,0:05:04.37,Dialogue,,0,0,0,,{\i1}Se uită la mine! \NAsta nu e bine!
 Dialogue: 99,0:05:07.04,0:05:08.75,Dialogue,,0,0,0,,Ei bine...
 Dialogue: 99,0:05:11.25,0:05:12.29,Dialogue,,0,0,0,,Fetelor!
 Dialogue: 0,0:01:18.10,0:01:22.27,Insert Song TL,,0,0,0,,{\c&H7F008F&\blur2\fad(200,200)}Sunt sigură că asta este magia „dragostei la prima vedere”,
@@ -120,6 +110,32 @@ Dialogue: 0,0:00:48.82,0:00:48.95,DedzuyaSigns,,0,0,0,,{=102}{\an7\pos(764.133,6
 Dialogue: 0,0:00:48.95,0:00:49.07,DedzuyaSigns,,0,0,0,,{=103}{\an7\pos(763.105,622.209)\org(887.49,677.66)\fscx29.836\fscy29.84\frz-1.796\fry-2.141\frx-0.918\fax0.017\c&H514038&\blur1.1}Autor: George Kessel \NTradusă de: Fukuda Mamoru
 Dialogue: 0,0:00:49.07,0:00:49.20,DedzuyaSigns,,0,0,0,,{=104}{\an7\pos(764.975,638.676)\org(887.49,677.66)\fscx29.851\fscy29.887\frz-1.686\fry-2.138\frx-0.918\fax0.015\c&H514038&\blur1.1}Autor: George Kessel \NTradusă de: Fukuda Mamoru
 Dialogue: 0,0:00:49.20,0:00:49.70,DedzuyaSigns,,0,0,0,,{=105}{\an7\pos(767.45,655.2)\org(887.49,677.66)\fscx29.86\fscy29.95\frz-1.57\fry-2.138\frx-0.916\fax0.013\c&H514038&\blur1.1}Autor: George Kessel \NTradusă de: Fukuda Mamoru
+Dialogue: 0,0:01:25.36,0:01:27.11,DedzuyaSigns,,0,0,0,,{\an2\pos(792,853)\fscx120\fscy120\fnOlivier\bord4\c&H2B2430&\3c&H2B2430&\blur1}P{\c&H2C2531&\3c&H2C2531&}ă{\c&H2D2632&\3c&H2D2632&}s{\c&H2E2733&\3c&H2E2733&}ă{\c&H2F2934&\3c&H2F2934&}r{\c&H302A36&\3c&H302A36&}i{\c&H312B37&\3c&H312B37&}c{\c&H322C38&\3c&H322C38&}a{\c&H332E39&\3c&H332E39&}-{\c&H342F3A&\3c&H342F3A&}d{\c&H35303C&\3c&H35303C&}r{\c&H36313D&\3c&H36313D&}a{\c&H37333E&\3c&H37333E&}g{\c&H38343F&\3c&H38343F&}o{\c&H393540&\3c&H393540&}n {\c&H3B3843&\3c&H3B3843&}r{\c&H3C3944&\3c&H3C3944&}o{\c&H3D3A45&\3c&H3D3A45&}ș{\c&H3E3B46&\3c&H3E3B46&}i{\c&H403D48&\3c&H403D48&}e
+Dialogue: 1,0:01:25.36,0:01:27.11,DedzuyaSigns,,0,0,0,,{\an2\pos(792,853)\fscx120\fscy120\fnOlivier\c&H4C3F8D&\blur1}P{\c&H4C408D&}ă{\c&H4D418D&}s{\c&H4E428D&}ă{\c&H4F438E&}r{\c&H4F448E&}i{\c&H50458E&}c{\c&H51468E&}a{\c&H52478F&}-{\c&H52488F&}d{\c&H534A8F&}r{\c&H544B8F&}a{\c&H554C90&}g{\c&H554D90&}o{\c&H564E90&}n {\c&H585091&}r{\c&H585191&}o{\c&H595291&}ș{\c&H5A5391&}i{\c&H5B5592&}e
+Dialogue: 0,0:01:27.11,0:01:27.23,DedzuyaSigns,,0,0,0,,{\an2\pos(792,853)\fscx120\fscy120\fnOlivier\bord4\c&H2B2430&\3c&H2B2430&\blur1\clip(m 676.36 642.18 l 1171.64 634.91 1160 936 674.76 936.73)}P{\c&H2C2531&\3c&H2C2531&}ă{\c&H2D2632&\3c&H2D2632&}s{\c&H2E2733&\3c&H2E2733&}ă{\c&H2F2934&\3c&H2F2934&}r{\c&H302A36&\3c&H302A36&}i{\c&H312B37&\3c&H312B37&}c{\c&H322C38&\3c&H322C38&}a{\c&H332E39&\3c&H332E39&}-{\c&H342F3A&\3c&H342F3A&}d{\c&H35303C&\3c&H35303C&}r{\c&H36313D&\3c&H36313D&}a{\c&H37333E&\3c&H37333E&}g{\c&H38343F&\3c&H38343F&}o{\c&H393540&\3c&H393540&}n {\c&H3B3843&\3c&H3B3843&}r{\c&H3C3944&\3c&H3C3944&}o{\c&H3D3A45&\3c&H3D3A45&}ș{\c&H3E3B46&\3c&H3E3B46&}i{\c&H403D48&\3c&H403D48&}e
+Dialogue: 1,0:01:27.11,0:01:27.23,DedzuyaSigns,,0,0,0,,{\an2\pos(792,853)\fscx120\fscy120\fnOlivier\c&H4C3F8D&\blur1\clip(m 676.36 642.18 l 1171.64 634.91 1160 936 674.76 936.73)}P{\c&H4C408D&}ă{\c&H4D418D&}s{\c&H4E428D&}ă{\c&H4F438E&}r{\c&H4F448E&}i{\c&H50458E&}c{\c&H51468E&}a{\c&H52478F&}-{\c&H52488F&}d{\c&H534A8F&}r{\c&H544B8F&}a{\c&H554C90&}g{\c&H554D90&}o{\c&H564E90&}n {\c&H585091&}r{\c&H585191&}o{\c&H595291&}ș{\c&H5A5391&}i{\c&H5B5592&}e
+Dialogue: 0,0:01:27.23,0:01:27.36,DedzuyaSigns,,0,0,0,,{\an2\pos(792,853)\fscx120\fscy120\fnOlivier\bord4\c&H2B2430&\3c&H2B2430&\blur1\clip(m 873.6 728.8 b 872.4 775.6 870.8 851.6 862.4 890.4 l 1191.2 891.2 1168 718.4)}P{\c&H2C2531&\3c&H2C2531&}ă{\c&H2D2632&\3c&H2D2632&}s{\c&H2E2733&\3c&H2E2733&}ă{\c&H2F2934&\3c&H2F2934&}r{\c&H302A36&\3c&H302A36&}i{\c&H312B37&\3c&H312B37&}c{\c&H322C38&\3c&H322C38&}a{\c&H332E39&\3c&H332E39&}-{\c&H342F3A&\3c&H342F3A&}d{\c&H35303C&\3c&H35303C&}r{\c&H36313D&\3c&H36313D&}a{\c&H37333E&\3c&H37333E&}g{\c&H38343F&\3c&H38343F&}o{\c&H393540&\3c&H393540&}n {\c&H3B3843&\3c&H3B3843&}r{\c&H3C3944&\3c&H3C3944&}o{\c&H3D3A45&\3c&H3D3A45&}ș{\c&H3E3B46&\3c&H3E3B46&}i{\c&H403D48&\3c&H403D48&}e
+Dialogue: 1,0:01:27.23,0:01:27.36,DedzuyaSigns,,0,0,0,,{\an2\pos(792,853)\fscx120\fscy120\fnOlivier\c&H4C3F8D&\blur1\clip(m 873.6 728.8 b 872.4 775.6 870.8 851.6 862.4 890.4 l 1191.2 891.2 1168 718.4)}P{\c&H4C408D&}ă{\c&H4D418D&}s{\c&H4E428D&}ă{\c&H4F438E&}r{\c&H4F448E&}i{\c&H50458E&}c{\c&H51468E&}a{\c&H52478F&}-{\c&H52488F&}d{\c&H534A8F&}r{\c&H544B8F&}a{\c&H554C90&}g{\c&H554D90&}o{\c&H564E90&}n {\c&H585091&}r{\c&H585191&}o{\c&H595291&}ș{\c&H5A5391&}i{\c&H5B5592&}e
+Dialogue: 0,0:01:25.36,0:01:27.11,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\bord3\xshad0.001\c&HD0D7E7&\3c&HD0D7E7&\4c&HD0D7E7&\blur2}Produs \Nnou
+Dialogue: 1,0:01:25.36,0:01:27.11,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\c&H6E7593&\blur1}Produs \Nnou
+Dialogue: 0,0:01:27.11,0:01:27.23,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\bord3\xshad0.001\c&HD0D7E7&\3c&HD0D7E7&\4c&HD0D7E7&\blur2\clip(m 585.45 183.27 b 594 194 605.27 217.64 610.91 229.09 638.36 246.73 638 282.73 642.18 299.64 l 752.73 282.91 700.36 147.64)}Produs \Nnou
+Dialogue: 1,0:01:27.11,0:01:27.23,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\c&H6E7593&\blur1\clip(m 585.45 183.27 b 594 194 605.27 217.64 610.91 229.09 638.36 246.73 638 282.73 642.18 299.64 l 752.73 282.91 700.36 147.64)}Produs \Nnou
+Dialogue: 0,0:01:27.48,0:01:27.61,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\bord3\xshad0.001\c&HD0D7E7&\3c&HD0D7E7&\4c&HD0D7E7&\blur2\clip(m 488 248.62 l 545.23 215.38 498.46 193.85 464 211.69)}Produs \Nnou
+Dialogue: 1,0:01:27.48,0:01:27.61,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\c&H6E7593&\blur1\clip(m 488 248.62 l 545.23 215.38 498.46 193.85 464 211.69)}Produs \Nnou
+Dialogue: 0,0:01:27.61,0:01:27.73,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\bord3\xshad0.001\c&HD0D7E7&\3c&HD0D7E7&\4c&HD0D7E7&\blur2\clip(m 496 308.36 l 683.64 237.82 658.91 149.82 449.45 189.09)}Produs \Nnou
+Dialogue: 1,0:01:27.61,0:01:27.73,DedzuyaSigns,,0,0,0,,{\pos(583,285)\frz13.73\fnOlivier\c&H6E7593&\blur1\clip(m 496 308.36 l 683.64 237.82 658.91 149.82 449.45 189.09)}Produs \Nnou
+Dialogue: 0,0:01:25.36,0:01:27.61,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\bord4\c&H2F2934&\3c&H2F2934&\blur1}Păsărica-dragon roșie
+Dialogue: 1,0:01:25.36,0:01:27.61,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\c&H50448F&\blur1}Păsărica-dragon roșie
+Dialogue: 0,0:01:27.61,0:01:27.73,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\bord4\c&H2F2934&\3c&H2F2934&\blur1\clip(m 1654.86 734.86 l 1682.79 903.11 1973.71 914.29 1954.29 720)}Păsărica-dragon roșie
+Dialogue: 1,0:01:27.61,0:01:27.73,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\c&H50448F&\blur1\clip(m 1654.86 734.86 l 1682.79 903.11 1973.71 914.29 1954.29 720)}Păsărica-dragon roșie
+Dialogue: 0,0:01:27.73,0:01:28.11,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\bord4\c&H2F2934&\3c&H2F2934&\blur1}Păsărica-dragon roșie
+Dialogue: 1,0:01:27.73,0:01:28.11,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\c&H50448F&\blur1}Păsărica-dragon roșie
+Dialogue: 0,0:01:28.11,0:01:28.23,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\bord4\c&H2F2934&\3c&H2F2934&\blur1\clip(m 1669.72 734.86 l 1698.29 876.57 1957.71 881.14 1940.57 674.29)}Păsărica-dragon roșie
+Dialogue: 1,0:01:28.11,0:01:28.23,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\c&H50448F&\blur1\clip(m 1669.72 734.86 l 1698.29 876.57 1957.71 881.14 1940.57 674.29)}Păsărica-dragon roșie
+Dialogue: 0,0:01:28.23,0:01:28.74,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\bord4\c&H2F2934&\3c&H2F2934&\blur1}Păsărica-dragon roșie
+Dialogue: 1,0:01:28.23,0:01:28.74,DedzuyaSigns,,0,0,0,,{\an2\pos(1947,853)\fscx120\fscy120\fnOlivier\c&H50448F&\blur1}Păsărica-dragon roșie
+Dialogue: 0,0:01:25.36,0:01:28.74,DedzuyaSigns,,0,0,0,,{\pos(1741,285)\frz13.73\fnOlivier\bord3\xshad0.001\c&HD0D7E7&\3c&HD0D7E7&\4c&HD0D7E7&\blur2}Produs \Nnou
+Dialogue: 1,0:01:25.36,0:01:28.74,DedzuyaSigns,,0,0,0,,{\pos(1741,285)\frz13.73\fnOlivier\c&H6E7593&\blur1}Produs \Nnou
 
 [Aegisub Extradata]
 Data: 90,_aegi_perspective_ambient_plane,e640.385;740.399#7C848.094;738.931#7C849.06;876.184#7C641.351;877.651
