@@ -16,6 +16,14 @@ ScaledBorderAndShadow: yes
 Original Script: CR
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+Video File: ?dummy:24000/1001:200000:1920:1080:47:163:254:
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 897
+Active Line: 901
+Video Position: 34694
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fira Sans Medium,70,&H00FFFFFF,&H000000FF,&H0042036F,&HB4000000,0,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,1
@@ -345,7 +353,7 @@ Dialogue: 99,0:20:49.45,0:20:51.36,Dialogue,Kyros,0,0,0,,Nu atingi alte persoane
 Dialogue: 99,0:20:51.36,0:20:54.07,Dialogue,man,0,0,0,,Î-Îmi cer scuze!
 Dialogue: 99,0:20:57.50,0:21:00.82,Dialogue,Marie,0,0,0,,Îmi cer scuze că ți-am cauzat probleme.
 Dialogue: 99,0:21:00.82,0:21:02.73,Dialogue,Kyros,0,0,0,,Nu ai de ce să-ți ceri scuze!
-Dialogue: 99,0:21:03.04,0:21:05.85,Dialogue,Kyros,0,0,0,,Dar... nu ți-ai dat seama că \Nîncerca să te invite în oraș?
+Dialogue: 99,0:21:03.04,0:21:05.85,Dialogue,Kyros,0,0,0,,Dar... nu ți-ai dat seama \Ncă încerca să se dea la tine?
 Dialogue: 99,0:21:05.85,0:21:06.44,Dialogue,Marie,0,0,0,,Ce?
 Dialogue: 99,0:21:06.82,0:21:08.95,Dialogue,Kyros,0,0,0,,Sigur ai mai avut parte \Nde asta și înainte.
 Dialogue: 99,0:21:08.95,0:21:12.78,Dialogue,Marie,0,0,0,,N-Nu. Deși școala mea era plină de băieți,
@@ -926,11 +934,11 @@ Dialogue: 2,0:19:18.35,0:19:21.35,DedzuyaSigns,,0,0,0,,{\pos(430,380)\fscx80\fsc
 Dialogue: 2,0:19:18.35,0:19:21.35,DedzuyaSigns,,0,0,0,,{\pos(430,380)\fscx80\fscy80\fnFOT-MatisseEleganto Pro UB\c&HBAF4FB&\blur0.7\clip(307,478,553,483)}Uniforma \Nșcolară \Na țării \NFlaria
 Dialogue: 2,0:19:18.35,0:19:21.35,DedzuyaSigns,,0,0,0,,{\pos(430,380)\fscx80\fscy80\fnFOT-MatisseEleganto Pro UB\c&HB9F4FB&\blur0.7\clip(307,483,553,488)}Uniforma \Nșcolară \Na țării \NFlaria
 Dialogue: 2,0:19:18.35,0:19:21.35,DedzuyaSigns,,0,0,0,,{\pos(430,380)\fscx80\fscy80\fnFOT-MatisseEleganto Pro UB\c&HB8F4FB&\blur0.7\clip(307,488,553,493)}Uniforma \Nșcolară \Na țării \NFlaria
-Dialogue: 0,0:24:07.01,0:24:09.01,DedzuyaSigns,,0,0,0,,{\an3\pos(461.14,358.72)\frz10.24\fnCare Bear Family\fsp8\bord12\c&HFEFEFE&\3c&HFEFEFE&\blur0.6}Simt că mă \Ntopesc...
-Dialogue: 1,0:24:07.01,0:24:09.01,DedzuyaSigns,,0,0,0,,{\an3\pos(461.14,358.72)\frz10.24\fnCare Bear Family\fsp8\bord2\c&H9152BC&\3c&H9152BC&\blur0.6}Simt că mă \Ntopesc...
-Dialogue: 2,0:24:07.01,0:24:09.01,DedzuyaSigns,,0,0,0,,{\an3\pos(461.14,358.72)\frz10.24\fnCare Bear Family\fsp8\c&H8292FE&\blur0.7}Simt că mă \Ntopesc...
-Dialogue: 0,0:24:17.39,0:24:27.03,DedzuyaSigns,,0,0,0,,{\an3\pos(1835,965)\fscx80\fscy80\fax-0.12\fnLora Medium\i1\bord1\shad4\c&H000000&\1a&HFE&\3a&HA0&\4a&H70&\blur5\fad(480,0)}Episodul 8: Un dar mai frumos decât orice bijuterie
-Dialogue: 1,0:24:17.39,0:24:27.03,DedzuyaSigns,,0,0,0,,{\an3\pos(1835,965)\fscx80\fscy80\fax-0.12\fnLora Medium\i1\blur0.5\fad(480,0)}Episodul 8: Un dar mai frumos decât orice bijuterie
+Dialogue: 0,0:24:07.01,0:24:09.01,DedzuyaSigns,,0,0,0,,{\an3\pos(473.94,357.92)\frz13.44\fnCare Bear Family\fsp8\bord12\c&HFEFEFE&\3c&HFEFEFE&\blur0.6}Încă puțin \Nși moare \Nde la cât de \Ndrăguță e...
+Dialogue: 1,0:24:07.01,0:24:09.01,DedzuyaSigns,,0,0,0,,{\an3\pos(473.94,357.92)\frz13.44\fnCare Bear Family\fsp8\bord2\c&H9152BC&\3c&H9152BC&\blur0.6}Încă puțin \Nși moare \Nde la cât de \Ndrăguță e...
+Dialogue: 2,0:24:07.01,0:24:09.01,DedzuyaSigns,,0,0,0,,{\an3\pos(473.94,357.92)\frz13.44\fnCare Bear Family\fsp8\c&H8292FE&\blur0.7}Încă puțin \Nși moare \Nde la cât de \Ndrăguță e...
+Dialogue: 0,0:24:17.39,0:24:27.03,DedzuyaSigns,,0,0,0,,{\an3\pos(1835,965)\fscx80\fscy80\fax-0.12\fnLora Medium\i1\bord1\shad4\c&H000000&\1a&HFE&\3a&HA0&\4a&H70&\blur5\fad(480,0)}Episodul 8: Un dar mai frumos decât orice nestemată
+Dialogue: 1,0:24:17.39,0:24:27.03,DedzuyaSigns,,0,0,0,,{\an3\pos(1835,965)\fscx80\fscy80\fax-0.12\fnLora Medium\i1\blur0.5\fad(480,0)}Episodul 8: Un dar mai frumos decât orice nestemată
 Comment: 0,0:02:10.94,0:02:10.98,OP TL,,0,0,0,,{OP frist eclipse frame after show title}
 Dialogue: 0,0:01:47.79,0:01:51.75,OP TL,,0,0,0,,{\c&HA0DBC0&\3c&HA0DBC0&\blur10\fad(200,200)}Mi-am spus: „Privește spre lumină și visează”,
 Dialogue: 1,0:01:47.79,0:01:51.75,OP TL,,0,0,0,,{\c&H579DAD&\blur0.6\fad(200,200)}Mi-am spus: „Privește spre lumină și visează”,
