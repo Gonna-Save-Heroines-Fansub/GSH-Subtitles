@@ -16,14 +16,6 @@ ScaledBorderAndShadow: yes
 Original Script: CR
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Video File: ?dummy:24000/1001:200000:1920:1080:47:163:254:
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 897
-Active Line: 901
-Video Position: 34694
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fira Sans Medium,70,&H00FFFFFF,&H000000FF,&H0042036F,&HB4000000,0,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,1
@@ -1043,7 +1035,3 @@ Dialogue: 2,0:23:41.90,0:23:46.20,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Deo
 Dialogue: 0,0:23:47.28,0:23:54.08,ED TL,,0,0,0,,{\c&H3D66ED&\3c&H3D66ED&\blur8\fad(200,200)}Deoarece asta e ceea ce-ți transmite inima ta
 Dialogue: 1,0:23:47.28,0:23:54.08,ED TL,,0,0,0,,{\c&H3D5ED3&\blur0.6\fad(200,200)}Deoarece asta e ceea ce-ți transmite inima ta
 Dialogue: 2,0:23:47.28,0:23:54.08,ED TL,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Deoarece asta e ceea ce-ți transmite inima ta
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"81d69401-4859-445f-94b6-1f1ba918c2f3"#2C"originalText"#3A"{\\fad(350#2C0)\\an2\\blur0.6\\c&H8677E8&\\fnAlyssa Kayla\\fsp3\\fscx110\\fscy110\\pos(1043#2C202)\\frz24.67}Complet \\Nadorabil#C4#83..."}
-Data: 1,a-mo,e{"uuid"#3A"62e74a16-9af7-4153-b892-98ca02d46ca7"#2C"originalText"#3A"{\\fad(350#2C0)\\an2\\blur0.6\\bord1.7\\c&H3E49C6&\\3c&H3E49C6&\\fnAlyssa Kayla\\fsp3\\fscx110\\fscy110\\pos(1043#2C202)\\frz24.67\\1a&HFF&\\t(350#2C350#2C1#2C\\1a&H00&)}Complet \\Nadorabil#C4#83..."}
