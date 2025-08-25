@@ -8,6 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]

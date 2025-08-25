@@ -8,6 +8,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 YCbCr Matrix: TV.709
 Original Script: Cyan
 Original Translation: KazuyaShuu

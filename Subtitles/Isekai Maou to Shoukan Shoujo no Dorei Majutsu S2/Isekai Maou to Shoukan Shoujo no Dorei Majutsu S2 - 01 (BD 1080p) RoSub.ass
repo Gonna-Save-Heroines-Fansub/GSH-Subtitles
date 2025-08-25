@@ -11,24 +11,20 @@ Update Details: GSH
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Original Script: CR
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../Anime/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [Ma10p_1080p]/SPs/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [01(Double Summon Ver.)][Ma10p_1080p][x265_flac].mkv
-Video File: ../../../../Anime/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [Ma10p_1080p]/SPs/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [01(Double Summon Ver.)][Ma10p_1080p][x265_flac].mkv
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 410
-Active Line: 422
-Video Position: 5707
+Scroll Position: 246
+Active Line: 286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Dialogue,Alegreya Sans,76,&H00FFFFFF,&H000000FF,&H00351A01,&HB4000000,-1,0,0,0,100,100,1.5,0,1,4.6,1.6,2,150,150,60,0
+Style: Dialogue,Alegreya Sans,76,&H00FFFFFF,&H000000FF,&H00401F00,&HB4000000,-1,0,0,0,100,100,1.5,0,1,4.6,1.6,2,150,150,60,0
 Style: Dialogue Alternative,Alegreya Sans,76,&H00FFFFFF,&H000000FF,&H0000267A,&HB4000000,-1,0,0,0,100,100,1.5,0,1,4.6,1.6,2,150,150,60,0
 Style: DedzuyaSigns,Un Batang,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: EpTitle,Un Batang,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
@@ -219,7 +215,7 @@ Dialogue: 99,0:11:20.78,0:11:25.87,Dialogue,Gewalt,0,0,0,,O vrajă de vânt de n
 Dialogue: 99,0:11:27.17,0:11:30.54,Dialogue,Diablo,0,0,0,,Deși ești un simplu gunoi, \Ncontrolezi mai multe creaturi simultan
 Dialogue: 99,0:11:30.54,0:11:33.71,Dialogue,Diablo,0,0,0,,și știi niște lucruri \Ndespre magia elementelor.
 Dialogue: 99,0:11:33.71,0:11:38.55,Dialogue,Diablo,0,0,0,,Cei ca tine o consideră prea slabă \Nca să-și bată capul cu ea, nu?
-Dialogue: 99,0:11:41.10,0:11:42.89,Dialogue,Gewalt,0,0,0,,Lucrurile stau diferit \Ncând devii maestru le ea.
+Dialogue: 99,0:11:41.10,0:11:42.89,Dialogue,Gewalt,0,0,0,,Lucrurile stau diferit \Ncând devii maestru la ea.
 Dialogue: 99,0:11:42.89,0:11:47.19,Dialogue,Gewalt,0,0,0,,Magia elementelor excelează când vine vorba de puterea unei singure lovituri.
 Dialogue: 99,0:11:48.02,0:11:49.61,Dialogue,Diablo,0,0,0,,Văd că ai ceva cunoștințe.
 Dialogue: 99,0:11:50.11,0:11:51.94,Dialogue,Gewalt,0,0,0,,Chiar și așa, demonule,
@@ -248,7 +244,7 @@ Dialogue: 99,0:13:31.21,0:13:33.67,Dialogue,Diablo,0,0,0,,D-Desigur că nu!
 Dialogue: 99,0:13:33.67,0:13:35.63,Dialogue,Rem,0,0,0,,Oare?
 Dialogue: 99,0:13:35.63,0:13:37.00,Dialogue,Shera,0,0,0,,Nu-mi prea vine a crede!
 Dialogue: 99,0:13:37.00,0:13:39.67,Dialogue,Diablo,0,0,0,,{\i1}Hei, de ce vă uitați așa la mine?!
-Dialogue: 99,0:13:40.34,0:13:43.39,Dialogue,Diablo,0,0,0,,În orice caz, haideți să ne întoarce în oraș.
+Dialogue: 99,0:13:40.34,0:13:43.39,Dialogue,Diablo,0,0,0,,În orice caz, haideți să ne întoarcem în oraș.
 Dialogue: 99,0:13:44.34,0:13:46.26,Dialogue,Shera,0,0,0,,Așteaptă-ne!
 Dialogue: 99,0:13:57.02,0:13:58.78,Dialogue,Rem,0,0,0,,Se pare că vei fi bine acum.
 Dialogue: 99,0:13:58.78,0:14:01.20,Dialogue,Shera,0,0,0,,Este grozav, nu-i așa, Lumachina?
@@ -269,7 +265,7 @@ Dialogue: 99,0:14:39.57,0:14:42.53,Dialogue,Lumachina,0,0,0,,Dar cel care m-a sa
 Dialogue: 99,0:14:42.53,0:14:44.61,Dialogue,Lumachina,0,0,0,,Trebuie să fie el.
 Dialogue: 99,0:14:45.41,0:14:47.16,Dialogue,Rem,0,0,0,,De ce?
 Dialogue: 99,0:14:47.16,0:14:48.70,Dialogue,Lumachina,0,0,0,,Deoarece...
-Dialogue: 99,0:14:50.16,0:14:53.54,Dialogue,Lumachina,0,0,0,,M-a văzut dezbracată.
+Dialogue: 99,0:14:50.16,0:14:53.54,Dialogue,Lumachina,0,0,0,,M-a văzut dezbrăcată.
 Dialogue: 99,0:14:54.87,0:14:55.79,Dialogue,Rem,0,0,0,,Și?
 Dialogue: 99,0:14:55.79,0:14:58.84,Dialogue,Shera,0,0,0,,Dar ești în regulă ca noi să te vedem, nu?
 Dialogue: 99,0:15:00.75,0:15:02.80,Dialogue,Shera,0,0,0,,Au!
@@ -321,10 +317,10 @@ Dialogue: 99,0:17:22.02,0:17:25.19,Dialogue,Lumachina,0,0,0,,mulți dintre palad
 Dialogue: 99,0:17:25.19,0:17:29.28,Dialogue,Lumachina,0,0,0,,îl urmează pe Vishos, \Nliderul cardinalilor.
 Dialogue: 99,0:17:29.28,0:17:33.20,Dialogue,Diablo,0,0,0,,Și de ce vor cardinalii să te omoare?
 Dialogue: 99,0:17:33.20,0:17:34.20,Dialogue,Lumachina,0,0,0,,Hm...
-Dialogue: 99,0:17:34.66,0:17:38.25,Dialogue,Lumachina,0,0,0,,Poate pentru că i-am întrebat de negoțul cu bani și bunuri ilegale?
+Dialogue: 99,0:17:34.66,0:17:38.25,Dialogue,Lumachina,0,0,0,,Poate pentru că i-am întrebat despre negoțul cu bani și bunuri ilegale?
 Dialogue: 99,0:17:38.25,0:17:43.00,Dialogue,Lumachina,0,0,0,,Sau poate pentru că am cerut o investigație a faptelor nedrepte ale paladinilor?
 Dialogue: 99,0:17:43.00,0:17:44.17,Dialogue,Lumachina,0,0,0,,Sau poate pentru că...
-Dialogue: 99,0:17:44.67,0:17:48.55,Dialogue,Diablo,0,0,0,,{\i1}Am înțeles. Ea pune mai mare preț pe virtuții decât pe propria ei viață.
+Dialogue: 99,0:17:44.67,0:17:48.55,Dialogue,Diablo,0,0,0,,{\i1}Am înțeles. Ea pune mai mare preț pe virtuți decât pe propria ei viață.
 Dialogue: 99,0:17:48.55,0:17:51.01,Dialogue,Diablo,0,0,0,,{\i1}Drept rezultat, aproape a fost ucisă.
 Dialogue: 99,0:17:51.01,0:17:53.39,Dialogue,Diablo,0,0,0,,{\i1}Este cam prostănacă.
 Dialogue: 99,0:17:53.97,0:17:56.14,Dialogue,Diablo,0,0,0,,{\i1}Dar nu pot spune că-mi displace asta.
@@ -446,7 +442,7 @@ Dialogue: 99,0:23:33.64,0:23:35.02,Dialogue,Diablo,0,0,0,,Să mergem!
 Dialogue: 99,0:23:35.02,0:23:36.69,Dialogue,Diablo,0,0,0,,Spre Turnul de Zircon!
 Dialogue: 99,0:23:36.69,0:23:37.69,Dialogue,All,0,0,0,,Da!
 Dialogue: 99,0:23:51.03,0:23:53.70,Dialogue,Horn,0,700,0,,Ați vrea să intrați în noua temniță?
-Dialogue: 99,0:23:53.70,0:23:56.83,Dialogue,Diablo,0,700,0,,Săgeată a vidului, înfige un țăruș în spațiul dintre cer și pământ!
+Dialogue: 99,0:23:53.70,0:23:56.83,Dialogue,Diablo,0,700,0,,Săgeată a vidului, înfige un \Nțăruș între cer și pământ!
 Dialogue: 99,0:23:56.83,0:23:58.04,Dialogue,Diablo,0,700,0,,Abisul Gravității!
 Dialogue: 99,0:23:58.04,0:24:00.59,Dialogue,Shera,0,700,0,,Și asta este foarte mare și tare!
 Dialogue: 0,0:24:01.09,0:24:05.09,DedzuyaSigns,,0,0,0,,{\an2\pos(480,930)\fscx120\fscy115\fnJun 501\b1\bord1\3c&HFFFFFF&\blur4}Nu ratați următorul episod!

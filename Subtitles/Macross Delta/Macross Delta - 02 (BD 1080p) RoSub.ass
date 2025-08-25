@@ -4,6 +4,8 @@
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: no
 

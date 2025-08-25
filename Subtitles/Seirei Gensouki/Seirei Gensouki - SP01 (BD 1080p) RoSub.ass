@@ -8,6 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Audio File: E:/Anime/BD & DVD/[VCB-Studio] Seirei Gensouki [Ma10p_1080p]/SPs/[VCB-Studio] Seirei Gensouki [SP01][Ma10p_1080p][x265_flac].mkv

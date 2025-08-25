@@ -7,6 +7,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Audio File: E:/Anime/BD & DVD/Strike the Blood/[FFF] Strike the Blood [BD][1080p-FLAC]/[FFF] Strike the Blood - 01 [BD][1080p-FLAC][3D97BBBB].mkv

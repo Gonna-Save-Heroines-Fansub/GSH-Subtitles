@@ -7,6 +7,8 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 ScaledBorderAndShadow: yes
 Video Zoom: 6
 GradientFactory: 1280604464 Selected lines (4)Smooth (Vertical)8As Is3 colorsIgnoreIgnoreIgnore#FAFAFB#000000#000000#000000#F0D8EC#000000#000000#000000#E58ADD#000000#000000#000000
