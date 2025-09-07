@@ -70,7 +70,7 @@ Dialogue: 100,0:01:58.22,0:02:01.18,Dialogue,Alabaster,0,0,0,,Nu-mi vine să cre
 Dialogue: 100,0:02:01.18,0:02:05.18,Dialogue,Alabaster,0,0,0,,Presupun că asta arată cât de mult se tem de Regele Inelelor.
 Dialogue: 100,0:02:05.73,0:02:07.00,Dialogue,Satou,0,0,0,,Ce era chestia aia?
 Dialogue: 100,0:02:07.00,0:02:09.06,Dialogue,Satou,0,0,0,,Nici măcar nu m-am putut apropia.
-Dialogue: 100,0:02:10.47,0:02:12.54,Dialogue,Alabaster,0,0,0,,Acela era un cavalar \Nal Regelui Abisului!
+Dialogue: 100,0:02:10.47,0:02:12.54,Dialogue,Alabaster,0,0,0,,Acela era un cavaler \Nal Regelui Abisului!
 Dialogue: 100,0:02:12.54,0:02:15.94,Dialogue,Alabaster,0,0,0,,E un monstru înspăimântător, \Ncapabil să folosească magie!
 Dialogue: 100,0:02:15.94,0:02:16.96,Dialogue,Satou,0,0,0,,Magie?!
 Dialogue: 100,0:02:16.96,0:02:19.49,Dialogue,Satou,0,0,0,,Credeam că ar trebui să le pot face față folosind puterea inelului?!
@@ -141,13 +141,13 @@ Dialogue: 100,0:07:10.00,0:07:13.13,Dialogue,Alabaster,0,0,0,,E periculos s-o l�
 Dialogue: 100,0:07:13.13,0:07:15.55,Dialogue,Alabaster,0,0,0,,Voi sta eu în cameră cu ea.
 Dialogue: 100,0:07:15.55,0:07:16.79,Dialogue,Hime,0,0,0,,Ce? Nici gând.
 Dialogue: 100,0:07:19.07,0:07:23.08,Dialogue,Marse,0,0,0,,Asta înseamnă că tu, soțul ei, \Nvei sta în cameră cu ea.
-Dialogue: 100,0:07:28.23,0:07:31.76,Dialogue,Alabaster,0,0,0,,Acum, înainte să ne punem \Nîn mișcare de mâine,
+Dialogue: 100,0:07:28.23,0:07:31.76,Dialogue,Alabaster,0,0,0,,Acum, din moment ce \Nvom porni la drum mâine,
 Dialogue: 100,0:07:31.76,0:07:34.50,Dialogue,Alabaster,0,0,0,,haideți să recapitulăm \Ncâteva lucruri simple.
 Dialogue: 100,0:07:35.10,0:07:39.22,Dialogue,Alabaster,0,0,0,,Spre exemplu, care e adevărata \Ndatorie a Regelui Inelelor.
 Dialogue: 100,0:07:40.96,0:07:43.00,Dialogue,Alabaster,0,0,0,,Cu mult timp în urmă,
 Dialogue: 100,0:07:43.00,0:07:48.02,Dialogue,Alabaster,0,0,0,,această lume era pe punctul de a fi învinsă de puterile întunecate ale Abisului.
 Dialogue: 100,0:07:48.53,0:07:52.92,Dialogue,Alabaster,0,0,0,,Speranța oamenilor era la pământ din cauza atacului neîncetat al răului
-Dialogue: 100,0:07:52.92,0:07:57.74,Dialogue,Alabaster,0,0,0,,și multe națiuni au fost acoperite de umbra morții și pierdute.
+Dialogue: 100,0:07:52.92,0:07:57.74,Dialogue,Alabaster,0,0,0,,și multe națiuni au \Ncăzut sub umbra morții.
 Dialogue: 100,0:07:58.31,0:08:01.10,Dialogue,Alabaster,0,0,0,,Regele Inelelor a căutat o \Ncale de a alunga întunericul,
 Dialogue: 100,0:08:01.10,0:08:04.33,Dialogue,Alabaster,0,0,0,,așa că a făurit cinci \Ninele îmbibate cu magie.
 Dialogue: 100,0:08:04.33,0:08:12.62,Dialogue,Alabaster,0,0,0,,Acele inele erau: Inelul Luminii, Inelul Focului, Inelul Apei, Inelul Vântului și Inelul Pământului.
@@ -386,12 +386,12 @@ Dialogue: 1,0:05:43.71,0:05:49.34,DedzuyaSigns,,0,0,0,,{=90}{\an2\move(969.44,34
 Comment: 0,0:05:49.50,0:05:49.55,OP TL,,0,0,0,,{OP first universe and fingers frame}
 Dialogue: 0,0:05:49.50,0:05:55.05,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Totul a început când mâinile noastre s-au atins
 Dialogue: 1,0:05:49.50,0:05:55.05,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Totul a început când mâinile noastre s-au atins
-Dialogue: 0,0:05:55.05,0:06:00.85,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
-Dialogue: 1,0:05:55.05,0:06:00.85,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
+Dialogue: 0,0:05:55.05,0:06:00.85,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
+Dialogue: 1,0:05:55.05,0:06:00.85,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
 Dialogue: 0,0:06:00.85,0:06:06.48,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
 Dialogue: 1,0:06:00.85,0:06:06.48,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
-Dialogue: 0,0:06:06.48,0:06:12.11,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
-Dialogue: 1,0:06:06.48,0:06:12.11,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
+Dialogue: 0,0:06:06.48,0:06:12.11,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
+Dialogue: 1,0:06:06.48,0:06:12.11,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
 Dialogue: 0,0:06:12.11,0:06:14.65,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 1,0:06:12.11,0:06:14.65,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 0,0:06:14.65,0:06:18.16,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și credința ta care se agață de adevăr,
@@ -408,8 +408,8 @@ Dialogue: 0,0:06:36.96,0:06:42.77,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}
 Dialogue: 1,0:06:36.96,0:06:42.77,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Îmi încrunt privirea ca să pot înfrunta vânturile puternice
 Dialogue: 0,0:06:42.77,0:06:48.65,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Voi lumina chiar și abisul întunecat
 Dialogue: 1,0:06:42.77,0:06:48.65,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Voi lumina chiar și abisul întunecat
-Dialogue: 0,0:06:48.65,0:06:56.24,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
-Dialogue: 1,0:06:48.65,0:06:56.24,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
+Dialogue: 0,0:06:48.65,0:06:56.24,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
+Dialogue: 1,0:06:48.65,0:06:56.24,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
 Dialogue: 0,0:06:56.24,0:06:59.72,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Logodnă, jur pe ochii tăi
 Dialogue: 1,0:06:56.24,0:06:59.72,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Logodnă, jur pe ochii tăi
 Comment: 0,0:22:54.19,0:22:54.24,ED TL,,0,0,0,,{ED first panties frame}

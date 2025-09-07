@@ -72,7 +72,7 @@ Dialogue: 100,0:04:21.36,0:04:23.32,Dialogue,SATOU,0,0,0,,Stai, ce?
 Dialogue: 100,0:04:29.40,0:04:30.57,Dialogue,SATOU,0,0,0,,Hime?
 Dialogue: 100,0:04:34.34,0:04:35.12,Dialogue,HIME,0,0,0,,Aveai orez pe față.
 Dialogue: 100,0:04:51.08,0:04:52.75,Dialogue,HIME,0,0,0,,Hei, bunicule.
-Dialogue: 100,0:04:54.55,0:04:56.73,Dialogue,SATOU,0,0,0,,Bună dimineața,  bunicul lui Hime.
+Dialogue: 100,0:04:54.55,0:04:56.73,Dialogue,SATOU,0,0,0,,Bună dimineața, bunicul lui Hime.
 Dialogue: 100,0:04:56.73,0:04:58.82,Dialogue,ALABASTER,0,0,0,,Bună dimineața, Satou.
 Dialogue: 100,0:04:59.23,0:05:01.12,Dialogue,HIME,0,0,0,,Am plecat.
 Dialogue: 100,0:05:01.12,0:05:02.76,Dialogue,ALABASTER,0,0,0,,Să aveți o zi frumoasă.
@@ -126,7 +126,7 @@ Dialogue: 100,0:07:23.88,0:07:26.65,Dialogue,HIME,0,0,0,,Festivalurile sunt așa
 Dialogue: 100,0:07:27.17,0:07:29.72,Dialogue,HIME,0,0,0,,Hei, Satou, îți mai amintești?
 Dialogue: 100,0:07:30.76,0:07:34.68,Dialogue,HIME,0,0,0,,Am mai venit la acest festival când eram mici și ne-am pierdut.
 Dialogue: 100,0:07:35.32,0:07:37.93,Dialogue,HIME,0,0,0,,Ai spus: „Așa nu ne vom mai separa”,
-Dialogue: 100,0:07:38.40,0:07:40.82,Dialogue,HIME,0,0,0,,și mai ținut de \Nmână întreg festivalul.
+Dialogue: 100,0:07:38.40,0:07:40.82,Dialogue,HIME,0,0,0,,și m-ai ținut de \Nmână întreg festivalul.
 Dialogue: 100,0:07:41.52,0:07:44.30,Dialogue,HIME,0,0,0,,Atunci ai devenit eroul meu.
 Dialogue: 100,0:07:44.30,0:07:46.03,Dialogue,SATOU,0,0,0,,Vrei să spui că nu mai sunt acum?
 Dialogue: 100,0:07:47.05,0:07:48.40,Dialogue,HIME,0,0,0,,Cine poate știi?
@@ -138,7 +138,7 @@ Dialogue: 100,0:08:12.38,0:08:14.30,Dialogue,HIME,0,0,0,,Satou, vreau aia!
 Dialogue: 100,0:08:16.35,0:08:17.19,Dialogue,SATOU,0,0,0,,Vreau să joc.
 Dialogue: 100,0:08:17.19,0:08:18.81,Dialogue,STALLGUY,0,0,0,,Te costă 500 de yeni.
 Dialogue: 100,0:08:21.28,0:08:23.94,Dialogue,SATOU,0,0,0,,{\i1}Obișnuiam să cred că sunt \Nîn regulă cu situația actuală
-Dialogue: 100,0:08:24.48,0:08:27.23,Dialogue,SATOU,0,0,0,,{\i1}dacă e să am de ales înte asta\Nși ruinarea prieteniei noastre.
+Dialogue: 100,0:08:24.48,0:08:27.23,Dialogue,SATOU,0,0,0,,{\i1}dacă e să am de ales între asta\Nși ruinarea prieteniei noastre.
 Dialogue: 100,0:08:27.90,0:08:29.02,Dialogue,SATOU,0,0,0,,{\i1}Dar acum...
 Dialogue: 100,0:08:45.46,0:08:46.75,Dialogue,SATOU,0,0,0,,{\i1}o pot face.
 Dialogue: 100,0:08:47.11,0:08:50.34,Dialogue,SATOU,0,0,0,,{\i1}Atmosfera e perfectă. \NCred că o pot face!
@@ -344,7 +344,7 @@ Dialogue: 100,0:21:07.22,0:21:10.23,Dialogue,SATOU,0,0,0,,Da, am înțeles.
 Dialogue: 100,0:21:13.04,0:21:14.25,Dialogue,SOLDIER 2,0,0,0,,Poftim.
 Dialogue: 100,0:21:16.97,0:21:20.17,Dialogue,ALABASTER,0,0,0,,Inelul Luminii alungă răul.
 Dialogue: 100,0:21:20.17,0:21:26.26,Dialogue,ALABASTER,0,0,0,,Îți oferă putere și îmbibă cu lumina purificării orice ții în mână.
-Dialogue: 100,0:21:26.26,0:21:32.22,Dialogue,ALABASTER,0,0,0,,Cu alte cuvinte, crează arme care sunt perfecte pentru înfrângerea monștrilor din Abis.
+Dialogue: 100,0:21:26.26,0:21:32.22,Dialogue,ALABASTER,0,0,0,,Cu alte cuvinte, creează arme care sunt perfecte pentru înfrângerea monștrilor din Abis.
 Dialogue: 100,0:21:32.74,0:21:35.78,Dialogue,SATOU,0,0,0,,Nu știu multe despre această lume.
 Dialogue: 100,0:21:35.78,0:21:40.19,Dialogue,SATOU,0,0,0,,Dar îmi dau seama cât de \Nmult înseamnă pentru tine.
 Dialogue: 100,0:21:40.65,0:21:44.86,Dialogue,SATOU,0,0,0,,Iar ăsta e un motiv destul de \Nbun încât să dau tot ce pot!
@@ -1027,12 +1027,12 @@ Dialogue: 0,0:07:23.83,0:07:23.88,DedzuyaSigns,,0,0,0,,{=30}{\pos(1053.2,261.93)
 Comment: 0,0:01:57.51,0:01:57.56,OP TL,,0,0,0,,{OP first universe and fingers frame}
 Dialogue: 0,0:01:57.51,0:02:03.06,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Totul a început când mâinile noastre s-au atins
 Dialogue: 1,0:01:57.51,0:02:03.06,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Totul a început când mâinile noastre s-au atins
-Dialogue: 0,0:02:03.06,0:02:08.86,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
-Dialogue: 1,0:02:03.06,0:02:08.86,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
+Dialogue: 0,0:02:03.06,0:02:08.86,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
+Dialogue: 1,0:02:03.06,0:02:08.86,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
 Dialogue: 0,0:02:08.86,0:02:14.49,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
 Dialogue: 1,0:02:08.86,0:02:14.49,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
-Dialogue: 0,0:02:14.49,0:02:20.12,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
-Dialogue: 1,0:02:14.49,0:02:20.12,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
+Dialogue: 0,0:02:14.49,0:02:20.12,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
+Dialogue: 1,0:02:14.49,0:02:20.12,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
 Dialogue: 0,0:02:20.12,0:02:22.66,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 1,0:02:20.12,0:02:22.66,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 0,0:02:22.66,0:02:26.17,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și credința ta care se agață de adevăr,
@@ -1049,8 +1049,8 @@ Dialogue: 0,0:02:44.97,0:02:50.78,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}
 Dialogue: 1,0:02:44.97,0:02:50.78,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Îmi încrunt privirea ca să pot înfrunta vânturile puternice
 Dialogue: 0,0:02:50.78,0:02:56.66,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Voi lumina chiar și abisul întunecat
 Dialogue: 1,0:02:50.78,0:02:56.66,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Voi lumina chiar și abisul întunecat
-Dialogue: 0,0:02:56.66,0:03:04.25,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
-Dialogue: 1,0:02:56.66,0:03:04.25,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
+Dialogue: 0,0:02:56.66,0:03:04.25,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
+Dialogue: 1,0:02:56.66,0:03:04.25,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
 Dialogue: 0,0:03:04.25,0:03:07.73,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Logodnă, jur pe ochii tăi
 Dialogue: 1,0:03:04.25,0:03:07.73,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Logodnă, jur pe ochii tăi
 Comment: 0,0:22:54.14,0:22:54.19,ED TL,,0,0,0,,{ED first panties frame}

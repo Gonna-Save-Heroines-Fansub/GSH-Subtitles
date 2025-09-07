@@ -219,7 +219,7 @@ Dialogue: 100,0:17:43.85,0:17:45.11,Dialogue,Granart,0,0,0,,Forța, nu?
 Dialogue: 100,0:17:45.64,0:17:48.50,Dialogue,Granart,0,0,0,,Eu, Saphir și Amber am putea fi în regulă în această privință...
 Dialogue: 100,0:17:48.50,0:17:50.80,Dialogue,Nef,0,0,0,,Dar noi nu prea am fi de ajutor.
 Dialogue: 100,0:17:50.80,0:17:52.09,Dialogue,Alabaster,0,0,0,,Așadar,
-Dialogue: 100,0:17:52.43,0:17:57.55,Dialogue,Alabaster,0,0,0,,toată lumea va trebui obțină forța necesară pentru a fi soția Regelui Inelelor!
+Dialogue: 100,0:17:52.43,0:17:57.55,Dialogue,Alabaster,0,0,0,,toată lumea va trebui să obțină forța necesară pentru a fi soția Regelui Inelelor!
 Dialogue: 100,0:17:57.89,0:18:01.76,Dialogue,Alabaster,0,0,0,,Bun, acest antrenament...
 Dialogue: 100,0:18:02.29,0:18:05.15,Dialogue,Alabaster,0,0,0,,e antrenamentul soțiilor!
 Dialogue: 100,0:18:11.81,0:18:14.86,Dialogue,Maid,0,0,0,,Veți sta în această \Ncameră, Rege al Inelelor.
@@ -456,12 +456,12 @@ Dialogue: 1,0:02:11.74,0:02:17.37,DedzuyaSigns,,0,0,0,,{\an2\move(969.44,347.8,9
 Comment: 0,0:02:17.53,0:02:17.58,OP TL,,0,0,0,,{OP first universe and fingers frame}
 Dialogue: 0,0:02:17.53,0:02:23.08,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Totul a început când mâinile noastre s-au atins
 Dialogue: 1,0:02:17.53,0:02:23.08,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Totul a început când mâinile noastre s-au atins
-Dialogue: 0,0:02:23.08,0:02:28.88,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
-Dialogue: 1,0:02:23.08,0:02:28.88,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
+Dialogue: 0,0:02:23.08,0:02:28.88,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
+Dialogue: 1,0:02:23.08,0:02:28.88,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
 Dialogue: 0,0:02:28.88,0:02:34.51,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
 Dialogue: 1,0:02:28.88,0:02:34.51,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
-Dialogue: 0,0:02:34.51,0:02:40.14,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
-Dialogue: 1,0:02:34.51,0:02:40.14,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
+Dialogue: 0,0:02:34.51,0:02:40.14,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
+Dialogue: 1,0:02:34.51,0:02:40.14,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
 Dialogue: 0,0:02:40.14,0:02:42.68,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 1,0:02:40.14,0:02:42.68,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 0,0:02:42.68,0:02:46.19,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și credința ta care se agață de adevăr,
@@ -478,8 +478,8 @@ Dialogue: 0,0:03:04.99,0:03:10.80,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}
 Dialogue: 1,0:03:04.99,0:03:10.80,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Îmi încrunt privirea ca să pot înfrunta vânturile puternice
 Dialogue: 0,0:03:10.80,0:03:16.68,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Voi lumina chiar și abisul întunecat
 Dialogue: 1,0:03:10.80,0:03:16.68,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Voi lumina chiar și abisul întunecat
-Dialogue: 0,0:03:16.68,0:03:24.27,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
-Dialogue: 1,0:03:16.68,0:03:24.27,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
+Dialogue: 0,0:03:16.68,0:03:24.27,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
+Dialogue: 1,0:03:16.68,0:03:24.27,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
 Dialogue: 0,0:03:24.27,0:03:27.75,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Logodnă, jur pe ochii tăi
 Dialogue: 1,0:03:24.27,0:03:27.75,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Logodnă, jur pe ochii tăi
 Comment: 0,0:22:54.14,0:22:54.18,ED TL,,0,0,0,,{ED first panties frame}

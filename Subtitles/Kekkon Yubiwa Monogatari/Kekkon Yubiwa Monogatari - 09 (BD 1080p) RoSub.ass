@@ -98,7 +98,7 @@ Dialogue: 100,0:03:12.29,0:03:15.63,Dialogue,Satou,0,0,0,,Hime! Tu ești pe prim
 Dialogue: 100,0:03:18.57,0:03:19.93,Dialogue,Satou,0,0,0,,Un vis?
 Dialogue: 100,0:03:21.59,0:03:23.30,Dialogue,Satou,0,0,0,,Asta nu-i a bună...
 Dialogue: 100,0:03:36.01,0:03:37.03,Dialogue,Satou,0,0,0,,Hime!
-Dialogue: 100,0:03:37.03,0:03:38.79,Dialogue,Satou,0,0,0,,Haide să ieșim împreuă astăzi!
+Dialogue: 100,0:03:37.03,0:03:38.79,Dialogue,Satou,0,0,0,,Haide să ieșim împreună astăzi!
 Dialogue: 100,0:03:39.88,0:03:40.95,Dialogue,Hime,0,0,0,,Ce?
 Dialogue: 100,0:03:42.10,0:03:42.79,Dialogue,Hime,0,0,0,,Ce?!
 Dialogue: 100,0:05:15.32,0:05:16.75,Dialogue,Satou,0,0,0,,Păi, vezi tu...
@@ -384,12 +384,12 @@ Dialogue: 1,0:03:55.72,0:04:01.35,DedzuyaSigns,,0,0,0,,{\an2\move(969.44,347.8,9
 Comment: 0,0:04:01.51,0:04:01.56,OP TL,,0,0,0,,{OP first universe and fingers frame}
 Dialogue: 0,0:04:01.51,0:04:07.06,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Totul a început când mâinile noastre s-au atins
 Dialogue: 1,0:04:01.51,0:04:07.06,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Totul a început când mâinile noastre s-au atins
-Dialogue: 0,0:04:07.06,0:04:12.86,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
-Dialogue: 1,0:04:07.06,0:04:12.86,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotârât încă de la naștere
+Dialogue: 0,0:04:07.06,0:04:12.86,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
+Dialogue: 1,0:04:07.06,0:04:12.86,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Destinul ne-a fost hotărât încă de la naștere
 Dialogue: 0,0:04:12.86,0:04:18.49,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
 Dialogue: 1,0:04:12.86,0:04:18.49,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Privirea ta, din acea zi, care mi-a străpuns inima
-Dialogue: 0,0:04:18.49,0:04:24.12,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
-Dialogue: 1,0:04:18.49,0:04:24.12,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced orice cuvinte
+Dialogue: 0,0:04:18.49,0:04:24.12,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
+Dialogue: 1,0:04:18.49,0:04:24.12,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Pasiunea și sentimentele mele transced toate cuvinte
 Dialogue: 0,0:04:24.12,0:04:26.66,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 1,0:04:24.12,0:04:26.66,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Ochii tăi plini cu determinare
 Dialogue: 0,0:04:26.66,0:04:30.17,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și credința ta care se agață de adevăr,
@@ -406,8 +406,8 @@ Dialogue: 0,0:04:48.97,0:04:54.78,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}
 Dialogue: 1,0:04:48.97,0:04:54.78,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Îmi încrunt privirea ca să pot înfrunta vânturile puternice
 Dialogue: 0,0:04:54.78,0:05:00.66,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Voi lumina chiar și abisul întunecat
 Dialogue: 1,0:04:54.78,0:05:00.66,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Voi lumina chiar și abisul întunecat
-Dialogue: 0,0:05:00.66,0:05:08.25,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
-Dialogue: 1,0:05:00.66,0:05:08.25,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Promițând să merg oriunde ne vor duce drumurile noastre împletite
+Dialogue: 0,0:05:00.66,0:05:08.25,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
+Dialogue: 1,0:05:00.66,0:05:08.25,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Și-ți promit că voi merge oriunde ne va conduce destinul
 Dialogue: 0,0:05:08.25,0:05:11.73,OP TL,,0,0,0,,{\c&H4FACC4&\blur5\fad(200,200)}Logodnă, jur pe ochii tăi
 Dialogue: 1,0:05:08.25,0:05:11.73,OP TL,,0,0,0,,{\bord0\shad0\blur0.6\fad(200,200)}Logodnă, jur pe ochii tăi
 Comment: 0,0:22:54.14,0:22:54.19,ED TL,,0,0,0,,{ED first panties frame}
