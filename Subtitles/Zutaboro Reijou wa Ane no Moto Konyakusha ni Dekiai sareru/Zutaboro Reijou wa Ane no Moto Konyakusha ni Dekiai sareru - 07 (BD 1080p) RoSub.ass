@@ -37,7 +37,7 @@ Dialogue: 99,0:00:09.10,0:00:13.18,Dialogue,Mio,0,0,0,,domnița Anastasia s-a ur
 Dialogue: 99,0:00:13.18,0:00:15.24,Dialogue,Mio,0,0,0,,și a pornit spre Castelul Granado.
 Dialogue: 99,0:00:20.95,0:00:23.57,Dialogue,Mio,0,0,0,,Ni s-a spus că, timp de câteva zile, \Ncălătoria fusese una liniștită,
 Dialogue: 99,0:00:24.22,0:00:27.17,Dialogue,Mio,0,0,0,,iar apoi, în apropiere de capitala regală, trăsura a fost atacată de bandiți.
-Dialogue: 99,0:00:30.34,0:00:32.79,Dialogue,Mio,0,0,0,,În timp ce domnița Anastasia \Nîncerca să scape cu disperare...
+Dialogue: 99,0:00:30.34,0:00:32.79,Dialogue,Mio,0,0,0,,În timp ce domnița Anastasia \Nîncerca cu disperare să scape...
 Dialogue: 99,0:00:35.39,0:00:37.62,Dialogue,Mio,0,0,0,,aceasta a alunecat și a căzut în \Nrâul crescut din cauza ploilor.
 Dialogue: 99,0:00:39.76,0:00:41.68,Dialogue,Mio,0,0,0,,Vizitiul a încercat s-o salveze,
 Dialogue: 99,0:00:41.68,0:00:44.61,Dialogue,Mio,0,0,0,,dar rănile provocate de bandiți au făcut imposibil acest lucru.
@@ -55,7 +55,7 @@ Dialogue: 99,0:01:17.86,0:01:21.65,Dialogue,Mio,0,0,0,,Asta înseamnă că o per
 Dialogue: 99,0:01:21.65,0:01:25.52,Dialogue,Tomas,0,0,0,,D-Doar nu vrei să spui că-i vei \Nface ceva domniței Anastasia...
 Dialogue: 99,0:01:25.68,0:01:26.59,Dialogue,Mio,0,0,0,,Nu voi face așa ceva.
 Dialogue: 99,0:01:26.59,0:01:29.75,Dialogue,Mio,0,0,0,,Stăpânul mi-a interzis să \Nfolosesc mijloace violente.
-Dialogue: 99,0:01:29.75,0:01:31.96,Dialogue,Mio,0,0,0,,Nu voi face nimic extrem. \NSau, cel puțin, prea exagerat.
+Dialogue: 99,0:01:29.75,0:01:31.96,Dialogue,Mio,0,0,0,,Nu voi face nimic extrem... sau, \Ncel puțin, nimic prea exagerat.
 Dialogue: 99,0:01:31.96,0:01:35.31,Dialogue,Tomas,0,0,0,,C-Ce vrei să spui prin „prea exagerat”? \NPot pleca acasă acum?
 Dialogue: 99,0:01:35.62,0:01:38.39,Dialogue,Mio,0,0,0,,„Prietenii fac călătoriile mai frumoase”, e una din zicalele mele preferate.
 Dialogue: 99,0:01:40.00,0:01:41.19,Dialogue,Mio,0,0,0,,În plus...
@@ -84,12 +84,12 @@ Dialogue: 99,0:04:26.57,0:04:28.78,Dialogue,Kyros,0,0,0,,A-Asta nu înseamnă c�
 Dialogue: 99,0:04:28.78,0:04:32.70,Dialogue,Cillie,0,0,0,,Stăpâne, tu doar vrei s-o atingi pe Maria, nu-i așa? Ești așa un nerușinat!
 Dialogue: 99,0:04:33.54,0:04:36.18,Dialogue,Wolfgang,0,0,0,,Cillie a fost puțin lipsită de respect.
 Dialogue: 99,0:04:36.18,0:04:38.72,Dialogue,Wolfgang,0,0,0,,Dar, stăpâne, înțeleg că vreți să vă apropiați de domnița Maria,
-Dialogue: 99,0:04:38.96,0:04:42.40,Dialogue,Wolfgang,0,0,0,,dar s-ar putea ca acesta să se simtă incomfortabil dacă grăbiți lucrurile.
+Dialogue: 99,0:04:38.96,0:04:42.40,Dialogue,Wolfgang,0,0,0,,dar s-ar putea ca acesta să se simtă inconfortabil dacă grăbiți lucrurile.
 Dialogue: 99,0:04:42.40,0:04:44.27,Dialogue,Wolfgang,0,0,0,,Vă rog să vă stăpâniți entuziasmul.
 Dialogue: 99,0:04:50.84,0:04:52.63,Dialogue,Kyros,0,0,0,,Maria, haide să mergem la o întâlnire!
 Dialogue: 99,0:04:54.88,0:04:55.70,Dialogue,Marie,0,0,0,,Ce?
 Dialogue: 99,0:04:56.44,0:04:59.51,Dialogue,Kyros,0,0,0,,Am primit o scrisoare de la \NLuiphon în această dimineață.
-Dialogue: 99,0:04:59.51,0:05:04.05,Dialogue,Kyros,0,0,0,,Spune: „Am pregătit un dar nemaipomenit pentru tine, \Nașa că vino de grabă în capitala regală.”
+Dialogue: 99,0:04:59.51,0:05:04.05,Dialogue,Kyros,0,0,0,,Spune: „Am pregătit un dar nemaipomenit pentru tine, \Nașa că vino degrabă în capitala regală.”
 Dialogue: 99,0:05:04.05,0:05:06.96,Dialogue,Kyros,0,0,0,,Dar, cunoscându-l, \Nnu prea am așteptări.
 Dialogue: 99,0:05:08.65,0:05:10.44,Dialogue,Kyros,0,0,0,,Așa că...
 Dialogue: 99,0:05:10.44,0:05:13.65,Dialogue,Kyros,0,0,0,,Vrei să vii cu mine? Doar noi doi?
@@ -108,7 +108,7 @@ Dialogue: 99,0:06:05.47,0:06:08.35,Dialogue,Marie,0,0,0,,Vreau să spun, să mer
 Dialogue: 99,0:06:15.81,0:06:18.39,Dialogue,Tomas,0,0,0,,Acesta e locul natal al domniței Maria?
 Dialogue: 99,0:06:18.39,0:06:21.61,Dialogue,Mio,0,0,0,,În ținuturile Shaderan, agricultura \Nbazată, în special, pe grâu
 Dialogue: 99,0:06:21.61,0:06:24.61,Dialogue,Mio,0,0,0,,și creșterea animalelor \Nalcătuiesc majoritatea industriei.
-Dialogue: 99,0:06:24.95,0:06:30.19,Dialogue,Tomas,0,0,0,,Serios? Auzisem că e o zonă sărăcăcioasă, \Nașa că mi-am imaginat un satuc mic și sărăcăcios.
+Dialogue: 99,0:06:24.95,0:06:30.19,Dialogue,Tomas,0,0,0,,Serios? Auzisem că e o zonă sărăcăcioasă, \Nașa că mi-am imaginat un sătuc mic și sărăcăcios.
 Dialogue: 99,0:06:30.19,0:06:31.55,Dialogue,Mio,0,0,0,,Sunt pământuri bune aici.
 Dialogue: 99,0:06:31.55,0:06:36.25,Dialogue,Mio,0,0,0,,Totuși, după război, taxele au fost impuse în funcție de dimensiunea regiunii,
 Dialogue: 99,0:06:36.25,0:06:39.37,Dialogue,Mio,0,0,0,,așa că au fost nevoiți să continue \Nsă cultive suprafețe mari de teren.
@@ -212,7 +212,7 @@ Dialogue: 99,0:12:18.75,0:12:20.81,Dialogue,Mio,0,0,0,,Oh, și dumneavoastră ne
 Dialogue: 99,0:12:20.81,0:12:22.85,Dialogue,Mio,0,0,0,,Asta e camera surorii ei, nu-i așa?
 Dialogue: 99,0:12:25.20,0:12:26.67,Dialogue,Gregor,0,0,0,,Ce te face să spui asta?
 Dialogue: 99,0:12:26.67,0:12:28.88,Dialogue,Mio,0,0,0,,Maria iubește cărțile.
-Dialogue: 99,0:12:28.88,0:12:31.46,Dialogue,Mio,0,0,0,,Ar fi tare ciudat ca să nu există niciun raft cu cărți în camera ei!
+Dialogue: 99,0:12:28.88,0:12:31.46,Dialogue,Mio,0,0,0,,Ar fi tare ciudat să nu existe \Nniciun raft cu cărți în camera ei!
 Dialogue: 99,0:12:31.46,0:12:32.64,Dialogue,Gregor,0,0,0,,Ei bine...
 Dialogue: 99,0:12:33.28,0:12:37.86,Dialogue,Mio,0,0,0,,Acum, să terminăm cu farsele. \NNu mă puteți păcăli.
 Dialogue: 99,0:12:40.19,0:12:43.69,Dialogue,Gregor,0,0,0,,Îmi cer scuze! \NVă voi duce acum unde trebuie!
@@ -246,7 +246,7 @@ Dialogue: 99,0:14:18.92,0:14:21.81,Dialogue,Elvira,0,0,0,,Serios? Atunci, te rog
 Dialogue: 99,0:14:22.72,0:14:25.92,Dialogue,Tomas; internal,0,0,0,,{\i1}Ea este mama domniței Maria?
 Dialogue: 99,0:14:25.92,0:14:28.01,Dialogue,Elvira,0,0,0,,Mama va pleca acum.
 Dialogue: 99,0:14:28.01,0:14:30.59,Dialogue,Elvira,0,0,0,,Fii o fetiță cuminte și \Nașteaptă-ne, bine, Anastasia?
-Dialogue: 99,0:14:39.98,0:14:42.37,Dialogue,Gregor,0,0,0,,Ei bine, vă dor să vă bucurați în continua de vizita voastră acasă.
+Dialogue: 99,0:14:39.98,0:14:42.37,Dialogue,Gregor,0,0,0,,Ei bine, vă doresc să vă bucurați în continua de vizita voastră acasă.
 Dialogue: 99,0:14:42.37,0:14:44.17,Dialogue,Mio,0,0,0,,Așa vom face! Vă rog \Nsă ne scuzăți acum.
 Dialogue: 99,0:14:48.69,0:14:50.79,Dialogue,Tomas,0,0,0,,Tremuram tot de frică.
 Dialogue: 99,0:14:50.79,0:14:53.12,Dialogue,Mio,0,0,0,,Vom aștepta puțin, iar apoi \Nne vom întoarce la conac.
@@ -264,7 +264,7 @@ Dialogue: 99,0:16:01.63,0:16:04.73,Dialogue,Mio,0,0,0,,Știe foarte bine că e o
 Dialogue: 99,0:16:05.28,0:16:10.35,Dialogue,Mio,0,0,0,,A fost făcută foarte recent. \NCel mai probabil, chiar de baroneasă.
 Dialogue: 99,0:16:10.35,0:16:13.35,Dialogue,Tomas,0,0,0,,Dar seamănă izbitor cu o persoană reală.
 Dialogue: 99,0:16:13.74,0:16:16.33,Dialogue,Mio,0,0,0,,Ei bine, părul era cât se poate de real.
-Dialogue: 99,0:16:16.33,0:16:17.28,Dialogue,Tomas,0,0,0,,Cât se poate de real?!
+Dialogue: 99,0:16:16.33,0:16:17.28,Dialogue,Tomas,0,0,0,,Chiar era real?!
 Dialogue: 99,0:16:17.54,0:16:19.05,Dialogue,Mio,0,0,0,,La fel și rochia.
 Dialogue: 99,0:16:19.05,0:16:21.84,Dialogue,Mio,0,0,0,,Folosind investigația \Npoliție ca referință,
 Dialogue: 99,0:16:21.84,0:16:25.16,Dialogue,Mio,0,0,0,,purta cu siguranță acea \Nrochie în timpul accidentului.
@@ -358,7 +358,7 @@ Dialogue: 99,0:21:21.08,0:21:26.10,Dialogue,Kyros,0,0,0,,Chiar și în haine sim
 Dialogue: 99,0:21:26.32,0:21:32.06,Dialogue,Marie,0,0,0,,Nu e adevărat. Sunt urâtă, iar părul și hainele mele sunt mereu zdrențuite.
 Dialogue: 99,0:21:32.06,0:21:33.64,Dialogue,Kyros; internal,0,0,0,,{\i1}Zdrențuite...
 Dialogue: 99,0:21:34.05,0:21:37.45,Dialogue,Kyros; internal,0,0,0,,{\i1}Am înțeles! De asta o îmbrăcau așa!
-Dialogue: 99,0:21:37.45,0:21:40.78,Dialogue,Kyros; internal,0,0,0,,{\i1}Baronul Shaderan voia ca nimeni să nu observe farmerul lui Maria...
+Dialogue: 99,0:21:37.45,0:21:40.78,Dialogue,Kyros; internal,0,0,0,,{\i1}Baronul Shaderan voia ca nimeni să nu observe farmecul lui Maria...
 Dialogue: 99,0:21:40.78,0:21:43.68,Dialogue,Kyros; internal,0,0,0,,{\i1}Nu! Își dorea să-l ascunda chiar și de ea,
 Dialogue: 99,0:21:43.68,0:21:45.95,Dialogue,Kyros; internal,0,0,0,,{\i1}așa că a ținut-o în acea situație oribilă!
 Dialogue: 99,0:21:46.29,0:21:50.44,Dialogue,Kyros; internal,0,0,0,,{\i1}Dar... oricât de mult ar încerca s-o tragă în jos pe Maria, va fi în zadar!

@@ -232,7 +232,7 @@ Dialogue: 100,0:14:44.28,0:14:47.41,Dialogue,Kyros,0,0,0,,Maria? Tu ești Maria?
 Dialogue: 100,0:14:47.41,0:14:49.91,Dialogue,Gregor,0,0,0,,Așa este, ea este Maria.
 Dialogue: 100,0:14:49.91,0:14:53.04,Dialogue,Gregor,0,0,0,,Nu prea se compară cu Anastasia, dar...
 Dialogue: 100,0:14:55.29,0:14:58.63,Dialogue,Mio,0,0,0,,Stăpâne, expresia dumneavoastră \Na devenit destul de înfiorătoare.
-Dialogue: 100,0:15:05.47,0:15:10.64,Dialogue,Kyros,0,0,0,,Asta nu a fost prea drăguț din partea mea. \NTe rog să te bucuri de comfortul oferit de palat.
+Dialogue: 100,0:15:05.47,0:15:10.64,Dialogue,Kyros,0,0,0,,Asta nu a fost prea drăguț din partea mea. \NTe rog să te bucuri de confortul oferit de palat.
 Dialogue: 100,0:15:13.23,0:15:15.35,Dialogue,Mio,0,0,0,,Voi pregăti imediat o cameră.
 Dialogue: 100,0:15:19.23,0:15:22.11,Dialogue,Marie,0,0,0,,Scuză-mă, unde s-a dus tatăl meu?
 Dialogue: 100,0:15:22.11,0:15:24.65,Dialogue,Mio,0,0,0,,Are o întâlnire cu stăpânul.
@@ -309,20 +309,20 @@ Dialogue: 100,0:18:48.15,0:18:50.36,Dialogue,Tunika,0,0,0,,Oh, te așteptam!
 Dialogue: 100,0:18:51.03,0:18:55.28,Dialogue,Tunika,0,0,0,,Eu sunt Tunika. Persoana \Nresponsabilă cu băile din palat.
 Dialogue: 100,0:18:55.53,0:18:57.74,Dialogue,Mio,0,0,0,,Domniță Maria, ea cunoaște \Nmulte metode de îmbăiere
 Dialogue: 100,0:18:57.74,0:19:00.37,Dialogue,Mio,0,0,0,,și masare, bune pentru \Nsănătate și frumusețe.
-Dialogue: 100,0:19:00.37,0:19:03.50,Dialogue,Mio,0,0,0,,Și e expertă în tot felul de tratamente. \NO profesionistă a îmfrumusețării.
+Dialogue: 100,0:19:00.37,0:19:03.50,Dialogue,Mio,0,0,0,,Și e expertă în tot felul de tratamente. \NO specialistă în îmfrumusețare.
 Dialogue: 100,0:19:03.83,0:19:05.00,Dialogue,Marie,0,0,0,,O profesionistă a îmfrumusețării?
 Dialogue: 100,0:19:05.00,0:19:06.25,Dialogue,Tunika,0,0,0,,Așa este, o profesionistă.
 Dialogue: 100,0:19:09.34,0:19:10.80,Dialogue,Marie,0,0,0,,C-Când ai făcut asta?
 Dialogue: 100,0:19:11.21,0:19:16.05,Dialogue,Mio,0,0,0,,Domniță Maria, dacă Tunika vă \Nsupără prea tare, o puteți plesni.
 Dialogue: 100,0:19:16.05,0:19:17.39,Dialogue,Marie,0,0,0,,Stai, ce?
 Dialogue: 100,0:19:17.39,0:19:19.85,Dialogue,Marie,0,0,0,,Dar eu trebuia să curăț baia, nu?
-Dialogue: 100,0:19:19.85,0:19:24.19,Dialogue,Tunika,0,0,0,,Oh, nu. Nu baia va fi îmfrumusețată, \Nci dumneavoatră, domniță Maria!
+Dialogue: 100,0:19:19.85,0:19:24.19,Dialogue,Tunika,0,0,0,,Oh, nu. Nu baia va fi îmfrumusețată, \Nci dumneavoastră, domniță Maria!
 Dialogue: 100,0:19:24.19,0:19:25.56,Dialogue,Marie,0,0,0,,C-Ce?
 Dialogue: 100,0:19:29.40,0:19:31.23,Dialogue,Marie,0,0,0,,Miroase atât de frumos.
 Dialogue: 100,0:19:31.23,0:19:35.61,Dialogue,Tunika,0,0,0,,Am folosit sare, miere și citrice.
 Dialogue: 100,0:19:35.61,0:19:39.20,Dialogue,Tunika,0,0,0,,Când veți ieși, veți fi o persoană complet nouă, cu o piele moale și strălucitoare.
 Dialogue: 100,0:19:39.45,0:19:40.91,Dialogue,Marie,0,0,0,,O persoană complet nouă?
-Dialogue: 100,0:19:43.75,0:19:46.42,Dialogue,Tunika,0,0,0,,Fiecare cocon are șansă \Nde a deveni un fluture, știți?
+Dialogue: 100,0:19:43.75,0:19:46.42,Dialogue,Tunika,0,0,0,,Fiecare cocon are șansa \Nde a deveni un fluture, știți?
 Dialogue: 100,0:19:47.50,0:19:51.17,Dialogue,Marie; internal,0,0,0,,{\i1}Cine... se va transforma în ce?
 Dialogue: 100,0:20:38.13,0:20:41.76,Dialogue,Marie; internal,0,0,0,,{\i1}Ce persoană frumoasă. Cine e ea?
 Dialogue: 100,0:20:41.76,0:20:42.68,Dialogue,Kyros,0,0,0,,Maria.

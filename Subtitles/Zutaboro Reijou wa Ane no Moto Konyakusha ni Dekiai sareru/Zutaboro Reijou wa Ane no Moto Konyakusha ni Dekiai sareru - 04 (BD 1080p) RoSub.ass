@@ -18,10 +18,6 @@ ScaledBorderAndShadow: yes
 Original Script: CR
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Scroll Position: 334
-Active Line: 355
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fira Sans Medium,70,&H00FFFFFF,&H000000FF,&H0042036F,&HB4000000,0,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,1
@@ -69,7 +65,7 @@ Dialogue: 100,0:03:14.67,0:03:17.30,Dialogue,Kyros,0,0,0,,De ce spui toate astea
 Dialogue: 100,0:03:18.14,0:03:23.06,Dialogue,Mio,0,0,0,,Acesta e motivul pentru care înțeleg puțin sentimentele domniței Maria.
 Dialogue: 100,0:03:23.81,0:03:28.52,Dialogue,Mio,0,0,0,,Cum e să treci de la o viață asuprită la locuitul într-un castel strălucitor...
 Dialogue: 100,0:03:28.52,0:03:29.94,Dialogue,Mio,0,0,0,,și frica care vine cu asta.
-Dialogue: 100,0:03:30.44,0:03:33.07,Dialogue,Mio,0,0,0,,Apariția de nicăieri a \Nunui prinț fermecător...
+Dialogue: 100,0:03:30.44,0:03:33.07,Dialogue,Mio,0,0,0,,Apariția bruscă a unui prinț fermecător...
 Dialogue: 100,0:03:33.07,0:03:35.36,Dialogue,Mio,0,0,0,,toate rochiile și pantofii oferiți ei...
 Dialogue: 100,0:03:35.36,0:03:39.87,Dialogue,Mio,0,0,0,,Se întreabă dacă nu cumva e doar o magie de moment, care va dispărea într-o bună zi.
 Dialogue: 100,0:03:41.08,0:03:43.04,Dialogue,Kyros,0,0,0,,Nu va dispărea.
@@ -100,13 +96,13 @@ Dialogue: 100,0:04:56.28,0:04:58.86,Dialogue,Kyros,0,0,0,,Zâmbetul și răsul e
 Dialogue: 100,0:04:58.86,0:05:01.61,Dialogue,Kyros; background,0,0,0,,{\an8}Arată bine orice ar purta.
 Dialogue: 100,0:04:59.61,0:05:00.91,Dialogue,Mio,0,0,0,,Vorbiți incredibil de repede.
 Dialogue: 100,0:05:01.61,0:05:03.95,Dialogue,Kyros,0,0,0,,Are {\i1}acea{\i0} personalitate \Nși emană {\i1}acea{\i0} frumusețe!
-Dialogue: 100,0:05:03.95,0:05:06.29,Dialogue,Kyros,0,0,0,,Împreună îi amplifică \Nadorabilitatea de o sută de ori!
+Dialogue: 100,0:05:03.95,0:05:06.29,Dialogue,Kyros,0,0,0,,Împreună o fac de o \Nsută de ori mai adorabilă!
 Dialogue: 100,0:05:06.29,0:05:09.00,Dialogue,Mio,0,0,0,,Stăpâne, nu cred că sunteți în \Npoziția de a vorbi despre ceilalți.
 Dialogue: 100,0:05:09.00,0:05:09.71,Dialogue,Kyros,0,0,0,,Ce?
 Dialogue: 100,0:05:11.21,0:05:13.29,Dialogue,Mio,0,0,0,,Vă rog să mergeți la culcare acum.
 Dialogue: 100,0:05:13.29,0:05:15.30,Dialogue,Mio,0,0,0,,Dacă nu, mâine veți ajunge să regretați.
 Dialogue: 100,0:05:17.13,0:05:18.63,Dialogue,Kyros,0,0,0,,Nu pot dormi.
-Dialogue: 100,0:05:20.13,0:05:24.05,Dialogue,Mio,0,0,0,,Și acum. Am primit permisiunea \Nde a redistrubui personalul.
+Dialogue: 100,0:05:20.13,0:05:24.05,Dialogue,Mio,0,0,0,,Și acum. Am primit permisiunea \Nde a redistribui personalul.
 Dialogue: 100,0:05:24.60,0:05:26.97,Dialogue,Mio,0,0,0,,Ar trebui să acționez \Ncât mai repede posibil.
 Dialogue: 100,0:05:34.77,0:05:36.27,Dialogue,Mio,0,0,0,,E cantitatea potrivită de mâncare?
 Dialogue: 100,0:05:36.27,0:05:38.94,Dialogue,Marie,0,0,0,,Da! Voi putea termina tot.
@@ -182,7 +178,7 @@ Dialogue: 100,0:09:33.55,0:09:35.10,Dialogue,Hannah,0,0,0,,Nu te crede superioar
 Dialogue: 100,0:09:35.10,0:09:37.06,Dialogue,Ilza,0,0,0,,Toată lumea știe, nu-i așa?
 Dialogue: 100,0:09:37.06,0:09:38.68,Dialogue,Ilza,0,0,0,,Că ducesa e o barbară
 Dialogue: 100,0:09:38.68,0:09:41.98,Dialogue,Ilza,0,0,0,,și o fostă prostituată, care și-a dat fetița unui client atunci când era servitoare aici.
-Dialogue: 100,0:09:41.98,0:09:46.11,Dialogue,Hannah,0,0,0,,Ce? Credeam că fetița era o orfană care fusese abandonată pe marginea drumul la naștere.
+Dialogue: 100,0:09:41.98,0:09:46.11,Dialogue,Hannah,0,0,0,,Ce? Credeam că fetița era o orfană care fusese abandonată pe marginea drumului la naștere.
 Dialogue: 100,0:09:46.69,0:09:47.90,Dialogue,Ilza,0,0,0,,Nu are un nume de familie.
 Dialogue: 100,0:09:47.90,0:09:50.86,Dialogue,Ilza,0,0,0,,E așa de amuzant când te gândești că servește acum în castelul unui conte!
 Dialogue: 100,0:09:54.12,0:09:56.87,Dialogue,Mio,0,0,0,,Înțeleg. Deci amândouă \Nsunteți două idioate.
@@ -198,7 +194,7 @@ Dialogue: 100,0:10:34.28,0:10:36.66,Dialogue,Marie,0,0,0,,Mi-am modificat câtev
 Dialogue: 100,0:10:36.66,0:10:39.41,Dialogue,Marie,0,0,0,,Ați spus că-mi veți arăta grădina, nu-i așa?
 Dialogue: 100,0:10:39.41,0:10:41.37,Dialogue,Marie,0,0,0,,Nu e absolut nicio problemă \Ndacă se murdăresc.
 Dialogue: 100,0:10:42.71,0:10:44.08,Dialogue,Johan,0,0,0,,Asta e tot?
-Dialogue: 100,0:10:44.08,0:10:47.38,Dialogue,Johan,0,0,0,,Aveam o mulțime de pantofi de servitori pe care vi puteam împrumuta.
+Dialogue: 100,0:10:44.08,0:10:47.38,Dialogue,Johan,0,0,0,,Aveam o mulțime de pantofi de servitori pe care îi puteați împrumuta.
 Dialogue: 100,0:10:47.38,0:10:49.21,Dialogue,Marie,0,0,0,,Oh! Da, exista și varianta asta!
 Dialogue: 100,0:10:51.09,0:10:52.38,Dialogue,Johan,0,0,0,,Ei bine, nu mai contează acum.
 Dialogue: 100,0:11:06.52,0:11:10.19,Dialogue,Marie; internal,0,0,0,,{\i1}Am descoperit pentru \Nprima oară ceea ce-mi place.
@@ -261,7 +257,7 @@ Dialogue: 100,0:14:11.58,0:14:14.29,Dialogue,Kyros,0,0,0,,Frumosul tău păr ro�
 Dialogue: 100,0:14:14.29,0:14:16.38,Dialogue,Kyros,0,0,0,,Ochii tăi care strălucesc precum stelele...
 Dialogue: 100,0:14:16.79,0:14:19.34,Dialogue,Kyros,0,0,0,,Cunoștințele și curiozitatea pe care le emani...
 Dialogue: 100,0:14:19.34,0:14:22.30,Dialogue,Kyros,0,0,0,,Zâmbetul tău inocent când vorbești despre lucrurile care-ți plac...
-Dialogue: 100,0:14:24.97,0:14:26.89,Dialogue,Kyros,0,0,0,,Toate împreună sunt așa de frumoasă.
+Dialogue: 100,0:14:24.97,0:14:26.89,Dialogue,Kyros,0,0,0,,Toate acestea te fac așa de frumoasă.
 Dialogue: 100,0:14:33.60,0:14:35.23,Dialogue,Mio,0,0,0,,Aha.
 Dialogue: 100,0:14:35.23,0:14:38.23,Dialogue,Mio,0,0,0,,Stăpâne, timpul s-a scurs.
 Dialogue: 100,0:14:39.11,0:14:41.53,Dialogue,Mio,0,0,0,,Putem aștepta câteva secunde în plus,
@@ -350,7 +346,7 @@ Dialogue: 100,0:20:13.82,0:20:16.28,Dialogue,Mio,0,0,0,,Oricine v-ar chema, \Ntr
 Dialogue: 100,0:20:16.28,0:20:17.45,Dialogue,Marie,0,0,0,,A-Așa voi face!
 Dialogue: 100,0:20:17.45,0:20:18.82,Dialogue,Mio,0,0,0,,Mă voi întoarce imediat!
 Dialogue: 100,0:20:19.66,0:20:22.49,Dialogue,Marie; internal,0,0,0,,{\i1}Indiferent ce se va întâmpla, \Nnu voi face niciun pas de aici!
-Dialogue: 100,0:20:22.49,0:20:26.62,Dialogue,apple seller,0,0,0,,Scuzăți-mă! E o problemă dacă stați astfel în fața magazinului!
+Dialogue: 100,0:20:22.49,0:20:26.62,Dialogue,apple seller,0,0,0,,Scuzați-mă! E o problemă dacă stați astfel în fața magazinului!
 Dialogue: 100,0:20:26.62,0:20:28.50,Dialogue,Marie,0,0,0,,Oh, îmi cer scuze!
 Dialogue: 100,0:20:29.83,0:20:32.17,Dialogue,Marie; internal,0,0,0,,{\i1}Concurs de decojit mere?
 Dialogue: 100,0:20:32.17,0:20:33.25,Dialogue,Marie; internal,0,0,0,,{\i1}Sună distractiv!

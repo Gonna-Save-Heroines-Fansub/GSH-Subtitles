@@ -193,7 +193,7 @@ Dialogue: 100,0:13:48.06,0:13:49.02,Dialogue,Kyros,0,0,0,,Ce?
 Dialogue: 100,0:13:49.02,0:13:49.73,Dialogue,Marie,0,0,0,,Ce?
 Dialogue: 100,0:13:51.02,0:13:56.19,Dialogue,Marie,0,0,0,,C-Când am spus că nu pot fi logodnica dumneavoastră, am făcut-o din cauza șocului.
 Dialogue: 100,0:13:56.19,0:13:57.94,Dialogue,Kyros,0,0,0,,S-Serios?
-Dialogue: 100,0:13:58.23,0:14:01.61,Dialogue,Marie,0,0,0,,Da. Nu am nicio intenție în a vă refuza.
+Dialogue: 100,0:13:58.23,0:14:01.61,Dialogue,Marie,0,0,0,,Da. Nu am nicio intenție să vă refuz.
 Dialogue: 100,0:14:01.61,0:14:05.74,Dialogue,Marie,0,0,0,,Pot spune că înțeleg destul de \Nbine situația dumneavoastră.
 Dialogue: 100,0:14:06.28,0:14:11.25,Dialogue,Marie,0,0,0,,Pentru a moșteni titlul de duce, trebuie să vă căsătoriți cu o persoană de viță nobilă.
 Dialogue: 100,0:14:11.25,0:14:14.25,Dialogue,Marie,0,0,0,,Iar găsirea unei mirese a fost dificilă.
@@ -234,7 +234,7 @@ Dialogue: 100,0:16:21.17,0:16:24.17,Dialogue,Marie; internal,0,0,0,,{\i1}Nu, res
 Dialogue: 100,0:16:25.01,0:16:27.76,Dialogue,Marie; internal,0,0,0,,{\i1}Sunt sigură că își va lua o concubină.
 Dialogue: 100,0:16:27.76,0:16:30.93,Dialogue,Marie; internal,0,0,0,,{\i1}S-ar putea să ajung din nou să port haine zdrențuite și să muncesc.
 Dialogue: 100,0:16:34.27,0:16:36.06,Dialogue,Marie; internal,0,0,0,,{\i1}Dar nu mă deranjează.
-Dialogue: 100,0:16:36.06,0:16:38.60,Dialogue,Marie; internal,0,0,0,,{\i1}Viața mea va fi la fel ca și până acum.
+Dialogue: 100,0:16:36.06,0:16:38.60,Dialogue,Marie; internal,0,0,0,,{\i1}Viața mea va fi la fel ca până acum.
 Dialogue: 100,0:16:39.65,0:16:41.98,Dialogue,Marie,0,0,0,,Ei bine, mai sunt și alte lucruri pe care doriți să mi le comunicați?
 Dialogue: 100,0:16:45.49,0:16:47.82,Dialogue,Kyros,0,0,0,,Eu pe tine te iubesc, Maria.
 Dialogue: 100,0:16:51.12,0:16:52.62,Dialogue,Marie; internal,0,0,0,,{\i1}Mă iubește?!

@@ -241,7 +241,7 @@ Dialogue: 100,0:13:10.27,0:13:14.36,Dialogue,Marie,0,0,0,,Dar este în regulă. 
 Dialogue: 100,0:13:14.77,0:13:16.78,Dialogue,Marie,0,0,0,,Iar în ceea ce-l privește pe prințul Luiphon...
 Dialogue: 100,0:13:18.32,0:13:22.16,Dialogue,Marie,0,0,0,,Aș dori să retragă faptul că \Nv-a numit laș, lordule Kyros.
 Dialogue: 100,0:13:22.16,0:13:23.66,Dialogue,Marie,0,0,0,,Acest lucru m-a înfuriat și pe mine.
-Dialogue: 100,0:13:24.87,0:13:29.04,Dialogue,Kyros,0,0,0,,Foarte bine. Atunci, ca razboinic care merge la luptă, doresc să primesc un sărut care să-mi poarte noroc.
+Dialogue: 100,0:13:24.87,0:13:29.04,Dialogue,Kyros,0,0,0,,Foarte bine. Atunci, ca războinic care merge la luptă, doresc să primesc un sărut care să-mi poarte noroc.
 Dialogue: 100,0:13:29.04,0:13:29.79,Dialogue,Marie,0,0,0,,Ce?
 Dialogue: 100,0:13:30.29,0:13:31.50,Dialogue,Kyros,0,0,0,,A fost doar o glumă.
 Dialogue: 100,0:13:35.42,0:13:37.76,Dialogue,Kyros,0,0,0,,Iar acum, voi merge să-mi \Nînving cel mai bun prieten.
@@ -278,7 +278,7 @@ Dialogue: 100,0:16:08.70,0:16:09.74,Dialogue,Marie,0,0,0,,Lordule Kyros.
 Dialogue: 100,0:16:12.20,0:16:14.66,Dialogue,Kyros,0,0,0,,Vreau să profit de acest moment \Npentru a face un anunț!
 Dialogue: 100,0:16:15.21,0:16:21.29,Dialogue,Kyros,0,0,0,,Eu, Kyros Granado, și cu domnița Maria Shaderan, \Nfiica unui baron, suntem logodiți!
 Dialogue: 100,0:16:21.29,0:16:22.21,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:16:23.92,0:16:28.09,Dialogue,Kyros,0,0,0,,Împreună, domnița Maria și cu mine vom serrvi acest regat cât putem noi de bine.
+Dialogue: 100,0:16:23.92,0:16:28.09,Dialogue,Kyros,0,0,0,,Împreună, domnița Maria și cu mine vom servi acest regat cât putem noi de bine.
 Dialogue: 100,0:16:28.09,0:16:30.09,Dialogue,Kyros,0,0,0,,Jur asta pe numele familiei mele!
 Dialogue: 100,0:16:30.35,0:16:32.68,Dialogue,woman,0,0,0,,Logodiți? Lordul Kyros?
 Dialogue: 100,0:16:32.68,0:16:34.93,Dialogue,man,0,0,0,,Cine e baronul Shaderan?
@@ -330,7 +330,7 @@ Dialogue: 100,0:18:57.28,0:18:59.08,Dialogue,Kyros,0,0,0,,Da, e distractiv.
 Dialogue: 100,0:18:59.91,0:19:03.04,Dialogue,Kyros,0,0,0,,S-o am pe Maria lângă mine face ca fiecare zi să strălucească.
 Dialogue: 100,0:19:03.46,0:19:09.42,Dialogue,Kyros,0,0,0,,Chiar dacă nu mă iubește, când mă gândesc că fiecare zi ne poate apropia,
 Dialogue: 100,0:19:10.17,0:19:12.17,Dialogue,Kyros,0,0,0,,ajung să mă distrez incredibil de mult.
-Dialogue: 100,0:19:13.22,0:19:20.10,Dialogue,Kyros,0,0,0,,Ziua când vom deveni un cuplu căsătorit, adevărat ar putea fi la ani sau decenii distanță,
+Dialogue: 100,0:19:13.22,0:19:20.10,Dialogue,Kyros,0,0,0,,Ziua când vom deveni un cuplu căsătorit pe bune ar putea fi la ani sau decenii distanță,
 Dialogue: 100,0:19:20.39,0:19:24.89,Dialogue,Kyros,0,0,0,,dar sunt sigur că mă voi distra iubind-o pe Maria până în ultima mea zi.
 Dialogue: 100,0:19:25.90,0:19:27.40,Dialogue,Marie,0,0,0,,Lordule Kyros.
 Dialogue: 100,0:19:27.65,0:19:30.86,Dialogue,Luiphon,0,0,0,,Să fiu sincer, asta nu te face deloc atractiv, dragul meu Kyros.
@@ -346,14 +346,14 @@ Dialogue: 100,0:19:51.21,0:19:53.97,Dialogue,Marie; internal,0,0,0,,{\i1}Acum am
 Dialogue: 100,0:19:54.42,0:19:58.43,Dialogue,Marie; internal,0,0,0,,{\i1}Doar voiați să vorbiți despre \Ncalitățile celui mai bun prieten.
 Dialogue: 100,0:19:58.43,0:20:00.51,Dialogue,Marie; internal,0,0,0,,{\i1}De asta m-ați invitat aici.
 Dialogue: 100,0:20:03.81,0:20:05.81,Dialogue,Luiphon,0,0,0,,Îmi cer scuze pentru mai devreme.
-Dialogue: 100,0:20:08.19,0:20:10.77,Dialogue,Luiphon,0,0,0,,Ce naiba e asta?! \NE un mar de decor, nu-i așa?
+Dialogue: 100,0:20:08.19,0:20:10.77,Dialogue,Luiphon,0,0,0,,Ce naiba e asta?! \NE un măr de decor, nu-i așa?
 Dialogue: 100,0:20:11.19,0:20:13.36,Dialogue,Kyros,0,0,0,,Trebuia să-ți dai seama de \Nasta atunci când l-ai atins!
 Dialogue: 100,0:20:13.36,0:20:18.20,Dialogue,Luiphon,0,0,0,,Blestematule! Sunt al treilea prinț și \Ncăpitanul renumiților noștri cavaleri!
 Dialogue: 100,0:20:18.20,0:20:22.20,Dialogue,Luiphon,0,0,0,,Într-o bună zi, vă voi aresta pe amândoi, \Nsoț și soție, pentru insulte aduse familiei regale!
 Dialogue: 100,0:20:23.95,0:20:28.42,Dialogue,Luiphon; background,0,0,0,,{\an8}Sunt așa de furios acum! Voi chiar nu știți ce înseamnă lezmaiestate?
 Dialogue: 100,0:20:25.50,0:20:28.21,Dialogue,Marie,0,0,0,,Prințul Luiphon e o persoană \Namuzantă, nu-i așa?
 Dialogue: 100,0:20:28.21,0:20:30.63,Dialogue,Kyros,0,0,0,,Da. N-ai cum să te plictisești cu el.
-Dialogue: 100,0:20:34.46,0:20:39.68,Dialogue,Mio,0,0,0,,Domnița Maria, eu am un mesaj de transmit stăpânului, deci voi rămâne aici.
+Dialogue: 100,0:20:34.46,0:20:39.68,Dialogue,Mio,0,0,0,,Domnița Maria, eu am un mesaj de transmis stăpânului, deci voi rămâne aici.
 Dialogue: 100,0:20:39.93,0:20:43.39,Dialogue,Mio,0,0,0,,Valetul său, Wolfgang, \Nvă va însoți în locul meu.
 Dialogue: 100,0:20:43.39,0:20:46.31,Dialogue,Wolfgang,0,0,0,,E o plăcere să vă asist, domniță.
 Dialogue: 100,0:20:46.31,0:20:47.31,Dialogue,Marie,0,0,0,,Înțeleg.

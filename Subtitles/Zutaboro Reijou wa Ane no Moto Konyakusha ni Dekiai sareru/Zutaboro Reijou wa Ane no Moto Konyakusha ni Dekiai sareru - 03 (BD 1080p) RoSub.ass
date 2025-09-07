@@ -48,11 +48,11 @@ Dialogue: 100,0:00:45.48,0:00:48.90,Dialogue,Ilza,0,0,0,,Am venit aici la recoma
 Dialogue: 100,0:00:48.90,0:00:51.32,Dialogue,Hannah,0,0,0,,Amândouă am servit în palatul regal.
 Dialogue: 100,0:00:51.32,0:00:54.03,Dialogue,Marie,0,0,0,,Palatul regal? Uimitor!
 Dialogue: 100,0:00:54.33,0:00:59.37,Dialogue,Ilza,0,0,0,,Totuși, domniță Maria, pentru o persoană de noblețea dumneavoastră, nu cred că poveștile din capitală...
-Dialogue: 100,0:00:59.37,0:01:02.54,Dialogue,Hannah,0,0,0,,...vi vor părea interesante, nu?
+Dialogue: 100,0:00:59.37,0:01:02.54,Dialogue,Hannah,0,0,0,,...vi se vor părea interesante, nu?
 Dialogue: 100,0:01:03.88,0:01:05.34,Dialogue,Marie; internal,0,0,0,,{\i1}Ce?
 Dialogue: 100,0:01:06.25,0:01:07.46,Dialogue,Marie; internal,0,0,0,,{\i1}Dintr-un oarecare motiv...
 Dialogue: 100,0:01:08.76,0:01:09.72,Dialogue,Mio,0,0,0,,Domniță Maria.
-Dialogue: 100,0:01:11.09,0:01:12.97,Dialogue,Mio,0,0,0,,Bănuiesc că ați dori să \Nserviți acum micul dejul.
+Dialogue: 100,0:01:11.09,0:01:12.97,Dialogue,Mio,0,0,0,,Bănuiesc că ați dori să \Nserviți acum micul dejun.
 Dialogue: 100,0:01:13.97,0:01:15.18,Dialogue,Marie,0,0,0,,Da.
 Dialogue: 100,0:02:50.78,0:02:53.07,Dialogue,Marie,0,0,0,,{\an8}A-Asta este...
 Dialogue: 100,0:02:53.78,0:02:56.82,Dialogue,Mio,0,0,0,,Aperitivul e compus dintr-un platou cu șapte tipuri de mezeluri.
@@ -62,7 +62,7 @@ Dialogue: 100,0:02:59.78,0:03:03.50,Dialogue,Mio,0,0,0,,Pateul de țară e din r
 Dialogue: 100,0:03:04.29,0:03:06.71,Dialogue,Marie,0,0,0,,S-Sunt destul de multe animale aici.
 Dialogue: 100,0:03:07.17,0:03:09.88,Dialogue,Mio,0,0,0,,Am pregătit mai multe mâncăruri \Npentru dumneavoastră,
 Dialogue: 100,0:03:09.88,0:03:12.05,Dialogue,Mio,0,0,0,,așa că vă rog să-mi spuneți care vă plac.
-Dialogue: 100,0:03:12.42,0:03:15.43,Dialogue,Marie,0,0,0,,Nu cred că gustul și stomacul \Nmeu sunt atât de rafinate
+Dialogue: 100,0:03:12.42,0:03:15.43,Dialogue,Marie,0,0,0,,Nu cred că gustul și stomacul \Nmeu sunt suficient de rafinate
 Dialogue: 100,0:03:15.43,0:03:17.47,Dialogue,Marie,0,0,0,,încât să pot termina tot.
 Dialogue: 100,0:03:17.80,0:03:22.14,Dialogue,Mio,0,0,0,,Mâncați doar ce vă place. Vă rog să lăsați în farfurii tot ce nu puteți termina.
 Dialogue: 100,0:03:22.14,0:03:24.35,Dialogue,Marie,0,0,0,,Oh, nu aș putea face așa ceva! \NAr fi o risipă totală!
@@ -75,11 +75,11 @@ Dialogue: 100,0:03:37.49,0:03:39.87,Dialogue,Marie; internal,0,0,0,,{\i1}Nu mai 
 Dialogue: 100,0:03:42.74,0:03:44.50,Dialogue,Marie,0,0,0,,E delicios!
 Dialogue: 100,0:03:45.71,0:03:47.17,Dialogue,Marie,0,0,0,,{\i1}Și asta e delicios!
 Dialogue: 100,0:03:47.58,0:03:48.63,Dialogue,Marie,0,0,0,,{\i1}Vai!
-Dialogue: 100,0:03:55.22,0:03:58.26,Dialogue,Mio,0,0,0,,Domniță Maria, vă rog să nu vă fortați.
+Dialogue: 100,0:03:55.22,0:03:58.26,Dialogue,Mio,0,0,0,,Domniță Maria, vă rog să nu vă forțați.
 Dialogue: 100,0:03:58.26,0:04:01.26,Dialogue,Marie,0,0,0,,Nu o fac. Totul este delicios \Nși mai am destul loc.
 Dialogue: 100,0:04:01.26,0:04:02.18,Dialogue,Marie,0,0,0,,Probabil.
 Dialogue: 100,0:04:04.52,0:04:07.27,Dialogue,Mio,0,0,0,,Vă rog să nu încercați \Nsă vă depășiți limitele.
-Dialogue: 100,0:04:09.90,0:04:14.82,Dialogue,Marie,0,0,0,,{\i1}Îmi pare așa de rău. Și de ingrediente. \NȘi de munca bucătarului.
+Dialogue: 100,0:04:09.90,0:04:14.82,Dialogue,Marie,0,0,0,,{\i1}Îmi pare așa de rău... Și de ingrediente, \Nși de munca bucătarului.
 Dialogue: 100,0:04:15.24,0:04:19.49,Dialogue,Mio,0,0,0,,După ce vă veți odihni puțin,\Nvă voi arăta palatul.
 Dialogue: 100,0:04:20.99,0:04:22.66,Dialogue,Mio,0,0,0,,Aveți aici haine de schimb.
 Dialogue: 100,0:04:26.41,0:04:28.25,Dialogue,Marie,0,0,0,,E-E incredibil.
@@ -193,7 +193,7 @@ Dialogue: 100,0:10:29.23,0:10:31.99,Dialogue,Mio,0,0,0,,Sunt procurate din grăd
 Dialogue: 100,0:10:31.99,0:10:34.11,Dialogue,Marie,0,0,0,,Ce?! Avem o grădină cu legume?
 Dialogue: 100,0:10:34.11,0:10:36.87,Dialogue,Mio,0,0,0,,Da. Johan muncește din greu la ea.
 Dialogue: 100,0:10:38.33,0:10:40.70,Dialogue,Marie,0,0,0,,Aș vrea să văd grădina.
-Dialogue: 100,0:10:42.12,0:10:47.67,Dialogue,Mio,0,0,0,,Îmi cer scuze, dar eu trebuie să mă pregătesc pentru întoarcerea stăpânului.
+Dialogue: 100,0:10:42.12,0:10:47.67,Dialogue,Mio,0,0,0,,Îmi cer scuze, dar eu trebuie să mă ocup de pregătirile pentru întoarcerea stăpânului.
 Dialogue: 100,0:10:47.67,0:10:49.46,Dialogue,Mio,0,0,0,,Vă rog să mergeți cu Ilza și Hannah.
 Dialogue: 100,0:10:49.71,0:10:51.97,Dialogue,Marie,0,0,0,,B-Bine.
 Dialogue: 100,0:10:51.97,0:10:53.38,Dialogue,Marie,0,0,0,,Am înțeles.
@@ -270,7 +270,7 @@ Dialogue: 100,0:15:00.84,0:15:04.34,Dialogue,Toppo,0,0,0,,E din cauză că eu, T
 Dialogue: 100,0:15:04.34,0:15:07.93,Dialogue,Toppo,0,0,0,,Carnea, peștele și restul... \NÎmi pare așa de {\i1}rău{\i0} de ele!
 Dialogue: 100,0:15:07.93,0:15:11.64,Dialogue,Marie,0,0,0,,E-E o neînțelegere! Nu-mi rămâne mâncare deoarece nu-mi place!
 Dialogue: 100,0:15:11.89,0:15:13.02,Dialogue,Toppo,0,0,0,,Ce?
-Dialogue: 100,0:15:13.02,0:15:15.73,Dialogue,Marie,0,0,0,,Și mie mi-a părut rău de acele ingrediente doarece nu am reușit să le mănânc!
+Dialogue: 100,0:15:13.02,0:15:15.73,Dialogue,Marie,0,0,0,,Și mie mi-a părut rău de acele ingrediente deoarece nu am reușit să le mănânc!
 Dialogue: 100,0:15:16.77,0:15:17.56,Dialogue,Marie,0,0,0,,Dar...
 Dialogue: 100,0:15:19.48,0:15:22.49,Dialogue,Kyros,0,0,0,,Mio, nu ai întrebat-o \Npe Maria ce-i place?
 Dialogue: 100,0:15:22.65,0:15:27.91,Dialogue,Mio,0,0,0,,Fie că e vorba de mâncăruri sau haine, domnița Maria nu poate spune ce îi place.
@@ -292,7 +292,7 @@ Dialogue: 100,0:16:07.78,0:16:09.62,Dialogue,Kyros,0,0,0,,E incredibil!
 Dialogue: 100,0:16:09.62,0:16:11.62,Dialogue,Marie,0,0,0,,Oare câte mere au fost folosite?
 Dialogue: 100,0:16:11.62,0:16:14.00,Dialogue,Kyros; internal,0,0,0,,{\i1}Toppo a înțeles greșit
 Dialogue: 100,0:16:12.70,0:16:14.79,Dialogue,Toppo; background,0,0,0,,{\an8}Îl voi tăia felii!
-Dialogue: 100,0:16:14.00,0:16:17.83,Dialogue,Kyros; internal,0,0,0,,{\i1}deoarece nu înțelege că alte persoane nu pot mâncat la fel de mult ca el.
+Dialogue: 100,0:16:14.00,0:16:17.83,Dialogue,Kyros; internal,0,0,0,,{\i1}deoarece nu înțelege că alte persoane nu pot mânca la fel de mult ca el.
 Dialogue: 100,0:16:18.29,0:16:19.88,Dialogue,Kyros,0,0,0,,Haide să mâncăm împreună, Toppo.
 Dialogue: 100,0:16:19.88,0:16:21.71,Dialogue,Toppo,0,0,0,,Ce?! Sunteți sigur?
 Dialogue: 100,0:16:21.71,0:16:22.92,Dialogue,Kyros,0,0,0,,Da.
@@ -442,7 +442,7 @@ Dialogue: 100,0:21:48.08,0:21:48.91,Dialogue,Kyros,0,0,0,,Mio.
 Dialogue: 100,0:21:51.92,0:21:52.88,Dialogue,Mio,0,0,0,,Ceaiul...
 Dialogue: 100,0:21:53.46,0:21:54.88,Dialogue,Mio,0,0,0,,s-a răcit, nu-i așa?
 Dialogue: 100,0:22:06.14,0:22:08.85,Dialogue,Kyros,0,0,0,,Nu putem bea asta. \NA devenit amar de la cât a stat.
-Dialogue: 100,0:22:08.85,0:22:11.27,Dialogue,Kyros,0,0,0,,Adu-ne lapte și zahar ca să-l îndulcim.
+Dialogue: 100,0:22:08.85,0:22:11.27,Dialogue,Kyros,0,0,0,,Adu-ne lapte și zahăr ca să-l îndulcim.
 Dialogue: 100,0:22:14.69,0:22:18.03,Dialogue,Mio,0,0,0,,Cred că voi doi sunteți \Ndeja îndeajuns de dulci.
 Dialogue: 100,0:22:20.70,0:22:22.07,Dialogue,Kyros,0,0,0,,Mio!
 Dialogue: 100,0:22:22.74,0:22:24.16,Dialogue,Marie,0,0,0,,A plecat pur și simplu!
