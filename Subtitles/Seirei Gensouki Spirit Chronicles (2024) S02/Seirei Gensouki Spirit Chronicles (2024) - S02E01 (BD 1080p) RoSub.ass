@@ -23,17 +23,17 @@ Last Style Storage: Default
 Video File: ?dummy:24000/1001:200000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 11831
-Active Line: 11846
-Video Position: 33331
+Scroll Position: 11771
+Active Line: 11775
+Video Position: 4988
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fontin Sans,74,&H00FFFFFF,&H000000FF,&H00400468,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,53,0
 Style: Dialogue Alternative,Fontin Sans,74,&H00FFFFFF,&H000000FF,&H00520186,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,53,0
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: OP TL,Crimson Semibold,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,40,40,20,1
-Style: ED TL,Spring Snowstorm,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,40,40,15,1
+Style: OP TL,Crimson Text SemiBold,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,50,50,20,1
+Style: ED TL,Spring Snowstorm,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,40,40,30,1
 Style: On-Screen Dialogue,Winter Land By Jd,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,2,1,2,10,10,165,1
 
 [Events]
@@ -11803,24 +11803,24 @@ Dialogue: 0,0:23:44.99,0:23:49.99,DedzuyaSigns,,0,0,0,,{\an2\pos(146,492.36)\fsc
 Dialogue: 0,0:23:44.99,0:23:49.99,DedzuyaSigns,,0,0,0,,{\an2\pos(83.37,673.6)\fscx70\fscy70\frz14.67\fnJack Brusher\fsp2\c&H000000&\blur0.5}Miau!
 Dialogue: 0,0:23:44.99,0:23:49.99,DedzuyaSigns,,0,0,0,,{\an2\pos(1556.48,943.86)\fscx60\fscy60\shad3\c&H000000&\4c&HF8D651&\blur0.6}Ilustrație: Minazuki Futago
 Comment: 0,0:03:17.97,0:03:18.01,OP TL,,0,0,0,,{OP first frame}
-Dialogue: 0,0:03:18.36,0:03:21.51,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7\fad(200,0)}Ima kagayaki no me no mae no
-Dialogue: 1,0:03:18.36,0:03:21.51,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6\fad(200,0)}Ima kagayaki no me no mae no
-Dialogue: 2,0:03:18.36,0:03:21.51,OP TL,,0,0,0,,{\bord0\blur0.5\fad(200,0)}Ima kagayaki no me no mae no
-Dialogue: 0,0:03:21.51,0:03:24.18,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}kitai to fuan no aida
-Dialogue: 1,0:03:21.51,0:03:24.18,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}kitai to fuan no aida
-Dialogue: 2,0:03:21.51,0:03:24.18,OP TL,,0,0,0,,{\bord0\blur0.5}kitai to fuan no aida
-Dialogue: 0,0:03:24.18,0:03:28.00,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}Aufutakuto narashite hajimaru
-Dialogue: 1,0:03:24.18,0:03:28.00,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}Aufutakuto narashite hajimaru
-Dialogue: 2,0:03:24.18,0:03:28.00,OP TL,,0,0,0,,{\bord0\blur0.5}Aufutakuto narashite hajimaru
-Dialogue: 0,0:03:28.00,0:03:33.22,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7\fad(0,300)}ketsui wa yowasa no mukou
-Dialogue: 1,0:03:28.00,0:03:33.22,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6\fad(0,300)}ketsui wa yowasa no mukou
-Dialogue: 2,0:03:28.00,0:03:33.22,OP TL,,0,0,0,,{\bord0\blur0.5\fad(0,300)}ketsui wa yowasa no mukou
-Dialogue: 0,0:03:43.08,0:03:46.25,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}Kore wa kiseki made no danpen de
-Dialogue: 1,0:03:43.08,0:03:46.25,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}Kore wa kiseki made no danpen de
-Dialogue: 2,0:03:43.08,0:03:46.25,OP TL,,0,0,0,,{\bord0\blur0.5}Kore wa kiseki made no danpen de
-Dialogue: 0,0:03:46.25,0:03:50.03,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}Negau hodo ni tsuyoku natte iku hikari
-Dialogue: 1,0:03:46.25,0:03:50.03,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}Negau hodo ni tsuyoku natte iku hikari
-Dialogue: 2,0:03:46.25,0:03:50.03,OP TL,,0,0,0,,{\bord0\blur0.5}Negau hodo ni tsuyoku natte iku hikari
+Dialogue: 0,0:03:18.36,0:03:21.51,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7\fad(200,0)}Dintre așteptările și nesiguranțele
+Dialogue: 1,0:03:18.36,0:03:21.51,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6\fad(200,0)}Dintre așteptările și nesiguranțele
+Dialogue: 2,0:03:18.36,0:03:21.51,OP TL,,0,0,0,,{\bord0\blur0.5\fad(200,0)}Dintre așteptările și nesiguranțele
+Dialogue: 0,0:03:21.51,0:03:24.18,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}care strălucesc înaintea mea
+Dialogue: 1,0:03:21.51,0:03:24.18,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}care strălucesc înaintea mea
+Dialogue: 2,0:03:21.51,0:03:24.18,OP TL,,0,0,0,,{\bord0\blur0.5}care strălucesc înaintea mea
+Dialogue: 0,0:03:24.18,0:03:28.00,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}A început să se audă
+Dialogue: 1,0:03:24.18,0:03:28.00,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}A început să se audă
+Dialogue: 2,0:03:24.18,0:03:28.00,OP TL,,0,0,0,,{\bord0\blur0.5}A început să se audă
+Dialogue: 0,0:03:28.00,0:03:33.22,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7\fad(0,300)}sunetul determinării celor slabi
+Dialogue: 1,0:03:28.00,0:03:33.22,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6\fad(0,300)}sunetul determinării celor slabi
+Dialogue: 2,0:03:28.00,0:03:33.22,OP TL,,0,0,0,,{\bord0\blur0.5\fad(0,300)}sunetul determinării celor slabi
+Dialogue: 0,0:03:43.08,0:03:46.25,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}Acesta nu este decât un fragment dintr-un miracol
+Dialogue: 1,0:03:43.08,0:03:46.25,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}Acesta nu este decât un fragment dintr-un miracol
+Dialogue: 2,0:03:43.08,0:03:46.25,OP TL,,0,0,0,,{\bord0\blur0.5}Acesta nu este decât un fragment dintr-un miracol
+Dialogue: 0,0:03:46.25,0:03:50.03,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}care strălucește mai puternic odată cu dorințele mele
+Dialogue: 1,0:03:46.25,0:03:50.03,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}care strălucește mai puternic odată cu dorințele mele
+Dialogue: 2,0:03:46.25,0:03:50.03,OP TL,,0,0,0,,{\bord0\blur0.5}care strălucește mai puternic odată cu dorințele mele
 Dialogue: 0,0:03:50.03,0:03:55.13,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}Sokudo wo ageta mama tsugi no peeji hiraku
 Dialogue: 1,0:03:50.03,0:03:55.13,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}Sokudo wo ageta mama tsugi no peeji hiraku
 Dialogue: 2,0:03:50.03,0:03:55.13,OP TL,,0,0,0,,{\bord0\blur0.5}Sokudo wo ageta mama tsugi no peeji hiraku
@@ -11832,12 +11832,12 @@ Dialogue: 1,0:04:02.21,0:04:05.35,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6
 Dialogue: 0,0:04:05.35,0:04:08.61,OP TL,,0,0,0,,{\c&H1105AC&\3c&H1105AC&\blur7\fad(0,300)}Hibikidasu senritsu wo koe ni shite utaou
 Dialogue: 1,0:04:05.35,0:04:08.61,OP TL,,0,0,0,,{\c&H1105AC&\3c&H1105AC&\blur0.6\fad(0,300)}Hibikidasu senritsu wo koe ni shite utaou
 Dialogue: 2,0:04:02.21,0:04:08.61,OP TL,,0,0,0,,{\bord0\blur0.5\fad(0,300)}Hibikidasu senritsu wo koe ni shite utaou
-Dialogue: 0,0:04:09.73,0:04:12.77,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur7}Ima kagayaki no me no mae no
-Dialogue: 1,0:04:09.73,0:04:12.77,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur0.6}Ima kagayaki no me no mae no
-Dialogue: 2,0:04:09.73,0:04:12.77,OP TL,,0,0,0,,{\bord0\blur0.5}Ima kagayaki no me no mae no
-Dialogue: 0,0:04:12.77,0:04:15.32,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur7}kitai to fuan no aida
-Dialogue: 1,0:04:12.77,0:04:15.32,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur0.6}kitai to fuan no aida
-Dialogue: 2,0:04:12.77,0:04:15.32,OP TL,,0,0,0,,{\bord0\blur0.5}kitai to fuan no aida
+Dialogue: 0,0:04:09.73,0:04:12.77,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur7}Între așteptările și nesiguranțele
+Dialogue: 1,0:04:09.73,0:04:12.77,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur0.6}Între așteptările și nesiguranțele
+Dialogue: 2,0:04:09.73,0:04:12.77,OP TL,,0,0,0,,{\bord0\blur0.5}Între așteptările și nesiguranțele
+Dialogue: 0,0:04:12.77,0:04:15.32,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur7}care strălucesc înaintea mea
+Dialogue: 1,0:04:12.77,0:04:15.32,OP TL,,0,0,0,,{\c&H9840A1&\3c&H9840A1&\blur0.6}care strălucesc înaintea mea
+Dialogue: 2,0:04:12.77,0:04:15.32,OP TL,,0,0,0,,{\bord0\blur0.5}care strălucesc înaintea mea
 Dialogue: 0,0:04:15.32,0:04:18.78,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7}Tatteirun da sukumu ashi
 Dialogue: 1,0:04:15.32,0:04:18.78,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6}Tatteirun da sukumu ashi
 Dialogue: 2,0:04:15.32,0:04:18.78,OP TL,,0,0,0,,{\bord0\blur0.5}Tatteirun da sukumu ashi
@@ -11857,14 +11857,14 @@ Dialogue: 0,0:04:31.52,0:04:36.03,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur7\f
 Dialogue: 1,0:04:31.52,0:04:36.03,OP TL,,0,0,0,,{\c&H875C2F&\3c&H875C2F&\blur0.6\fad(0,300)}yuruganai ketsui ni naru
 Dialogue: 2,0:04:31.52,0:04:36.03,OP TL,,0,0,0,,{\bord0\blur0.5\fad(0,300)}yuruganai ketsui ni naru
 Comment: 0,0:22:10.02,0:22:10.06,ED TL,,0,0,0,,{ED first frame}
-Dialogue: 0,0:22:18.11,0:22:21.62,ED TL,,0,0,0,,{\pos(480,20)\c&HB55C4E&\3c&HB55C4E&\blur4}Kokoro ni pin to haru
-Dialogue: 1,0:22:18.11,0:22:21.62,ED TL,,0,0,0,,{\pos(480,20)\bord0\blur0.8\c&H441510&}Kokoro ni pin to haru
-Dialogue: 0,0:22:21.62,0:22:25.70,ED TL,,0,0,0,,{\pos(480,20)\c&HB55C4E&\3c&HB55C4E&\blur4}omoi ga kanaderu shikisai wa
-Dialogue: 1,0:22:21.62,0:22:25.70,ED TL,,0,0,0,,{\pos(480,20)\bord0\blur0.8\c&H441510&}omoi ga kanaderu shikisai wa
-Dialogue: 0,0:22:25.70,0:22:29.16,ED TL,,0,0,0,,{\pos(1440,20)\c&HB55C4E&\3c&HB55C4E&\blur4}Yasashikute dokoka
-Dialogue: 1,0:22:25.70,0:22:29.16,ED TL,,0,0,0,,{\pos(1440,20)\bord0\blur0.8\c&H441510&}Yasashikute dokoka
-Dialogue: 0,0:22:29.16,0:22:33.25,ED TL,,0,0,0,,{\pos(1440,20)\c&HB55C4E&\3c&HB55C4E&\blur4}kanashii oto deshita
-Dialogue: 1,0:22:29.16,0:22:33.25,ED TL,,0,0,0,,{\pos(1440,20)\bord0\blur0.8\c&H441510&}kanashii oto deshita
+Dialogue: 0,0:22:18.11,0:22:21.62,ED TL,,0,0,0,,{\pos(480,30)\c&HB55C4E&\3c&HB55C4E&\blur4}Kokoro ni pin to haru
+Dialogue: 1,0:22:18.11,0:22:21.62,ED TL,,0,0,0,,{\pos(480,30)\bord0\blur0.8\c&H441510&}Kokoro ni pin to haru
+Dialogue: 0,0:22:21.62,0:22:25.70,ED TL,,0,0,0,,{\pos(480,30)\c&HB55C4E&\3c&HB55C4E&\blur4}omoi ga kanaderu shikisai wa
+Dialogue: 1,0:22:21.62,0:22:25.70,ED TL,,0,0,0,,{\pos(480,30)\bord0\blur0.8\c&H441510&}omoi ga kanaderu shikisai wa
+Dialogue: 0,0:22:25.70,0:22:29.16,ED TL,,0,0,0,,{\pos(1440,30)\c&HB55C4E&\3c&HB55C4E&\blur4}Yasashikute dokoka
+Dialogue: 1,0:22:25.70,0:22:29.16,ED TL,,0,0,0,,{\pos(1440,30)\bord0\blur0.8\c&H441510&}Yasashikute dokoka
+Dialogue: 0,0:22:29.16,0:22:33.25,ED TL,,0,0,0,,{\pos(1440,30)\c&HB55C4E&\3c&HB55C4E&\blur4}kanashii oto deshita
+Dialogue: 1,0:22:29.16,0:22:33.25,ED TL,,0,0,0,,{\pos(1440,30)\bord0\blur0.8\c&H441510&}kanashii oto deshita
 Dialogue: 0,0:22:33.25,0:22:36.96,ED TL,,0,0,0,,{\3c&HFFFFFF&\blur4}Utsumuki yureru tsubomi (Briză a primăverii, te rog)
 Dialogue: 1,0:22:33.25,0:22:36.96,ED TL,,0,0,0,,{\bord0\blur0.8\c&H857DF3&}U{*\c&H827EF2&}t{*\c&H8080F2&}s{*\c&H7D82F2&}u{*\c&H7B84F2&}m{*\c&H7986F2&}u{*\c&H7688F1&}k{*\c&H748AF1&}i {*\c&H6F8EF1&}y{*\c&H6D90F1&}u{*\c&H6A92F1&}r{*\c&H6894F0&}e{*\c&H6596F0&}r{*\c&H6398F0&}u {*\c&H5E9CF0&}t{*\c&H5C9EF0&}s{*\c&H59A0EF&}u{*\c&H57A2EF&}b{*\c&H55A4EF&}o{*\c&H52A6EF&}m{*\c&H50A8EF&}i {*\c&H4BACEE&}({*\c&H49AEEE&}B{*\c&H46B0EE&}r{*\c&H44B2EE&}i{*\c&H42B4EE&}z{*\c&H3FB6ED&}ă {*\c&H3ABAED&}a {*\c&H36BEED&}p{*\c&H33C0ED&}r{*\c&H31C2EC&}i{*\c&H2EC4EC&}m{*\c&H2CC6EC&}ă{*\c&H2AC8EC&}v{*\c&H27CAEC&}e{*\c&H25CCEB&}r{*\c&H22CEEB&}i{*\c&H20D0EB&}i{*\c&H1ED2EB&}, {*\c&H19D6EB&}t{*\c&H16D8EA&}e {*\c&H12DCEA&}r{*\c&H0FDEEA&}o{*\c&H0DE0EA&}g{\c&H0BE2EA&})
 Dialogue: 0,0:22:36.96,0:22:40.84,ED TL,,0,0,0,,{\3c&HFFFFFF&\blur4}Briza primăverii încă este departe (Încearcă să ajungi la mine)
@@ -11883,16 +11883,16 @@ Dialogue: 0,0:22:59.69,0:23:06.34,ED TL,,0,0,0,,{\3c&HFFFFFF&\blur4}Sono kodoku 
 Dialogue: 1,0:23:05.37,0:23:06.34,ED TL,,0,0,0,,{\bord0\blur0.8\c&HCAA436&}S{*\c&HC7A535&}o{*\c&HC5A634&}n{*\c&HC2A733&}o {*\c&HBEA932&}k{*\c&HBBAA31&}o{*\c&HB9AB31&}d{*\c&HB7AC30&}o{*\c&HB4AD2F&}k{*\c&HB2AE2E&}u {*\c&HADB02D&}i{*\c&HABB12C&}t{*\c&HA8B22C&}a{*\c&HA6B32B&}m{*\c&HA4B42A&}i {*\c&H9FB629&}w{*\c&H9DB728&}o {*\c&H98B927&}y{*\c&H96BB26&}o{*\c&H93BC25&}w{*\c&H91BD25&}a{*\c&H8EBE24&}n{*\c&H8CBF23&}e {*\c&H87C122&}s{*\c&H85C221&}a{*\c&H83C320&}e {*\c&H7EC51F&}m{*\c&H7CC61E&}o {*\c&H77C81D&}k{*\c&H74C91C&}i{*\c&H72CA1B&}k{*\c&H70CB1B&}i{*\c&H6DCC1A&}t{*\c&H6BCD19&}a{*\c&H69CE19&}i {*\c&H64D017&}n{\c&H62D217&}o
 Dialogue: 0,0:23:06.34,0:23:09.28,ED TL,,0,0,0,,{\3c&HFFFFFF&\blur4}Nu ești sigur deloc
 Dialogue: 1,0:23:06.34,0:23:09.28,ED TL,,0,0,0,,{\bord0\blur0.8\c&HCAA436&}N{*\c&HC4A634&}u {*\c&HB8AB30&}e{*\c&HB2AE2F&}ș{*\c&HADB02D&}t{*\c&HA7B32B&}i {*\c&H9BB828&}s{*\c&H96BB26&}i{*\c&H90BD24&}g{*\c&H8AC023&}u{*\c&H84C221&}r {*\c&H79C71D&}d{*\c&H73CA1C&}e{*\c&H6DCC1A&}l{*\c&H67CF18&}o{\c&H62D217&}c
-Dialogue: 0,0:23:10.16,0:23:12.54,ED TL,,0,0,0,,{\pos(1440,20)\c&H404AA9&\3c&H404AA9&\blur4}Îmbrățișat de briza primăverii
-Dialogue: 1,0:23:10.16,0:23:12.54,ED TL,,0,0,0,,{\pos(1440,20)\bord0\blur0.8\c&H151A65&}Îmbrățișat de briza primăverii
-Dialogue: 0,0:23:12.54,0:23:13.83,ED TL,,0,0,0,,{\pos(1440,20)\c&H404AA9&\3c&H404AA9&\blur4}Vreau să devin locul
-Dialogue: 1,0:23:12.54,0:23:13.83,ED TL,,0,0,0,,{\pos(1440,20)\bord0\blur0.8\c&H151A65&}Vreau să devin locul
-Dialogue: 0,0:23:13.83,0:23:17.63,ED TL,,0,0,0,,{\pos(480,20)\c&H404AA9&\3c&H404AA9&\blur4}unde determinarea ta fermă
-Dialogue: 1,0:23:13.83,0:23:17.63,ED TL,,0,0,0,,{\pos(480,20)\bord0\blur0.8\c&H151A65&}unde determinarea ta fermă
-Dialogue: 0,0:23:17.63,0:23:18.78,ED TL,,0,0,0,,{\pos(1440,20)\c&H404AA9&\3c&H404AA9&\blur4}se poate întoarce
-Dialogue: 1,0:23:17.63,0:23:18.78,ED TL,,0,0,0,,{\pos(1440,20)\bord0\blur0.8\c&H151A65&}se poate întoarce
-Dialogue: 0,0:23:18.78,0:23:21.42,ED TL,,0,0,0,,{\pos(1440,20)\c&H404AA9&\3c&H404AA9&\blur4}Kore ijou yasashisugiru
-Dialogue: 1,0:23:18.78,0:23:21.42,ED TL,,0,0,0,,{\pos(1440,20)\bord0\blur0.8\c&H151A65&}Kore ijou yasashisugiru
+Dialogue: 0,0:23:10.16,0:23:12.54,ED TL,,0,0,0,,{\pos(1440,30)\c&H404AA9&\3c&H404AA9&\blur4}Îmbrățișat de briza primăverii
+Dialogue: 1,0:23:10.16,0:23:12.54,ED TL,,0,0,0,,{\pos(1440,30)\bord0\blur0.8\c&H151A65&}Îmbrățișat de briza primăverii
+Dialogue: 0,0:23:12.54,0:23:13.83,ED TL,,0,0,0,,{\pos(1440,30)\c&H404AA9&\3c&H404AA9&\blur4}Vreau să devin locul
+Dialogue: 1,0:23:12.54,0:23:13.83,ED TL,,0,0,0,,{\pos(1440,30)\bord0\blur0.8\c&H151A65&}Vreau să devin locul
+Dialogue: 0,0:23:13.83,0:23:17.63,ED TL,,0,0,0,,{\pos(480,30)\c&H404AA9&\3c&H404AA9&\blur4}unde determinarea ta fermă
+Dialogue: 1,0:23:13.83,0:23:17.63,ED TL,,0,0,0,,{\pos(480,30)\bord0\blur0.8\c&H151A65&}unde determinarea ta fermă
+Dialogue: 0,0:23:17.63,0:23:18.78,ED TL,,0,0,0,,{\pos(1440,30)\c&H404AA9&\3c&H404AA9&\blur4}se poate întoarce
+Dialogue: 1,0:23:17.63,0:23:18.78,ED TL,,0,0,0,,{\pos(1440,30)\bord0\blur0.8\c&H151A65&}se poate întoarce
+Dialogue: 0,0:23:18.78,0:23:21.42,ED TL,,0,0,0,,{\pos(1440,30)\c&H404AA9&\3c&H404AA9&\blur4}Kore ijou yasashisugiru
+Dialogue: 1,0:23:18.78,0:23:21.42,ED TL,,0,0,0,,{\pos(1440,30)\bord0\blur0.8\c&H151A65&}Kore ijou yasashisugiru
 Dialogue: 1,0:23:21.42,0:23:25.22,ED TL,,0,0,0,,{\bord0\blur0.8\c&HCAA436&}s{*\c&HC6A534&}e{*\c&HC2A733&}n{*\c&HBEA932&}r{*\c&HBAAA31&}i{*\c&HB6AC30&}t{*\c&HB2AE2F&}s{*\c&HAFAF2D&}u {*\c&HA7B32B&}g{*\c&HA3B52A&}a {*\c&H9BB828&}k{*\c&H97BA27&}u{*\c&H94BB25&}m{*\c&H90BD24&}o{*\c&H8CBF23&}r{*\c&H88C022&}a{*\c&H84C221&}n{*\c&H80C420&}a{*\c&H7CC61F&}i {*\c&H75C91C&}y{*\c&H71CB1B&}o{*\c&H6DCC1A&}u {*\c&H65D018&}n{\c&H62D217&}i
 Dialogue: 0,0:23:21.42,0:23:27.89,ED TL,,0,0,0,,{\3c&HFFFFFF&\blur4}senritsu ga kumoranai you ni
 Dialogue: 1,0:23:25.22,0:23:26.14,ED TL,,0,0,0,,{\bord0\blur0.8\c&HE09805&}senritsu ga kumoranai you ni
