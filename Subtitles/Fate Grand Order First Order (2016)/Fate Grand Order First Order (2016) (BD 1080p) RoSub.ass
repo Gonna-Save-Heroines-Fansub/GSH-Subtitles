@@ -33,7 +33,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Prolog}
 Comment: 0,0:00:51.99,0:00:52.03,Dialogue,chptr,0,0,0,,{Film}
 Comment: 0,1:10:44.01,1:10:44.05,Dialogue,chptr,0,0,0,,{ED}
-Dialogue: 99,0:00:12.49,0:00:14.83,Dialogue,,0,0,0,,Lentilele SHEBA au detectat o anomalie!
+Dialogue: 99,0:00:12.49,0:00:14.83,Dialogue,,0,0,0,,Lentilele Sheba au detectat o anomalie!
 Dialogue: 99,0:00:14.83,0:00:15.66,Dialogue,,0,0,0,,Coordonate confirmate!
 Dialogue: 99,0:00:15.66,0:00:16.96,Dialogue,,0,0,0,,Valoarea anormală crește!
 Dialogue: 99,0:00:16.96,0:00:18.58,Dialogue,,0,0,0,,Analizăm situația cu metoda Laplace.
@@ -42,7 +42,7 @@ Dialogue: 99,0:00:20.63,0:00:21.75,Dialogue,,0,0,0,,Lumina...
 Dialogue: 99,0:00:22.25,0:00:25.59,Dialogue,,0,0,0,,Sfera Chaldeas a fost creată prin reproducerea sufletului planetei Terra.
 Dialogue: 99,0:00:26.09,0:00:28.84,Dialogue,,0,0,0,,Dacă lumina acelei civilizații se stinge...
 Dialogue: 99,0:00:30.51,0:00:33.51,Dialogue,,0,0,0,,Aduceți potențialii Stăpâni imediat!
-Dialogue: 99,0:00:33.51,0:00:35.72,Dialogue,,0,0,0,,A venit momentul să punem în \Naplicare experimentul Rayshift!
+Dialogue: 99,0:00:33.51,0:00:35.72,Dialogue,,0,0,0,,A venit momentul să punem în aplicare Deplasarea Razelor!
 Dialogue: 99,0:00:37.18,0:00:42.61,Dialogue,,0,0,0,,Până nu vom recăpăta lumina sferei Chaldeas, umanitatea nu va avea un viitor.
 Dialogue: 99,0:01:57.43,0:01:58.56,Dialogue,,0,0,0,,Cine ești?
 Dialogue: 99,0:01:59.93,0:02:01.27,Dialogue,,0,0,0,,Ei bine...
@@ -75,11 +75,11 @@ Dialogue: 99,0:03:40.07,0:03:41.08,Dialogue,,0,0,0,,Serios?
 Dialogue: 99,0:03:43.29,0:03:44.95,Dialogue,,0,0,0,,Felicitări.
 Dialogue: 99,0:03:44.95,0:03:48.37,Dialogue,,0,0,0,,Tocmai ai devenit al doilea însoțitor al lui Fou din Chaldea.
 Dialogue: 99,0:03:49.13,0:03:51.17,Dialogue,,0,0,0,,M-Mersi.
-Dialogue: 99,0:03:51.50,0:03:57.68,Dialogue,,0,0,0,,Apropo, ești unul din potențialii Stăpâni aduși pentru Rayshift?
+Dialogue: 99,0:03:51.50,0:03:57.68,Dialogue,,0,0,0,,Apropo, ești unul din potențialii Stăpâni aduși pentru experimentul „Deplasarea Razelor”?
 Dialogue: 99,0:03:57.68,0:03:59.26,Dialogue,,0,0,0,,O, da.
 Dialogue: 99,0:03:59.97,0:04:03.43,Dialogue,,0,0,0,,Au spus că am abilitățile necesare pentru formarea unui contract cu un Servitor,
 Dialogue: 99,0:04:03.43,0:04:05.06,Dialogue,,0,0,0,,deci cineva de aici m-a invitat.
-Dialogue: 99,0:04:06.18,0:04:08.02,Dialogue,,0,0,0,,Apropo, ce este Rayshift?
+Dialogue: 99,0:04:06.18,0:04:08.02,Dialogue,,0,0,0,,Apropo, ce este Deplasarea Razelor?
 Dialogue: 99,0:04:08.94,0:04:12.40,Dialogue,,0,0,0,,Ai venit aici fără să \Nștii ce trebuie să faci?
 Dialogue: 99,0:04:12.40,0:04:16.15,Dialogue,,0,0,0,,Păi, mă invitau aici cu \Nfoarte mare entuziasm.
 Dialogue: 99,0:04:16.15,0:04:17.61,Dialogue,,0,0,0,,Asta este ceva nou.
@@ -103,13 +103,13 @@ Dialogue: 99,0:05:16.46,0:05:19.05,Dialogue,,0,0,0,,Aceea este Singularitatea Sp
 Dialogue: 99,0:05:20.09,0:05:25.22,Dialogue,,0,0,0,,Am descoperit că din 2004 până în 2016, a existat un oraș suburban în Japonia
 Dialogue: 99,0:05:25.22,0:05:29.52,Dialogue,,0,0,0,,care a fost „neobservabil” \Nși inexistent în istorie.
 Dialogue: 99,0:05:30.35,0:05:34.31,Dialogue,,0,0,0,,Chaldea a presupus că asta a fost cauza dispariției omenirii
-Dialogue: 99,0:05:34.31,0:05:38.11,Dialogue,,0,0,0,,și a propus experimentul Rayshift Națiunilor Unite, care a fost și aprobat.
-Dialogue: 99,0:05:39.44,0:05:43.24,Dialogue,,0,0,0,,Rayshift transformă oamenii în particule spirituale și îi trimite în trecut
+Dialogue: 99,0:05:34.31,0:05:38.11,Dialogue,,0,0,0,,și a propus Națiunilor Unite experimentul „Deplasarea Razelor”, care a fost și aprobat.
+Dialogue: 99,0:05:39.44,0:05:43.24,Dialogue,,0,0,0,,Deplasarea Razelor transformă oamenii în particule spirituale și îi trimite în trecut
 Dialogue: 99,0:05:43.24,0:05:45.62,Dialogue,,0,0,0,,ca să intervină în \Nanumite evenimente.
 Dialogue: 99,0:05:45.62,0:05:48.62,Dialogue,,0,0,0,,Cu alte cuvinte, \Neste o călătorie în timp.
 Dialogue: 99,0:05:49.08,0:05:50.91,Dialogue,,0,0,0,,Astfel, ne putem întoarce în trecut
 Dialogue: 99,0:05:50.91,0:05:54.00,Dialogue,,0,0,0,,ca să ne dăm seama de ce a dispărut rasa umană și să reparăm problema.
-Dialogue: 99,0:05:55.13,0:06:00.05,Dialogue,,0,0,0,,Asta este ideea din spatele experimentului Rayshift, pe care încearcă Chaldea să-l facă.
+Dialogue: 99,0:05:55.13,0:06:00.05,Dialogue,,0,0,0,,Asta este ideea din spatele experimentului \N„Deplasarea Razelor”, pe care încearcă Chaldea să-l facă.
 Dialogue: 99,0:06:00.05,0:06:03.59,Dialogue,,0,0,0,,Am fost invitat să particip \Nîn ceva așa incredibil?
 Dialogue: 99,0:06:03.59,0:06:05.14,Dialogue,,0,0,0,,Ești surprins?
 Dialogue: 99,0:06:05.14,0:06:06.64,Dialogue,,0,0,0,,Da...
@@ -180,7 +180,7 @@ Dialogue: 99,0:10:20.31,0:10:22.02,Dialogue,,0,0,0,,dar și descendența conteaz
 Dialogue: 99,0:10:22.56,0:10:27.15,Dialogue,,0,0,0,,Doamna director este capul familiei Animuspheres, o familie de magicieni foarte cunoscută.
 Dialogue: 99,0:10:27.15,0:10:29.94,Dialogue,,0,0,0,,Și preferă puternic descendența.
 Dialogue: 99,0:10:31.49,0:10:34.70,Dialogue,,0,0,0,,A fost nevoie de mulți \Npotențiali Stăpâni
-Dialogue: 99,0:10:34.70,0:10:37.62,Dialogue,,0,0,0,,după ce Rayshift a ieșit \Ndin faza experimentală.
+Dialogue: 99,0:10:34.70,0:10:37.62,Dialogue,,0,0,0,,după ce Deplasarea Razelor \Na ieșit din faza experimentală.
 Dialogue: 99,0:10:37.62,0:10:41.83,Dialogue,,0,0,0,,Dar doar câțiva magicieni \Naveau acel potențial.
 Dialogue: 99,0:10:42.45,0:10:46.96,Dialogue,,0,0,0,,Deci, de asta oamenii obișnuiți ca mine au fost recrutați atât de agresiv.
 Dialogue: 99,0:10:47.63,0:10:49.42,Dialogue,,0,0,0,,Vei părăsi Chaldea?
@@ -215,7 +215,7 @@ Dialogue: 99,0:12:36.74,0:12:39.61,Dialogue,,0,0,0,,Toată lumea îmi spune dr. 
 Dialogue: 99,0:12:39.61,0:12:40.99,Dialogue,,0,0,0,,Tu ești liderul?!
 Dialogue: 99,0:12:40.99,0:12:43.45,Dialogue,,0,0,0,,Î-Îmi cer scuze că te-am \Nderanjat când erai în pauză...
 Dialogue: 99,0:12:43.45,0:12:47.33,Dialogue,,0,0,0,,Nu, nu chiar. \NSerios, sunt doar un doctor obișnuit.
-Dialogue: 99,0:12:47.66,0:12:51.04,Dialogue,,0,0,0,,Apropo, Rayshift nu ar \Ntrebui să înceapă curând?
+Dialogue: 99,0:12:47.66,0:12:51.04,Dialogue,,0,0,0,,Apropo, Deplasarea Razelor \Nnu ar trebui să înceapă curând?
 Dialogue: 99,0:12:51.04,0:12:53.54,Dialogue,,0,0,0,,Am auzit că toți membrii erau implicați.
 Dialogue: 99,0:12:55.09,0:12:56.55,Dialogue,,0,0,0,,De fapt...
 Dialogue: 99,0:12:58.88,0:13:03.64,Dialogue,,0,0,0,,Cu alte cuvinte, ai enervat-o pe doamna director și ai fost eliminat din prima misiune.
@@ -230,7 +230,7 @@ Dialogue: 99,0:13:21.70,0:13:23.37,Dialogue,,0,0,0,,B-Bine...
 Dialogue: 99,0:13:28.50,0:13:31.79,Dialogue,,0,0,0,,Și asta este structura Chaldea.
 Dialogue: 99,0:13:31.79,0:13:35.75,Dialogue,,0,0,0,,A fost construită în munți, la 6.000 de metri deasupra apei, având un atelier subteran...
 Dialogue: 99,0:13:39.97,0:13:40.97,Dialogue,,0,0,0,,Hei, Lev.
-Dialogue: 99,0:13:40.97,0:13:44.05,Dialogue,,0,0,0,,{\i1}Romani, Rayshift va începe curând.
+Dialogue: 99,0:13:40.97,0:13:44.05,Dialogue,,0,0,0,,{\i1}Romani, Deplasarea Razelor va începe curând.
 Dialogue: 99,0:13:44.05,0:13:46.97,Dialogue,,0,0,0,,{\i1}Vei veni și tu aici, \Npentru orice eventualitate?
 Dialogue: 99,0:13:46.97,0:13:48.27,Dialogue,,0,0,0,,S-a întâmplat ceva?
 Dialogue: 99,0:13:48.43,0:13:54.65,Dialogue,,0,0,0,,Echipa A este pregătită, dar Echipa B are niște probleme cu câțiva începători.
@@ -248,8 +248,8 @@ Dialogue: 99,0:14:17.00,0:14:18.80,Dialogue Overlap,,0,0,0,,Profesorul Lev, nu-i
 Dialogue: 99,0:14:18.80,0:14:22.30,Dialogue,,0,0,0,,L-am întâlnit mai devreme. \NA spus că era inginer aici.
 Dialogue: 99,0:14:24.01,0:14:26.93,Dialogue,,0,0,0,,Inginer? Foarte modest din partea lui.
 Dialogue: 99,0:14:28.01,0:14:31.64,Dialogue,,0,0,0,,El este magicianul care a creat telescopul pentru observarea Chaldeas,
-Dialogue: 99,0:14:31.64,0:14:34.94,Dialogue,,0,0,0,,Lentilele de Observare \Na Viitorului Apropiat, SHEBA.
-Dialogue: 99,0:14:39.02,0:14:44.36,Dialogue,,0,0,0,,Și fostul director care a construit, \Nde asemenea, sistemul de invocare Rayshift.
+Dialogue: 99,0:14:31.64,0:14:34.94,Dialogue,,0,0,0,,Lentilele de Observare \Na Viitorului Apropiat, Sheba.
+Dialogue: 99,0:14:39.02,0:14:44.36,Dialogue,,0,0,0,,Și fostul director care a construit, de asemenea, sistemul de invocare pentru Deplasarea Razelor.
 Dialogue: 99,0:14:44.36,0:14:50.12,Dialogue,,0,0,0,,Academia Atlas a oferit mecanismul de calcul al particulelor spirituale ca să fundamenteze teoria.
 Dialogue: 99,0:14:50.79,0:14:53.62,Dialogue,,0,0,0,,Foarte multe persoane talentate au venit ca să facă toate astea posibile.
 Dialogue: 99,0:14:56.63,0:15:00.05,Dialogue,,0,0,0,,Pare inutil să ai un doctor \Nobișnuit ca mine la datorie,
@@ -287,7 +287,7 @@ Dialogue: 99,0:16:41.77,0:16:44.15,Dialogue,,0,0,0,,{\an8\i1}Către întreg pers
 Dialogue: 99,0:16:44.15,0:16:47.57,Dialogue,,0,0,0,,{\an8\i1}vă rugăm să vă evacuați imediat.
 Dialogue: 99,0:16:53.41,0:16:54.83,Dialogue,,0,0,0,,Mash!
 Dialogue: 99,0:16:59.37,0:17:01.17,Dialogue,,0,0,0,,Mash! Unde ești?!
-Dialogue: 99,0:17:02.00,0:17:05.34,Dialogue,,0,0,0,,{\an8\i1}Sistemul Rayshift intră în faza finală.
+Dialogue: 99,0:17:02.00,0:17:05.34,Dialogue,,0,0,0,,{\an8\i1}Sistemul „Deplasarea Razelor” intră în faza finală.
 Dialogue: 99,0:17:06.09,0:17:11.97,Dialogue,,0,0,0,,{\an8\i1}Destinație: 30 ianuarie 2004. \NOrașul Fuyuki, Japonia.
 Dialogue: 99,0:17:13.68,0:17:14.68,Dialogue,,0,0,0,,Mash!
 Dialogue: 99,0:17:15.10,0:17:17.89,Dialogue,,0,0,0,,{\an8\i1}Protecția transformatei Laplace funcționează.
@@ -305,7 +305,7 @@ Dialogue: 99,0:18:09.74,0:18:12.32,Dialogue,,0,0,0,,Te rog, doar pleacă! \NNu m
 Dialogue: 99,0:18:13.24,0:18:14.53,Dialogue,,0,0,0,,Nu vreau!
 Dialogue: 99,0:18:17.08,0:18:19.08,Dialogue,,0,0,0,,{\an8\i1}Atenționare către personalul supraveghetor.
 Dialogue: 99,0:18:19.08,0:18:21.46,Dialogue,,0,0,0,,{\an8\i1}Starea sferei Chaldeas s-a modificat.
-Dialogue: 99,0:18:25.04,0:18:28.59,Dialogue,,0,0,0,,{\an8\i1}Datele observaționale ale viitorului apropiat din SHEBA vor fi suprascrise.
+Dialogue: 99,0:18:25.04,0:18:28.59,Dialogue,,0,0,0,,{\an8\i1}Datele observaționale ale viitorului apropiat din Sheba vor fi suprascrise.
 Dialogue: 99,0:18:29.25,0:18:32.05,Dialogue,,0,0,0,,{\an8\i1}Supraviețuirea rasei umane pe Pământ
 Dialogue: 99,0:18:32.05,0:18:34.72,Dialogue,,0,0,0,,{\an8\i1}pentru următorii 100 de \Nani nu poate fi confirmată.
 Dialogue: 99,0:18:35.30,0:18:37.93,Dialogue,,0,0,0,,{\an8\i1}Viitorul umanității nu poate fi garantat.
@@ -333,7 +333,7 @@ Dialogue: 99,0:19:55.13,0:19:56.17,Dialogue,,0,0,0,,Uite.
 Dialogue: 99,0:20:08.98,0:20:12.61,Dialogue,,0,0,0,,{\an8\i1}Se resetează contactul cu \Nalesul potrivit, numărul 48.
 Dialogue: 99,0:20:19.78,0:20:21.70,Dialogue,,0,0,0,,{\an8\i1}Se pornește Programul de Invocare.
 Dialogue: 99,0:20:24.83,0:20:26.79,Dialogue,,0,0,0,,{\an8\i1}Se inițiază conversia particulelor spirituale.
-Dialogue: 99,0:20:28.92,0:20:33.38,Dialogue,,0,0,0,,{\an8\i1}Rayshift va începe în 3... 2... 1...
+Dialogue: 99,0:20:28.92,0:20:33.38,Dialogue,,0,0,0,,{\an8\i1}Deplasarea Razelor va începe în 3... 2... 1...
 Dialogue: 99,0:20:35.76,0:20:40.18,Dialogue,,0,0,0,,{\an8\i1}Toate etapele s-au realizat cu succes. Se începe verificarea Primului Ordin.
 Dialogue: 99,0:20:47.93,0:20:49.77,Dialogue,,0,0,0,,Mă gâdilă...
 Dialogue: 99,0:20:54.69,0:20:56.03,Dialogue,,0,0,0,,Unde sunt?
@@ -371,7 +371,7 @@ Dialogue: 99,0:25:32.47,0:25:34.93,Dialogue,,0,0,0,,Acea Vrajă de Comandă ates
 Dialogue: 99,0:25:46.36,0:25:49.40,Dialogue,,0,0,0,,{\i1}În sfârșit s-a stabilit conexiunea! \NHei, mă puteți auzi?
 Dialogue: 99,0:25:49.86,0:25:50.90,Dialogue,,0,0,0,,Dr. Roman!
 Dialogue: 99,0:25:51.36,0:25:53.57,Dialogue,,0,0,0,,{\i1}Fujimaru, Mash.
-Dialogue: 99,0:25:53.91,0:25:56.66,Dialogue,,0,0,0,,{\i1}Deci, ați fost prinși în Rayshift.
+Dialogue: 99,0:25:53.91,0:25:56.66,Dialogue,,0,0,0,,{\i1}Deci ați fost prinși în Deplasarea Razelor.
 Dialogue: 99,0:25:56.66,0:25:59.66,Dialogue,,0,0,0,,{\i1}Fără să fiți într-un Sicriu, \Na trebuit să rezistați conștienți...
 Dialogue: 99,0:25:59.66,0:26:02.08,Dialogue,,0,0,0,,De ce ai preluat tu controlul, Romani?
 Dialogue: 99,0:26:03.50,0:26:06.17,Dialogue,,0,0,0,,{\i1}D-Doamnă director! Ești în viață?!
@@ -795,7 +795,7 @@ Dialogue: 99,1:00:34.49,1:00:36.28,Dialogue,,0,0,0,,Nu-mi vine să cred că înc
 Dialogue: 99,1:00:37.41,1:00:40.53,Dialogue,,0,0,0,,Ei bine, nu chiar în viață.
 Dialogue: 99,1:00:41.83,1:00:43.95,Dialogue,,0,0,0,,De fapt, ești moartă.
 Dialogue: 99,1:00:44.66,1:00:46.66,Dialogue,,0,0,0,,Sau cel puțin, corpul tău real.
-Dialogue: 99,1:00:48.37,1:00:52.17,Dialogue,,0,0,0,,Când erai în viață, nu aveai \Naptitudinile pentru Rayshift.
+Dialogue: 99,1:00:48.37,1:00:52.17,Dialogue,,0,0,0,,Când erai în viață, nu aveai aptitudinile necesare pentru Deplasarea Razelor.
 Dialogue: 99,1:00:52.80,1:00:55.63,Dialogue,,0,0,0,,Nu puteai face transformarea \Ncând aveai un corp.
 Dialogue: 99,1:00:56.47,1:00:58.93,Dialogue,,0,0,0,,Dar ți-ai dorit asta atât de tare
 Dialogue: 99,1:00:58.93,1:01:02.31,Dialogue,,0,0,0,,încât ai reușit să le obții când ai murit.
@@ -864,7 +864,7 @@ Dialogue: 99,1:05:20.48,1:05:25.15,Dialogue,,0,0,0,,încercând să păstreze ac
 Dialogue: 99,1:05:26.40,1:05:32.16,Dialogue,,0,0,0,,Chiar și așa, adio, Romani, \NMash și numărule 48.
 Dialogue: 99,1:05:43.13,1:05:44.63,Dialogue,,0,0,0,,Peștera asta se prăbușește!
 Dialogue: 99,1:05:45.21,1:05:48.13,Dialogue,,0,0,0,,Nu, chiar și înainte de asta, \Nacest spațiu este instabil.
-Dialogue: 99,1:05:48.88,1:05:51.93,Dialogue,,0,0,0,,Doctore! Te rog, activează \Nexperimentul Rayshift cât mai repede!
+Dialogue: 99,1:05:48.88,1:05:51.93,Dialogue,,0,0,0,,Doctore! Te rog, activează \NDeplasarea Razelor cât mai repede!
 Dialogue: 99,1:05:51.93,1:05:52.64,Dialogue,,0,0,0,,{\i1}Știu!
 Dialogue: 99,1:05:53.43,1:05:56.39,Dialogue,,0,0,0,,{\i1}Dar, îmi pare rău, s-ar putea să \Nse prăbușească înainte să reușesc!
 Dialogue: 99,1:05:57.02,1:06:00.02,Dialogue,,0,0,0,,{\i1}Oricum, încă există salvare dacă...
@@ -888,7 +888,7 @@ Dialogue: 99,1:08:29.46,1:08:33.09,Dialogue,,0,0,0,,Datorită vouă trei, \NSing
 Dialogue: 99,1:08:33.09,1:08:33.76,Dialogue,,0,0,0,,Dar...
 Dialogue: 99,1:08:35.09,1:08:38.47,Dialogue,,0,0,0,,Au fost descoperite alte \Nșapte Singularități noi.
 Dialogue: 99,1:08:38.47,1:08:41.76,Dialogue,,0,0,0,,Sunt perturbații spațiu-timp care nici măcar nu se compară cu cea din Fuyuki.
-Dialogue: 99,1:08:42.43,1:08:45.14,Dialogue,,0,0,0,,Folosirea experimentului \NRayshift ca să ajungem la ele
+Dialogue: 99,1:08:42.43,1:08:45.14,Dialogue,,0,0,0,,Folosirea experimentului „Deplasarea Razelor” ca să ajungem la ele
 Dialogue: 99,1:08:45.14,1:08:47.52,Dialogue,,0,0,0,,și corectarea istoriei...
 Dialogue: 99,1:08:47.94,1:08:50.65,Dialogue,,0,0,0,,este singurul mod de \Na salva umanitatea.
 Dialogue: 99,1:08:51.86,1:08:55.24,Dialogue,,0,0,0,,Cu excepția ta, toți potențialii Stăpâni se află la crioconservare.
