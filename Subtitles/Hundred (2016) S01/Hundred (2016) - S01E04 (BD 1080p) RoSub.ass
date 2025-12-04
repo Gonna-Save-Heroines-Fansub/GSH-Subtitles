@@ -298,7 +298,7 @@ Dialogue: 100,0:16:34.06,0:16:36.98,Dialogue,Char,0,0,0,,E o Exterminatoare de t
 Dialogue: 100,0:16:36.98,0:16:38.77,Dialogue,Hayato,0,0,0,,Control Zonal...
 Dialogue: 100,0:16:39.35,0:16:42.31,Dialogue,Char,0,0,0,,Poate crea un zonă de control pentru o anumită perioadă de timp...
 Dialogue: 100,0:16:42.31,0:16:47.99,Dialogue,Char,0,0,0,,și-și poate folosi energia simțurilor ca să zboare și să creeze iluzii.
-Dialogue: 100,0:16:47.99,0:16:50.78,Dialogue,Char,0,0,0,,În schimb, nu poate crea nici o armă.
+Dialogue: 100,0:16:47.99,0:16:50.78,Dialogue,Char,0,0,0,,În schimb, nu poate crea nicio armă.
 Dialogue: 100,0:16:51.41,0:16:55.66,Dialogue,Char,0,0,0,,Totuși, ea nu are nevoie \Nde arme în lupta ei.
 Dialogue: 100,0:16:55.66,0:16:58.83,Dialogue,Souffle,0,0,0,,Așa e. Ea are cântecele ei.
 Dialogue: 100,0:16:58.83,0:17:00.92,Dialogue,Hayato,0,0,0,,Vă cunoașteți?
@@ -470,8 +470,8 @@ Dialogue: 0,0:22:42.16,0:22:49.07,TABOOLESS TL,,0,0,0,,{\an9\c&H6E6EBD&\3c&H6E6E
 Dialogue: 1,0:22:42.16,0:22:49.07,TABOOLESS TL,,0,0,0,,{\an9\bord0\c&H080964&\blur0.6\fad(200,200)}rațiunea îți va dispărea instant
 Dialogue: 0,0:22:49.07,0:22:52.77,TABOOLESS TL,,0,0,0,,{\an9\c&H6E6EBD&\3c&H6E6EBD&\blur0.8\fad(200,200)}Noi suntem Constituția!
 Dialogue: 1,0:22:49.07,0:22:52.77,TABOOLESS TL,,0,0,0,,{\an9\bord0\c&H080964&\blur0.6\fad(200,200)}Noi suntem Constituția!
-Dialogue: 0,0:22:53.35,0:22:57.20,TABOOLESS TL,,0,0,0,,{\an7\c&HE596AD&\3c&HE596AD&\blur0.8\fad(200,200)}Ai grijă să nu încalci nici o lege,
-Dialogue: 1,0:22:53.35,0:22:57.20,TABOOLESS TL,,0,0,0,,{\an7\bord0\c&H71102C&\blur0.6\fad(200,200)}Ai grijă să nu încalci nici o lege,
+Dialogue: 0,0:22:53.35,0:22:57.20,TABOOLESS TL,,0,0,0,,{\an7\c&HE596AD&\3c&HE596AD&\blur0.8\fad(200,200)}Ai grijă să nu încalci nicio lege,
+Dialogue: 1,0:22:53.35,0:22:57.20,TABOOLESS TL,,0,0,0,,{\an7\bord0\c&H71102C&\blur0.6\fad(200,200)}Ai grijă să nu încalci nicio lege,
 Dialogue: 0,0:22:57.20,0:23:00.78,TABOOLESS TL,,0,0,0,,{\an7\c&HE596AD&\3c&HE596AD&\blur0.8\fad(200,200)}Altfel vei fi pedepsit
 Dialogue: 1,0:22:57.20,0:23:00.78,TABOOLESS TL,,0,0,0,,{\an7\bord0\c&H71102C&\blur0.6\fad(200,200)}Altfel vei fi pedepsit
 Dialogue: 0,0:23:00.95,0:23:05.70,TABOOLESS TL,,0,0,0,,{\an9\c&HF3C49F&\3c&HF3C49F&\blur0.8\fad(200,200)}Dar, uneori, simțul meu al moralității se clatină

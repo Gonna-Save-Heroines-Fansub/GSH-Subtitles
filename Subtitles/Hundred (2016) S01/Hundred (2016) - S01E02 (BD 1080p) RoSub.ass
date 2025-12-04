@@ -29,9 +29,9 @@ Style: EYES ON ME TL,MADE Kenfolg,60,&H008E59DB,&H000000FF,&H00FFFFFF,&H00000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Prolog}
-Comment: 0,0:01:48.00,0:01:48.05,Dialogue,chptr,0,0,0,,{Opening}
+Comment: 0,0:01:48.00,0:01:48.05,Dialogue,chptr,0,0,0,,{OP}
 Comment: 0,0:03:17.97,0:03:18.01,Dialogue,chptr,0,0,0,,{Episod}
-Comment: 0,0:22:15.06,0:22:15.11,Dialogue,chptr,0,0,0,,{Ending}
+Comment: 0,0:22:15.06,0:22:15.11,Dialogue,chptr,0,0,0,,{ED}
 Comment: 0,0:23:44.99,0:23:45.03,Dialogue,chptr,0,0,0,,{Data viitoare}
 Dialogue: 100,0:00:01.23,0:00:04.82,Dialogue,Erica,0,0,0,ep1 21:56,Duelul dintre regina Claire Harvey,
 Dialogue: 100,0:00:04.82,0:00:07.99,Dialogue,Erica,0,0,0,ep1 22:00,și noul elev, Kisaragi Hayato, \Nva începe în curând.
@@ -144,7 +144,7 @@ Dialogue: 100,0:08:18.89,0:08:19.94,Dialogue,Emil,0,0,0,,Ce bine...
 Dialogue: 100,0:08:20.40,0:08:21.65,Dialogue,Emil,0,0,0,,Ce încerci să faci?
 Dialogue: 100,0:08:22.02,0:08:24.44,Dialogue,Emil,0,0,0,,Ai spus că nu-ți vei \Nfolosi Armura de Luptă!
 Dialogue: 100,0:08:24.44,0:08:26.03,Dialogue,Char,0,0,0,,Stai o clipă, Emile.
-Dialogue: 100,0:08:26.65,0:08:31.41,Dialogue,Char,0,0,0,,Declarația făcută nu are nici o \Nlegătură cu regulile unui duel.
+Dialogue: 100,0:08:26.65,0:08:31.41,Dialogue,Char,0,0,0,,Declarația făcută nu are nicio \Nlegătură cu regulile unui duel.
 Dialogue: 100,0:08:31.66,0:08:32.87,Dialogue,Emil,0,0,0,,Char...
 Dialogue: 100,0:08:32.87,0:08:34.91,Dialogue,Char,0,0,0,,Știu ce vrei să spui,
 Dialogue: 100,0:08:35.49,0:08:38.66,Dialogue,Char,0,0,0,,dar acest meci a fost \Ncâștigat de Claire Harvey.
