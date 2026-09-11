@@ -1,0 +1,560 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Sprite - 02
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:32.90,0:00:34.56,Default,,0,0,0,,Hey, that's...
+Dialogue: 0,0:00:34.64,0:00:36.57,Default,,0,0,0,,Oh, it's Manami's boyfriend.
+Dialogue: 0,0:00:38.34,0:00:42.44,Default,,0,0,0,,Well, he's been making\Npasses at her, at any rate.
+Dialogue: 0,0:00:46.31,0:00:48.41,Default,,0,0,0,,Huh? Masaya?
+Dialogue: 0,0:00:49.48,0:00:50.61,Default,,0,0,0,,But...
+Dialogue: 0,0:00:50.72,0:00:53.28,Default,,0,0,0,,is this really me..?
+Dialogue: 0,0:00:58.23,0:01:00.72,Default,,0,0,0,,If Toru can fool around\Nwith Chiaki...
+Dialogue: 0,0:01:00.79,0:01:02.39,Default,,0,0,0,,then I can have my fun, too!
+Dialogue: 0,0:01:13.87,0:01:15.67,Default,,0,0,0,,Please, stop!
+Dialogue: 0,0:01:15.74,0:01:19.14,Default,,0,0,0,,Who's making my body\Nmove like this?
+Dialogue: 0,0:01:24.62,0:01:26.61,Default,,0,0,0,,sTOoPM!
+Dialogue: 0,0:01:30.93,0:01:37.66,Default,,0,0,0,,Manami and Nami\NSprite
+Dialogue: 0,0:01:38.80,0:01:40.96,Default,,0,0,0,,I'm Toru Takamura.
+Dialogue: 0,0:01:41.04,0:01:42.70,Default,,0,0,0,,I'm a college sophomore\Nand | have to stay...
+Dialogue: 0,0:01:43.00,0:01:45.20,Default,,0,0,0,,with my relatives in Tokyo,\Nthe Sakumotos.
+Dialogue: 0,0:01:45.41,0:01:48.57,Default,,0,0,0,,By the way, the Sakumoto's\Nonly daughter, Manami...
+Dialogue: 0,0:01:48.78,0:01:50.71,Default,,0,0,0,,has a split personality!
+Dialogue: 0,0:01:50.78,0:01:55.24,Default,,0,0,0,,Alll know is that it only\Nhappens when | call her, "Nami".
+Dialogue: 0,0:01:55.85,0:01:58.75,Default,,0,0,0,,And today she's disappeared\Ninto town again.
+Dialogue: 0,0:02:01.69,0:02:04.06,Default,,0,0,0,,I don't know what to\Ndo with you!
+Dialogue: 0,0:02:04.69,0:02:06.99,Default,,0,0,0,,You could've at least called\Nto say you'd be late...
+Dialogue: 0,0:02:07.06,0:02:09.43,Default,,0,0,0,,because it rained,\Nor something!
+Dialogue: 0,0:02:09.50,0:02:11.43,Default,,0,0,0,,You're not a child, after all!
+Dialogue: 0,0:02:12.07,0:02:15.70,Default,,0,0,0,,I'm so embarrassed that you've\Neven got Toru covering for you!
+Dialogue: 0,0:02:16.00,0:02:17.40,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:02:27.41,0:02:28.88,Default,,0,0,0,,Yes?
+Dialogue: 0,0:02:29.08,0:02:31.21,Default,,0,0,0,,I'm really sorry about what\Nhappened today, Toru.
+Dialogue: 0,0:02:31.29,0:02:33.75,Default,,0,0,0,,Not at all. It was the least\N| could do.
+Dialogue: 0,0:02:33.89,0:02:36.55,Default,,0,0,0,,Manami's coming down with a\Nfever, so she's taken some medicine.
+Dialogue: 0,0:02:36.62,0:02:38.72,Default,,0,0,0,,But could you tell me\Nif something happens?
+Dialogue: 0,0:02:38.79,0:02:40.42,Default,,0,0,0,,Sure, no problem.
+Dialogue: 0,0:02:40.49,0:02:41.89,Default,,0,0,0,,Thanks a lot.
+Dialogue: 0,0:02:53.51,0:02:55.17,Default,,0,0,0,,I'll check her out right away!
+Dialogue: 0,0:02:56.28,0:02:58.40,Default,,0,0,0,,Nami! Nami!
+Dialogue: 0,0:02:59.58,0:03:00.64,Default,,0,0,0,,You awake?
+Dialogue: 0,0:03:01.38,0:03:03.44,Default,,0,0,0,,What's all the racket?\NWhat do you want?
+Dialogue: 0,0:03:03.52,0:03:04.95,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:03:05.02,0:03:07.21,Default,,0,0,0,,You worried me.
+Dialogue: 0,0:03:07.62,0:03:08.75,Default,,0,0,0,,| wonder.
+Dialogue: 0,0:03:09.59,0:03:13.05,Default,,0,0,0,,What were you doing\Non such a rainy night?
+Dialogue: 0,0:03:13.13,0:03:16.49,Default,,0,0,0,,And also, what did you mean\Nbefore by, "I'm disappearing"?
+Dialogue: 0,0:03:18.07,0:03:18.96,Default,,0,0,0,,Actually...
+Dialogue: 0,0:03:31.45,0:03:34.24,Default,,0,0,0,,Masaya asked me out\Na while ago.
+Dialogue: 0,0:03:34.45,0:03:35.78,Default,,0,0,0,,WHAAAT?
+Dialogue: 0,0:03:37.35,0:03:39.18,Default,,0,0,0,,Toru, is something wrong?
+Dialogue: 0,0:03:39.62,0:03:41.61,Default,,0,0,0,,No, sorry!
+Dialogue: 0,0:03:41.69,0:03:44.56,Default,,0,0,0,,I, uh... just remembered\NI've got some homework.
+Dialogue: 0,0:03:45.23,0:03:47.16,Default,,0,0,0,,Oh, I'm sorry.
+Dialogue: 0,0:03:47.23,0:03:49.53,Default,,0,0,0,,You've been so busy looking\Nafter Manami today.
+Dialogue: 0,0:03:49.83,0:03:52.46,Default,,0,0,0,,Would you like a late-night\Nshack?
+Dialogue: 0,0:03:52.53,0:03:55.66,Default,,0,0,0,,No, I'm fine! It won't take\Nme long!
+Dialogue: 0,0:04:03.08,0:04:04.34,Default,,0,0,0,,That scared me.
+Dialogue: 0,0:04:04.41,0:04:06.38,Default,,0,0,0,,You're the one who scared me!
+Dialogue: 0,0:04:06.45,0:04:08.04,Default,,0,0,0,,Look who's talking!
+Dialogue: 0,0:04:08.82,0:04:13.65,Default,,0,0,0,,Yeah, well | went in, but\NIleft part way through.
+Dialogue: 0,0:04:46.72,0:04:48.59,Default,,0,0,0,,N-No...
+Dialogue: 0,0:04:49.12,0:04:51.52,Default,,0,0,0,,What's the matter, Manami?
+Dialogue: 0,0:04:52.33,0:04:53.99,Default,,0,0,0,,Just be quiet.
+Dialogue: 0,0:04:55.23,0:04:58.03,Default,,0,0,0,,Don't tell me you chickened out.
+Dialogue: 0,0:04:58.10,0:05:00.97,Default,,0,0,0,,Especially considering how into\Nit you were, up until now.
+Dialogue: 0,0:05:03.60,0:05:04.87,Default,,0,0,0,,The timing's just wrong.
+Dialogue: 0,0:05:05.51,0:05:08.67,Default,,0,0,0,,You shouldn't play around\Nwith a man's heart like that.
+Dialogue: 0,0:05:08.84,0:05:10.04,Default,,0,0,0,,Let go of me!
+Dialogue: 0,0:05:10.78,0:05:13.54,Default,,0,0,0,,There's no point in fighting,\NManami!
+Dialogue: 0,0:05:13.61,0:05:15.28,Default,,0,0,0,,I'm not Manami!
+Dialogue: 0,0:05:25.86,0:05:28.38,Default,,0,0,0,,When | left, | suddenly heard\NManami's voice...
+Dialogue: 0,0:05:28.46,0:05:31.43,Default,,0,0,0,,even though she's always\Nasleep when I'm awake.
+Dialogue: 0,0:05:33.30,0:05:35.27,Default,,0,0,0,,Don't scare the crap\Nout of me!
+Dialogue: 0,0:05:35.34,0:05:36.70,Default,,0,0,0,,| was positive that you'd...
+Dialogue: 0,0:05:41.88,0:05:43.90,Default,,0,0,0,,Your imagination's\Nrunning wild, stupid.
+Dialogue: 0,0:05:43.98,0:05:45.74,Default,,0,0,0,,Don't go getting a stiffie.
+Dialogue: 0,0:05:46.81,0:05:47.87,Default,,0,0,0,,Owww!
+Dialogue: 0,0:05:49.28,0:05:52.08,Default,,0,0,0,,8o, Manami's your kind\Nof woman, huh?
+Dialogue: 0,0:05:52.75,0:05:55.02,Default,,0,0,0,,Huh? What do you mean?
+Dialogue: 0,0:05:55.89,0:05:59.59,Default,,0,0,0,,Now that | think of it, Manami\Nhad a thing for you, too.
+Dialogue: 0,0:06:00.26,0:06:01.99,Default,,0,0,0,,You're a lucky guy.
+Dialogue: 0,0:06:02.56,0:06:04.43,Default,,0,0,0,,How could you do that?
+Dialogue: 0,0:06:05.23,0:06:07.93,Default,,0,0,0,,That's your punishment for\Nfooling around with Chiaki.
+Dialogue: 0,0:06:08.97,0:06:10.27,Default,,0,0,0,,You're wrong!
+Dialogue: 0,0:06:10.40,0:06:13.03,Default,,0,0,0,,Chiaki just hates Manami.
+Dialogue: 0,0:06:13.11,0:06:15.40,Default,,0,0,0,,That's the only reason she\Nmade a pass at me.
+Dialogue: 0,0:06:16.11,0:06:20.07,Default,,0,0,0,,If Manami wakes up while\NI'm out...
+Dialogue: 0,0:06:20.95,0:06:24.54,Default,,0,0,0,,I'll disappear, since I'm\Nnot the main personality.
+Dialogue: 0,0:06:24.62,0:06:27.21,Default,,0,0,0,,Would you cry for me,\Nif | disappeared?
+Dialogue: 0,0:06:27.92,0:06:29.62,Default,,0,0,0,,Stop thinking such crazy things.
+Dialogue: 0,0:06:29.69,0:06:31.12,Default,,0,0,0,,I'd do something.
+Dialogue: 0,0:06:31.19,0:06:33.42,Default,,0,0,0,,You'd be putting yourself out.
+Dialogue: 0,0:06:33.49,0:06:36.62,Default,,0,0,0,,If | disappeared, you'd be able\Nto go steady with Manami.
+Dialogue: 0,0:06:37.23,0:06:41.19,Default,,0,0,0,,But | like Manami AND you,\NNami!
+Dialogue: 0,0:06:41.80,0:06:42.73,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:43.20,0:06:47.14,Default,,0,0,0,,I'll try summoning Manami\Nand explaining it to her.
+Dialogue: 0,0:06:48.34,0:06:51.24,Default,,0,0,0,,If | can find some way\Nthat you won't disappear...
+Dialogue: 0,0:06:51.31,0:06:53.07,Default,,0,0,0,,How would you summon her?
+Dialogue: 0,0:06:53.15,0:06:53.94,Default,,0,0,0,,Well...
+Dialogue: 0,0:06:54.75,0:06:57.98,Default,,0,0,0,,I've just gotta go back to the\Npoint where Manami disappeared.
+Dialogue: 0,0:06:59.22,0:07:01.41,Default,,0,0,0,,You mean you wanna do\Nsomething naughty?
+Dialogue: 0,0:07:01.66,0:07:03.15,Default,,0,0,0,,D-Don't be ridiculous!
+Dialogue: 0,0:07:03.22,0:07:04.71,Default,,0,0,0,,I'm serious, here!
+Dialogue: 0,0:07:04.92,0:07:06.69,Default,,0,0,0,,I'll believe you!
+Dialogue: 0,0:07:52.61,0:07:54.57,Default,,0,0,0,,| can't stop myself...
+Dialogue: 0,0:07:58.48,0:07:59.50,Default,,0,0,0,,Sorry!
+Dialogue: 0,0:07:59.58,0:08:02.21,Default,,0,0,0,,Be gentle there.
+Dialogue: 0,0:08:55.74,0:08:57.20,Default,,0,0,0,,How'd it go?
+Dialogue: 0,0:08:58.74,0:09:01.11,Default,,0,0,0,,Perfect! | came!
+Dialogue: 0,0:09:02.44,0:09:04.43,Default,,0,0,0,,That's not what | meant!
+Dialogue: 0,0:09:04.61,0:09:07.44,Default,,0,0,0,,I meant, did you manage\Nto contact Manami?
+Dialogue: 0,0:09:08.02,0:09:09.11,Default,,0,0,0,,Not yet.
+Dialogue: 0,0:09:10.15,0:09:11.31,Default,,0,0,0,,What now?
+Dialogue: 0,0:09:11.39,0:09:12.94,Default,,0,0,0,,We can't go any further...
+Dialogue: 0,0:09:13.02,0:09:14.35,Default,,0,0,0,,Don't you wanna do it?
+Dialogue: 0,0:09:14.42,0:09:16.82,Default,,0,0,0,,What?\NAre you sure?
+Dialogue: 0,0:09:16.89,0:09:18.76,Default,,0,0,0,,Yeabh, if it's with you.
+Dialogue: 0,0:09:19.33,0:09:23.96,Default,,0,0,0,,Aha! At last, the day's come\Nwhen I'll lose my virginity!
+Dialogue: 0,0:09:24.63,0:09:27.90,Default,,0,0,0,,If you don't mind using\Nmy body, that is.
+Dialogue: 0,0:09:30.00,0:09:33.03,Default,,0,0,0,,Thanks to you, | had\Na great orgasm.
+Dialogue: 0,0:09:35.54,0:09:38.60,Default,,0,0,0,,Now I'm gonna return\Nthe favor.
+Dialogue: 0,0:09:39.05,0:09:41.48,Default,,0,0,0,,HOOORAAAYM
+Dialogue: 0,0:09:45.99,0:09:47.78,Default,,0,0,0,,H-Hang on a second!
+Dialogue: 0,0:09:48.62,0:09:50.65,Default,,0,0,0,,Stop using my body like this!
+Dialogue: 0,0:09:50.86,0:09:52.22,Default,,0,0,0,,Is that you, Manami?
+Dialogue: 0,0:09:57.40,0:09:58.96,Default,,0,0,0,,Can you hear me?
+Dialogue: 0,0:09:59.07,0:10:01.19,Default,,0,0,0,,Yeah, | can.
+Dialogue: 0,0:10:05.94,0:10:08.34,Default,,0,0,0,,Please, just try to listen calmly.
+Dialogue: 0,0:10:08.74,0:10:11.97,Default,,0,0,0,,I'm a second personality\Nthat lives inside you.
+Dialogue: 0,0:10:12.18,0:10:13.37,Default,,0,0,0,,Understand?
+Dialogue: 0,0:10:13.95,0:10:16.11,Default,,0,0,0,,Yeah, I've kind of felt you\Nwere there.
+Dialogue: 0,0:10:17.42,0:10:22.08,Default,,0,0,0,,| want you to try and accept\Nthe fact that | exist.
+Dialogue: 0,0:10:22.66,0:10:24.02,Default,,0,0,0,,Don't make me disappear.
+Dialogue: 0,0:10:24.83,0:10:29.09,Default,,0,0,0,,I've come to your rescue before,\Nwhen you were in trouble.
+Dialogue: 0,0:10:29.36,0:10:30.62,Default,,0,0,0,,Do you remember?
+Dialogue: 0,0:10:30.70,0:10:32.26,Default,,0,0,0,,Vaguely.
+Dialogue: 0,0:10:33.50,0:10:36.13,Default,,0,0,0,,Just as | can't exist\Nwithout you...
+Dialogue: 0,0:10:36.67,0:10:38.70,Default,,0,0,0,,I think I'm vital to you.
+Dialogue: 0,0:10:39.84,0:10:41.97,Default,,0,0,0,,Please try to understand.
+Dialogue: 0,0:10:44.78,0:10:45.64,Default,,0,0,0,,But...!
+Dialogue: 0,0:10:46.21,0:10:48.48,Default,,0,0,0,,You won't go any further\Nwith him?
+Dialogue: 0,0:10:48.55,0:10:51.14,Default,,0,0,0,,Because... 'm uh...\Nstill a virgin.
+Dialogue: 0,0:10:51.32,0:10:52.75,Default,,0,0,0,,Soam|
+Dialogue: 0,0:10:53.09,0:10:56.21,Default,,0,0,0,,And anyway, you like\NToru, right?
+Dialogue: 0,0:10:57.12,0:10:59.22,Default,,0,0,0,,Yeah, | do...
+Dialogue: 0,0:10:59.33,0:11:01.09,Default,,0,0,0,,But I'm not ready for\Nanything like that yet.
+Dialogue: 0,0:11:01.70,0:11:05.29,Default,,0,0,0,,Right, but you didn't come\Nout when Toru touched me!
+Dialogue: 0,0:11:06.27,0:11:09.53,Default,,0,0,0,,That's because you were\Nso determined!
+Dialogue: 0,0:11:10.20,0:11:12.64,Default,,0,0,0,,Uh, any chance you contacted\NManami...?
+Dialogue: 0,0:11:12.71,0:11:14.07,Default,,0,0,0,,Man, you're a pain!
+Dialogue: 0,0:11:14.14,0:11:16.08,Default,,0,0,0,,Just pipe down, would you?
+Dialogue: 0,0:11:16.14,0:11:17.24,Default,,0,0,0,,Beg your pardon...
+Dialogue: 0,0:11:17.94,0:11:20.41,Default,,0,0,0,,I'm just a big screw-up,\Nanyway.
+Dialogue: 0,0:11:25.12,0:11:28.45,Default,,0,0,0,,Okay, I'll change places with you\Nright now.
+Dialogue: 0,0:11:28.52,0:11:31.25,Default,,0,0,0,,But in exchange, make sure\Nyou love Toru back.
+Dialogue: 0,0:11:31.56,0:11:32.55,Default,,0,0,0,,What?
+Dialogue: 0,0:11:37.43,0:11:41.37,Default,,0,0,0,,Admit it, you felt it just as\Nmuch as | did, right?
+Dialogue: 0,0:11:42.20,0:11:45.54,Default,,0,0,0,,You have to do it back to him,\Notherwise it's so one-sided.
+Dialogue: 0,0:11:46.07,0:11:48.10,Default,,0,0,0,,| was so happy when\NToru said...
+Dialogue: 0,0:11:48.18,0:11:51.24,Default,,0,0,0,,I'm a dif ferent personality\Nfrom you.
+Dialogue: 0,0:11:52.21,0:11:56.67,Default,,0,0,0,,But he says he cares for me\Nas much as you.
+Dialogue: 0,0:11:57.48,0:11:59.61,Default,,0,0,0,,He said he likes me.
+Dialogue: 0,0:12:00.15,0:12:01.78,Default,,0,0,0,,As much as you.
+Dialogue: 0,0:12:21.51,0:12:23.00,Default,,0,0,0,,If it'll make Toru happy...
+Dialogue: 0,0:12:26.48,0:12:30.07,Default,,0,0,0,,then I'm prepared to do\Nanything for him.
+Dialogue: 0,0:12:37.46,0:12:38.69,Default,,0,0,0,,Hey, you!
+Dialogue: 0,0:12:38.76,0:12:40.85,Default,,0,0,0,,How come you're sulking\Nin bed?
+Dialogue: 0,0:12:42.23,0:12:43.92,Default,,0,0,0,,I'm crawling in!
+Dialogue: 0,0:12:44.66,0:12:46.33,Default,,0,0,0,,| like you, Toru!
+Dialogue: 0,0:12:46.57,0:12:48.33,Default,,0,0,0,,Let's keep fooling around!
+Dialogue: 0,0:12:48.77,0:12:49.50,Default,,0,0,0,,Really?
+Dialogue: 0,0:12:50.04,0:12:53.67,Default,,0,0,0,,But tonight, don't go putting\Nthis thing inside Manami.
+Dialogue: 0,0:12:53.74,0:12:54.57,Default,,0,0,0,,What?
+Dialogue: 0,0:12:54.64,0:12:56.94,Default,,0,0,0,,Then we won't even\Nbe fooling around!
+Dialogue: 0,0:12:57.01,0:12:59.84,Default,,0,0,0,,But if you break my\Nyou-know-what...
+Dialogue: 0,0:12:59.91,0:13:02.61,Default,,0,0,0,,then poor Manami won't\Nbe a virgin anymore.
+Dialogue: 0,0:13:02.72,0:13:07.28,Default,,0,0,0,,Well, I guess | can't do it\Nunless she gives the thumbs up.
+Dialogue: 0,0:13:07.85,0:13:11.52,Default,,0,0,0,,You don't know about it,\Nbut she has given the okay!
+Dialogue: 0,0:13:11.63,0:13:14.22,Default,,0,0,0,,But I'm upset, so |\Nwon't tell you!
+Dialogue: 0,0:13:14.53,0:13:19.33,Default,,0,0,0,,Man, your personality and\NManami's are like water and oil.
+Dialogue: 0,0:13:19.40,0:13:22.20,Default,,0,0,0,,How did you end up coming out\Nof Manami in the first place?
+Dialogue: 0,0:13:22.27,0:13:24.29,Default,,0,0,0,,No way!\N| don't believe it!
+Dialogue: 0,0:13:24.37,0:13:25.74,Default,,0,0,0,,Are you being serious?
+Dialogue: 0,0:13:27.41,0:13:29.97,Default,,0,0,0,,If you haven't figured it out,\Nthen I'll tell you.
+Dialogue: 0,0:13:30.04,0:13:32.67,Default,,0,0,0,,It was you that created me,\Nyou know.
+Dialogue: 0,0:13:32.75,0:13:33.74,Default,,0,0,0,,Huh?
+Dialogue: 0,0:13:34.21,0:13:36.77,Default,,0,0,0,,Come on, what's that\Nsupposed to mean?
+Dialogue: 0,0:14:36.34,0:14:38.61,Default,,0,0,0,,Nami, | can't stop...
+Dialogue: 0,0:14:41.28,0:14:42.48,Default,,0,0,0,,That's okay.
+Dialogue: 0,0:14:42.55,0:14:46.28,Default,,0,0,0,,Just let it all flow into\Nmy mouth.
+Dialogue: 0,0:14:56.13,0:14:57.43,Default,,0,0,0,,There's so much...
+Dialogue: 0,0:14:57.50,0:14:59.06,Default,,0,0,0,,It keeps on coming!
+Dialogue: 0,0:14:59.13,0:15:00.10,Default,,0,0,0,,Unreal!
+Dialogue: 0,0:15:12.95,0:15:15.97,Default,,0,0,0,,Crap! How did | end up\Ncausing all this?
+Dialogue: 0,0:15:16.15,0:15:17.62,Default,,0,0,0,,My body feels better...
+Dialogue: 0,0:15:17.68,0:15:19.74,Default,,0,0,0,,but things sure aren't\Nclear in my head.
+Dialogue: 0,0:15:20.85,0:15:22.08,Default,,0,0,0,,Good morning, Toru.
+Dialogue: 0,0:15:22.79,0:15:24.98,Default,,0,0,0,,Finish up your homework?
+Dialogue: 0,0:15:25.33,0:15:26.31,Default,,0,0,0,,Homework...?
+Dialogue: 0,0:15:26.39,0:15:27.99,Default,,0,0,0,,Oh, | managed...
+Dialogue: 0,0:15:29.76,0:15:32.25,Default,,0,0,0,,Breakfast won't be much\Nlonger now.
+Dialogue: 0,0:15:32.33,0:15:33.82,Default,,0,0,0,,Hey, where's Manami?
+Dialogue: 0,0:15:34.73,0:15:37.33,Default,,0,0,0,,She left quite a while ago,\Nout for a walk.
+Dialogue: 0,0:16:01.16,0:16:03.89,Default,,0,0,0,,M-Manami?
+Dialogue: 0,0:16:04.86,0:16:06.13,Default,,0,0,0,,Oh, Toru.
+Dialogue: 0,0:16:06.77,0:16:08.63,Default,,0,0,0,,Can I sit with you?
+Dialogue: 0,0:16:08.70,0:16:10.03,Default,,0,0,0,,Mm-hm.
+Dialogue: 0,0:16:34.56,0:16:37.22,Default,,0,0,0,,Hey, um...
+Dialogue: 0,0:16:38.50,0:16:43.30,Default,,0,0,0,,Did you hear about the other\Nperson inside you?
+Dialogue: 0,0:16:44.07,0:16:45.06,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:16:45.41,0:16:47.93,Default,,0,0,0,,I think I'd already realized it.
+Dialogue: 0,0:16:48.01,0:16:50.44,Default,,0,0,0,,So it wasn't a big surprise.
+Dialogue: 0,0:16:50.51,0:16:53.34,Default,,0,0,0,,There were times when\Nmy memory blacked out.
+Dialogue: 0,0:17:01.99,0:17:03.82,Default,,0,0,0,,Sorry about last night.
+Dialogue: 0,0:17:03.89,0:17:06.12,Default,,0,0,0,,| just had to summon you.
+Dialogue: 0,0:17:16.47,0:17:18.40,Default,,0,0,0,,No, that's okay.
+Dialogue: 0,0:17:18.47,0:17:20.63,Default,,0,0,0,,Don't worry about it.
+Dialogue: 0,0:17:21.01,0:17:24.41,Default,,0,0,0,,Anyway, if you hadn't\Nsummoned me, ...
+Dialogue: 0,0:17:24.98,0:17:25.71,Default,,0,0,0,,Manami...
+Dialogue: 0,0:17:26.68,0:17:30.55,Default,,0,0,0,,Without my knowing it,\Nthis other person inside me...
+Dialogue: 0,0:17:30.62,0:17:33.45,Default,,0,0,0,,seems to be growing\Nstronger and stronger.
+Dialogue: 0,0:17:33.52,0:17:37.29,Default,,0,0,0,,I mean, if | completely\Ndisappeared altogether-...
+Dialogue: 0,0:17:37.82,0:17:39.76,Default,,0,0,0,,what would happen to me?
+Dialogue: 0,0:17:44.33,0:17:48.43,Default,,0,0,0,,Um, | probably can't phrase\Nthis very well...
+Dialogue: 0,0:17:48.90,0:17:51.84,Default,,0,0,0,,But you have your own\Ngood points.
+Dialogue: 0,0:17:52.21,0:17:56.23,Default,,0,0,0,,Like your kindness, and your\Ndeep sense of discretion.
+Dialogue: 0,0:17:56.31,0:17:58.14,Default,,0,0,0,,So you'd never disappear.
+Dialogue: 0,0:17:59.95,0:18:00.88,Default,,0,0,0,,Toru...
+Dialogue: 0,0:18:01.61,0:18:05.71,Default,,0,0,0,,And the other personality\Nhas its own good points, too.
+Dialogue: 0,0:18:08.45,0:18:12.05,Default,,0,0,0,,But even though you\Ndon't seeiit...
+Dialogue: 0,0:18:12.13,0:18:15.96,Default,,0,0,0,,| think the charms of both\Npersonalities are yours.
+Dialogue: 0,0:18:18.40,0:18:21.30,Default,,0,0,0,,| like both sides of you,\NManami.
+Dialogue: 0,0:18:27.71,0:18:31.11,Default,,0,0,0,,So let's just calm down\Nand see how things pan out.
+Dialogue: 0,0:18:31.84,0:18:36.30,Default,,0,0,0,,I'll keep my eye on things so\Nit doesn't get you in trouble.
+Dialogue: 0,0:18:38.08,0:18:39.07,Default,,0,0,0,,Mm-hm.
+Dialogue: 0,0:18:48.96,0:18:53.26,Default,,0,0,0,,I've gotta be careful not to\Nsummon Nami for a while.
+Dialogue: 0,0:19:02.78,0:19:04.04,Default,,0,0,0,,Hey, hey!
+Dialogue: 0,0:19:15.62,0:19:16.42,Default,,0,0,0,,Here.
+Dialogue: 0,0:19:16.49,0:19:17.48,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:19:24.60,0:19:25.59,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:19:34.01,0:19:35.87,Default,,0,0,0,,Manami and Nami\NSprite
+Dialogue: 0,0:19:42.95,0:19:44.28,Default,,0,0,0,,Hey, Manami!
+Dialogue: 0,0:19:44.35,0:19:47.05,Default,,0,0,0,,There's a big sale at Pario\Ntoday, wanna go?
+Dialogue: 0,0:19:48.19,0:19:50.78,Default,,0,0,0,,No thanks, not today.
+Dialogue: 0,0:19:51.86,0:19:54.95,Default,,0,0,0,,Gee, Manami didn't seem\Nvery cheery today, did she?
+Dialogue: 0,0:19:55.86,0:19:59.16,Default,,0,0,0,,No, but hasn't she always\Nbeen that way?
+Dialogue: 0,0:19:59.70,0:20:01.17,Default,,0,0,0,,Yeah, | guess.
+Dialogue: 0,0:20:04.20,0:20:08.26,Default,,0,0,0,,What in the world's gonna\Nhappen to me?
+Dialogue: 0,0:20:16.45,0:20:20.68,Default,,0,0,0,,Manami had made up\Nher mind to accept Nami...
+Dialogue: 0,0:20:21.35,0:20:24.52,Default,,0,0,0,,but at college she became\Nmore and more withdrawn.
+Dialogue: 0,0:20:25.69,0:20:28.89,Default,,0,0,0,,Manami says she's not going\Nto college today.
+Dialogue: 0,0:20:28.96,0:20:31.73,Default,,0,0,0,,Toru, did something happen\Nto her at college?
+Dialogue: 0,0:20:31.83,0:20:34.56,Default,,0,0,0,,Well, I'm in the class\Nnext door.
+Dialogue: 0,0:20:34.63,0:20:35.76,Default,,0,0,0,,| wouldn't know.
+Dialogue: 0,0:20:35.84,0:20:37.80,Default,,0,0,0,,Yeah, | suppose.
+Dialogue: 0,0:20:37.87,0:20:41.14,Default,,0,0,0,,Can't tell her she's worried\Nabout her double personality.
+Dialogue: 0,0:20:45.71,0:20:48.48,Default,,0,0,0,,Sakumoto's become areal\Nbabe lately, huh?
+Dialogue: 0,0:20:48.55,0:20:50.35,Default,,0,0,0,,Yeah, she's gotten so bright!
+Dialogue: 0,0:20:50.42,0:20:52.65,Default,,0,0,0,,She used to be so glum before!
+Dialogue: 0,0:20:53.49,0:20:54.54,Default,,0,0,0,,| knew it!
+Dialogue: 0,0:20:54.62,0:20:59.79,Default,,0,0,0,,My other personality, Nami,\Nis much more charming!
+Dialogue: 0,0:21:00.16,0:21:00.92,Default,,0,0,0,,What?
+Dialogue: 0,0:21:00.99,0:21:03.15,Default,,0,0,0,,Manami's taking today off, too?
+Dialogue: 0,0:21:03.23,0:21:04.16,Default,,0,0,0,,Is it a cold?
+Dialogue: 0,0:21:04.23,0:21:06.93,Default,,0,0,0,,Yeah, and it's a real bugger\Nto get over, too.
+Dialogue: 0,0:21:07.43,0:21:10.06,Default,,0,0,0,,Oh, Sakumoto's taking\Ntoday off, as well?
+Dialogue: 0,0:21:10.14,0:21:11.97,Default,,0,0,0,,That's the third day in a row.
+Dialogue: 0,0:21:17.01,0:21:18.74,Default,,0,0,0,,Man, this is a problem.
+Dialogue: 0,0:21:20.01,0:21:22.67,Default,,0,0,0,,It was you that created me,\Nyou know.
+Dialogue: 0,0:21:23.42,0:21:25.25,Default,,0,0,0,,| created you?
+Dialogue: 0,0:21:25.32,0:21:26.68,Default,,0,0,0,,But how?
+Dialogue: 0,0:21:27.29,0:21:29.41,Default,,0,0,0,,Manami seems to have changed?
+Dialogue: 0,0:21:29.66,0:21:32.89,Default,,0,0,0,,Well, I guess it happened around\Nthe time Toru transferred here.
+Dialogue: 0,0:21:35.40,0:21:37.39,Default,,0,0,0,,Hey, Toru!
+Dialogue: 0,0:21:38.10,0:21:39.69,Default,,0,0,0,,My stomach's killing me!
+Dialogue: 0,0:21:39.77,0:21:41.63,Default,,0,0,0,,Take me to the sick room.
+Dialogue: 0,0:21:41.70,0:21:44.19,Default,,0,0,0,,Why don't you tell the person\Nin charge in your own class?
+Dialogue: 0,0:21:44.57,0:21:45.54,Default,,0,0,0,,Hey!!
+Dialogue: 0,0:21:45.61,0:21:48.27,Default,,0,0,0,,Are you trying to let a woman\Ndie before your eyes?
+Dialogue: 0,0:21:48.34,0:21:50.10,Default,,0,0,0,,Uh... ouch!
+Dialogue: 0,0:21:51.54,0:21:53.07,Default,,0,0,0,,Hey, the nurse isn't here.
+Dialogue: 0,0:21:55.18,0:21:56.71,Default,,0,0,0,,Oh, well.
+Dialogue: 0,0:21:56.98,0:21:58.78,Default,,0,0,0,,Here's the stomach medicine.
+Dialogue: 0,0:21:58.85,0:22:02.15,Default,,0,0,0,,I hear your dad's a doctor.
+Dialogue: 0,0:22:02.26,0:22:03.59,Default,,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:22:03.79,0:22:08.73,Default,,0,0,0,,Then | bet when you were a kid,\Nyou wanted to play doctor a lot.
+Dialogue: 0,0:22:09.06,0:22:10.39,Default,,0,0,0,,Yeah, | guess.
+Dialogue: 0,0:22:12.63,0:22:18.16,Default,,0,0,0,,In exchange for the medicine,\NI'll play adult doctor with you.
+Dialogue: 0,0:22:18.40,0:22:21.00,Default,,0,0,0,,Wait-what about your sore\Nstomach?
+Dialogue: 0,0:22:21.11,0:22:22.73,Default,,0,0,0,,Forget about that!
+Dialogue: 0,0:22:25.75,0:22:26.68,Default,,0,0,0,,Owww!
+Dialogue: 0,0:22:26.75,0:22:29.21,Default,,0,0,0,,Manami's not at college\Ntoday, right?
+Dialogue: 0,0:22:29.28,0:22:30.61,Default,,0,0,0,,What're you doing?
+Dialogue: 0,0:22:31.58,0:22:32.57,Default,,0,0,0,,Hey, hey!
+Dialogue: 0,0:22:32.82,0:22:35.55,Default,,0,0,0,,I'll be the doctor, and\Nyou be the patient!
+Dialogue: 0,0:22:35.72,0:22:37.21,Default,,0,0,0,,Stop, you idiot!
+Dialogue: 0,0:22:37.29,0:22:39.99,Default,,0,0,0,,Don't be embarrassed\Naround the doctor!
+Dialogue: 0,0:22:41.26,0:22:42.73,Default,,0,0,0,,No, Toru!
+Dialogue: 0,0:22:42.80,0:22:44.42,Default,,0,0,0,,I'm embarrassed!
+Dialogue: 0,0:22:45.60,0:22:47.36,Default,,0,0,0,,Are you being serious?
+Dialogue: 0,0:22:47.43,0:22:50.10,Default,,0,0,0,,It was you that created me,\Nyou know.
+Dialogue: 0,0:22:50.64,0:22:52.00,Default,,0,0,0,,| don't believe it!
+Dialogue: 0,0:22:52.07,0:22:54.40,Default,,0,0,0,,It was you that created me.
+Dialogue: 0,0:22:54.47,0:22:55.53,Default,,0,0,0,,Are you being serious?
+Dialogue: 0,0:22:55.61,0:22:56.37,Default,,0,0,0,,It was you...
+Dialogue: 0,0:22:56.44,0:22:58.17,Default,,0,0,0,,If you haven't figured it out...
+Dialogue: 0,0:22:58.24,0:23:00.64,Default,,0,0,0,,It was you that created me.
+Dialogue: 0,0:23:04.25,0:23:06.48,Default,,0,0,0,,NOW | REMEMBER"!
+Dialogue: 0,0:23:07.79,0:23:11.09,Default,,0,0,0,,Let's play doctor and\Nalso transformer!
+Dialogue: 0,0:23:11.36,0:23:12.45,Default,,0,0,0,,Transformer?
+Dialogue: 0,0:23:12.73,0:23:15.42,Default,,0,0,0,,Manami, you become Nami,\Na different person.
+Dialogue: 0,0:23:15.60,0:23:16.58,Default,,0,0,0,,Nami?
+Dialogue: 0,0:23:16.66,0:23:21.53,Default,,0,0,0,,Yeah, and Nami's really\Nstrong, and she's never shy!
+Dialogue: 0,0:23:23.50,0:23:25.03,Default,,0,0,0,,Okay, Nami.
+Dialogue: 0,0:23:25.10,0:23:27.13,Default,,0,0,0,,Lie on your side, and pull\Ndown your panties.
+Dialogue: 0,0:23:27.21,0:23:28.17,Default,,0,0,0,,Uh-huh.
+Dialogue: 0,0:23:29.98,0:23:32.81,Default,,0,0,0,,Toru! Let's play doctor!
+Dialogue: 0,0:23:33.51,0:23:34.50,Default,,0,0,0,,Huh?
+Dialogue: 0,0:23:35.48,0:23:38.14,Default,,0,0,0,,That's funny. It's not\Nlike my Daddy's!
+Dialogue: 0,0:23:38.92,0:23:40.82,Default,,0,0,0,,Ow, that hurts!
+Dialogue: 0,0:23:42.42,0:23:45.08,Default,,0,0,0,,You're acting weird today,\NManami!
+Dialogue: 0,0:23:45.49,0:23:47.05,Default,,0,0,0,,What're you talking about?
+Dialogue: 0,0:23:47.13,0:23:49.56,Default,,0,0,0,,When we're playing,\NI'm Nami, not Manami!
+Dialogue: 0,0:23:49.86,0:23:51.33,Default,,0,0,0,,You should know that!
+Dialogue: 0,0:23:51.70,0:23:55.57,Default,,0,0,0,,| did that all the time since\N| was a kid"!
+Dialogue: 0,0:23:58.54,0:24:00.53,Default,,0,0,0,,Um, Toru...?
+Dialogue: 0,0:24:02.38,0:24:04.71,Default,,0,0,0,,Nami had been dormant\Nfor over ten years...
+Dialogue: 0,0:24:04.78,0:24:06.97,Default,,0,0,0,,but now she's come to\Nlife again!
+Dialogue: 0,0:24:07.38,0:24:09.71,Default,,0,0,0,,And she came out when she\Nheard me calling her!
+Dialogue: 0,0:24:09.78,0:24:11.22,Default,,0,0,0,,Uh, are you okay?
+Dialogue: 0,0:24:11.75,0:24:15.02,Default,,0,0,0,,Chiaki, I'm skipping classes,\NS0 see you.
+Dialogue: 0,0:24:15.35,0:24:16.34,Default,,0,0,0,,Huh?
+Dialogue: 0,0:24:17.96,0:24:19.89,Default,,0,0,0,,Hey, wait a second...
+Dialogue: 0,0:24:20.33,0:24:21.79,Default,,0,0,0,,What's with that Toru?
+Dialogue: 0,0:24:26.10,0:24:29.23,Default,,0,0,0,,Well at least now | know\Nwhere Nami came from!
+Dialogue: 0,0:24:30.04,0:24:31.59,Default,,0,0,0,,Manami I've figured it out!
+Dialogue: 0,0:24:31.67,0:24:33.20,Default,,0,0,0,,-'ve got it.\N-Huh?
+Dialogue: 0,0:24:33.44,0:24:37.31,Default,,0,0,0,,Manami, do you remember\Ncoming to my place in Sendai...
+Dialogue: 0,0:24:37.38,0:24:40.44,Default,,0,0,0,,and playing doctor with me,\Nwhen we were small?
+Dialogue: 0,0:24:40.51,0:24:42.38,Default,,0,0,0,,No, not at all.
+Dialogue: 0,0:24:43.82,0:24:47.25,Default,,0,0,0,,Oh, | guess Nami would\Nbe the one who'd remember.
+Dialogue: 0,0:24:47.75,0:24:51.71,Default,,0,0,0,,Anyway, that's when Nami\Nwas first created.
+Dialogue: 0,0:24:51.79,0:24:54.76,Default,,0,0,0,,So if we can go back to where\Nwe left of f in Sendai...
+Dialogue: 0,0:24:54.83,0:24:57.63,Default,,0,0,0,,you'll return to your original\Nstate, and Nami will...
+Dialogue: 0,0:24:59.07,0:25:02.19,Default,,0,0,0,,Nami might disappear.
+Dialogue: 0,0:25:03.40,0:25:05.50,Default,,0,0,0,,So let's go to Sendai!
+Dialogue: 0,0:25:05.57,0:25:07.40,Default,,0,0,0,,Let's not sit here thinking\Nabout it. Let's just do it!
+Dialogue: 0,0:25:17.68,0:25:21.64,Default,,0,0,0,,| wonder if her mom really\Ntrusts me that much.
+Dialogue: 0,0:25:22.76,0:25:26.09,Default,,0,0,0,,She had no problems with\Nthe idea of going to Sendai.
+Dialogue: 0,0:25:26.26,0:25:31.70,Default,,0,0,0,,Guess she's worried about Manami,\Na top student, being so withdrawn.
+Dialogue: 0,0:25:36.04,0:25:39.37,Default,,0,0,0,,| told Manami that Nami\Nwould disappear.
+Dialogue: 0,0:25:39.97,0:25:43.77,Default,,0,0,0,,But actually, | hope neither\Nof you disappear, Nami.
+Dialogue: 0,0:26:08.70,0:26:12.73,Default,,0,0,0,,| can vaguely remember the\Nroof and posts of this house...
+Dialogue: 0,0:26:12.81,0:26:13.77,Default,,0,0,0,,But...
+Dialogue: 0,0:26:14.61,0:26:16.30,Default,,0,0,0,,it seems familiar.
+Dialogue: 0,0:26:17.68,0:26:20.41,Default,,0,0,0,,Oh, my!\NYou're all grown up!
+Dialogue: 0,0:26:20.51,0:26:22.71,Default,,0,0,0,,Honey, it's Manami,\Nfrom Tokyo!
+Dialogue: 0,0:26:22.78,0:26:24.84,Default,,0,0,0,,This is a get-well gift\Nfrom my father.
+Dialogue: 0,0:26:24.92,0:26:25.78,Default,,0,0,0,,Oh, my!
+Dialogue: 0,0:26:25.85,0:26:27.05,Default,,0,0,0,,Thanks so much!
+Dialogue: 0,0:26:29.36,0:26:31.29,Default,,0,0,0,,What are you saying, Mom?
+Dialogue: 0,0:26:31.36,0:26:32.45,Default,,0,0,0,,Looks like me!
+Dialogue: 0,0:26:32.53,0:26:34.36,Default,,0,0,0,,Not you, too, Manami!
+Dialogue: 0,0:26:38.46,0:26:40.83,Default,,0,0,0,,Manami, your cooking\Nwas delicious!
+Dialogue: 0,0:26:40.90,0:26:41.99,Default,,0,0,0,,Thanks very much!
+Dialogue: 0,0:26:42.07,0:26:43.83,Default,,0,0,0,,Now you take care, dear!
+Dialogue: 0,0:26:43.90,0:26:46.60,Default,,0,0,0,,Dad, | have a day of f tomorrow.
+Dialogue: 0,0:26:46.67,0:26:48.33,Default,,0,0,0,,So I'll take aunty back\Non my way home.
+Dialogue: 0,0:26:48.41,0:26:49.67,Default,,0,0,0,,Oh, okay.
+Dialogue: 0,0:26:49.81,0:26:50.94,Default,,0,0,0,,Good-night.
+Dialogue: 0,0:26:57.78,0:26:59.58,Default,,0,0,0,,Aren't you cold, Manami?
+Dialogue: 0,0:26:59.65,0:27:01.02,Default,,0,0,0,,No, I'm fine.
+Dialogue: 0,0:27:07.73,0:27:08.96,Default,,0,0,0,,Oh, right.
+Dialogue: 0,0:27:09.03,0:27:11.66,Default,,0,0,0,,Nami, the other personality\Ninside me...
+Dialogue: 0,0:27:11.73,0:27:14.89,Default,,0,0,0,,was born under these stars.
+Dialogue: 0,0:27:17.54,0:27:20.84,Default,,0,0,0,,You're not tired yet,\Nare you, Manami?
+Dialogue: 0,0:27:20.91,0:27:22.67,Default,,0,0,0,,Come over to my room.
+Dialogue: 0,0:27:22.74,0:27:24.21,Default,,0,0,0,,Uh-huh.
+Dialogue: 0,0:27:30.28,0:27:31.37,Default,,0,0,0,,Nami! Nami!
+Dialogue: 0,0:27:44.60,0:27:45.93,Default,,0,0,0,,Nami?
+Dialogue: 0,0:27:47.10,0:27:47.83,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:27:48.57,0:27:53.13,Default,,0,0,0,,Nami, I'm about to try\Nand make you disappear.
+Dialogue: 0,0:27:53.21,0:27:55.17,Default,,0,0,0,,But actually, | don't\Nwant to do it.
+Dialogue: 0,0:27:55.24,0:27:57.33,Default,,0,0,0,,I'm probably being\Nhypocritical...
+Dialogue: 0,0:27:57.41,0:28:00.97,Default,,0,0,0,,but could you try\Nand help out...
+Dialogue: 0,0:28:01.08,0:28:04.78,Default,,0,0,0,,so that you can both\Nreturn together?
+Dialogue: 0,0:28:07.89,0:28:09.48,Default,,0,0,0,,Sure, that's okay.
+Dialogue: 0,0:28:09.56,0:28:11.28,Default,,0,0,0,,Just do as you like.
+Dialogue: 0,0:28:11.86,0:28:14.02,Default,,0,0,0,,I'm turning back into\NManami now.
+Dialogue: 0,0:28:39.35,0:28:40.72,Default,,0,0,0,,Huh?|...
+Dialogue: 0,0:28:41.42,0:28:43.45,Default,,0,0,0,,Oh, are you awake, Manami?
+Dialogue: 0,0:28:44.12,0:28:47.62,Default,,0,0,0,,Boy, | must've been tired.
+Dialogue: 0,0:28:47.69,0:28:49.72,Default,,0,0,0,,| fell asleep at some point.
+Dialogue: 0,0:28:50.46,0:28:51.93,Default,,0,0,0,,Here it is.
+Dialogue: 0,0:28:52.00,0:28:53.19,Default,,0,0,0,,Remember this?
+Dialogue: 0,0:28:54.50,0:28:56.13,Default,,0,0,0,,Your red stethoscope!
+Dialogue: 0,0:28:56.47,0:28:59.63,Default,,0,0,0,,Yeah, the old one my dad\Ngave me.
+Dialogue: 0,0:28:59.87,0:29:02.31,Default,,0,0,0,,Remember playing doctor\Nwith this?
+Dialogue: 0,0:29:04.01,0:29:06.67,Default,,0,0,0,,You're the one who used\Na felt pen to color it red.
+Dialogue: 0,0:29:07.11,0:29:08.60,Default,,0,0,0,,What? | did?
+Dialogue: 0,0:29:10.62,0:29:13.18,Default,,0,0,0,,| remember this red color,\Nbut...
+Dialogue: 0,0:29:14.82,0:29:18.26,Default,,0,0,0,,It does seem like Nami has\Nthe strongest memories.
+Dialogue: 0,0:29:18.49,0:29:20.39,Default,,0,0,0,,Which means, | guess...
+Dialogue: 0,0:29:21.56,0:29:24.09,Default,,0,0,0,,-Anyway, let's start.\N-Start what?
+Dialogue: 0,0:29:24.96,0:29:27.80,Default,,0,0,0,,What do you mean?\NPlaying doctor, of course!
+Dialogue: 0,0:29:28.77,0:29:31.29,Default,,0,0,0,,Come off it, Toru!\NYou're kidding!
+Dialogue: 0,0:29:31.70,0:29:35.20,Default,,0,0,0,,Manami! I'm not joking around!
+Dialogue: 0,0:29:35.64,0:29:38.37,Default,,0,0,0,,This is the way to cure\Nyour split personality!
+Dialogue: 0,0:29:39.08,0:29:42.05,Default,,0,0,0,,When we played doctor as kids\NNami's personality was born...
+Dialogue: 0,0:29:42.11,0:29:44.84,Default,,0,0,0,,so that you wouldn't\Nbe embarrassed.
+Dialogue: 0,0:29:45.05,0:29:47.78,Default,,0,0,0,,So this time you've gotta\Ntry it yourself.
+Dialogue: 0,0:29:47.85,0:29:50.29,Default,,0,0,0,,Then things will probably\Nturn out differently, right?
+Dialogue: 0,0:29:50.36,0:29:52.79,Default,,0,0,0,,That was the whole point\Nof coming here!
+Dialogue: 0,0:29:56.09,0:29:57.69,Default,,0,0,0,,Mm-hm.
+Dialogue: 0,0:29:57.96,0:30:00.36,Default,,0,0,0,,Now that that's settled,\Nlet's start!
+Dialogue: 0,0:30:01.67,0:30:03.86,Default,,0,0,0,,Get real-what's with\Nthat outfit?
+Dialogue: 0,0:30:05.60,0:30:07.54,Default,,0,0,0,,This is more realistic, right?
+Dialogue: 0,0:30:13.21,0:30:15.44,Default,,0,0,0,,You're hilarious, Toru!
+Dialogue: 0,0:30:15.51,0:30:18.68,Default,,0,0,0,,Saying, "let's play doctor”, and\Nlooking so serious about it!
+Dialogue: 0,0:30:18.75,0:30:21.02,Default,,0,0,0,,No, you can't call me Toru!
+Dialogue: 0,0:30:21.09,0:30:22.14,Default,,0,0,0,,It's "doctor™
+Dialogue: 0,0:30:22.22,0:30:25.95,Default,,0,0,0,,Do it just like when we\Nwere kids, and be serious!
+Dialogue: 0,0:30:26.03,0:30:28.43,Default,,0,0,0,,Otherwise, this whole thing\Nis pointless!
+Dialogue: 0,0:30:30.93,0:30:32.73,Default,,0,0,0,,Got it?
+Dialogue: 0,0:30:32.80,0:30:33.79,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:30:33.87,0:30:35.39,Default,,0,0,0,,Well, uh, take off your top.
+Dialogue: 0,0:30:35.47,0:30:37.33,Default,,0,0,0,,And your bra, too.
+Dialogue: 0,0:30:40.14,0:30:43.04,Default,,0,0,0,,| think I'm gonna end up\Nwith a split personality!!
+Dialogue: 0,0:30:50.85,0:30:52.25,Default,,0,0,0,,Doctor...
+Dialogue: 0,0:30:52.32,0:30:53.62,Default,,0,0,0,,I've taken them off.
+Dialogue: 0,0:31:04.13,0:31:05.93,Default,,0,0,0,,Calm down... calm down...
+Dialogue: 0,0:31:06.53,0:31:09.87,Default,,0,0,0,,I've seen Nami like this\Nquite a few times.
+Dialogue: 0,0:31:10.10,0:31:13.66,Default,,0,0,0,,But to think that Manami\Nwould show me her boobs!
+Dialogue: 0,0:31:13.74,0:31:16.07,Default,,0,0,0,,It feels like a whole\Nnew experience!
+Dialogue: 0,0:31:31.46,0:31:33.45,Default,,0,0,0,,Good, that's fine.
+Dialogue: 0,0:31:33.79,0:31:37.46,Default,,0,0,0,,Next, take of f your bottoms\Nand get up on the bed.
+Dialogue: 0,0:31:37.53,0:31:38.29,Default,,0,0,0,,What?
+Dialogue: 0,0:31:39.16,0:31:40.39,Default,,0,0,0,,No..!
+Dialogue: 0,0:31:40.47,0:31:41.96,Default,,0,0,0,,This is just too embarrassing!
+Dialogue: 0,0:31:42.03,0:31:43.23,Default,,0,0,0,,Let's stop, Toru!
+Dialogue: 0,0:31:43.70,0:31:45.64,Default,,0,0,0,,I'm not Toru!
+Dialogue: 0,0:31:46.21,0:31:48.20,Default,,0,0,0,,I'm the doctor!
+Dialogue: 0,0:31:49.74,0:31:51.84,Default,,0,0,0,,Listen, Manami.
+Dialogue: 0,0:31:51.91,0:31:55.18,Default,,0,0,0,,We're doing this so that you\Ncan overcome your shyness.
+Dialogue: 0,0:31:55.68,0:31:58.62,Default,,0,0,0,,Those shy feelings that\Nmake you want to back out...
+Dialogue: 0,0:31:58.68,0:32:02.14,Default,,0,0,0,,or be rescued. They'll\Nsummon your other personality.
+Dialogue: 0,0:32:02.69,0:32:04.92,Default,,0,0,0,,So you've got to get over\Nthose feelings...
+Dialogue: 0,0:32:04.99,0:32:07.89,Default,,0,0,0,,otherwise you'll never\Nreturn to your true self.
+Dialogue: 0,0:32:09.33,0:32:10.66,Default,,0,0,0,,Understand?
+Dialogue: 0,0:32:11.16,0:32:12.72,Default,,0,0,0,,Mm-hm.
+Dialogue: 0,0:32:13.53,0:32:16.47,Default,,0,0,0,,Then let me take a look\Nat your stomach.
+Dialogue: 0,0:32:16.53,0:32:18.30,Default,,0,0,0,,Yes, Doctor.
+Dialogue: 0,0:32:19.51,0:32:22.44,Default,,0,0,0,,Does this hurt here?
+Dialogue: 0,0:32:22.77,0:32:24.17,Default,,0,0,0,,No.
+Dialogue: 0,0:32:24.24,0:32:26.34,Default,,0,0,0,,How about here?
+Dialogue: 0,0:32:26.41,0:32:28.04,Default,,0,0,0,,Or here?
+Dialogue: 0,0:32:29.11,0:32:31.28,Default,,0,0,0,,Okay then, down here?
+Dialogue: 0,0:32:31.78,0:32:34.08,Default,,0,0,0,,What, does this hurt?
+Dialogue: 0,0:32:34.79,0:32:37.28,Default,,0,0,0,,No, it doesn't hurt.
+Dialogue: 0,0:32:38.16,0:32:40.85,Default,,0,0,0,,It's a little bit stiff.
+Dialogue: 0,0:32:40.93,0:32:43.49,Default,,0,0,0,,I'd better take a closer look.
+Dialogue: 0,0:32:43.93,0:32:45.42,Default,,0,0,0,,Okay, now first...
+Dialogue: 0,0:32:46.10,0:32:47.09,Default,,0,0,0,,What?
+Dialogue: 0,0:32:48.17,0:32:50.73,Default,,0,0,0,,You MUST do what\Nthe doctor says!
+Dialogue: 0,0:33:03.25,0:33:04.61,Default,,0,0,0,,Oh, I'm so embarrassed!
+Dialogue: 0,0:33:04.68,0:33:07.45,Default,,0,0,0,,lam! I'm so totally\Nembarrassed!
+Dialogue: 0,0:33:07.99,0:33:10.82,Default,,0,0,0,,Oh, | forgot to tell you.
+Dialogue: 0,0:33:10.89,0:33:12.45,Default,,0,0,0,,Pull down your panties,\Nas well.
+Dialogue: 0,0:33:13.26,0:33:16.69,Default,,0,0,0,,No way! No way!\N| don't want to!
+Dialogue: 0,0:33:16.76,0:33:17.85,Default,,0,0,0,,Manami!
+Dialogue: 0,0:33:17.93,0:33:20.13,Default,,0,0,0,,This is your one chance\Nto turn back to normal!
+Dialogue: 0,0:33:24.44,0:33:31.14,Default,,0,0,0,,Then you pull down my\Npanties, Doctor.
+Dialogue: 0,0:33:31.41,0:33:32.74,Default,,0,0,0,,Who, me?
+Dialogue: 0,0:33:34.08,0:33:35.27,Default,,0,0,0,,Yes!
+Dialogue: 0,0:33:40.55,0:33:42.08,Default,,0,0,0,,Are you serious?
+Dialogue: 0,0:33:45.92,0:33:49.12,Default,,0,0,0,,| can't! My hands won't\Nstop shaking!
+Dialogue: 0,0:33:53.70,0:33:55.96,Default,,0,0,0,,Don't run... you mustn't\Nrun away!
+Dialogue: 0,0:33:56.03,0:33:56.76,Default,,0,0,0,,But still...!
+Dialogue: 0,0:33:59.94,0:34:01.63,Default,,0,0,0,,But... but...
+Dialogue: 0,0:34:11.68,0:34:14.78,Default,,0,0,0,,Please! That's enough\Nisn't it, Toru?
+Dialogue: 0,0:34:21.56,0:34:24.43,Default,,0,0,0,,No! Don't spread me\Nopen like that!
+Dialogue: 0,0:34:24.70,0:34:26.29,Default,,0,0,0,,No! No!
+Dialogue: 0,0:34:28.23,0:34:31.69,Default,,0,0,0,,It feels like air is going\Ndeep inside...
+Dialogue: 0,0:34:31.77,0:34:34.43,Default,,0,0,0,,Like he's looking so deep\Ninside of me!
+Dialogue: 0,0:34:45.35,0:34:46.37,Default,,0,0,0,,No!
+Dialogue: 0,0:34:46.45,0:34:47.82,Default,,0,0,0,,Is that from me?
+Dialogue: 0,0:34:47.89,0:34:48.98,Default,,0,0,0,,No way!
+Dialogue: 0,0:34:49.05,0:34:52.15,Default,,0,0,0,,Why's that sound coming\Nfrom me?
+Dialogue: 0,0:34:56.13,0:34:57.29,Default,,0,0,0,,No...
+Dialogue: 0,0:35:00.77,0:35:03.03,Default,,0,0,0,,It feels so good...
+Dialogue: 0,0:35:06.71,0:35:07.69,Default,,0,0,0,,No...
+Dialogue: 0,0:35:07.84,0:35:09.33,Default,,0,0,0,,I'm gonna scream...
+Dialogue: 0,0:35:24.62,0:35:27.15,Default,,0,0,0,,l... I'm sorry, Manami.
+Dialogue: 0,0:35:27.23,0:35:28.78,Default,,0,0,0,,| got carried away.
+Dialogue: 0,0:35:32.63,0:35:34.86,Default,,0,0,0,,What happened to Nami?
+Dialogue: 0,0:35:35.20,0:35:37.13,Default,,0,0,0,,She didn't disappear, did she?
+Dialogue: 0,0:35:37.74,0:35:39.93,Default,,0,0,0,,Forget it, you don't need to worry.
+Dialogue: 0,0:35:40.84,0:35:43.10,Default,,0,0,0,,You're pretty hot, Toru.
+Dialogue: 0,0:35:44.58,0:35:46.70,Default,,0,0,0,,Nami! You're okay?
+Dialogue: 0,0:35:47.35,0:35:48.34,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:35:49.01,0:35:53.25,Default,,0,0,0,,But how about being a little\Nmore gentle next time?
+Dialogue: 0,0:35:53.32,0:35:55.08,Default,,0,0,0,,It's really sensitive, you know.
+Dialogue: 0,0:35:55.65,0:35:58.49,Default,,0,0,0,,Aha, so you didn't disappear.
+Dialogue: 0,0:35:58.82,0:36:01.05,Default,,0,0,0,,But when did you two\Nchange over?
+Dialogue: 0,0:36:01.99,0:36:04.33,Default,,0,0,0,,When Manami blacked out.
+Dialogue: 0,0:36:04.80,0:36:06.73,Default,,0,0,0,,But we both felt it.
+Dialogue: 0,0:36:06.80,0:36:09.23,Default,,0,0,0,,Ever since Manami took\Nher clothes off.
+Dialogue: 0,0:36:10.17,0:36:13.87,Default,,0,0,0,,So what was the point\Nof my whole strategy?
+Dialogue: 0,0:36:13.94,0:36:16.03,Default,,0,0,0,,What's with the big act?
+Dialogue: 0,0:36:16.11,0:36:20.14,Default,,0,0,0,,More than half of it was just an\Namateur treatment by a pervert!
+Dialogue: 0,0:36:26.25,0:36:28.15,Default,,0,0,0,,Well, shall we keep going?
+Dialogue: 0,0:36:28.62,0:36:29.42,Default,,0,0,0,,Hey!
+Dialogue: 0,0:36:29.59,0:36:32.46,Default,,0,0,0,,Don't you think it's too soon?
+Dialogue: 0,0:36:34.76,0:36:38.36,Default,,0,0,0,,Now, you must do everything\Nthe doctor tells you!
+Dialogue: 0,0:36:40.87,0:36:42.30,Default,,0,0,0,,Nami... you...
+Dialogue: 0,0:36:43.17,0:36:45.76,Default,,0,0,0,,Doctor Nami's wearing\Nher white lab coat...
+Dialogue: 0,0:36:45.84,0:36:48.74,Default,,0,0,0,,and she won't leave any\Npatient out in the cold.
+Dialogue: 0,0:36:49.11,0:36:51.67,Default,,0,0,0,,See how swollen it is?
+Dialogue: 0,0:36:52.74,0:36:55.87,Default,,0,0,0,,I'll disinfect it with my mouth\Nor you won't get any sleep.
+Dialogue: 0,0:36:56.82,0:36:59.51,Default,,0,0,0,,This looks like a job\Nfor Doctor Nami!
+Dialogue: 0,0:37:01.52,0:37:03.15,Default,,0,0,0,,Yes please, Doctor.
+Dialogue: 0,0:37:03.69,0:37:06.02,Default,,0,0,0,,Okay, since you asked\Nso sincerely.
+Dialogue: 0,0:37:07.43,0:37:08.42,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:37:08.69,0:37:11.06,Default,,0,0,0,,I'm the woman you created,\Nafter all.
+Dialogue: 0,0:37:11.13,0:37:13.56,Default,,0,0,0,,I'll cure you any day.
+Dialogue: 0,0:37:26.14,0:37:27.44,Default,,0,0,0,,Manami.
+Dialogue: 0,0:37:27.51,0:37:29.74,Default,,0,0,0,,| couldn't help you at all.
+Dialogue: 0,0:37:29.82,0:37:32.34,Default,,0,0,0,,Hey, don't worry about it.
+Dialogue: 0,0:37:33.39,0:37:37.29,Default,,0,0,0,,Anyway, Nami's helped me\Nout a few times...
+Dialogue: 0,0:37:37.36,0:37:39.82,Default,,0,0,0,,so | think I might just\Nstay this way for a while.
+Dialogue: 0,0:37:40.46,0:37:42.45,Default,,0,0,0,,Manami!
+Dialogue: 0,0:37:43.06,0:37:45.76,Default,,0,0,0,,When | took some time of f\Nfrom college...
+Dialogue: 0,0:37:45.83,0:37:48.13,Default,,0,0,0,,| was able to talk to Nami.
+Dialogue: 0,0:37:48.20,0:37:52.93,Default,,0,0,0,,She was bawling, saying\Nshe didn't want to disappear.
+Dialogue: 0,0:37:54.91,0:37:57.10,Default,,0,0,0,,| started feeling sorry for her.
+Dialogue: 0,0:37:58.11,0:38:01.10,Default,,0,0,0,,| figured | didn't need to go\Nout of my way to get rid of her.
+Dialogue: 0,0:38:01.91,0:38:05.04,Default,,0,0,0,,Nami's me, after all, right?
+Dialogue: 0,0:38:05.12,0:38:10.61,Default,,0,0,0,,And | sure know the fear of\Nfeeling that I'd disappear, too.
+Dialogue: 0,0:38:13.06,0:38:14.55,Default,,0,0,0,,Manami...
+Dialogue: 0,0:38:16.46,0:38:19.36,Default,,0,0,0,,I'm sure I'll be a real bother\Nto you again, Toru.
+Dialogue: 0,0:38:19.87,0:38:21.26,Default,,0,0,0,,You won't be a bother!
+Dialogue: 0,0:38:21.33,0:38:24.06,Default,,0,0,0,,It's ME who's gonna try\Nnot to be a nuisance to you.
+Dialogue: 0,0:38:24.47,0:38:28.00,Default,,0,0,0,,I'll make sure that stupid\NNami doesn't get too violent!
+Dialogue: 0,0:38:33.45,0:38:36.04,Default,,0,0,0,,Well excuse me for being stupid!
+Dialogue: 0,0:38:36.58,0:38:38.81,Default,,0,0,0,,No way!
+Dialogue: 0,0:38:39.75,0:38:43.08,Default,,0,0,0,,This mouth sure has a way\Nof being cheeky!!
+Dialogue: 0,0:38:43.42,0:38:46.26,Default,,0,0,0,,I didn't think you were gonna\Nshow up!!
+Dialogue: 0,0:38:46.32,0:38:48.05,Default,,0,0,0,,That's even worse!
+Dialogue: 0,0:38:50.73,0:38:53.22,Default,,0,0,0,,Wait up, Nami!
+Dialogue: 0,0:38:54.63,0:38:57.63,Default,,0,0,0,,I'll never do you any\Nnaughty favors again!
+Dialogue: 0,0:38:59.77,0:39:02.07,Default,,0,0,0,,Keep your voice down, idiot!
+Dialogue: 0,0:39:07.28,0:39:13.08,Default,,0,0,0,,I tell you, you're gonna get\NManami in trouble!"!

@@ -26,9 +26,9 @@ Video File: ../../../../Anime/[Orphan] Elf 17 (BD 1440x1080) [D3ECF62F].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 322
-Active Line: 327
-Video Position: 26478
+Scroll Position: 413
+Active Line: 416
+Video Position: 36573
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -370,95 +370,95 @@ Dialogue: 99,0:18:15.99,0:18:17.24,Dialogue,,0,0,0,,Stai, vrei să spui că tu�
 Dialogue: 99,0:18:17.54,0:18:21.00,Dialogue,,0,0,0,,Exact. Eu sunt responsabil \Npentru defectarea navei spațiale.
 Dialogue: 99,0:18:21.00,0:18:23.71,Dialogue,,0,0,0,,Intenționam să vin pe \Nplaneta asta de la bun început.
 Dialogue: 99,0:18:24.34,0:18:29.17,Dialogue,,0,0,0,,Și știam că învingătorul concursului \Nde arte marțiale va putea ridica capacul.
-Dialogue: 99,0:18:30.13,0:18:33.39,Dialogue,,0,0,0,,Am făcut deja aranjamente cu un grup\N de negustori. Vor ajunge în curând.
-Dialogue: 99,0:18:33.39,0:18:36.68,Dialogue,,0,0,0,,Dacă le pot vinde acest vin sacru,
-Dialogue: 99,0:18:36.68,0:18:41.06,Dialogue,,0,0,0,,voi trăi ca un rege\N tot restul zilelor mele.
+Dialogue: 99,0:18:30.13,0:18:33.39,Dialogue,,0,0,0,,Am pregătit deja o întâlnire cu un grup \Nde negustori. Vor ajunge aici curând.
+Dialogue: 99,0:18:33.39,0:18:36.68,Dialogue,,0,0,0,,Dacă le voi vinde acest vin sacru,
+Dialogue: 99,0:18:36.68,0:18:41.06,Dialogue,,0,0,0,,voi trăi ca un rege pentru \Ntot restul vieții mele.
 Dialogue: 99,0:18:41.06,0:18:42.31,Dialogue,,0,0,0,,Dar asta e greșit!
-Dialogue: 99,0:18:42.31,0:18:44.21,Dialogue,,0,0,0,,Vinul acela aparține acestui loc.
-Dialogue: 99,0:18:44.21,0:18:45.31,Dialogue,,0,0,0,,Asta e greșit!
-Dialogue: 99,0:18:46.28,0:18:49.78,Dialogue,,0,0,0,,Va trebui doar să tragi\N un pui de somn câteva zile.
-Dialogue: 99,0:19:02.25,0:19:03.38,Dialogue,,0,0,0,,Hai-hui!
-Dialogue: 99,0:19:04.92,0:19:06.09,Dialogue,,0,0,0,,Acum, deci...
-Dialogue: 99,0:19:10.30,0:19:11.25,Dialogue,,0,0,0,,Salutări.
-Dialogue: 99,0:19:31.78,0:19:35.32,Dialogue,,0,0,0,,Iată-l, legendarul vin sacru din Arahasu!
-Dialogue: 99,0:19:35.32,0:19:36.62,Dialogue,,0,0,0,,Este pe bune.
+Dialogue: 99,0:18:42.31,0:18:44.21,Dialogue,,0,0,0,,Vinul aparține acestui loc.
+Dialogue: 99,0:18:44.21,0:18:45.31,Dialogue,,0,0,0,,E greșit!
+Dialogue: 99,0:18:46.28,0:18:49.78,Dialogue,,0,0,0,,Tu doar vei trage un pui \Nde somn pentru câteva zile.
+Dialogue: 99,0:19:02.25,0:19:03.38,Dialogue,,0,0,0,,Pas cu pas!
+Dialogue: 99,0:19:04.92,0:19:06.09,Dialogue,,0,0,0,,Și acum...
+Dialogue: 99,0:19:10.30,0:19:11.25,Dialogue,,0,0,0,,Uite-i.
+Dialogue: 99,0:19:31.78,0:19:35.32,Dialogue,,0,0,0,,Aici este. Legendarul \Nvin sacru din Arahasu!
+Dialogue: 99,0:19:35.32,0:19:36.62,Dialogue,,0,0,0,,E cât se poate de real.
 Dialogue: 99,0:19:36.62,0:19:38.37,Dialogue,,0,0,0,,Oh, asta e fantastic.
-Dialogue: 99,0:19:38.37,0:19:39.74,Dialogue,,0,0,0,,Grăbiți-vă! Încărcați-le!
-Dialogue: 99,0:19:41.70,0:19:43.87,Dialogue,,0,0,0,,Acum, despre plata mea...
-Dialogue: 99,0:19:43.87,0:19:46.79,Dialogue,,0,0,0,,Ah, da. Ce ziceți de asta?!
-Dialogue: 99,0:19:46.79,0:19:48.42,Dialogue,,0,0,0,,Ce? Hă?
+Dialogue: 99,0:19:38.37,0:19:39.74,Dialogue,,0,0,0,,Băieți, încărcați-l repede!
+Dialogue: 99,0:19:41.70,0:19:43.87,Dialogue,,0,0,0,,Și acum, legat de \Nrecompensa mea...
+Dialogue: 99,0:19:43.87,0:19:46.79,Dialogue,,0,0,0,,Ah, corect. Ce spui de asta?!
+Dialogue: 99,0:19:46.79,0:19:48.42,Dialogue,,0,0,0,,Stai, ce?!
 Dialogue: 99,0:19:48.42,0:19:49.75,Dialogue,,0,0,0,,Ticăloșilor! M-ați păcălit!
-Dialogue: 99,0:19:51.17,0:19:53.09,Dialogue,,0,0,0,,N-avem bani pentru tine.
-Dialogue: 99,0:19:53.09,0:19:54.28,Dialogue,,0,0,0,,Ai făcut treabă bună, totuși.
+Dialogue: 99,0:19:51.17,0:19:53.09,Dialogue,,0,0,0,,N-avem nicio \Nmonedă pentru tine.
+Dialogue: 99,0:19:53.09,0:19:54.28,Dialogue,,0,0,0,,Dar ai făcut o treabă excelentă.
 Dialogue: 99,0:19:54.28,0:19:56.17,Dialogue,,0,0,0,,La naiba...
-Dialogue: 99,0:19:56.51,0:19:57.63,Dialogue,,0,0,0,,Țintește!
+Dialogue: 99,0:19:56.51,0:19:57.63,Dialogue,,0,0,0,,Pregătiți-vă să trageți!
 Dialogue: 99,0:20:00.81,0:20:03.06,Dialogue,,0,0,0,,Dați vinul înapoi chiar acum!
-Dialogue: 99,0:20:03.48,0:20:05.94,Dialogue,,0,0,0,,Vinul ăla aparține sătenilor.
+Dialogue: 99,0:20:03.48,0:20:05.94,Dialogue,,0,0,0,,Acel vin aparține sătenilor.
 Dialogue: 99,0:20:05.94,0:20:06.89,Dialogue,,0,0,0,,Dați-l înapoi!
 Dialogue: 99,0:20:06.89,0:20:07.85,Dialogue,,0,0,0,,Domnișoara Lu!
-Dialogue: 99,0:20:09.73,0:20:11.78,Dialogue,,0,0,0,,C-Ce-i cu fata aia?! Foc!
+Dialogue: 99,0:20:09.73,0:20:11.78,Dialogue,,0,0,0,,C-Care-i treaba cu \Nfata aia?! Trageți!
 Dialogue: 99,0:20:23.79,0:20:25.08,Dialogue,,0,0,0,,Ai înțeles acum?
 Dialogue: 99,0:20:25.08,0:20:26.00,Dialogue,,0,0,0,,Dă vinul înapoi!
-Dialogue: 99,0:20:26.29,0:20:27.25,Dialogue,,0,0,0,,Dați-vă la o parte.
-Dialogue: 99,0:20:27.25,0:20:29.09,Dialogue,,0,0,0,,N-ai nicio șansă împotriva ei.
+Dialogue: 99,0:20:26.29,0:20:27.25,Dialogue,,0,0,0,,La o parte.
+Dialogue: 99,0:20:27.25,0:20:29.09,Dialogue,,0,0,0,,N-aveți nicio șansă împotriva ei.
 Dialogue: 99,0:20:29.09,0:20:29.92,Dialogue,,0,0,0,,E elfă.
-Dialogue: 99,0:20:30.88,0:20:33.88,Dialogue,,0,0,0,,Fetițo, eu sunt bodyguardul\N acestui grup de negustori.
-Dialogue: 99,0:20:35.76,0:20:39.24,Dialogue,,0,0,0,,Eu, Chilam, ucigașul a o sută de oameni,\N voi fi adversarul tău! {I hear chiramu}
-Dialogue: 99,0:20:42.68,0:20:44.18,Dialogue,,0,0,0,,Ia de-asta!
-Dialogue: 99,0:20:50.94,0:20:52.81,Dialogue,,0,0,0,,Nu voi ierta pe nimeni\N care agresează o fată!
+Dialogue: 99,0:20:30.88,0:20:33.88,Dialogue,,0,0,0,,Fetițo, eu sunt garda de corp \Na acestui grup de negustori.
+Dialogue: 99,0:20:35.76,0:20:39.24,Dialogue,,0,0,0,,Eu, Chilam, ucigașul a o sută de oameni, \Nvoi fi adversarul tău!
+Dialogue: 99,0:20:42.68,0:20:44.18,Dialogue,,0,0,0,,Ține asta!
+Dialogue: 99,0:20:50.94,0:20:52.81,Dialogue,,0,0,0,,Nu voi ierta pe nimeni \Ncare agresează o fată!
 Dialogue: 99,0:20:52.81,0:20:53.77,Dialogue,,0,0,0,,K.K.!
 Dialogue: 99,0:20:55.95,0:20:57.07,Dialogue,,0,0,0,,Întăriri?
-Dialogue: 99,0:20:57.07,0:20:58.07,Dialogue,,0,0,0,,Ia de-aici!
+Dialogue: 99,0:20:57.07,0:20:58.07,Dialogue,,0,0,0,,Țineți asta!
 Dialogue: 99,0:21:01.54,0:21:02.45,Dialogue,,0,0,0,,A sosit ajutorul.
-Dialogue: 99,0:21:02.45,0:21:03.12,Dialogue,,0,0,0,,Mulțumesc!
-Dialogue: 99,0:21:15.38,0:21:16.09,Dialogue,,0,0,0,,Am lovit-o?
-Dialogue: 99,0:21:20.47,0:21:23.72,Dialogue,,0,0,0,,Hei, voi! Terminați-i odată!
-Dialogue: 99,0:21:24.93,0:21:26.27,Dialogue,,0,0,0,,Ne mai vedem!
-Dialogue: 99,0:21:27.06,0:21:27.72,Dialogue,,0,0,0,,La naiba cu tine!
+Dialogue: 99,0:21:02.45,0:21:03.12,Dialogue,,0,0,0,,Îți mulțumesc!
+Dialogue: 99,0:21:15.38,0:21:16.09,Dialogue,,0,0,0,,I-am venit de hac?
+Dialogue: 99,0:21:20.47,0:21:23.72,Dialogue,,0,0,0,,Hei, eliminați-i odată!
+Dialogue: 99,0:21:24.93,0:21:26.27,Dialogue,,0,0,0,,Vă doresc o zi faină!
+Dialogue: 99,0:21:27.06,0:21:27.72,Dialogue,,0,0,0,,Nemernicule!
 Dialogue: 99,0:21:28.27,0:21:29.23,Dialogue,,0,0,0,,Șoferul!
-Dialogue: 99,0:22:11.27,0:22:13.44,Dialogue,,0,0,0,,Fir-ar! E blestemul!
-Dialogue: 99,0:22:28.25,0:22:30.04,Dialogue,,0,0,0,,Ah! Ce naiba sunt alea?!
-Dialogue: 99,0:22:36.92,0:22:39.13,Dialogue,,0,0,0,,Ah, am dat-o în bară!
-Dialogue: 99,0:22:39.13,0:22:42.01,Dialogue,,0,0,0,,U-Uite ce-ai făcut\N cu casa mea, fir-ar să fie!
+Dialogue: 99,0:22:11.27,0:22:13.44,Dialogue,,0,0,0,,La naiba! Blestemul s-a trezit!
+Dialogue: 99,0:22:28.25,0:22:30.04,Dialogue,,0,0,0,,Ce?! Ce naiba sunt chestiile alea?!
+Dialogue: 99,0:22:36.92,0:22:39.13,Dialogue,,0,0,0,,Vai, am făcut-o de oaie!
+Dialogue: 99,0:22:39.13,0:22:42.01,Dialogue,,0,0,0,,L-La naiba! Mi-ai distrus casa!
 Dialogue: 99,0:22:48.06,0:22:49.52,Dialogue,,0,0,0,,Ești bine, K.K.?
-Dialogue: 99,0:22:49.52,0:22:50.73,Dialogue,,0,0,0,,Desigur!
-Dialogue: 99,0:22:50.73,0:22:52.06,Dialogue,,0,0,0,,Ceva de genul ăsta nu mă va opri!
-Dialogue: 99,0:22:55.40,0:22:56.65,Dialogue,,0,0,0,,Asta vine dinspre sat.
-Dialogue: 99,0:22:56.65,0:22:59.03,Dialogue,,0,0,0,,Oh, nu! Trebuie să fie statuile lui Bacchus!
-Dialogue: 99,0:23:00.24,0:23:01.48,Dialogue,,0,0,0,,Hei, stai!
-Dialogue: 99,0:23:11.08,0:23:14.08,Dialogue,,0,0,0,,Ce intrare grandioasă! Bravo, bravo!
+Dialogue: 99,0:22:49.52,0:22:50.73,Dialogue,,0,0,0,,Evident!
+Dialogue: 99,0:22:50.73,0:22:52.06,Dialogue,,0,0,0,,Așa ceva nu mă va \Ndoborî vreodată!
+Dialogue: 99,0:22:55.40,0:22:56.65,Dialogue,,0,0,0,,Satul e în acea direcție.
+Dialogue: 99,0:22:56.65,0:22:59.03,Dialogue,,0,0,0,,Oh, nu! Probabil sunt \Nstatuile lui Bahus!
+Dialogue: 99,0:23:00.24,0:23:01.48,Dialogue,,0,0,0,,Hei, așteaptă!
+Dialogue: 99,0:23:11.08,0:23:14.08,Dialogue,,0,0,0,,Ce intrare grandioasă! \NBravo, bravo!
 Dialogue: 99,0:23:20.51,0:23:21.34,Dialogue,,0,0,0,,Îi văd!
-Dialogue: 99,0:23:27.10,0:23:28.76,Dialogue,,0,0,0,,Eu merg primul!
-Dialogue: 99,0:23:33.02,0:23:34.98,Dialogue,,0,0,0,,Fir-ar, sunt puternici.
-Dialogue: 99,0:23:38.73,0:23:39.73,Dialogue,,0,0,0,,Asta nu funcționează.
-Dialogue: 99,0:23:39.73,0:23:41.73,Dialogue,,0,0,0,,Ia de-aici!
-Dialogue: 99,0:23:43.94,0:23:46.40,Dialogue,,0,0,0,,Oh, nu, ce să fac?
-Dialogue: 99,0:23:46.95,0:23:48.87,Dialogue,,0,0,0,,{\i1}A-Aia... este... ceva foarte important!
-Dialogue: 99,0:23:48.87,0:23:50.58,Dialogue,,0,0,0,,Asta e!
+Dialogue: 99,0:23:27.10,0:23:28.76,Dialogue,,0,0,0,,Voi ataca eu primul!
+Dialogue: 99,0:23:33.02,0:23:34.98,Dialogue,,0,0,0,,La naiba. Sunt puternici.
+Dialogue: 99,0:23:38.73,0:23:39.73,Dialogue,,0,0,0,,Nu a funcționat.
+Dialogue: 99,0:23:39.73,0:23:41.73,Dialogue,,0,0,0,,Țineți asta!
+Dialogue: 99,0:23:43.94,0:23:46.40,Dialogue,,0,0,0,,Oh, nu, ce ar trebui să fac?
+Dialogue: 99,0:23:46.95,0:23:48.87,Dialogue,,0,0,0,,{\i1}A-Aia este... \Nceva foarte important!
+Dialogue: 99,0:23:48.87,0:23:50.58,Dialogue,,0,0,0,,Evrica!
 Dialogue: 99,0:23:53.46,0:23:54.04,Dialogue,,0,0,0,,Ce?!
-Dialogue: 99,0:24:00.29,0:24:01.75,Dialogue,,0,0,0,,O, omule...
+Dialogue: 99,0:24:00.29,0:24:01.75,Dialogue,,0,0,0,,Vai, vai...
 Dialogue: 99,0:24:02.25,0:24:03.71,Dialogue,,0,0,0,,Am reușit!
-Dialogue: 99,0:24:14.35,0:24:17.31,Dialogue,,0,0,0,,Lu e chiar nerușinată pentru o fată. {meaning that she hits the tanuki on their balls? penises? and is not ashamed of it}
-Dialogue: 99,0:24:22.82,0:24:24.03,Dialogue,,0,0,0,,Domnule Șofer!
-Dialogue: 99,0:24:24.28,0:24:27.12,Dialogue,,0,0,0,,Ah, domnișoara Lu! Se pare că paralizantul meu\N te-a afectat foarte puțin.
-Dialogue: 99,0:24:27.12,0:24:28.83,Dialogue,,0,0,0,,Adică, a fost o glumă!
+Dialogue: 99,0:24:14.35,0:24:17.31,Dialogue,,0,0,0,,Lu chiar e o fată nerușinată.
+Dialogue: 99,0:24:22.82,0:24:24.03,Dialogue,,0,0,0,,Domnule șofer!
+Dialogue: 99,0:24:24.28,0:24:27.12,Dialogue,,0,0,0,,Ah, domnișoara Lu! Se pare că arma \Nmea paralizantă nu prea a mers pe tine.
+Dialogue: 99,0:24:27.12,0:24:28.83,Dialogue,,0,0,0,,Adică, doar glumeam!
 Dialogue: 99,0:24:28.83,0:24:30.99,Dialogue,,0,0,0,,Oh, bravo, bravo!
-Dialogue: 99,0:24:30.99,0:24:32.95,Dialogue,,0,0,0,,Sătenii! Alteța Voastră!
-Dialogue: 99,0:24:33.37,0:24:35.33,Dialogue,,0,0,0,,Ăă, despre butoaiele astea de vin...
-Dialogue: 99,0:24:35.33,0:24:36.54,Dialogue,,0,0,0,,Îmi pare foarte rău!
-Dialogue: 99,0:24:36.54,0:24:38.34,Dialogue,,0,0,0,,Totul a început când eu...
-Dialogue: 99,0:24:38.34,0:24:40.00,Dialogue,,0,0,0,,Nu, nu, foarte bine, Lu.
+Dialogue: 99,0:24:30.99,0:24:32.95,Dialogue,,0,0,0,,Sătenii! Și Prințul!
+Dialogue: 99,0:24:33.37,0:24:35.33,Dialogue,,0,0,0,,Ei bine, aceste butoaie cu vine...
+Dialogue: 99,0:24:35.33,0:24:36.54,Dialogue,,0,0,0,,Ne cerem scuze!
+Dialogue: 99,0:24:36.54,0:24:38.34,Dialogue,,0,0,0,,Asta s-a întâmplat \Ndin cauză că eu...
+Dialogue: 99,0:24:38.34,0:24:40.00,Dialogue,,0,0,0,,Nu, nu, ai făcut o \Ntreabă foarte bună, Lu.
 Dialogue: 99,0:24:40.00,0:24:40.42,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:24:40.42,0:24:43.13,Dialogue,,0,0,0,,Da, foarte bine într-adevăr.
-Dialogue: 99,0:24:43.13,0:24:45.09,Dialogue,,0,0,0,,N-am fost niciodată atât de norocoși.
+Dialogue: 99,0:24:40.42,0:24:43.13,Dialogue,,0,0,0,,Da, o treabă foarte bună.
+Dialogue: 99,0:24:43.13,0:24:45.09,Dialogue,,0,0,0,,N-am fost niciodată \Natât de norocoși.
 Dialogue: 99,0:24:46.01,0:24:47.05,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:24:50.51,0:24:53.77,Dialogue,,0,0,0,,Din legendele străvechi, eram destul de siguri
+Dialogue: 99,0:24:50.51,0:24:53.77,Dialogue,,0,0,0,,Din legendele străvechi, \Neram destul de siguri
 Dialogue: 99,0:24:53.77,0:24:56.47,Dialogue,,0,0,0,,că vinul sacru se afla în templu.
 Dialogue: 99,0:24:56.47,0:25:00.90,Dialogue,,0,0,0,,Dar între capacul acela uriaș și statuile lui Bacchus,\N nu puteam face nimic.
 Dialogue: 99,0:25:00.90,0:25:05.45,Dialogue,,0,0,0,,Și tocmai când ajunseserăți\N la capătul puterilor, am apărut noi.
 Dialogue: 99,0:25:05.45,0:25:11.58,Dialogue,,0,0,0,,Dacă vindem vinul acela, vom deveni\N în scurt timp cel mai bogat sat de pe Arahasu.
 Dialogue: 99,0:25:12.70,0:25:13.41,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:25:25.38,0:25:27.59,Dialogue,,0,0,0,,În sfârșit v-am găsit, Alteța Voastră.
+Dialogue: 99,0:25:25.38,0:25:27.59,Dialogue,,0,0,0,,V-am găsit în sfârșit, Alteță.
 Dialogue: 99,0:25:27.59,0:25:28.47,Dialogue,,0,0,0,,Oh!
 Dialogue: 99,0:25:28.47,0:25:29.55,Dialogue,,0,0,0,,Hei, voi sunteți!
 Dialogue: 99,0:25:31.93,0:25:33.22,Dialogue,,0,0,0,,Toți!
