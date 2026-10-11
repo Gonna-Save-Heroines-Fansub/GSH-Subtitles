@@ -1,0 +1,302 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,60,60,18,1
+Style: Flashback,Gandhi Sans,25,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,60,60,18,1
+Style: Signs,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.27,0:00:04.02,Signs,SIGN,0,0,0,,DUCHY NEAR HAYDN, KINGDOM OF ASHBURY
+Dialogue: 0,0:00:01.40,0:00:04.07,Default,JEFFREY,0,0,0,,You seem well, Prince Cedric.
+Dialogue: 0,0:00:04.07,0:00:05.94,Default,CEDRIC,0,0,0,,I'm not a prince anymore.
+Dialogue: 0,0:00:05.94,0:00:09.24,Default,CEDRIC,0,0,0,,It's high time I started working \Ndiligently for the sake of this nation.
+Dialogue: 0,0:00:09.53,0:00:11.57,Default,JEFFREY,0,0,0,,Right, of course.
+Dialogue: 0,0:00:11.57,0:00:13.41,Default,CEDRIC,0,0,0,,You don't believe me.
+Dialogue: 0,0:00:13.41,0:00:19.00,Default,CEDRIC,0,0,0,,This is the land I'll be managing as duke\N once my brother ascends the throne.
+Dialogue: 0,0:00:19.33,0:00:23.00,Default,CEDRIC,0,0,0,,So I figured going ahead and \Nsettling down wasn't a bad option.
+Dialogue: 0,0:00:23.38,0:00:24.42,Default,JEFFREY,0,0,0,,Pardon?
+Dialogue: 0,0:00:25.25,0:00:27.21,Default,CEDRIC,0,0,0,,Let me introduce my fiancée.
+Dialogue: 0,0:00:27.21,0:00:29.38,Default,CEDRIC,0,0,0,,Hey, Beatrice!
+Dialogue: 0,0:00:30.38,0:00:32.43,Default,BEATRICE,0,0,0,,It's been a while, sir.
+Dialogue: 0,0:00:33.26,0:00:34.85,Default,JEFFREY,0,0,0,,Lady Beatrice?!
+Dialogue: 0,0:00:34.85,0:00:37.60,Default,CEDRIC,0,0,0,,Almost didn't recognize her, did you?
+Dialogue: 0,0:00:38.18,0:00:41.85,Default,CEDRIC,0,0,0,,She came uninvited when she heard \NI was moving to the duchy.
+Dialogue: 0,0:00:41.85,0:00:44.27,Default,JEFFREY,0,0,0,,But Lady Beatrice, you...
+Dialogue: 0,0:00:44.65,0:00:47.61,Default,BEATRICE,0,0,0,,Yes, His Highness broke \Noff our engagement once.
+Dialogue: 0,0:00:47.61,0:00:50.65,Default,BEATRICE,0,0,0,,But I couldn't give up on Prince Cedric.
+Dialogue: 0,0:00:51.41,0:00:54.91,Default,JEFFREY,0,0,0,,I see. Congratulations.
+Dialogue: 0,0:00:55.62,0:00:58.70,Default,CEDRIC,0,0,0,,From here on, I swear I'll work harder.
+Dialogue: 0,0:00:59.08,0:01:01.62,Default,CEDRIC,0,0,0,,This territory sees a lot of traffic,
+Dialogue: 0,0:01:01.62,0:01:05.17,Default,CEDRIC,0,0,0,,though its only notable event \Nis the Cadiz summer festival.
+Dialogue: 0,0:01:05.17,0:01:07.13,Default,BEATRICE,0,0,0,,Admirable attitude, Your Highness.
+Dialogue: 0,0:01:07.38,0:01:09.76,Default,CEDRIC,0,0,0,,{\an8}I told you I'm not a prince anymore.
+Dialogue: 0,0:01:07.38,0:01:10.30,Default,JEFFREY/I,0,0,0,,{\i1}The Cadiz summer festival...
+Dialogue: 0,0:01:20.68,0:01:29.10,Signs,SIGN,0,0,0,,VICTORIA OF MANY FACES
+Dialogue: 0,0:02:43.30,0:02:47.98,Signs,SIGN,0,0,0,,TOWN OF ALDE, KINGDOM OF RANDALL
+Dialogue: 0,0:02:46.44,0:02:49.94,Default,VICTORIA,0,0,0,,Thank you for waiting, party of two!
+Dialogue: 0,0:02:51.19,0:02:52.78,Default,VICTORIA,0,0,0,,That's for table three.
+Dialogue: 0,0:02:52.78,0:02:53.57,Default,NONNA,0,0,0,,That way?
+Dialogue: 0,0:02:53.57,0:02:54.11,Default,VICTORIA,0,0,0,,Yes.
+Dialogue: 0,0:02:54.11,0:02:56.07,Default,CUSTOMER,0,0,0,,Miss, another one, please.
+Dialogue: 0,0:02:56.99,0:02:58.37,Default,VICTORIA,0,0,0,,Coming!
+Dialogue: 0,0:02:59.03,0:03:03.78,Signs,SIGN,0,0,0,,EPISODE 9:\N NO MATTER WHAT HAPPENS IN THE FUTURE
+Dialogue: 0,0:03:00.95,0:03:05.54,Default,OWNER,0,0,0,,It's a real godsend to have \Ncheerful help like you. Thank you.
+Dialogue: 0,0:03:05.96,0:03:10.59,Default,VICTORIA,0,0,0,,No, I should thank you for giving \Nme and my child a place to stay.
+Dialogue: 0,0:03:10.59,0:03:12.38,Default,OWNER,0,0,0,,Listen, Maria.
+Dialogue: 0,0:03:12.38,0:03:15.05,Default,OWNER,0,0,0,,About the shawl you \Ngave me the other day...
+Dialogue: 0,0:03:15.05,0:03:18.26,Default,OWNER,0,0,0,,I'll pay you, so would you \Nknit one for my daughter?
+Dialogue: 0,0:03:18.72,0:03:21.68,Default,VICTORIA,0,0,0,,Yes, I'd be happy to.
+Dialogue: 0,0:03:21.97,0:03:26.77,Default,OWNER,0,0,0,,After the Cadiz summer festival is over \Nnext week, it'll get cold lickety-split.
+Dialogue: 0,0:03:27.85,0:03:29.11,Default,VICTORIA,0,0,0,,Cadiz?
+Dialogue: 0,0:03:29.44,0:03:30.94,Default,OWNER,0,0,0,,You've never been there?
+Dialogue: 0,0:03:30.94,0:03:34.86,Default,OWNER,0,0,0,,There'll be tons of people, \Nand it'll be lively with tons of stalls.
+Dialogue: 0,0:03:35.32,0:03:37.99,Default,VICTORIA,0,0,0,,But we're in a different country.
+Dialogue: 0,0:03:37.99,0:03:41.87,Default,OWNER,0,0,0,,On that day only, there will \Nbe ferries from here to Cadiz.
+Dialogue: 0,0:03:42.79,0:03:44.87,Default,OWNER,0,0,0,,With the special ferry service,
+Dialogue: 0,0:03:44.87,0:03:48.92,Default,OWNER,0,0,0,,you can easily get to Ashbury\N and bypass the checkpoints.
+Dialogue: 0,0:03:48.92,0:03:50.21,Default,NONNA,0,0,0,,There's a festival?
+Dialogue: 0,0:03:50.79,0:03:52.34,Default,VICTORIA,0,0,0,,I see.
+Dialogue: 0,0:03:52.34,0:03:53.42,Default,NONNA,0,0,0,,I want to go!
+Dialogue: 0,0:03:53.42,0:03:55.51,Default,NONNA,0,0,0,,Mom, I want to go!
+Dialogue: 0,0:03:56.59,0:03:57.59,Default,VICTORIA,0,0,0,,Right.
+Dialogue: 0,0:03:59.14,0:04:01.39,Default,VICTORIA,0,0,0,,Okay, then shall we go?
+Dialogue: 0,0:04:01.39,0:04:02.51,Default,NONNA,0,0,0,,Really?!
+Dialogue: 0,0:04:03.51,0:04:05.06,Default,NONNA,0,0,0,,Yay!
+Dialogue: 0,0:04:07.94,0:04:12.48,Default,VICTORIA/I,0,0,0,,{\i1}Does the captain remember \Nthe promise we made back then?
+Dialogue: 0,0:04:13.77,0:04:18.95,Default,VICTORIA/I,0,0,0,,{\i1}It's not like we could go back to how \Nthings were, even if we're reunited.
+Dialogue: 0,0:04:21.95,0:04:27.33,Default,VICTORIA/I,0,0,0,,{\i1}Since when did I start \Nthinking so irrationally?
+Dialogue: 0,0:04:30.67,0:04:32.67,Default,VICTORIA/I,0,0,0,,{\i1}I must be tired.
+Dialogue: 0,0:04:33.13,0:04:35.55,Default,VICTORIA/I,0,0,0,,{\i1}Too tired for my mind to work properly.
+Dialogue: 0,0:04:39.51,0:04:45.18,Default,VICTORIA/I,0,0,0,,{\i1}I left special ops to be free, \N yet I feel so lonely and distressed.
+Dialogue: 0,0:04:45.56,0:04:52.40,Default,VICTORIA/I,0,0,0,,{\i1}There's another me who keeps pleading that\Nshe's lonely, like an unreasonable child.
+Dialogue: 0,0:04:53.61,0:04:58.28,Default,VICTORIA/I,0,0,0,,{\i1}If I went back to special ops,\Nwould I stop feeling like this?
+Dialogue: 0,0:04:59.20,0:05:00.20,Default,VICTORIA/I,0,0,0,,{\i1}But...
+Dialogue: 0,0:05:02.37,0:05:05.28,Default,VICTORIA/I,0,0,0,,{\i1}I cannot let Nonna anywhere near them.
+Dialogue: 0,0:05:05.95,0:05:07.87,Default,VICTORIA/I,0,0,0,,{\i1}That much, I'm certain of.
+Dialogue: 0,0:05:11.03,0:05:15.29,Signs,SIGN,0,0,0,,DAY OF THE CADIZ SUMMER FESTIVAL
+Dialogue: 0,0:05:17.42,0:05:22.59,Default,VICTORIA/I,0,0,0,,{\i1}Does the captain remember our \Ntrivial promise from that day?
+Dialogue: 0,0:05:24.47,0:05:25.93,Default,VICTORIA/I,0,0,0,,{\i1}Stop it.
+Dialogue: 0,0:05:25.93,0:05:28.85,Default,VICTORIA/I,0,0,0,,{\i1}Don't selfishly get your hopes up \Nafter you fled without a word.
+Dialogue: 0,0:05:31.98,0:05:33.69,Default,NONNA,0,0,0,,Mom, look!
+Dialogue: 0,0:05:34.48,0:05:36.94,Default,VICTORIA,0,0,0,,Excited for the Cadiz \Nsummer festival, huh?
+Dialogue: 0,0:05:36.94,0:05:37.69,Default,NONNA,0,0,0,,Yeah!
+Dialogue: 0,0:05:49.58,0:05:53.75,Default,VICTORIA/I,0,0,0,,{\i1}Ah, he couldn't possibly find me here \Nwhen there are so many people.
+Dialogue: 0,0:05:54.25,0:05:59.05,Default,VICTORIA/I,0,0,0,,{\i1}No, stop consoling yourself by looking \Nfor reasons he couldn't find you.
+Dialogue: 0,0:06:02.38,0:06:04.01,Default,NONNA,0,0,0,,Mom, over there.
+Dialogue: 0,0:06:14.77,0:06:19.32,Default,JEFFREY,0,0,0,,Our mission today is to see the festival\N to a smooth and safe end.
+Dialogue: 0,0:06:19.78,0:06:21.86,Default,JEFFREY,0,0,0,,Report everything, however minor.
+Dialogue: 0,0:06:21.86,0:06:22.82,Default,SUBORDINATES,0,0,0,,Yes, sir!
+Dialogue: 0,0:06:27.12,0:06:30.54,Default,NONNA,0,0,0,,This is really sweet and tasty, Mom.
+Dialogue: 0,0:06:31.45,0:06:33.16,Default,VICTORIA,0,0,0,,Yes, it is.
+Dialogue: 0,0:06:33.16,0:06:35.46,Default,NONNA,0,0,0,,Oh, you got some on your face, Mom.
+Dialogue: 0,0:06:41.38,0:06:43.38,Default,VICTORIA,0,0,0,,Thank you, Nonna.
+Dialogue: 0,0:06:44.09,0:06:45.63,Default,MAN,0,0,0,,The hour's growing late.
+Dialogue: 0,0:06:45.63,0:06:47.93,Default,WOMAN,0,0,0,,The candle boats will \Nstart coming down again.
+Dialogue: 0,0:06:54.19,0:06:56.69,Default,VICTORIA,0,0,0,,It sounds like we'll have a \Nbetter view from the bridge.
+Dialogue: 0,0:06:57.23,0:06:58.44,Default,NONNA,0,0,0,,Let's go!
+Dialogue: 0,0:07:04.99,0:07:06.16,Default,VICTORIA,0,0,0,,Are you okay?
+Dialogue: 0,0:07:06.16,0:07:07.57,Default,NONNA,0,0,0,,Yeah, I'm fine.
+Dialogue: 0,0:07:09.45,0:07:12.16,Default,JEFFREY,0,0,0,,It's livelier than I expected.
+Dialogue: 0,0:07:12.16,0:07:15.75,Default,SUBORDINATE 1,0,0,0,,Yes. Every year, many people \Ncome visit to reminisce
+Dialogue: 0,0:07:15.75,0:07:20.04,Default,SUBORDINATE 1,0,0,0,,about departed loved ones, \Nincluding family, lovers, and friends.
+Dialogue: 0,0:07:21.00,0:07:22.71,Default,JEFFREY,0,0,0,,Let's patrol the other side of the bridge.
+Dialogue: 0,0:07:28.55,0:07:30.39,Default,NONNA,0,0,0,,Come on, come on!
+Dialogue: 0,0:07:30.39,0:07:31.60,Default,VICTORIA,0,0,0,,Be careful.
+Dialogue: 0,0:07:51.28,0:07:52.74,Default,NONNA,0,0,0,,How pretty.
+Dialogue: 0,0:08:00.13,0:08:02.04,Default,VICTORIA,0,0,0,,Watch your step.
+Dialogue: 0,0:08:02.04,0:08:02.84,Default,NONNA,0,0,0,,Okay!
+Dialogue: 0,0:08:20.23,0:08:24.32,Default,VICTORIA/I,0,0,0,,{\i1}Dad, Mom, Emily...
+Dialogue: 0,0:08:25.11,0:08:28.24,Default,VICTORIA/I,0,0,0,,{\i1}I miss you. I want to see you.
+Dialogue: 0,0:08:30.16,0:08:34.79,Default,VICTORIA/I,0,0,0,,{\i1}I've been doing my best, \Nbut I feel tired.
+Dialogue: 0,0:08:46.55,0:08:48.01,Default,NONNA,0,0,0,,Mom?
+Dialogue: 0,0:08:51.14,0:08:53.64,Default,VICTORIA,0,0,0,,I'm sorry, Nonna.
+Dialogue: 0,0:08:54.64,0:08:56.06,Default,VICTORIA,0,0,0,,I'm fine.
+Dialogue: 0,0:08:58.52,0:09:02.27,Default,NONNA,0,0,0,,It's okay. Mom can cry, you know?
+Dialogue: 0,0:09:13.70,0:09:14.95,Default,JEFFREY,0,0,0,,I'll leave you to it.
+Dialogue: 0,0:09:14.95,0:09:16.99,Default,JEFFREY,0,0,0,,I'll be on standby at headquarters.
+Dialogue: 0,0:09:16.99,0:09:18.12,Default,SUBORDINATE 1,0,0,0,,Understood, sir.
+Dialogue: 0,0:09:31.72,0:09:33.76,Default,JEFFREY,0,0,0,,This covered button...
+Dialogue: 0,0:09:49.19,0:09:51.82,Default,VICTORIA,0,0,0,,Shall we buy something to take home?
+Dialogue: 0,0:10:00.91,0:10:02.54,Default,NONNA,0,0,0,,Jeff!
+Dialogue: 0,0:10:02.54,0:10:03.62,Default,JEFFREY,0,0,0,,Nonna!
+Dialogue: 0,0:10:05.21,0:10:07.13,Default,JEFFREY,0,0,0,,Have you been a good girl?
+Dialogue: 0,0:10:07.13,0:10:08.21,Default,NONNA,0,0,0,,Yes!
+Dialogue: 0,0:10:13.38,0:10:18.01,Default,JEFFREY,0,0,0,,I was going to come to this festival \Nevery year until I could find you...
+Dialogue: 0,0:10:18.39,0:10:20.47,Default,JEFFREY,0,0,0,,But I managed to find you on year one.
+Dialogue: 0,0:10:32.03,0:10:33.99,Default,JEFFREY,0,0,0,,I live here now.
+Dialogue: 0,0:10:33.99,0:10:36.07,Default,VICTORIA,0,0,0,,This is your house, Captain?
+Dialogue: 0,0:10:36.07,0:10:37.95,Default,JEFFREY,0,0,0,,I'm not a captain anymore.
+Dialogue: 0,0:10:38.78,0:10:41.54,Default,JEFFREY,0,0,0,,Right now, I'm the security \Nadministrator of this area.
+Dialogue: 0,0:10:43.87,0:10:45.25,Default,JEFFREY,0,0,0,,I'm glad you're safe.
+Dialogue: 0,0:10:46.04,0:10:49.80,Default,JEFFREY,0,0,0,,You have no idea how I worried was.
+Dialogue: 0,0:10:51.55,0:10:53.09,Default,VICTORIA,0,0,0,,I'm sorry.
+Dialogue: 0,0:10:53.76,0:10:56.22,Default,JEFFREY,0,0,0,,It's fine. There's no need to apologize.
+Dialogue: 0,0:10:56.22,0:10:57.97,Default,JEFFREY,0,0,0,,I don't want an apology.
+Dialogue: 0,0:11:00.56,0:11:04.94,Default,JEFFREY,0,0,0,,More importantly, there's \Nso much I need to tell you.
+Dialogue: 0,0:11:13.19,0:11:14.61,Default,VICTORIA,0,0,0,,I see.
+Dialogue: 0,0:11:15.11,0:11:17.41,Default,VICTORIA,0,0,0,,A death squad from Hagl...
+Dialogue: 0,0:11:17.41,0:11:22.16,Default,JEFFREY,0,0,0,,After we discussed it at the castle, \Nit was decided that you passed away,
+Dialogue: 0,0:11:22.16,0:11:26.37,Default,JEFFREY,0,0,0,,at the cost of those in power in \NAshbury learning your true identity.
+Dialogue: 0,0:11:27.12,0:11:29.96,Default,VICTORIA,0,0,0,,I'm sorry to have caused \Neveryone trouble.
+Dialogue: 0,0:11:30.92,0:11:32.30,Default,JEFFREY,0,0,0,,Don't worry about it.
+Dialogue: 0,0:11:32.30,0:11:34.59,Default,JEFFREY,0,0,0,,And you don't need to run anymore.
+Dialogue: 0,0:11:37.43,0:11:40.39,Default,JEFFREY,0,0,0,,From here on, you can \Nrelax and live your life.
+Dialogue: 0,0:11:40.97,0:11:42.64,Default,JEFFREY,0,0,0,,Right here, with me.
+Dialogue: 0,0:11:45.52,0:11:46.98,Default,VICTORIA,0,0,0,,Captain...
+Dialogue: 0,0:11:46.98,0:11:48.35,Default,JEFFREY,0,0,0,,Call me Jeff.
+Dialogue: 0,0:11:49.23,0:11:51.86,Default,VICTORIA,0,0,0,,Jeff, there's something \NI need to tell you.
+Dialogue: 0,0:11:53.19,0:11:57.78,Default,VICTORIA,0,0,0,,Joining the training institute at eight,\N I was forced to abandon my real name.
+Dialogue: 0,0:11:58.24,0:12:01.24,Default,VICTORIA,0,0,0,,I was given the alias "Chloe" as an agent.
+Dialogue: 0,0:12:02.03,0:12:04.79,Default,VICTORIA,0,0,0,,Ever since then, I've never \Nintroduced myself as such, but...
+Dialogue: 0,0:12:06.58,0:12:10.33,Default,VICTORIA,0,0,0,,My real name is Anna.
+Dialogue: 0,0:12:11.63,0:12:13.00,Default,VICTORIA,0,0,0,,Anna Dale.
+Dialogue: 0,0:12:13.63,0:12:18.55,Default,VICTORIA,0,0,0,,That's the precious name my \Nfather and my mother gave me.
+Dialogue: 0,0:12:21.35,0:12:22.56,Default,VICTORIA,0,0,0,,What's wrong?
+Dialogue: 0,0:12:25.98,0:12:29.02,Default,JEFFREY,0,0,0,,Actually, I have a secret of my own.
+Dialogue: 0,0:12:32.61,0:12:38.49,Default,JEFFREY,0,0,0,,I intend to live the rest of my life with \Nyou, so I should tell you this now.
+Dialogue: 0,0:12:40.99,0:12:43.45,Default,JEFFREY,0,0,0,,It's a secret between me and my brother.
+Dialogue: 0,0:12:43.45,0:12:46.50,Default,JEFFREY,0,0,0,,We grew up under... \Nslightly unique circumstances.
+Dialogue: 0,0:12:46.50,0:12:51.71,Default,VICTORIA,0,0,0,,It's all right. I don't need to \Nknow everything about your past.
+Dialogue: 0,0:12:53.63,0:12:56.01,Default,JEFFREY,0,0,0,,No. Someday, there will come a time
+Dialogue: 0,0:12:56.01,0:12:59.76,Default,JEFFREY,0,0,0,,you wonder why my brother \Nworries about me so much.
+Dialogue: 0,0:13:00.89,0:13:01.97,Default,VICTORIA,0,0,0,,Let me hear it.
+Dialogue: 0,0:13:02.72,0:13:07.06,Default,JEFFREY,0,0,0,,Our father lived with another \Nfamily, separately from us.
+Dialogue: 0,0:13:07.39,0:13:09.35,Default,JEFFREY,0,0,0,,For nobility, that's not rare.
+Dialogue: 0,0:13:09.35,0:13:13.15,Default,JEFFREY,0,0,0,,But around the time \Nhis mistress had a child...
+Dialogue: 0,0:13:14.86,0:13:16.82,Default,JEFFREY,0,0,0,,he started to beat us.
+Dialogue: 0,0:13:18.36,0:13:21.78,Default,JEFFREY,0,0,0,,That broke my mother early on.
+Dialogue: 0,0:13:22.57,0:13:29.16,Default,JEFFREY,0,0,0,,And for a while, my brother would take\Nthe beatings to shield me and my mother.
+Dialogue: 0,0:13:31.79,0:13:35.96,Default,JEFFREY,0,0,0,,To avert our eyes from cruel reality, \Nmy brother threw himself into his studies,
+Dialogue: 0,0:13:35.96,0:13:38.13,Default,JEFFREY,0,0,0,,and I became obsessed with swordsmanship.
+Dialogue: 0,0:13:38.88,0:13:42.59,Default,JEFFREY,0,0,0,,Years went by, and one day...
+Dialogue: 0,0:13:43.47,0:13:46.72,Default,JEFFREY,0,0,0,,My father was about to whip\N my brother like he always did...
+Dialogue: 0,0:13:56.69,0:13:57.44,Flashback,YOUNG EDWARD,0,0,0,,Jeff!
+Dialogue: 0,0:13:57.44,0:14:00.49,Flashback,BOY JEFFREY,0,0,0,,Brother, let me kill him.
+Dialogue: 0,0:14:00.49,0:14:03.16,Flashback,BOY JEFFREY,0,0,0,,And then you can expel me from the family.
+Dialogue: 0,0:14:03.91,0:14:06.70,Flashback,BOY JEFFREY,0,0,0,,Thank you for protecting \Nme all these years.
+Dialogue: 0,0:14:07.58,0:14:09.91,Default,JEFFREY,0,0,0,,I truly meant it.
+Dialogue: 0,0:14:10.62,0:14:16.13,Flashback,YOUNG EDWARD,0,0,0,,As of today, I will be \Nthe head of House Asher.
+Dialogue: 0,0:14:16.96,0:14:21.05,Flashback,YOUNG EDWARD,0,0,0,,You can hand the position over to me
+Dialogue: 0,0:14:21.05,0:14:23.51,Flashback,YOUNG EDWARD,0,0,0,,or die here and now at our hands.
+Dialogue: 0,0:14:23.51,0:14:25.39,Flashback,YOUNG EDWARD,0,0,0,,The choice is yours.
+Dialogue: 0,0:14:25.39,0:14:31.10,Flashback,YOUNG EDWARD,0,0,0,,I've already secured a doctor \Nwho will report it was a heart attack,
+Dialogue: 0,0:14:31.10,0:14:33.31,Flashback,YOUNG EDWARD,0,0,0,,regardless of how you die.
+Dialogue: 0,0:14:37.77,0:14:43.32,Default,JEFFREY,0,0,0,,My brother had planned ahead, \Nknowing exactly what would happen.
+Dialogue: 0,0:14:44.11,0:14:45.07,Default,VICTORIA,0,0,0,,Jeff...
+Dialogue: 0,0:14:45.61,0:14:48.33,Default,JEFFREY,0,0,0,,After my father left, my brother said,
+Dialogue: 0,0:14:48.33,0:14:50.62,Default,JEFFREY,0,0,0,,"I should have done this sooner.
+Dialogue: 0,0:14:50.62,0:14:54.29,Default,JEFFREY,0,0,0,,Please forgive me for not having \Nthe courage." He cried.
+Dialogue: 0,0:14:55.21,0:15:00.34,Default,JEFFREY,0,0,0,,From then on, he's been a guardian\Nto me and my mother, watching over us.
+Dialogue: 0,0:15:01.76,0:15:05.05,Default,JEFFREY,0,0,0,,My brother and I have backed \Neach other up since then.
+Dialogue: 0,0:15:05.97,0:15:08.85,Default,JEFFREY,0,0,0,,We could have been killed at any point.
+Dialogue: 0,0:15:09.85,0:15:12.06,Default,JEFFREY,0,0,0,,My father died two years ago.
+Dialogue: 0,0:15:15.27,0:15:20.82,Default,VICTORIA/I,0,0,0,,{\i1}It was only for eight years, but I do \Nknow the loving warmth of a family.
+Dialogue: 0,0:15:21.32,0:15:23.94,Default,VICTORIA/I,0,0,0,,{\i1}You never even had that luxury.
+Dialogue: 0,0:15:25.61,0:15:31.58,Default,VICTORIA/I,0,0,0,,{\i1}Master Edward and Jeffrey lived\N through the hell called family.
+Dialogue: 0,0:15:32.66,0:15:38.33,Default,VICTORIA,0,0,0,,Jeff, I will protect you \Nand Nonna with my life.
+Dialogue: 0,0:15:38.96,0:15:41.30,Default,VICTORIA,0,0,0,,Let's make a happy family.
+Dialogue: 0,0:15:43.05,0:15:46.22,Default,JEFFREY,0,0,0,,That's supposed to be my line.
+Dialogue: 0,0:15:46.22,0:15:48.47,Default,JEFFREY,0,0,0,,Give me a chance to show off too.
+Dialogue: 0,0:15:53.43,0:15:56.52,Default,JEFFREY,0,0,0,,Anna, would you please marry me?
+Dialogue: 0,0:15:58.69,0:15:59.65,Default,VICTORIA,0,0,0,,Yes.
+Dialogue: 0,0:16:05.40,0:16:08.36,Default,EDWARD,0,0,0,,Good, you finally found her.
+Dialogue: 0,0:16:08.78,0:16:11.99,Default,EDWARD,0,0,0,,Then we must secure her safety first.
+Dialogue: 0,0:16:11.99,0:16:14.20,Default,MIKE,0,0,0,,We'll move forward with the process.
+Dialogue: 0,0:16:14.20,0:16:19.17,Default,EDWARD,0,0,0,,Yes. Jeffrey needs her in his life.
+Dialogue: 0,0:16:20.13,0:16:23.80,Default,VICTORIA,0,0,0,,I'm sorry I have to quit so suddenly.
+Dialogue: 0,0:16:24.51,0:16:27.34,Default,VICTORIA,0,0,0,,This is the shawl for your daughter.
+Dialogue: 0,0:16:27.34,0:16:28.63,Default,OWNER,0,0,0,,Thank you.
+Dialogue: 0,0:16:29.14,0:16:30.89,Default,VICTORIA,0,0,0,,You don't need to pay me.
+Dialogue: 0,0:16:30.89,0:16:32.60,Default,VICTORIA,0,0,0,,Please take it.
+Dialogue: 0,0:16:32.60,0:16:34.60,Default,OWNER,0,0,0,,Did something good happen?
+Dialogue: 0,0:16:34.60,0:16:37.56,Default,OWNER,0,0,0,,As long as you're happy, \Nthat's what matters, Maria.
+Dialogue: 0,0:16:38.02,0:16:41.40,Default,VICTORIA,0,0,0,,Thank you very much for \Neverything you've done for us.
+Dialogue: 0,0:16:44.57,0:16:48.40,Default,VICTORIA,0,0,0,,You haven't told Prince Cedric\N about me either?
+Dialogue: 0,0:16:48.40,0:16:52.24,Default,JEFFREY,0,0,0,,Right. If the castle hears about it, \Nwe'll be in a pickle.
+Dialogue: 0,0:16:53.78,0:16:58.46,Default,JEFFREY,0,0,0,,You should tend sheep \Nand live the relaxed life you wanted.
+Dialogue: 0,0:17:03.25,0:17:05.96,Default,MIKE,0,0,0,,Lord Asher, it's a pleasure to meet you.
+Dialogue: 0,0:17:05.96,0:17:07.55,Default,MIKE,0,0,0,,My name is Mike.
+Dialogue: 0,0:17:09.84,0:17:13.60,Default,JEFFREY,0,0,0,,So the Third Order of the \NKnights had surveillance on me...
+Dialogue: 0,0:17:13.60,0:17:16.22,Default,MIKE,0,0,0,,To make sure that you all are safe.
+Dialogue: 0,0:17:17.35,0:17:18.39,Default,JEFFREY,0,0,0,,What do you want?
+Dialogue: 0,0:17:18.39,0:17:19.64,Default,MIKE,0,0,0,,Miss Victoria.
+Dialogue: 0,0:17:20.10,0:17:25.65,Default,MIKE,0,0,0,,You can't be witnessed in this duchy, \Nor there will be trouble.
+Dialogue: 0,0:17:26.19,0:17:32.41,Default,MIKE,0,0,0,,My superior thinks you should completely \Ndisappear until the dust settles.
+Dialogue: 0,0:17:33.53,0:17:36.45,Default,JEFFREY,0,0,0,,I have no idea who your boss is,
+Dialogue: 0,0:17:36.45,0:17:39.00,Default,JEFFREY,0,0,0,,but I have no intention of \Nbeing separated from Anna.
+Dialogue: 0,0:17:39.00,0:17:43.25,Default,MIKE,0,0,0,,Then the best course of action \Nis for both of you to go to Shen.
+Dialogue: 0,0:17:43.88,0:17:45.13,Default,JEFFREY,0,0,0,,Shen?
+Dialogue: 0,0:17:45.50,0:17:50.26,Default,MIKE,0,0,0,,Surely you're aware of the wonder of\Nmedicine from Shen, beyond the continent.
+Dialogue: 0,0:17:50.84,0:17:55.43,Default,MIKE,0,0,0,,We'd like you to help export \Ntheir medicine, Lord Asher.
+Dialogue: 0,0:17:55.43,0:17:58.35,Default,JEFFREY,0,0,0,,Medicine... I see.
+Dialogue: 0,0:17:58.35,0:18:00.56,Default,JEFFREY,0,0,0,,Anna, what would you like to do?
+Dialogue: 0,0:18:00.98,0:18:03.35,Default,VICTORIA,0,0,0,,I'm grateful for the offer.
+Dialogue: 0,0:18:03.65,0:18:07.07,Default,VICTORIA,0,0,0,,Mr. Mike, we can take \NNonna with us, correct?
+Dialogue: 0,0:18:07.07,0:18:08.28,Default,MIKE,0,0,0,,Of course.
+Dialogue: 0,0:18:08.65,0:18:12.70,Default,MIKE,0,0,0,,Travel and accommodations for the three\Nof you will be at the government's expense.
+Dialogue: 0,0:18:13.07,0:18:16.33,Default,VICTORIA,0,0,0,,The government wants \Nto pay for all three of us?
+Dialogue: 0,0:18:16.33,0:18:20.33,Default,VICTORIA,0,0,0,,House Asher offered\N to cover the full amount.
+Dialogue: 0,0:18:20.33,0:18:22.04,Default,VICTORIA,0,0,0,,But some didn't appreciate
+Dialogue: 0,0:18:22.04,0:18:25.46,Default,VICTORIA,0,0,0,,the idea of House Asher \Nmonopolizing all ties with Shen.
+Dialogue: 0,0:18:27.59,0:18:31.67,Default,VICTORIA,0,0,0,,In two weeks' time, a ship from Shen\N should arrive at the port.
+Dialogue: 0,0:18:33.72,0:18:38.89,Default,VICTORIA,0,0,0,,Mr. Mike, why are you helping me,\N a former agent of a foreign nation?
+Dialogue: 0,0:18:39.31,0:18:40.77,Default,VICTORIA,0,0,0,,Until now, I have...
+Dialogue: 0,0:18:41.10,0:18:46.23,Default,MIKE,0,0,0,,Helped a death row inmate escape?\NCaused a fuss at a ball?
+Dialogue: 0,0:18:46.86,0:18:47.90,Default,VICTORIA,0,0,0,,Right.
+Dialogue: 0,0:18:48.73,0:18:51.78,Default,MIKE,0,0,0,,So my boss's speculation was correct.
+Dialogue: 0,0:18:52.11,0:18:56.74,Default,MIKE,0,0,0,,But if I answer that question, \NI'll lose my job.
+Dialogue: 0,0:18:58.12,0:19:03.16,Default,MIKE,0,0,0,,Someone needs you more than you know.
+Dialogue: 0,0:19:05.75,0:19:07.71,Default,VICTORIA/I,0,0,0,,{\i1}I don't know why,
+Dialogue: 0,0:19:07.71,0:19:09.88,Default,VICTORIA/I,0,0,0,,{\i1}but the Third Order must have determined
+Dialogue: 0,0:19:09.88,0:19:12.13,Default,VICTORIA/I,0,0,0,,{\i1}there was a benefit in saving me.
+Dialogue: 0,0:19:12.13,0:19:14.68,Default,NONNA,0,0,0,,Are we going to a place called Shen?
+Dialogue: 0,0:19:14.68,0:19:17.01,Default,NONNA,0,0,0,,All of us together?
+Dialogue: 0,0:19:17.01,0:19:20.85,Default,JEFFREY,0,0,0,,That's right. But on one condition.
+Dialogue: 0,0:19:30.69,0:19:34.82,Default,JEFFREY,0,0,0,,Nonna, will you be my daughter?
+Dialogue: 0,0:19:34.82,0:19:37.99,Default,NONNA,0,0,0,,You're going to be my dad?
+Dialogue: 0,0:19:37.99,0:19:38.99,Default,JEFFREY,0,0,0,,That's right.
+Dialogue: 0,0:19:38.99,0:19:42.45,Default,JEFFREY,0,0,0,,Anna is my wife and your mom.
+Dialogue: 0,0:19:43.25,0:19:44.33,Default,NONNA,0,0,0,,Okay.
+Dialogue: 0,0:19:44.83,0:19:48.13,Default,JEFFREY,0,0,0,,Great! Starting today, we're family.
+Dialogue: 0,0:20:02.56,0:20:04.60,Default,VICTORIA,0,0,0,,What's the matter, Nonna?
+Dialogue: 0,0:20:06.14,0:20:07.73,Default,NONNA,0,0,0,,It's pretty.
+Dialogue: 0,0:20:07.73,0:20:08.77,Default,VICTORIA,0,0,0,,Yes.
+Dialogue: 0,0:20:09.77,0:20:13.15,Default,NONNA,0,0,0,,Back when I was alone in the square...
+Dialogue: 0,0:20:16.74,0:20:19.45,Default,NONNA,0,0,0,,I actually knew I'd been abandoned.
+Dialogue: 0,0:20:19.95,0:20:25.58,Default,NONNA,0,0,0,,And you stayed with me in the\Nsquare until evening, Mom.
+Dialogue: 0,0:20:28.46,0:20:31.17,Default,NONNA,0,0,0,,I haven't thanked you for that.
+Dialogue: 0,0:20:33.50,0:20:36.72,Default,NONNA,0,0,0,,Back then, I didn't know how to say much.
+Dialogue: 0,0:20:37.05,0:20:41.89,Default,NONNA,0,0,0,,Thank you for helping me, even when \Nyou were on the run yourself.
+Dialogue: 0,0:20:44.14,0:20:48.02,Default,NONNA,0,0,0,,Thank you for cooking me yummy lamb.
+Dialogue: 0,0:20:48.48,0:20:51.44,Default,NONNA,0,0,0,,Thank you for buying me my blue ribbon.
+Dialogue: 0,0:20:56.74,0:21:01.62,Default,NONNA,0,0,0,,Mom... Thank you for becoming my mom.
+Dialogue: 0,0:21:02.74,0:21:03.91,Default,VICTORIA,0,0,0,,Nonna...
+Dialogue: 0,0:21:05.37,0:21:11.58,Default,VICTORIA/I,0,0,0,,{\i1}Without her, I might have gone back \Nand met my doom with special ops by now.
+Dialogue: 0,0:21:15.21,0:21:17.17,Default,JEFFREY,0,0,0,,I didn't know you two were here.
+Dialogue: 0,0:21:17.63,0:21:19.05,Default,JEFFREY,0,0,0,,Let's get inside.
+Dialogue: 0,0:21:19.43,0:21:21.14,Default,JEFFREY,0,0,0,,It's almost time for dinner.
+Dialogue: 0,0:21:21.68,0:21:22.55,Default,VICTORIA,0,0,0,,Yes.
+Dialogue: 0,0:21:22.97,0:21:25.14,Default,NONNA,0,0,0,,Okay, Dad!
+Dialogue: 0,0:21:25.64,0:21:27.60,Default,JEFFREY,0,0,0,,What were you talking about?
+Dialogue: 0,0:21:27.60,0:21:28.98,Default,NONNA,0,0,0,,It's a secret.
+Dialogue: 0,0:21:28.98,0:21:31.98,Default,JEFFREY,0,0,0,,Can't tell your dad, huh?
+Dialogue: 0,0:21:34.32,0:21:37.11,Default,VICTORIA/I,0,0,0,,{\i1}To love and cherish my family...
+Dialogue: 0,0:21:37.69,0:21:41.32,Default,VICTORIA/I,0,0,0,,{\i1}To stay in touch with the \Npeople I've grown close to...
+Dialogue: 0,0:21:41.66,0:21:45.45,Default,VICTORIA/I,0,0,0,,{\i1}To be helpful to others... \NThere's so much more.
+Dialogue: 0,0:21:46.66,0:21:52.96,Default,VICTORIA/I,0,0,0,,{\i1}This time around, I'm going to live \Nmy life and fill in all that was missing.
+Dialogue: 0,0:21:54.21,0:21:59.38,Default,VICTORIA/I,0,0,0,,{\i1}No matter what happens in the future, \NI'll protect this family to the end.
+Dialogue: 0,0:22:01.26,0:22:07.18,Default,VICTORIA/I,0,0,0,,{\i1}It'll be fine, because I have \Nmany faces at my disposal.
+
