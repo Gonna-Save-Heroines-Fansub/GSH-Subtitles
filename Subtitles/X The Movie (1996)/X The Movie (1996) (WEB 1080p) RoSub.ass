@@ -25,9 +25,9 @@ Video File: X.1996.1080p.CR.WEB-DL.DDP2.0.H.264-AnoZu.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 257
-Active Line: 266
-Video Position: 58727
+Scroll Position: 356
+Active Line: 362
+Video Position: 74409
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -301,9 +301,9 @@ Dialogue: 99,0:40:10.91,0:40:11.81,Dialogue,Fuma,0,0,0,,Dragonii Pământului?
 Dialogue: 99,0:40:31.83,0:40:35.83,Dialogue,Kanoe,0,0,0,,Orașul Tokyo este nucleul \Nbarierelor de pe Pământ.
 Dialogue: 99,0:40:36.58,0:40:38.78,Dialogue,Kanoe,0,0,0,,Aici sunt cele mai multe bariere.
 Dialogue: 99,0:40:39.99,0:40:42.90,Dialogue,Kanoe,0,0,0,,Enormele pietre-barieră de \Npe zgârie-norii din Shinjuku.
-Dialogue: 99,0:40:43.48,0:40:46.01,Dialogue,Kanoe,0,0,0,TLC,Linia Yamanote ce \Nînconjoară Palatul Imperial,
-Dialogue: 99,0:40:46.01,0:40:48.97,Dialogue,Kanoe,0,0,0,TLC,sub forma mâinilor lui Budha, \Npentru a proteja Tokyoul.
-Dialogue: 99,0:40:49.38,0:40:53.78,Dialogue,Kanoe,0,0,0,TLC,Zgârie-norii Sunshine 60, o piatră de \Ntemelie care susține terenul instabil.
+Dialogue: 99,0:40:43.48,0:40:46.01,Dialogue,Kanoe,0,0,0,,Linia Yamanote ce \Nînconjoară Palatul Imperial,
+Dialogue: 99,0:40:46.01,0:40:48.97,Dialogue,Kanoe,0,0,0,,sub forma mâinilor lui Budha, \Npentru a proteja Tokyoul.
+Dialogue: 99,0:40:49.38,0:40:53.78,Dialogue,Kanoe,0,0,0,,Zgârie-norii Sunshine 60, o piatră de \Ntemelie care susține terenul instabil.
 Dialogue: 99,0:40:54.17,0:40:57.84,Dialogue,Kanoe,0,0,0,,Și... Turnul Tokyo.
 Dialogue: 99,0:40:59.78,0:41:03.48,Dialogue,Kanoe,0,0,0,,Dacă distrugem toate barierele, \NTokyoul se va prăbuși.
 Dialogue: 99,0:41:04.22,0:41:07.08,Dialogue,Kanoe,0,0,0,,Toate structurile dăunătoare \Nconstruite de oameni
