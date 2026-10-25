@@ -1,0 +1,252 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.25,0:00:06.67,Default,,0,0,0,,At one time, gods and\Ndemons were as one.
+Dialogue: 0,0:00:06.76,0:00:10.30,Default,,0,0,0,,They were sealed away in the\Nabyss of distant memory.
+Dialogue: 0,0:00:10.38,0:00:15.22,Default,,0,0,0,,The hearts of humans who feared\Nthe Dark brought this about.
+Dialogue: 0,0:00:15.31,0:00:18.52,Default,,0,0,0,,For the present, let us call\Nthese beings "Shinma.
+Dialogue: 0,0:00:18.60,0:00:23.44,Default,,0,0,0,,Now they have awakened from their\Nslumber, and gathered in the Dark.
+Dialogue: 0,0:00:24.52,0:00:29.28,Default,,0,0,0,,On the final night of that gathering,\Nwhen Shinma and Humans met again,
+Dialogue: 0,0:00:29.82,0:00:34.91,Default,,0,0,0,,a young girl strayed into their midst.\NThis is her story. Her name is...
+Dialogue: 0,0:00:36.74,0:00:36.79,Default,,0,0,0,,
+Dialogue: 0,0:00:36.79,0:00:36.83,Default,,0,0,0,,
+Dialogue: 0,0:00:36.83,0:00:36.87,Default,,0,0,0,,
+Dialogue: 0,0:00:36.87,0:00:36.91,Default,,0,0,0,,
+Dialogue: 0,0:00:36.91,0:00:36.95,Default,,0,0,0,,
+Dialogue: 0,0:00:36.95,0:00:36.99,Default,,0,0,0,,
+Dialogue: 0,0:00:36.99,0:00:37.04,Default,,0,0,0,,
+Dialogue: 0,0:00:37.04,0:00:37.08,Default,,0,0,0,,
+Dialogue: 0,0:00:37.08,0:00:37.12,Default,,0,0,0,,
+Dialogue: 0,0:00:37.12,0:00:37.16,Default,,0,0,0,,
+Dialogue: 0,0:00:37.16,0:00:37.20,Default,,0,0,0,,
+Dialogue: 0,0:00:37.20,0:00:37.25,Default,,0,0,0,,
+Dialogue: 0,0:00:37.25,0:00:37.29,Default,,0,0,0,,
+Dialogue: 0,0:00:37.29,0:00:37.33,Default,,0,0,0,,
+Dialogue: 0,0:00:37.33,0:00:37.37,Default,,0,0,0,,
+Dialogue: 0,0:00:37.37,0:00:37.41,Default,,0,0,0,,
+Dialogue: 0,0:00:37.41,0:00:37.45,Default,,0,0,0,,
+Dialogue: 0,0:00:37.45,0:00:37.50,Default,,0,0,0,,
+Dialogue: 0,0:00:37.50,0:00:37.54,Default,,0,0,0,,
+Dialogue: 0,0:00:37.54,0:00:37.58,Default,,0,0,0,,
+Dialogue: 0,0:00:37.58,0:00:37.62,Default,,0,0,0,,
+Dialogue: 0,0:00:37.62,0:00:37.66,Default,,0,0,0,,
+Dialogue: 0,0:00:37.66,0:00:37.70,Default,,0,0,0,,
+Dialogue: 0,0:00:37.70,0:00:37.75,Default,,0,0,0,,
+Dialogue: 0,0:00:37.75,0:00:37.79,Default,,0,0,0,,
+Dialogue: 0,0:00:37.79,0:00:37.83,Default,,0,0,0,,
+Dialogue: 0,0:00:37.83,0:00:37.87,Default,,0,0,0,,
+Dialogue: 0,0:00:37.87,0:00:37.91,Default,,0,0,0,,
+Dialogue: 0,0:00:37.91,0:00:37.95,Default,,0,0,0,,
+Dialogue: 0,0:00:37.95,0:00:38.00,Default,,0,0,0,,
+Dialogue: 0,0:00:38.00,0:00:38.04,Default,,0,0,0,,
+Dialogue: 0,0:00:38.04,0:00:38.08,Default,,0,0,0,,
+Dialogue: 0,0:00:38.08,0:00:38.12,Default,,0,0,0,,
+Dialogue: 0,0:00:38.12,0:00:38.16,Default,,0,0,0,,
+Dialogue: 0,0:00:38.16,0:00:38.20,Default,,0,0,0,,
+Dialogue: 0,0:00:38.20,0:00:38.25,Default,,0,0,0,,
+Dialogue: 0,0:00:38.25,0:00:44.09,Default,,0,0,0,,
+Dialogue: 0,0:01:21.29,0:01:23.75,Default,,0,0,0,,I need... your help.
+Dialogue: 0,0:01:39.10,0:01:41.85,Default,,0,0,0,,You want me to help you?
+Dialogue: 0,0:01:42.10,0:01:44.10,Default,,0,0,0,,Please, Himiko.
+Dialogue: 0,0:02:14.47,0:02:18.39,Default,,0,0,0,,Without him, I... I...
+Dialogue: 0,0:02:18.93,0:02:22.02,Default,,0,0,0,,Very well. But on one condition.
+Dialogue: 0,0:02:23.56,0:02:29.77,Default,,0,0,0,,If I save him, tell me about the\Ntwo of you... and the Shinma.
+Dialogue: 0,0:02:30.94,0:02:34.07,Default,,0,0,0,,What will you do with\Nthat knowledge?
+Dialogue: 0,0:02:34.65,0:02:35.78,Default,,0,0,0,,
+Dialogue: 0,0:02:37.62,0:02:40.24,Default,,0,0,0,,I just want to know, that's all!
+Dialogue: 0,0:02:40.24,0:02:45.21,Default,,0,0,0,,EPISODE 3\NFRAGILE ARMOR
+Dialogue: 0,0:03:03.81,0:03:04.64,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:03:05.85,0:03:07.56,Default,,0,0,0,,I'm counting on you, Himiko!
+Dialogue: 0,0:03:07.98,0:03:08.77,Default,,0,0,0,,What?
+Dialogue: 0,0:03:22.03,0:03:26.66,Default,,0,0,0,,Miyu! The girl who hunts Shinma!
+Dialogue: 0,0:03:28.04,0:03:32.63,Default,,0,0,0,,Hunt me, if you dare!\NAfter all, I'm Shinma!
+Dialogue: 0,0:03:33.46,0:03:34.34,Default,,0,0,0,,No!
+Dialogue: 0,0:03:34.63,0:03:35.80,Default,,0,0,0,,What do you mean, "no?"
+Dialogue: 0,0:03:37.26,0:03:40.72,Default,,0,0,0,,I'm sorry... I can't engage him.
+Dialogue: 0,0:03:41.39,0:03:42.76,Default,,0,0,0,,You can't mean that!
+Dialogue: 0,0:03:43.22,0:03:47.81,Default,,0,0,0,,Hunt me down...\NKill me if you can, Miyu!
+Dialogue: 0,0:03:59.45,0:04:02.03,Default,,0,0,0,,Guess it won't work like\Nit does in the comics!
+Dialogue: 0,0:04:43.32,0:04:44.74,Default,,0,0,0,,I'm impressed.
+Dialogue: 0,0:04:46.33,0:04:47.45,Default,,0,0,0,,Take me to him.
+Dialogue: 0,0:04:48.00,0:04:48.66,Default,,0,0,0,,Okay!
+Dialogue: 0,0:04:56.55,0:05:00.80,Default,,0,0,0,,I know witches can be troublesome,\Nbut still, that was pathetic.
+Dialogue: 0,0:05:01.05,0:05:02.68,Default,,0,0,0,,She was only a human, after all.
+Dialogue: 0,0:05:03.30,0:05:07.31,Default,,0,0,0,,I am Shinma! Next time for sure!
+Dialogue: 0,0:05:28.41,0:05:29.33,Default,,0,0,0,,Larva is...
+Dialogue: 0,0:05:34.71,0:05:40.26,Default,,0,0,0,,He's my sole servant... and friend.
+Dialogue: 0,0:05:41.47,0:05:43.76,Default,,0,0,0,,That, I've heard before.
+Dialogue: 0,0:05:43.88,0:05:46.05,Default,,0,0,0,,What do you want to know?
+Dialogue: 0,0:05:46.55,0:05:50.39,Default,,0,0,0,,Where did you come from? And...
+Dialogue: 0,0:05:51.23,0:05:52.69,Default,,0,0,0,,"Where are we going?"
+Dialogue: 0,0:05:58.23,0:06:01.03,Default,,0,0,0,,I don't know such things...
+Dialogue: 0,0:06:40.19,0:06:43.44,Default,,0,0,0,,Good, that's the spirit
+Dialogue: 0,0:06:43.57,0:06:46.41,Default,,0,0,0,,Why do you make me do these things?
+Dialogue: 0,0:06:46.74,0:06:50.53,Default,,0,0,0,,I am Shinma. What connection is there\Nbetween me and a human house?
+Dialogue: 0,0:06:50.91,0:06:53.54,Default,,0,0,0,,Oh, no connection at all, really.
+Dialogue: 0,0:06:56.33,0:06:59.29,Default,,0,0,0,,I just wanted to test your power.
+Dialogue: 0,0:07:08.55,0:07:12.01,Default,,0,0,0,,The ocean at night is frightening,\Nalmost as if it'll pull you in...
+Dialogue: 0,0:07:14.10,0:07:15.02,Default,,0,0,0,,
+Dialogue: 0,0:07:17.65,0:07:21.90,Default,,0,0,0,,I was listening to the sound of the\Nocean when Larva appeared.
+Dialogue: 0,0:07:22.82,0:07:24.03,Default,,0,0,0,,When was that?
+Dialogue: 0,0:07:25.82,0:07:26.74,Default,,0,0,0,,I don't remember...
+Dialogue: 0,0:07:37.83,0:07:39.25,Default,,0,0,0,,There's nothing to be afraid of.
+Dialogue: 0,0:07:48.76,0:07:50.68,Default,,0,0,0,,Nothing to be afraid of...
+Dialogue: 0,0:07:53.51,0:07:57.10,Default,,0,0,0,,I just want to borrow a\Nlittle bit of your life.
+Dialogue: 0,0:08:07.19,0:08:08.03,Default,,0,0,0,,That's a good girl.
+Dialogue: 0,0:08:17.58,0:08:20.79,Default,,0,0,0,,I've come from far across the ocean...
+Dialogue: 0,0:08:23.17,0:08:25.84,Default,,0,0,0,,..to become leader of your people
+Dialogue: 0,0:08:26.63,0:08:27.63,Default,,0,0,0,,Leader?
+Dialogue: 0,0:08:28.97,0:08:29.76,Default,,0,0,0,,Yes...
+Dialogue: 0,0:08:31.93,0:08:33.22,Default,,0,0,0,,Of the Shinma.
+Dialogue: 0,0:08:33.72,0:08:34.64,Default,,0,0,0,,"Shinma?"
+Dialogue: 0,0:08:36.52,0:08:39.02,Default,,0,0,0,,I don't know about any Shinma.
+Dialogue: 0,0:08:40.19,0:08:42.31,Default,,0,0,0,,Your body should remember...
+Dialogue: 0,0:08:42.98,0:08:46.98,Default,,0,0,0,,Because we crossed the ocean in a\Nsimilar fashion, long ago...
+Dialogue: 0,0:08:48.65,0:08:51.91,Default,,0,0,0,,And at that time, I granted\Na certain power
+Dialogue: 0,0:08:51.99,0:08:54.49,Default,,0,0,0,,to a person with the\Nsame blood as yours.
+Dialogue: 0,0:08:55.70,0:08:58.00,Default,,0,0,0,,My blood...?
+Dialogue: 0,0:09:08.34,0:09:09.63,Default,,0,0,0,,Hold still...
+Dialogue: 0,0:09:13.68,0:09:14.39,Default,,0,0,0,,What is this...?
+Dialogue: 0,0:09:16.35,0:09:16.93,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:09:17.06,0:09:18.14,Default,,0,0,0,,Give me...
+Dialogue: 0,0:09:19.81,0:09:20.73,Default,,0,0,0,,...blood.
+Dialogue: 0,0:09:29.40,0:09:30.78,Default,,0,0,0,,It was then...
+Dialogue: 0,0:09:32.53,0:09:37.91,Default,,0,0,0,,That was when I first realized\Nthat I had vampire blood in me...
+Dialogue: 0,0:10:05.44,0:10:11.49,Default,,0,0,0,,As punishment for not being able to kill me,\NLarva's voice and face were sealed away
+Dialogue: 0,0:10:12.15,0:10:14.24,Default,,0,0,0,,and he became my servant.
+Dialogue: 0,0:10:18.41,0:10:21.04,Default,,0,0,0,,My only servant...
+Dialogue: 0,0:10:23.71,0:10:30.21,Default,,0,0,0,,He's the only one... who helps me,\Nand who understands my feelings.
+Dialogue: 0,0:10:31.26,0:10:34.68,Default,,0,0,0,,He's... important to me.
+Dialogue: 0,0:10:35.59,0:10:38.68,Default,,0,0,0,,Please, Himiko, save Larva.
+Dialogue: 0,0:10:38.80,0:10:40.60,Default,,0,0,0,,Can't you defeat that thing?
+Dialogue: 0,0:10:41.85,0:10:43.81,Default,,0,0,0,,Not me... no.
+Dialogue: 0,0:10:45.35,0:10:49.73,Default,,0,0,0,,In any case, this should keep anyone\Nbesides you and I away from him.
+Dialogue: 0,0:10:50.32,0:10:53.78,Default,,0,0,0,,"Dharani" - Himiko's earlier incantation,\Na coded summary of Buddhist teachings.\NAnd, since the dharani was effective,\Nit may be of use here also.
+Dialogue: 0,0:10:57.57,0:10:59.87,Default,,0,0,0,,But as for saving him...
+Dialogue: 0,0:11:04.12,0:11:05.00,Default,,0,0,0,,That...
+Dialogue: 0,0:11:05.37,0:11:07.37,Default,,0,0,0,,Looks familiar, don't you think?
+Dialogue: 0,0:11:19.64,0:11:26.23,Default,,0,0,0,,I don't know myself why I helped\Nthe demon child.
+Dialogue: 0,0:11:27.10,0:11:31.27,Default,,0,0,0,,But I went all over Kyoto,\Nas per Miyu's instructions.
+Dialogue: 0,0:11:31.90,0:11:34.57,Default,,0,0,0,,And I felt no irritation. Why?
+Dialogue: 0,0:11:35.78,0:11:40.49,Default,,0,0,0,,Maybe I've started to feel that the\Nlittle demon... No, it can't be.
+Dialogue: 0,0:11:42.91,0:11:46.41,Default,,0,0,0,,The armor in the photo changed\Nhands quite often,
+Dialogue: 0,0:11:46.50,0:11:51.54,Default,,0,0,0,,ending up as part of the inheritance\Nof an ordinary couple.
+Dialogue: 0,0:11:53.17,0:11:56.59,Default,,0,0,0,,The monster that attacked us\Ndidn't appear again.
+Dialogue: 0,0:11:57.55,0:12:01.14,Default,,0,0,0,,That only left me with searching\Nfor the armor's whereabouts.
+Dialogue: 0,0:12:15.53,0:12:17.90,Default,,0,0,0,,May I help you? Do you have\Nan interest in this house?
+Dialogue: 0,0:12:18.03,0:12:19.45,Default,,0,0,0,,No, it's nothing...
+Dialogue: 0,0:12:20.03,0:12:21.53,Default,,0,0,0,,Was there a fire here?
+Dialogue: 0,0:12:21.87,0:12:28.29,Default,,0,0,0,,Ah... It looks like arson, but fortunately,\Nthe house was empty.
+Dialogue: 0,0:12:34.46,0:12:35.55,Default,,0,0,0,,The couple?
+Dialogue: 0,0:12:36.13,0:12:41.01,Default,,0,0,0,,Oh, yes, they lived here, up until\Na month ago, but then they died.
+Dialogue: 0,0:12:42.05,0:12:43.35,Default,,0,0,0,,Suicide.
+Dialogue: 0,0:12:43.97,0:12:45.18,Default,,0,0,0,,Suicide?
+Dialogue: 0,0:12:45.89,0:12:50.81,Default,,0,0,0,,It was terrible. The husband died\Nafter a prolonged illness,
+Dialogue: 0,0:12:50.89,0:12:53.19,Default,,0,0,0,,and the wife followed soon after.
+Dialogue: 0,0:12:53.44,0:12:57.94,Default,,0,0,0,,Pardon my asking, but was there anything\Nlike a suit of armor left in the ruins?
+Dialogue: 0,0:12:58.28,0:13:01.57,Default,,0,0,0,,Armor? No, nothing like that.
+Dialogue: 0,0:13:01.66,0:13:04.07,Default,,0,0,0,,Well, thank you anyway.
+Dialogue: 0,0:13:29.18,0:13:30.18,Default,,0,0,0,,Are you...
+Dialogue: 0,0:13:31.23,0:13:32.73,Default,,0,0,0,,...looking for this?
+Dialogue: 0,0:13:50.08,0:13:53.92,Default,,0,0,0,,Umm... wasn't it moved from here?
+Dialogue: 0,0:13:55.13,0:13:58.38,Default,,0,0,0,,Why are you interested in it?
+Dialogue: 0,0:13:58.84,0:14:01.97,Default,,0,0,0,,Well, you see, it's for a research paper\NI'm doing for graduate school...
+Dialogue: 0,0:14:04.43,0:14:07.60,Default,,0,0,0,,Didn't a girl ask you to do this?
+Dialogue: 0,0:14:08.93,0:14:10.02,Default,,0,0,0,,A girl?
+Dialogue: 0,0:14:11.77,0:14:15.65,Default,,0,0,0,,Well, Ms. Spiritualist?
+Dialogue: 0,0:14:30.45,0:14:32.45,Default,,0,0,0,,Such bothersome activities...
+Dialogue: 0,0:14:33.41,0:14:36.71,Default,,0,0,0,,Lady, we really must ask you to stop this.
+Dialogue: 0,0:14:46.47,0:14:47.68,Default,,0,0,0,,Now die!
+Dialogue: 0,0:14:57.69,0:14:58.94,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:15:00.19,0:15:03.32,Default,,0,0,0,,So, you've finally shown yourself.
+Dialogue: 0,0:15:05.07,0:15:06.49,Default,,0,0,0,,Vampire...!
+Dialogue: 0,0:15:07.07,0:15:11.20,Default,,0,0,0,,You can't run or hide any\Nmore, Shinma Lemures.
+Dialogue: 0,0:15:17.87,0:15:23.92,Default,,0,0,0,,Shinma... Lemures? Miyu, you\Nused me as bait, didn't you!
+Dialogue: 0,0:15:37.69,0:15:42.19,Default,,0,0,0,,Release the seal on Larva,\NShinma Lemures.
+Dialogue: 0,0:15:42.32,0:15:46.40,Default,,0,0,0,,What nonsense! You think you're\Nthe leader of the Shinma?
+Dialogue: 0,0:15:46.82,0:15:51.16,Default,,0,0,0,,Target me, not Larva, if you want to\Nkill me and control the Shinma!
+Dialogue: 0,0:15:51.37,0:15:53.03,Default,,0,0,0,,Control of the Shinma?
+Dialogue: 0,0:15:54.33,0:15:55.95,Default,,0,0,0,,I'm not interested in that.
+Dialogue: 0,0:15:56.12,0:16:00.04,Default,,0,0,0,,I just want to free Larva\Nfrom your control.
+Dialogue: 0,0:16:00.50,0:16:03.55,Default,,0,0,0,,You knew Larva?
+Dialogue: 0,0:16:04.21,0:16:07.17,Default,,0,0,0,,I am Larva's... friend...
+Dialogue: 0,0:16:08.09,0:16:10.64,Default,,0,0,0,,No, much more than that!
+Dialogue: 0,0:16:11.47,0:16:14.85,Default,,0,0,0,,I drank his blood! He is mine!
+Dialogue: 0,0:16:17.52,0:16:19.98,Default,,0,0,0,,But you can't defeat this!
+Dialogue: 0,0:16:34.12,0:16:37.83,Default,,0,0,0,,Try to kill me, Shinma hunter!
+Dialogue: 0,0:16:38.08,0:16:40.42,Default,,0,0,0,,Stop this! Try to remember!
+Dialogue: 0,0:16:41.12,0:16:43.21,Default,,0,0,0,,Remember?
+Dialogue: 0,0:16:44.59,0:16:51.76,Default,,0,0,0,,Yes, who you are, why you are here,\Nthat you were a simple human...
+Dialogue: 0,0:16:52.18,0:16:53.89,Default,,0,0,0,,Me? A human?
+Dialogue: 0,0:16:54.85,0:16:55.76,Default,,0,0,0,,Ridiculous.
+Dialogue: 0,0:16:56.85,0:16:58.10,Default,,0,0,0,,See for yourself.
+Dialogue: 0,0:17:40.64,0:17:43.56,Default,,0,0,0,,This can't be happening!\NWhat are you doing?!
+Dialogue: 0,0:17:44.69,0:17:47.48,Default,,0,0,0,,Lemures, I'll only say\Nthis once more.
+Dialogue: 0,0:17:48.44,0:17:50.74,Default,,0,0,0,,Release Larva!
+Dialogue: 0,0:17:53.11,0:17:56.45,Default,,0,0,0,,You will die, vampire!
+Dialogue: 0,0:18:08.67,0:18:10.59,Default,,0,0,0,,I won't return you to the Dark.
+Dialogue: 0,0:18:11.30,0:18:13.63,Default,,0,0,0,,You, I will reduce to ashes.
+Dialogue: 0,0:18:32.32,0:18:37.28,Default,,0,0,0,,Larva! You've been charmed\Nby this girl!
+Dialogue: 0,0:18:38.33,0:18:42.16,Default,,0,0,0,,Lemures, don't you understand?
+Dialogue: 0,0:18:44.08,0:18:45.92,Default,,0,0,0,,Understand what?
+Dialogue: 0,0:18:47.33,0:18:51.25,Default,,0,0,0,,This girl's... sorrow...
+Dialogue: 0,0:19:07.48,0:19:11.11,Default,,0,0,0,,I know, I know now, hunter.
+Dialogue: 0,0:19:11.23,0:19:12.28,Default,,0,0,0,,Let go of me!
+Dialogue: 0,0:19:12.40,0:19:20.28,Default,,0,0,0,,I... I am Shinma! A stray Shinma.\NAnd so, it is your duty to destroy me.
+Dialogue: 0,0:19:21.28,0:19:25.46,Default,,0,0,0,,No! You're a human. That's why I...
+Dialogue: 0,0:19:25.62,0:19:26.67,Default,,0,0,0,,Don't say that!
+Dialogue: 0,0:19:43.39,0:19:47.06,Default,,0,0,0,,Larva! The seal's been broken!
+Dialogue: 0,0:19:48.31,0:19:49.73,Default,,0,0,0,,Oh, wonderful!
+Dialogue: 0,0:19:54.44,0:19:56.95,Default,,0,0,0,,Larva, don't worry about him.
+Dialogue: 0,0:20:04.37,0:20:05.70,Default,,0,0,0,,Remember!
+Dialogue: 0,0:20:05.83,0:20:09.17,Default,,0,0,0,,You were a man ravaged by disease,\Nyour strength exhausted,
+Dialogue: 0,0:20:09.50,0:20:12.29,Default,,0,0,0,,who died, leaving a beloved wife.
+Dialogue: 0,0:20:13.09,0:20:15.76,Default,,0,0,0,,I know no such thing!
+Dialogue: 0,0:20:17.55,0:20:19.01,Default,,0,0,0,,You must remember!
+Dialogue: 0,0:20:19.01,0:20:23.72,Default,,0,0,0,,When you died, you were reborn with\Nyour soul simply sealed inside a vessel...
+Dialogue: 0,0:20:23.89,0:20:25.10,Default,,0,0,0,,That armor!
+Dialogue: 0,0:20:25.56,0:20:27.73,Default,,0,0,0,,Through the Shinma magic of Lemuria,
+Dialogue: 0,0:20:27.77,0:20:30.48,Default,,0,0,0,,a black enchantment which manipulates\Nhuman life and death,
+Dialogue: 0,0:20:30.52,0:20:34.07,Default,,0,0,0,,your soul remains like this, even\Nthough your flesh has fallen apart!
+Dialogue: 0,0:20:34.19,0:20:36.69,Default,,0,0,0,,I know nothing about this!
+Dialogue: 0,0:20:40.66,0:20:42.28,Default,,0,0,0,,I know nothing!
+Dialogue: 0,0:20:48.62,0:20:49.58,Default,,0,0,0,,Larva!
+Dialogue: 0,0:20:57.09,0:20:59.80,Default,,0,0,0,,I am... Shinma!
+Dialogue: 0,0:21:31.54,0:21:33.00,Default,,0,0,0,,You are human.
+Dialogue: 0,0:21:33.63,0:21:36.04,Default,,0,0,0,,Therefore, you will be judged by human law.
+Dialogue: 0,0:22:11.37,0:22:13.75,Default,,0,0,0,,He will be judged by humans.
+Dialogue: 0,0:22:14.17,0:22:16.38,Default,,0,0,0,,He wanted to forget...
+Dialogue: 0,0:22:17.42,0:22:22.92,Default,,0,0,0,,Forget he had died... and been\Nresurrected by Shinma.
+Dialogue: 0,0:22:37.73,0:22:39.15,Default,,0,0,0,,I see now...
+Dialogue: 0,0:22:39.90,0:22:41.23,Default,,0,0,0,,I am...
+Dialogue: 0,0:22:42.86,0:22:43.82,Default,,0,0,0,,I am...!
+Dialogue: 0,0:22:43.95,0:22:52.12,Default,,0,0,0,,The magic of Lemuria requires the body of\Nthe dead person and another, fresh life.
+Dialogue: 0,0:22:55.87,0:23:01.84,Default,,0,0,0,,To bring him back to life, his wife\Nsacrificed herself to the Shinma.
+Dialogue: 0,0:23:03.88,0:23:07.05,Default,,0,0,0,,He wanted to forget that
+Dialogue: 0,0:23:07.26,0:23:10.10,Default,,0,0,0,,so he convinced himself that he really\Nwas Shinma, and not human.
+Dialogue: 0,0:23:11.39,0:23:12.56,Default,,0,0,0,,I'm...
+Dialogue: 0,0:23:14.10,0:23:18.10,Default,,0,0,0,,I'm human! Don't shoot! I'm...
+Dialogue: 0,0:23:18.31,0:23:19.98,Default,,0,0,0,,I am a human!
+Dialogue: 0,0:23:45.63,0:23:47.34,Default,,0,0,0,,So long, Himiko.
+Dialogue: 0,0:23:47.93,0:23:49.39,Default,,0,0,0,,Why?!
+Dialogue: 0,0:23:50.01,0:23:53.06,Default,,0,0,0,,Why couldn't you have let him\Ndie as he wanted to?
+Dialogue: 0,0:23:53.64,0:23:55.02,Default,,0,0,0,,As a Shinma?
+Dialogue: 0,0:23:56.56,0:23:59.02,Default,,0,0,0,,Humans have many things\Nthat they'd like to forget...
+Dialogue: 0,0:23:59.35,0:24:02.69,Default,,0,0,0,,Even things they'd sooner\Ndie than remember!
+Dialogue: 0,0:24:03.40,0:24:05.65,Default,,0,0,0,,Will forgetting solve anything?
+Dialogue: 0,0:24:06.44,0:24:12.83,Default,,0,0,0,,I won't excuse such people... people who\Njust forget sadness or love or hate...
+Dialogue: 0,0:24:16.04,0:24:18.75,Default,,0,0,0,,Because I will never forget.
+Dialogue: 0,0:24:22.29,0:24:23.21,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:24:25.51,0:24:26.59,Default,,0,0,0,,You...

@@ -1,0 +1,357 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.08,0:00:06.51,Default,,0,0,0,,At one time, gods and\Ndemons were as one.
+Dialogue: 0,0:00:06.59,0:00:10.13,Default,,0,0,0,,They were sealed away in the\Nabyss of distant memory.
+Dialogue: 0,0:00:10.22,0:00:15.06,Default,,0,0,0,,The hearts of humans who feared\Nthe Dark brought this about.
+Dialogue: 0,0:00:15.14,0:00:18.35,Default,,0,0,0,,For the present, let us call\Nthese beings "Shinma.
+Dialogue: 0,0:00:18.43,0:00:23.27,Default,,0,0,0,,Now they have awakened from their\Nslumber, and gathered in the Dark.
+Dialogue: 0,0:00:24.36,0:00:29.11,Default,,0,0,0,,On the final night of that gathering,\Nwhen Shinma and Humans met again,
+Dialogue: 0,0:00:29.65,0:00:34.70,Default,,0,0,0,,a young girl strayed into their midst.\NThis is her story. Her name is...
+Dialogue: 0,0:00:36.58,0:00:36.62,Default,,0,0,0,,
+Dialogue: 0,0:00:36.62,0:00:36.66,Default,,0,0,0,,
+Dialogue: 0,0:00:36.66,0:00:36.70,Default,,0,0,0,,
+Dialogue: 0,0:00:36.70,0:00:36.74,Default,,0,0,0,,
+Dialogue: 0,0:00:36.74,0:00:36.79,Default,,0,0,0,,
+Dialogue: 0,0:00:36.79,0:00:36.83,Default,,0,0,0,,
+Dialogue: 0,0:00:36.83,0:00:36.87,Default,,0,0,0,,
+Dialogue: 0,0:00:36.87,0:00:36.91,Default,,0,0,0,,
+Dialogue: 0,0:00:36.91,0:00:36.95,Default,,0,0,0,,
+Dialogue: 0,0:00:36.95,0:00:36.99,Default,,0,0,0,,
+Dialogue: 0,0:00:36.99,0:00:37.04,Default,,0,0,0,,
+Dialogue: 0,0:00:37.04,0:00:37.08,Default,,0,0,0,,
+Dialogue: 0,0:00:37.08,0:00:37.12,Default,,0,0,0,,
+Dialogue: 0,0:00:37.12,0:00:37.16,Default,,0,0,0,,
+Dialogue: 0,0:00:37.16,0:00:37.20,Default,,0,0,0,,
+Dialogue: 0,0:00:37.20,0:00:37.25,Default,,0,0,0,,
+Dialogue: 0,0:00:37.25,0:00:37.29,Default,,0,0,0,,
+Dialogue: 0,0:00:37.29,0:00:37.33,Default,,0,0,0,,
+Dialogue: 0,0:00:37.33,0:00:37.37,Default,,0,0,0,,
+Dialogue: 0,0:00:37.37,0:00:37.41,Default,,0,0,0,,
+Dialogue: 0,0:00:37.41,0:00:37.45,Default,,0,0,0,,
+Dialogue: 0,0:00:37.45,0:00:37.50,Default,,0,0,0,,
+Dialogue: 0,0:00:37.50,0:00:37.54,Default,,0,0,0,,
+Dialogue: 0,0:00:37.54,0:00:37.58,Default,,0,0,0,,
+Dialogue: 0,0:00:37.58,0:00:37.62,Default,,0,0,0,,
+Dialogue: 0,0:00:37.62,0:00:37.66,Default,,0,0,0,,
+Dialogue: 0,0:00:37.66,0:00:37.70,Default,,0,0,0,,
+Dialogue: 0,0:00:37.70,0:00:37.75,Default,,0,0,0,,
+Dialogue: 0,0:00:37.75,0:00:37.79,Default,,0,0,0,,
+Dialogue: 0,0:00:37.79,0:00:37.83,Default,,0,0,0,,
+Dialogue: 0,0:00:37.83,0:00:37.87,Default,,0,0,0,,
+Dialogue: 0,0:00:37.87,0:00:37.91,Default,,0,0,0,,
+Dialogue: 0,0:00:37.91,0:00:37.95,Default,,0,0,0,,
+Dialogue: 0,0:00:37.95,0:00:38.00,Default,,0,0,0,,
+Dialogue: 0,0:00:38.00,0:00:38.04,Default,,0,0,0,,
+Dialogue: 0,0:00:38.04,0:00:38.08,Default,,0,0,0,,
+Dialogue: 0,0:00:38.08,0:00:38.12,Default,,0,0,0,,
+Dialogue: 0,0:00:38.12,0:00:43.96,Default,,0,0,0,,
+Dialogue: 0,0:00:53.34,0:00:56.51,Default,,0,0,0,,If Kyoto is the old capital\Nof the Kansai area,
+Dialogue: 0,0:00:56.60,0:00:59.89,Default,,0,0,0,,then this, Kamakura, might be said to\Nbe the old capital of the Kanto area.
+Dialogue: 0,0:01:02.06,0:01:09.03,Default,,0,0,0,,On a whim, I visited this town, where\NI had spent a few months as a girl.
+Dialogue: 0,0:01:22.37,0:01:25.04,Default,,0,0,0,,This hill... there's no mistake.
+Dialogue: 0,0:01:26.17,0:01:27.38,Default,,0,0,0,,It was this hill.
+Dialogue: 0,0:01:28.21,0:01:32.01,Default,,0,0,0,,It clings to the back of my\Nmind, and won't let go.
+Dialogue: 0,0:01:32.51,0:01:36.51,Default,,0,0,0,,A certain memory had drawn me\Nback to this slope.
+Dialogue: 0,0:02:23.39,0:02:28.40,Default,,0,0,0,,When I came to, I was in my own bed.
+Dialogue: 0,0:02:28.44,0:02:30.48,Default,,0,0,0,,I'd always thought it was just a dream...
+Dialogue: 0,0:02:31.94,0:02:33.36,Default,,0,0,0,,But if the memory is true...
+Dialogue: 0,0:02:34.90,0:02:39.66,Default,,0,0,0,,...there was... a house... atop this hill.
+Dialogue: 0,0:03:24.66,0:03:29.58,Default,,0,0,0,,EPISODE 4\NFROZEN TIME
+Dialogue: 0,0:04:33.90,0:04:34.98,Default,,0,0,0,,Miyu...!
+Dialogue: 0,0:04:55.59,0:04:56.88,Default,,0,0,0,,What is that?
+Dialogue: 0,0:04:57.00,0:04:59.13,Default,,0,0,0,,As I thought... you can see them.
+Dialogue: 0,0:05:01.80,0:05:04.26,Default,,0,0,0,,Ice? Glass?
+Dialogue: 0,0:05:05.22,0:05:07.06,Default,,0,0,0,,Is the room filled with glass?
+Dialogue: 0,0:05:09.60,0:05:13.52,Default,,0,0,0,,When I was little, I saw something\Nterrifying, probably here...
+Dialogue: 0,0:05:15.52,0:05:17.15,Default,,0,0,0,,It was Shinma, wasn't it?!
+Dialogue: 0,0:05:18.82,0:05:20.99,Default,,0,0,0,,I thought I\Nmight find you if I came here...
+Dialogue: 0,0:05:21.40,0:05:23.20,Default,,0,0,0,,Why do you chase me?
+Dialogue: 0,0:05:23.61,0:05:28.12,Default,,0,0,0,,I can't let you get away with stealing\Nliving human blood!
+Dialogue: 0,0:05:28.70,0:05:36.09,Default,,0,0,0,,Blood is necessary for me, as breathing\Nair and eating food is for you...
+Dialogue: 0,0:05:36.88,0:05:39.21,Default,,0,0,0,,And I grant eternity.
+Dialogue: 0,0:05:40.05,0:05:42.97,Default,,0,0,0,,Don't you want eternal life too?
+Dialogue: 0,0:05:44.34,0:05:45.43,Default,,0,0,0,,Don't make fun of me!
+Dialogue: 0,0:05:47.30,0:05:48.06,Default,,0,0,0,,You...
+Dialogue: 0,0:05:51.10,0:05:52.98,Default,,0,0,0,,Himiko... now I see.
+Dialogue: 0,0:05:54.85,0:05:56.02,Default,,0,0,0,,So that's it...
+Dialogue: 0,0:05:57.61,0:05:58.44,Default,,0,0,0,,Cut that out!
+Dialogue: 0,0:05:59.57,0:06:04.57,Default,,0,0,0,,You know? There are people who are\Nunaffected at the time their blood is drunk
+Dialogue: 0,0:06:05.11,0:06:07.32,Default,,0,0,0,,They grow up like that, and\Nthen, at some point,
+Dialogue: 0,0:06:07.41,0:06:10.08,Default,,0,0,0,,the blood in them awakens,\Nthe same blood as mine.
+Dialogue: 0,0:06:10.54,0:06:14.29,Default,,0,0,0,,There are those of my kind\Namong humans as well.
+Dialogue: 0,0:06:14.54,0:06:17.50,Default,,0,0,0,,A kind that wouldn't\Nexist if not for you!
+Dialogue: 0,0:06:18.38,0:06:22.92,Default,,0,0,0,,Poor thing. You can only comprehend\Nthe world by your own measure,
+Dialogue: 0,0:06:23.63,0:06:29.85,Default,,0,0,0,,almost as if... desperately insisting\Nthat you're human.
+Dialogue: 0,0:06:30.10,0:06:32.56,Default,,0,0,0,,Well then, what are you?
+Dialogue: 0,0:06:34.27,0:06:37.02,Default,,0,0,0,,Well, you'll forget anyway...\Nso I guess it's okay...
+Dialogue: 0,0:06:37.48,0:06:43.86,Default,,0,0,0,,Those are my parents you see there.\NThis used to be my home.
+Dialogue: 0,0:06:48.62,0:06:50.83,Default,,0,0,0,,Ouch! Why, you...
+Dialogue: 0,0:06:53.58,0:06:56.21,Default,,0,0,0,,Miyu! Dinner's ready!
+Dialogue: 0,0:06:56.37,0:06:57.54,Default,,0,0,0,,Okay!
+Dialogue: 0,0:07:01.21,0:07:05.80,Default,,0,0,0,,Today, the teacher asked us to write\Nan essay about our families.
+Dialogue: 0,0:07:05.97,0:07:11.93,Default,,0,0,0,,I was embarrassed, because Daddy always\Nstays at home, not like other daddies.
+Dialogue: 0,0:07:12.64,0:07:13.81,Default,,0,0,0,,That's okay.
+Dialogue: 0,0:07:13.97,0:07:19.98,Default,,0,0,0,,Your father received this house from your\Ngrandfather, and taking care of it is his job.
+Dialogue: 0,0:07:19.98,0:07:20.73,Default,,0,0,0,,I suppose...
+Dialogue: 0,0:07:20.73,0:07:23.73,Default,,0,0,0,,Did something happen to your finger, Miyu?
+Dialogue: 0,0:07:27.70,0:07:30.78,Default,,0,0,0,,Pipi pecked me... it's not bleeding.
+Dialogue: 0,0:07:31.74,0:07:33.37,Default,,0,0,0,,Okay then, never mind.
+Dialogue: 0,0:07:37.50,0:07:39.04,Default,,0,0,0,,Say, Mom?
+Dialogue: 0,0:07:39.25,0:07:40.13,Default,,0,0,0,,Yes, dear?
+Dialogue: 0,0:07:40.46,0:07:43.55,Default,,0,0,0,,Do you think Daddy likes me?
+Dialogue: 0,0:07:43.63,0:07:49.68,Default,,0,0,0,,Why... your father and I both\Nthink the world of you.
+Dialogue: 0,0:07:51.22,0:07:52.10,Default,,0,0,0,,Okay!
+Dialogue: 0,0:07:57.02,0:08:02.61,Default,,0,0,0,,Daddy? Emi and Ai told me they want\Nto be artists when they grow up!
+Dialogue: 0,0:08:03.11,0:08:06.07,Default,,0,0,0,,And Akiko wants to be a teacher!
+Dialogue: 0,0:08:10.03,0:08:14.62,Default,,0,0,0,,Daddy, you like pictures, right?\NI want to be an artist, too.
+Dialogue: 0,0:08:15.16,0:08:16.62,Default,,0,0,0,,You can't.
+Dialogue: 0,0:08:17.12,0:08:18.41,Default,,0,0,0,,Why?
+Dialogue: 0,0:08:19.00,0:08:21.58,Default,,0,0,0,,Even when you grow up,\Nyou can't be anything.
+Dialogue: 0,0:08:22.25,0:08:25.38,Default,,0,0,0,,It's... already been decided
+Dialogue: 0,0:08:26.96,0:08:29.59,Default,,0,0,0,,Why? Tell me...
+Dialogue: 0,0:08:36.77,0:08:38.14,Default,,0,0,0,,Daddy...
+Dialogue: 0,0:08:39.52,0:08:40.98,Default,,0,0,0,,Where's Mommy?
+Dialogue: 0,0:08:41.06,0:08:42.40,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:08:44.48,0:08:47.03,Default,,0,0,0,,Did you buy another painting?
+Dialogue: 0,0:08:47.28,0:08:48.28,Default,,0,0,0,,Yes.
+Dialogue: 0,0:08:48.53,0:08:49.82,Default,,0,0,0,,Pictures are wonderful.
+Dialogue: 0,0:08:50.86,0:08:54.20,Default,,0,0,0,,They can entrap beauty forever
+Dialogue: 0,0:08:57.04,0:09:02.17,Default,,0,0,0,,That's true... but I think that the ocean is\Nbeautiful because it's always moving...
+Dialogue: 0,0:09:02.50,0:09:05.38,Default,,0,0,0,,Beautiful because it changes\Nfrom moment to moment.
+Dialogue: 0,0:09:07.67,0:09:09.01,Default,,0,0,0,,Mother!
+Dialogue: 0,0:09:10.17,0:09:12.47,Default,,0,0,0,,You were late coming\Nhome today.
+Dialogue: 0,0:09:12.55,0:09:15.43,Default,,0,0,0,,Oh, yeah... I was watching the ocean.
+Dialogue: 0,0:09:15.76,0:09:20.31,Default,,0,0,0,,The ocean at night is kind of scary,\Nalmost as if I'd get swept away...
+Dialogue: 0,0:09:20.43,0:09:21.39,Default,,0,0,0,,Miyu?
+Dialogue: 0,0:09:22.35,0:09:25.23,Default,,0,0,0,,I'm sorry! I'll come straight\Nhome from now on.
+Dialogue: 0,0:09:26.40,0:09:28.11,Default,,0,0,0,,Dear, that's...?
+Dialogue: 0,0:09:28.15,0:09:30.03,Default,,0,0,0,,This is what I hoped for.
+Dialogue: 0,0:09:31.86,0:09:33.70,Default,,0,0,0,,How old is Miyu now?
+Dialogue: 0,0:09:34.07,0:09:35.66,Default,,0,0,0,,Thirteen.
+Dialogue: 0,0:09:35.99,0:09:37.20,Default,,0,0,0,,I see...
+Dialogue: 0,0:09:40.00,0:09:44.83,Default,,0,0,0,,That was a dream. Just a dream...\NForget it, Miyu.
+Dialogue: 0,0:09:45.96,0:09:49.38,Default,,0,0,0,,I must forget it! Let me forget it!
+Dialogue: 0,0:09:52.59,0:09:54.64,Default,,0,0,0,,What happened? What is it?
+Dialogue: 0,0:09:54.68,0:09:55.93,Default,,0,0,0,,Are you all right? What...!
+Dialogue: 0,0:09:55.97,0:09:58.18,Default,,0,0,0,,Someone's fainted!
+Dialogue: 0,0:09:58.26,0:10:00.81,Default,,0,0,0,,Somebody get her teacher!\NI'm scared!
+Dialogue: 0,0:10:00.85,0:10:03.27,Default,,0,0,0,,It was so sudden... what\Ncould have happened?
+Dialogue: 0,0:10:03.31,0:10:05.48,Default,,0,0,0,,Who's her teacher?\NWhich class is she in?
+Dialogue: 0,0:10:05.52,0:10:07.65,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:10:13.49,0:10:15.53,Default,,0,0,0,,Hey, what do you think happened?
+Dialogue: 0,0:10:20.24,0:10:21.12,Default,,0,0,0,,Hmmm...
+Dialogue: 0,0:10:22.00,0:10:24.08,Default,,0,0,0,,Do you know something?
+Dialogue: 0,0:10:24.75,0:10:26.00,Default,,0,0,0,,I don't know...
+Dialogue: 0,0:10:26.58,0:10:29.34,Default,,0,0,0,,I don't know anything.
+Dialogue: 0,0:10:35.55,0:10:36.34,Default,,0,0,0,,Larva!
+Dialogue: 0,0:10:37.72,0:10:38.55,Default,,0,0,0,,Larva...
+Dialogue: 0,0:10:40.64,0:10:43.52,Default,,0,0,0,,Where are you, Larva?
+Dialogue: 0,0:10:44.56,0:10:46.02,Default,,0,0,0,,Why?
+Dialogue: 0,0:10:46.10,0:10:51.28,Default,,0,0,0,,Why is this happening? I don't want\Nblood... I don't want any of this...
+Dialogue: 0,0:10:54.99,0:11:01.12,Default,,0,0,0,,I just thought she looked cute...\Nand then my body acted on its own.
+Dialogue: 0,0:11:01.70,0:11:06.54,Default,,0,0,0,,What have I become? I don't\Nwant to become a vampire...
+Dialogue: 0,0:11:08.13,0:11:11.71,Default,,0,0,0,,But... I thirst...
+Dialogue: 0,0:11:17.59,0:11:18.89,Default,,0,0,0,,That was good.
+Dialogue: 0,0:11:19.01,0:11:20.43,Default,,0,0,0,,Miyu, are you finished?
+Dialogue: 0,0:11:20.55,0:11:21.47,Default,,0,0,0,,Uh-huh...
+Dialogue: 0,0:11:22.18,0:11:26.69,Default,,0,0,0,,I heard something terrible happened\Nat school today...
+Dialogue: 0,0:11:27.31,0:11:32.02,Default,,0,0,0,,They said it was anemia. She fainted and\Nwas taken away in an ambulance...
+Dialogue: 0,0:11:32.57,0:11:34.61,Default,,0,0,0,,I heard she passed away...
+Dialogue: 0,0:11:35.32,0:11:36.28,Default,,0,0,0,,Really?
+Dialogue: 0,0:11:37.03,0:11:38.95,Default,,0,0,0,,Did you know her?
+Dialogue: 0,0:11:39.70,0:11:40.57,Default,,0,0,0,,No.
+Dialogue: 0,0:11:40.91,0:11:41.74,Default,,0,0,0,,I see...
+Dialogue: 0,0:11:48.00,0:11:51.34,Default,,0,0,0,,I wonder if Mother knows?\NOr maybe...
+Dialogue: 0,0:11:53.63,0:11:55.09,Default,,0,0,0,,No one must ever find out...
+Dialogue: 0,0:12:00.18,0:12:02.01,Default,,0,0,0,,I have a reflection...
+Dialogue: 0,0:12:02.72,0:12:04.35,Default,,0,0,0,,I'm not afraid.
+Dialogue: 0,0:12:04.39,0:12:08.35,Default,,0,0,0,,But there are times when\NI want blood so badly...
+Dialogue: 0,0:12:09.65,0:12:12.27,Default,,0,0,0,,No! I won't suck blood again...
+Dialogue: 0,0:12:12.36,0:12:14.44,Default,,0,0,0,,I've made up my mind..\NI've made up my mind!
+Dialogue: 0,0:12:16.19,0:12:19.15,Default,,0,0,0,,Hasn't she realized yet?
+Dialogue: 0,0:12:19.28,0:12:22.41,Default,,0,0,0,,Surely, she must have\Nrealized by now.
+Dialogue: 0,0:12:22.70,0:12:23.37,Default,,0,0,0,,No.
+Dialogue: 0,0:12:24.24,0:12:28.08,Default,,0,0,0,,The time of change is approaching.
+Dialogue: 0,0:12:28.25,0:12:30.87,Default,,0,0,0,,Not yet... She's not ready yet...
+Dialogue: 0,0:12:32.79,0:12:33.79,Default,,0,0,0,,Mother...
+Dialogue: 0,0:12:37.63,0:12:39.01,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:12:40.38,0:12:43.10,Default,,0,0,0,,You must be scared too...
+Dialogue: 0,0:12:45.93,0:12:47.06,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:12:47.81,0:12:50.64,Default,,0,0,0,,Blood... my blood...
+Dialogue: 0,0:12:51.35,0:12:54.40,Default,,0,0,0,,The same as human blood..\Nit's the same, isn't it?
+Dialogue: 0,0:12:57.82,0:12:58.65,Default,,0,0,0,,Are they gone?
+Dialogue: 0,0:12:59.11,0:12:59.82,Default,,0,0,0,,Yes...
+Dialogue: 0,0:13:00.53,0:13:03.45,Default,,0,0,0,,Dear, I want to talk about Miyu..
+Dialogue: 0,0:13:03.99,0:13:05.87,Default,,0,0,0,,Can it wait until later?
+Dialogue: 0,0:13:05.99,0:13:07.12,Default,,0,0,0,,Later?
+Dialogue: 0,0:13:07.49,0:13:11.37,Default,,0,0,0,,I have time... forever...
+Dialogue: 0,0:13:12.54,0:13:17.05,Default,,0,0,0,,Wow! What a gorgeous garden. Must\Nbe hard work taking care of it.
+Dialogue: 0,0:13:18.21,0:13:19.51,Default,,0,0,0,,- What's the matter?\N- Huh?
+Dialogue: 0,0:13:19.72,0:13:22.55,Default,,0,0,0,,Maybe I shouldn't have come\Nover to play, unannounced...
+Dialogue: 0,0:13:22.63,0:13:23.68,Default,,0,0,0,,No... I'm glad you're here...
+Dialogue: 0,0:13:24.85,0:13:26.14,Default,,0,0,0,,Great!
+Dialogue: 0,0:13:27.01,0:13:28.85,Default,,0,0,0,,So, you want to come\Nin for some tea?
+Dialogue: 0,0:13:29.02,0:13:32.98,Default,,0,0,0,,Well, to tell the truth, I came\Nhere today to ask a favor.
+Dialogue: 0,0:13:33.73,0:13:34.35,Default,,0,0,0,,What is it?
+Dialogue: 0,0:13:38.15,0:13:40.19,Default,,0,0,0,,Have you ever thought about death?
+Dialogue: 0,0:13:42.03,0:13:44.82,Default,,0,0,0,,These days, I do... a lot.
+Dialogue: 0,0:13:45.16,0:13:47.78,Default,,0,0,0,,You know, watching the news\Nabout wars and stuff?
+Dialogue: 0,0:13:48.37,0:13:52.79,Default,,0,0,0,,I don't want to die yet... There are\Nso many things I want to do.
+Dialogue: 0,0:13:53.46,0:13:56.13,Default,,0,0,0,,But you know, you never know\Nwhen you might die.
+Dialogue: 0,0:13:57.17,0:13:59.21,Default,,0,0,0,,Nobody knows...
+Dialogue: 0,0:14:01.97,0:14:02.63,Default,,0,0,0,,I saw it...
+Dialogue: 0,0:14:05.01,0:14:06.01,Default,,0,0,0,,That day...
+Dialogue: 0,0:14:09.56,0:14:15.56,Default,,0,0,0,,Vampires can give eternal life to those\Nfrom whom they suck blood, right?
+Dialogue: 0,0:14:15.98,0:14:18.02,Default,,0,0,0,,A body that never ages...
+Dialogue: 0,0:14:18.23,0:14:19.69,Default,,0,0,0,,Come on! What are you talking about?
+Dialogue: 0,0:14:19.78,0:14:22.78,Default,,0,0,0,,Vampires are a touch romantic,\Ndon't you think?
+Dialogue: 0,0:14:22.90,0:14:23.70,Default,,0,0,0,,Stop it...
+Dialogue: 0,0:14:23.82,0:14:24.91,Default,,0,0,0,,It's okay.
+Dialogue: 0,0:14:25.61,0:14:28.87,Default,,0,0,0,,Come on... drink my blood\Nand give me what I want!
+Dialogue: 0,0:14:29.24,0:14:34.25,Default,,0,0,0,,I said stop it! Because I'm\Nnot a vampire, I'm human.
+Dialogue: 0,0:14:34.25,0:14:36.96,Default,,0,0,0,,But you drank her blood,\Ndidn't you?
+Dialogue: 0,0:14:38.09,0:14:41.21,Default,,0,0,0,,She's dead, that girl.
+Dialogue: 0,0:14:44.51,0:14:45.88,Default,,0,0,0,,Please, stop it.
+Dialogue: 0,0:14:50.06,0:14:51.01,Default,,0,0,0,,Akiko...
+Dialogue: 0,0:15:01.82,0:15:05.40,Default,,0,0,0,,Mi-Miyu... you're not serious, are you?
+Dialogue: 0,0:15:05.86,0:15:07.32,Default,,0,0,0,,W-Wait a second!
+Dialogue: 0,0:15:23.84,0:15:26.17,Default,,0,0,0,,You knew, Mother.
+Dialogue: 0,0:15:30.64,0:15:31.93,Default,,0,0,0,,You knew it all...
+Dialogue: 0,0:15:33.56,0:15:37.02,Default,,0,0,0,,Are you a vampire, Mother?\NIs that why I...
+Dialogue: 0,0:15:37.39,0:15:38.69,Default,,0,0,0,,You are human!
+Dialogue: 0,0:15:38.81,0:15:44.07,Default,,0,0,0,,No, I'm not! This thirst... how can I\Nquench this thirst?
+Dialogue: 0,0:15:44.11,0:15:45.65,Default,,0,0,0,,I don't want any more blood..
+Dialogue: 0,0:15:47.90,0:15:48.86,Default,,0,0,0,,Mother?!
+Dialogue: 0,0:15:49.07,0:15:55.45,Default,,0,0,0,,Drink this, Miyu... but this is the last\Ntime, because you are human...
+Dialogue: 0,0:15:55.91,0:15:58.21,Default,,0,0,0,,No! I won't drink it!
+Dialogue: 0,0:15:58.37,0:16:02.54,Default,,0,0,0,,If you don't, tomorrow at school\Nsomeone will die.
+Dialogue: 0,0:16:05.96,0:16:06.97,Default,,0,0,0,,No!
+Dialogue: 0,0:16:10.72,0:16:13.35,Default,,0,0,0,,Mother! Where's Akiko?!
+Dialogue: 0,0:16:13.76,0:16:15.18,Default,,0,0,0,,I sent her home.
+Dialogue: 0,0:16:15.31,0:16:16.22,Default,,0,0,0,,You're lying!
+Dialogue: 0,0:16:17.27,0:16:19.77,Default,,0,0,0,,This is Akiko's blood, isn't it?
+Dialogue: 0,0:16:20.98,0:16:22.69,Default,,0,0,0,,Did you kill Akiko?
+Dialogue: 0,0:16:23.02,0:16:25.53,Default,,0,0,0,,You did, didn't you, Mother?
+Dialogue: 0,0:16:29.36,0:16:30.28,Default,,0,0,0,,I don't want it...
+Dialogue: 0,0:16:30.82,0:16:32.78,Default,,0,0,0,,Take it away!
+Dialogue: 0,0:16:39.21,0:16:40.62,Default,,0,0,0,,They've come...
+Dialogue: 0,0:16:42.50,0:16:44.50,Default,,0,0,0,,She's not yet... she's...
+Dialogue: 0,0:17:34.51,0:17:36.26,Default,,0,0,0,,Wh-What is this?
+Dialogue: 0,0:17:37.89,0:17:39.35,Default,,0,0,0,,The time has come...
+Dialogue: 0,0:17:40.18,0:17:41.27,Default,,0,0,0,,What time?
+Dialogue: 0,0:17:41.35,0:17:42.73,Default,,0,0,0,,They are Shinma...
+Dialogue: 0,0:17:44.77,0:17:46.69,Default,,0,0,0,,Just as we are.
+Dialogue: 0,0:17:47.40,0:17:48.73,Default,,0,0,0,,Shin... ma?
+Dialogue: 0,0:17:52.28,0:17:57.95,Default,,0,0,0,,We who were called gods and demons\Nchose to leave the Earth to humans
+Dialogue: 0,0:17:58.03,0:18:00.83,Default,,0,0,0,,and dwell at the bottom\Nof the depths of the Dark.
+Dialogue: 0,0:18:01.16,0:18:05.88,Default,,0,0,0,,And so, only one bloodline\Nwas left on Earth
+Dialogue: 0,0:18:06.88,0:18:11.13,Default,,0,0,0,,to ensure that the sleep of our kin,\Nhidden in the Dark, wasn't disturbed
+Dialogue: 0,0:18:11.30,0:18:12.51,Default,,0,0,0,,Mother...!
+Dialogue: 0,0:18:13.59,0:18:20.22,Default,,0,0,0,,The guardians left on the surface..\NWe are those guardians, Miyu.
+Dialogue: 0,0:18:20.93,0:18:22.52,Default,,0,0,0,,Guardians...
+Dialogue: 0,0:18:23.52,0:18:27.52,Default,,0,0,0,,You must follow your blood's calling\Nand take over as guardian.
+Dialogue: 0,0:18:28.40,0:18:32.74,Default,,0,0,0,,Tonight is when the Dark and\Nthe Shinma come together.
+Dialogue: 0,0:18:33.28,0:18:36.66,Default,,0,0,0,,What are you talking about, Mother?\NWhat do you mean?
+Dialogue: 0,0:18:39.78,0:18:44.91,Default,,0,0,0,,That's right. Tonight, you will\Nbe recognized as Shinma.
+Dialogue: 0,0:18:45.04,0:18:47.75,Default,,0,0,0,,I'm not Shinma...
+Dialogue: 0,0:18:48.08,0:18:51.21,Default,,0,0,0,,Didn't it taste good, the\Nblood of that virgin?
+Dialogue: 0,0:18:52.21,0:18:56.93,Default,,0,0,0,,Your body and your fangs won't\Nhave forgotten that ecstasy.
+Dialogue: 0,0:18:57.59,0:19:05.02,Default,,0,0,0,,Your clan is not immortal and unaging.\NYou will grow old... grow old and die.
+Dialogue: 0,0:19:05.44,0:19:07.19,Default,,0,0,0,,Because we're human.
+Dialogue: 0,0:19:07.44,0:19:11.98,Default,,0,0,0,,That is why a change of\Nguardian is necessary.
+Dialogue: 0,0:19:12.57,0:19:19.45,Default,,0,0,0,,But as compensation, you have been released\Nfrom all of the vampire's restrictions,
+Dialogue: 0,0:19:19.87,0:19:24.08,Default,,0,0,0,,and possess the power to grant\Neternal life to humans.
+Dialogue: 0,0:19:24.58,0:19:29.58,Default,,0,0,0,,It is not to steal human life,\Nbut to give it to them.
+Dialogue: 0,0:19:29.67,0:19:31.63,Default,,0,0,0,,- That is what Shinma are!\N- No!
+Dialogue: 0,0:19:31.75,0:19:35.84,Default,,0,0,0,,Come, and receive our baptism.
+Dialogue: 0,0:19:38.51,0:19:39.76,Default,,0,0,0,,Mother...
+Dialogue: 0,0:19:47.48,0:19:48.10,Default,,0,0,0,,Mother?!
+Dialogue: 0,0:19:48.98,0:19:51.82,Default,,0,0,0,,Do you intend to extinguish the\Nblood of the guardians?!
+Dialogue: 0,0:19:51.98,0:19:53.40,Default,,0,0,0,,Miyu! Run!
+Dialogue: 0,0:20:02.45,0:20:03.20,Default,,0,0,0,,Larva!
+Dialogue: 0,0:20:03.54,0:20:08.42,Default,,0,0,0,,You! You are of the clan that\Ndefied us and went astray...
+Dialogue: 0,0:20:08.92,0:20:13.04,Default,,0,0,0,,Mother! What about Father and Larva?!
+Dialogue: 0,0:20:13.42,0:20:15.17,Default,,0,0,0,,We won't let you escape!
+Dialogue: 0,0:20:18.43,0:20:20.30,Default,,0,0,0,,Run, Miyu! Run!
+Dialogue: 0,0:20:23.76,0:20:25.56,Default,,0,0,0,,Why did you save me?
+Dialogue: 0,0:20:26.35,0:20:28.02,Default,,0,0,0,,I'm your mother.
+Dialogue: 0,0:20:28.27,0:20:29.06,Default,,0,0,0,,But...
+Dialogue: 0,0:20:29.23,0:20:34.44,Default,,0,0,0,,Miyu, you are human. I won't let\Nanyone say that you're tainted.
+Dialogue: 0,0:20:36.28,0:20:38.90,Default,,0,0,0,,It's no good... water doesn't help.
+Dialogue: 0,0:20:39.32,0:20:43.12,Default,,0,0,0,,I'm still thirsty... please, help me...
+Dialogue: 0,0:20:43.87,0:20:49.08,Default,,0,0,0,,Miyu, I'll protect you, so promise me\Nyou'll never suck blood again...
+Dialogue: 0,0:20:49.29,0:20:51.17,Default,,0,0,0,,I don't want to do it either...
+Dialogue: 0,0:20:51.79,0:20:54.25,Default,,0,0,0,,But people will want me to...
+Dialogue: 0,0:20:54.42,0:20:59.17,Default,,0,0,0,,Yes! All humans want to live\Nforever! Don't they?!
+Dialogue: 0,0:20:59.30,0:21:00.26,Default,,0,0,0,,Miyu...
+Dialogue: 0,0:21:01.43,0:21:03.30,Default,,0,0,0,,You said before that the ocean,
+Dialogue: 0,0:21:03.60,0:21:07.14,Default,,0,0,0,,always different from moment\Nto moment, is beautiful, right?
+Dialogue: 0,0:21:08.43,0:21:12.81,Default,,0,0,0,,People are the same. It's because there\Nis death that life is wonderful.
+Dialogue: 0,0:21:14.11,0:21:19.74,Default,,0,0,0,,Because I loved that man...\NI gave him eternal life...
+Dialogue: 0,0:21:21.32,0:21:22.36,Default,,0,0,0,,Father?
+Dialogue: 0,0:21:22.49,0:21:28.75,Default,,0,0,0,,Miyu, we... we ourselves\Ncan't live forever...
+Dialogue: 0,0:21:29.04,0:21:31.62,Default,,0,0,0,,That man has no spirit because\Nhe will not know death...
+Dialogue: 0,0:21:31.71,0:21:32.79,Default,,0,0,0,,Miyu, surely you know that.
+Dialogue: 0,0:21:33.25,0:21:38.25,Default,,0,0,0,,Your father's lack of vitality... how he\Ndoesn't know what he's living for...
+Dialogue: 0,0:21:38.67,0:21:41.47,Default,,0,0,0,,A man always out of\Ntouch with reality...
+Dialogue: 0,0:21:42.47,0:21:46.22,Default,,0,0,0,,The more I love him... the more I\Nsuffer from my mistake...
+Dialogue: 0,0:21:46.81,0:21:51.73,Default,,0,0,0,,We mean to give happiness\Nand instead cause misery.
+Dialogue: 0,0:21:52.85,0:21:53.94,Default,,0,0,0,,Mother...
+Dialogue: 0,0:21:54.69,0:21:58.73,Default,,0,0,0,,I will help you avoid this fate,\Neven if it costs me my life.
+Dialogue: 0,0:22:02.20,0:22:07.95,Default,,0,0,0,,Don't worry, I'll always be with you.\NYou must choose your own way.
+Dialogue: 0,0:22:10.54,0:22:11.45,Default,,0,0,0,,They're coming!
+Dialogue: 0,0:22:17.75,0:22:20.88,Default,,0,0,0,,Mother... what do I do?\NMy throat...
+Dialogue: 0,0:22:23.59,0:22:24.84,Default,,0,0,0,,My throat...
+Dialogue: 0,0:22:27.55,0:22:28.35,Default,,0,0,0,,I can't!
+Dialogue: 0,0:22:28.47,0:22:29.35,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:22:32.23,0:22:33.06,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:22:38.61,0:22:39.52,Default,,0,0,0,,Mother...
+Dialogue: 0,0:22:39.90,0:22:41.90,Default,,0,0,0,,Miyu... I love you.
+Dialogue: 0,0:22:42.36,0:22:45.11,Default,,0,0,0,,Hang on... please.
+Dialogue: 0,0:22:45.95,0:22:51.16,Default,,0,0,0,,I... may not be able... to choose...
+Dialogue: 0,0:22:52.58,0:22:53.83,Default,,0,0,0,,Miyu...
+Dialogue: 0,0:23:00.09,0:23:01.13,Default,,0,0,0,,Miyu...
+Dialogue: 0,0:23:03.01,0:23:04.30,Default,,0,0,0,,You...
+Dialogue: 0,0:23:24.28,0:23:25.53,Default,,0,0,0,,Miyu...
+Dialogue: 0,0:23:39.08,0:23:40.59,Default,,0,0,0,,This blood...
+Dialogue: 0,0:23:48.93,0:23:50.35,Default,,0,0,0,,Mother...
+Dialogue: 0,0:23:54.77,0:23:56.18,Default,,0,0,0,,Mother...
+Dialogue: 0,0:24:21.63,0:24:26.42,Default,,0,0,0,,My mother and father weren't dead,\Nbut their lives were sealed away...
+Dialogue: 0,0:24:28.26,0:24:30.76,Default,,0,0,0,,They gave me a condition\Nfor releasing the seal.
+Dialogue: 0,0:24:32.43,0:24:38.06,Default,,0,0,0,,If I returned the stray Shinma which had made\Nuse of our escape to break out of the Dark,
+Dialogue: 0,0:24:38.23,0:24:40.35,Default,,0,0,0,,they said they would release the seal.
+Dialogue: 0,0:24:40.48,0:24:44.61,Default,,0,0,0,,For the purpose of this task, time\Nwas stopped for me as well,
+Dialogue: 0,0:24:45.48,0:24:49.49,Default,,0,0,0,,so that I could accomplish the task,\Neven though it might take centuries..
+Dialogue: 0,0:24:49.86,0:24:52.53,Default,,0,0,0,,Even though when the\Nseal is released,
+Dialogue: 0,0:24:52.57,0:24:54.87,Default,,0,0,0,,you'll formally become that... guardian?
+Dialogue: 0,0:24:55.24,0:24:57.75,Default,,0,0,0,,There's just one thing\NI want to say...
+Dialogue: 0,0:25:00.33,0:25:01.37,Default,,0,0,0,,...to my mother.
+Dialogue: 0,0:25:01.79,0:25:02.83,Default,,0,0,0,,What?
+Dialogue: 0,0:25:08.67,0:25:09.51,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:25:13.68,0:25:14.76,Default,,0,0,0,,Miyu!
+Dialogue: 0,0:25:29.86,0:25:31.53,Default,,0,0,0,,Oh, no... what was I doing...?
+Dialogue: 0,0:25:35.62,0:25:36.45,Default,,0,0,0,,That's right...
+Dialogue: 0,0:25:36.70,0:25:39.04,Default,,0,0,0,,I came here to confirm my dream.
+Dialogue: 0,0:25:39.75,0:25:45.71,Default,,0,0,0,,If my memory is correct, that\Nmansion would be up here...
+Dialogue: 0,0:25:48.92,0:25:50.21,Default,,0,0,0,,As I suspected...
+Dialogue: 0,0:25:51.97,0:25:55.09,Default,,0,0,0,,"There are people who are unaffected at\Nthe time their blood is drunk.
+Dialogue: 0,0:25:55.18,0:25:59.39,Default,,0,0,0,,They grow up like that, and then, at some\Npoint, the blood in them suddenly awakens...
+Dialogue: 0,0:26:00.93,0:26:01.68,Default,,0,0,0,,Who's there?
+Dialogue: 0,0:26:05.94,0:26:09.19,Default,,0,0,0,,No, I didn't run away that time.
+Dialogue: 0,0:26:10.28,0:26:11.99,Default,,0,0,0,,I didn't run away, but turned back...
+Dialogue: 0,0:26:18.99,0:26:20.08,Default,,0,0,0,,Miyu...
+Dialogue: 0,0:26:21.08,0:26:24.83,Default,,0,0,0,,It was Miyu, it was her\Nthat time too...
+Dialogue: 0,0:26:28.42,0:26:31.34,Default,,0,0,0,,And looking the same\Nas she does now...
