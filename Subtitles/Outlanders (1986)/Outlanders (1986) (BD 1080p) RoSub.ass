@@ -33,6 +33,7 @@ Comment: 0,0:15:43.09,0:15:43.13,Dialogue,chptr,0,0,0,,{Partea 2}
 Comment: 0,0:26:43.46,0:26:43.46,Dialogue,chptr,0,0,0,,{Partea 3}
 Comment: 0,0:35:23.64,0:35:23.68,Dialogue,chptr,0,0,0,,{Partea 4}
 Comment: 0,0:44:37.07,0:44:37.11,Dialogue,chptr,0,0,0,,{ED}
+Comment: 0,0:47:49.22,0:47:49.26,Dialogue,chptr,0,0,0,,{Epilog}
 Dialogue: 99,0:00:38.60,0:00:39.89,Dialogue,,0,0,0,,Aceea este?
 Dialogue: 99,0:00:40.77,0:00:42.73,Dialogue,,0,0,0,,Aceea este Planeta Sfântă?
 Dialogue: 99,0:03:35.57,0:03:37.32,Dialogue,,0,0,0,,Eu sunt Kahm.
@@ -40,7 +41,7 @@ Dialogue: 99,0:03:38.36,0:03:39.07,Dialogue,,0,0,0,,Tu cine ești?
 Dialogue: 99,0:03:40.24,0:03:41.78,Dialogue,,0,0,0,,K-Kahm?
 Dialogue: 99,0:03:43.16,0:03:44.58,Dialogue,,0,0,0,,Poți vorbi limba noastră?
 Dialogue: 99,0:03:45.16,0:03:47.46,Dialogue,,0,0,0,,Ne-am sărutat mai \Ndevreme, nu-i așa?
-Dialogue: 99,0:03:47.46,0:03:49.83,Dialogue,,0,0,0,,Deci acum poți \Nînțelege limba noastră.
+Dialogue: 99,0:03:47.46,0:03:49.83,Dialogue,,0,0,0,,Acum poți înțelege limba noastră.
 Dialogue: 99,0:04:18.32,0:04:21.32,Dialogue,,0,0,0,,Se pare că te-ai trezit, \Ndragul nostru oaspete.
 Dialogue: 99,0:04:22.07,0:04:23.74,Dialogue,,0,0,0,,Oaspete?
 Dialogue: 99,0:04:24.99,0:04:26.33,Dialogue,,0,0,0,,Nu se poate!
@@ -210,11 +211,11 @@ Dialogue: 99,0:15:34.91,0:15:38.50,Dialogue,,0,0,0,,Bătrânul tău drag e pe \N
 Dialogue: 99,0:15:38.50,0:15:39.46,Dialogue,,0,0,0,,Ce?
 Dialogue: 99,0:15:46.84,0:15:48.84,Dialogue,,0,0,0,,Asta e nasol!
 Dialogue: 99,0:15:48.84,0:15:50.05,Dialogue,,0,0,0,,E bătrânul Progres.
-Dialogue: 99,0:15:53.27,0:15:55.77,Dialogue,,0,0,0,,Împăratul a ajuns la \Napogeul puterii sale,
-Dialogue: 99,0:15:55.77,0:15:57.31,Dialogue,,0,0,0,,dar nu are niciun \Nmoștenitor încă.
-Dialogue: 99,0:15:57.31,0:16:00.98,Dialogue,,0,0,0,,În plus, își face griji neîncetat \Npentru fiica sa cea neastâmpărată.
-Dialogue: 99,0:16:00.98,0:16:03.48,Dialogue,,0,0,0,,Dacă o voi putea \Naduce înapoi pe Kahm,
-Dialogue: 99,0:16:03.48,0:16:05.99,Dialogue,,0,0,0,,statutul meu în imperiu \Nse va îmbunătăți.
+Dialogue: 99,0:15:53.27,0:15:55.77,Dialogue,,0,0,0,,{\i1}Împăratul a ajuns la \Napogeul puterii sale,
+Dialogue: 99,0:15:55.77,0:15:57.31,Dialogue,,0,0,0,,{\i1}dar nu are niciun \Nmoștenitor încă.
+Dialogue: 99,0:15:57.31,0:16:00.98,Dialogue,,0,0,0,,{\i1}În plus, își face griji neîncetat \Npentru fiica sa cea neastâmpărată.
+Dialogue: 99,0:16:00.98,0:16:03.48,Dialogue,,0,0,0,,{\i1}Dacă o voi putea \Naduce înapoi pe Kahm,
+Dialogue: 99,0:16:03.48,0:16:05.99,Dialogue,,0,0,0,,{\i1}statutul meu în imperiu \Nse va îmbunătăți.
 Dialogue: 99,0:16:10.70,0:16:13.74,Dialogue,,0,0,0,,C-Ce înseamnă asta, Prințesă?
 Dialogue: 99,0:16:13.74,0:16:15.95,Dialogue,,0,0,0,,Mai întâi, vă strecurați \Nprintre navele flotei mele,
 Dialogue: 99,0:16:15.95,0:16:17.96,Dialogue,,0,0,0,,iar apoi aterizați \Npe Planeta Sfântă.
@@ -228,27 +229,27 @@ Dialogue: 99,0:16:34.85,0:16:36.60,Dialogue,,0,0,0,,Totuși...
 Dialogue: 99,0:16:36.60,0:16:39.60,Dialogue,,0,0,0,,Pare că ai un plan \Nsecret pus la cale.
 Dialogue: 99,0:16:47.53,0:16:50.74,Dialogue,,0,0,0,,Ei bine, avem toate datele \Npe care le-ai adunat,
 Dialogue: 99,0:16:50.74,0:16:54.12,Dialogue,,0,0,0,,așa că ne vom întoarce \Nimediat în imperiu.
-Dialogue: 99,0:17:23.86,0:17:26.40,Dialogue,,0,0,0,,Hopa! Îmi cer scuze pentru asta!
-Dialogue: 99,0:17:26.40,0:17:29.61,Dialogue,,0,0,0,,Am apăsat puțin prea tare pedala de \Naccelerație și am pierdut controlul navei.
+Dialogue: 99,0:17:23.86,0:17:26.40,Dialogue,,0,0,0,,{\i1}Hopa! Îmi cer scuze pentru asta!
+Dialogue: 99,0:17:26.40,0:17:29.61,Dialogue,,0,0,0,,{\i1}Am apăsat puțin prea tare pedala de \Naccelerație și am pierdut controlul navei.
 Dialogue: 99,0:17:30.15,0:17:31.61,Dialogue,,0,0,0,,Geobaldi?
 Dialogue: 99,0:17:32.28,0:17:34.99,Dialogue,,0,0,0,,Nu ai fost în stare să-ți \Ncontrolezi nava, Geobaldi?
 Dialogue: 99,0:17:34.99,0:17:38.37,Dialogue,,0,0,0,,Cum naiba a ajuns \Ncineva ca tine comandant?
 Dialogue: 99,0:17:38.37,0:17:39.62,Dialogue,,0,0,0,,Stai puțin.
-Dialogue: 99,0:17:39.87,0:17:44.71,Dialogue,,0,0,0,,Nava mea nu e ca a ta, făcută doar ca să patruleze \Nîn jurul împăratului.
-Dialogue: 99,0:17:44.71,0:17:48.96,Dialogue,,0,0,0,,Nava mea e mult mai energică \Nși plină de personalitate.
+Dialogue: 99,0:17:39.87,0:17:44.71,Dialogue,,0,0,0,,{\i1}Nava mea nu e ca a ta, făcută doar \Nca să patruleze în jurul împăratului.
+Dialogue: 99,0:17:44.71,0:17:48.96,Dialogue,,0,0,0,,{\i1}Nava mea e mult mai energică \Nși plină de personalitate.
 Dialogue: 99,0:17:48.96,0:17:51.38,Dialogue,,0,0,0,,C-Ce naiba tot spui acolo?
 Dialogue: 99,0:17:51.38,0:17:55.85,Dialogue,,0,0,0,,Ești doar un parvenit care nici măcar nu \Ne în stare să-și conducă propria navă!
-Dialogue: 99,0:17:56.35,0:18:00.14,Dialogue,,0,0,0,,Ai grijă ce spui, \Ndomnule Progres.
-Dialogue: 99,0:18:00.14,0:18:03.40,Dialogue,,0,0,0,,Nici măcar împăratul nu e \Nîn stare să vadă până aici.
-Dialogue: 99,0:18:03.40,0:18:06.40,Dialogue,,0,0,0,,Dacă ai fi găsit mort, \Nplutind prin spațiu,
-Dialogue: 99,0:18:06.40,0:18:08.40,Dialogue,,0,0,0,,nu se va afla niciodată \Ncine ți-a venit de hac.
-Dialogue: 99,0:18:10.90,0:18:11.99,Dialogue,,0,0,0,,Privește.
-Dialogue: 99,0:18:11.99,0:18:15.07,Dialogue,,0,0,0,,Toate femeile frumoase, \Ninclusiv prințesa Kahm,
-Dialogue: 99,0:18:15.07,0:18:17.41,Dialogue,,0,0,0,,sunt de partea mea.
+Dialogue: 99,0:17:56.35,0:18:00.14,Dialogue,,0,0,0,,{\i1}Ai grijă ce spui, \Ndomnule Progres.
+Dialogue: 99,0:18:00.14,0:18:03.40,Dialogue,,0,0,0,,{\i1}Nici măcar împăratul nu e \Nîn stare să vadă până aici.
+Dialogue: 99,0:18:03.40,0:18:06.40,Dialogue,,0,0,0,,{\i1}Dacă ai fi găsit mort, \Nplutind prin spațiu,
+Dialogue: 99,0:18:06.40,0:18:08.40,Dialogue,,0,0,0,,{\i1}nu se va afla niciodată \Ncine ți-a venit de hac.
+Dialogue: 99,0:18:10.90,0:18:11.99,Dialogue,,0,0,0,,{\i1}Privește.
+Dialogue: 99,0:18:11.99,0:18:15.07,Dialogue,,0,0,0,,{\i1}Toate femeile frumoase, \Ninclusiv prințesa Kahm,
+Dialogue: 99,0:18:15.07,0:18:17.41,Dialogue,,0,0,0,,{\i1}sunt de partea mea.
 Dialogue: 99,0:18:17.99,0:18:19.24,Dialogue,,0,0,0,,Ești un prost.
 Dialogue: 99,0:18:20.12,0:18:22.96,Dialogue,,0,0,0,,Ajunge, Geobaldi.
 Dialogue: 99,0:18:23.50,0:18:25.42,Dialogue,,0,0,0,,Dă-te jos de pe noi!
-Dialogue: 99,0:18:26.42,0:18:30.80,Dialogue,,0,0,0,,Doar dacă te vei sui \Ntu pe mine după, Battia.
+Dialogue: 99,0:18:26.42,0:18:30.80,Dialogue,,0,0,0,,{\i1}Doar dacă te vei sui \Ntu pe mine după, Battia.
 Dialogue: 99,0:18:31.92,0:18:32.84,Dialogue,,0,0,0,,Perversule.
 Dialogue: 99,0:18:44.35,0:18:47.06,Dialogue,,0,0,0,,Ce se va întâmpla \Ncu mine acum?
 Dialogue: 99,0:18:53.28,0:18:56.53,Dialogue,,0,0,0,,Hei, ai terminat deja?
@@ -270,7 +271,7 @@ Dialogue: 99,0:19:40.78,0:19:42.29,Dialogue,,0,0,0,,Battia...
 Dialogue: 99,0:19:42.29,0:19:46.87,Dialogue,,0,0,0,,Am uitat să-ți spun, \Ndar Progres este sub pat.
 Dialogue: 99,0:19:46.87,0:19:47.29,Dialogue,,0,0,0,,Ce?
 Dialogue: 99,0:19:56.72,0:19:58.22,Dialogue,,0,0,0,,Nici să nu încerci...
-Dialogue: 99,0:19:58.84,0:20:01.60,Dialogue,,0,0,0,,Geobaldi, mai e ceva până ajunge
+Dialogue: 99,0:19:58.84,0:20:01.60,Dialogue,,0,0,0,,Geobaldi, mai avem \Nceva până ajungem
 Dialogue: 99,0:20:01.60,0:20:05.64,Dialogue,,0,0,0,,în Imperiul Sfântului Evascuraze.
 Dialogue: 99,0:20:05.64,0:20:07.60,Dialogue,,0,0,0,,Hei, hei... Battia!
 Dialogue: 99,0:20:13.65,0:20:18.03,Dialogue,,0,0,0,,Ei bine, vă voi lăsa \Nsă fiți singuri acum.
@@ -330,7 +331,7 @@ Dialogue: 99,0:25:57.41,0:26:00.29,Dialogue,,0,0,0,,Doar visezi urât.
 Dialogue: 99,0:26:00.29,0:26:04.67,Dialogue,,0,0,0,,Faptul că te căsătorești cu acel \Nvierme e doar în imaginația ta.
 Dialogue: 99,0:26:04.67,0:26:05.88,Dialogue,,0,0,0,,Ia ascultă aici...
 Dialogue: 99,0:26:06.38,0:26:10.67,Dialogue,,0,0,0,,Îți știu întregul plan secret.
-Dialogue: 99,0:26:10.67,0:26:13.38,Dialogue,,0,0,0,,Sigur nu vrei să-i spun tatei...
+Dialogue: 99,0:26:10.67,0:26:13.38,Dialogue,,0,0,0,,Sigur nu vrei să-i-l spun tatei...
 Dialogue: 99,0:26:13.38,0:26:14.51,Dialogue,,0,0,0,,așa că mișcă-ți fundul!
 Dialogue: 99,0:26:17.68,0:26:18.89,Dialogue,,0,0,0,,La o parte!
 Dialogue: 99,0:26:39.41,0:26:40.41,Dialogue,,0,0,0,,Te{\alpha&HFF&}tsuya...
@@ -348,7 +349,7 @@ Dialogue: 99,0:27:55.70,0:27:57.41,Dialogue,,0,0,0,,Tetsuya...
 Dialogue: 99,0:27:57.41,0:27:58.82,Dialogue,,0,0,0,,Ești în viață!
 Dialogue: 99,0:28:06.37,0:28:07.79,Dialogue,,0,0,0,,Ce tot faci?
 Dialogue: 99,0:28:07.79,0:28:09.17,Dialogue,,0,0,0,,Sunt doar puțin amețit.
-Dialogue: 99,0:28:09.67,0:28:12.17,Dialogue,,0,0,0,,Chiar ești un pervers?
+Dialogue: 99,0:28:09.67,0:28:12.17,Dialogue,,0,0,0,,Chiar ești un pervers, nu-i așa?
 Dialogue: 99,0:28:12.96,0:28:14.30,Dialogue,,0,0,0,,Sunt doar un tip obișnuit!
 Dialogue: 99,0:28:20.22,0:28:22.72,Dialogue,,0,0,0,,Tetsuya! Îți mulțumesc!
 Dialogue: 99,0:28:29.10,0:28:32.19,Dialogue,,0,0,0,,Îi voi da o lecție tatălui meu!
@@ -362,7 +363,7 @@ Dialogue: 99,0:29:05.06,0:29:07.89,Dialogue,,0,0,0,,iubirea noastră interzisă!
 Dialogue: 99,0:29:09.19,0:29:10.19,Dialogue,,0,0,0,,Ușurel, porumbeilor.
 Dialogue: 99,0:29:10.77,0:29:12.19,Dialogue,,0,0,0,,Veți avea timp de asta mai târziu.
 Dialogue: 99,0:29:12.56,0:29:14.90,Dialogue,,0,0,0,,Grăbiți-vă odată. Doamne...
-Dialogue: 99,0:29:14.90,0:29:16.61,Dialogue,,0,0,0,,Trebuie să plecăm repede.
+Dialogue: 99,0:29:14.90,0:29:16.61,Dialogue,,0,0,0,,Trebuie să plecăm repede de aici.
 Dialogue: 99,0:29:16.61,0:29:21.53,Dialogue,,0,0,0,,Din cauza voastră, \Nam ajuns și eu un om căutat.
 Dialogue: 99,0:29:23.03,0:29:23.87,Dialogue,,0,0,0,,Ei bine?
 Dialogue: 99,0:29:23.87,0:29:25.79,Dialogue,,0,0,0,,Vrei să vii cu noi?
@@ -395,9 +396,9 @@ Dialogue: 99,0:32:45.78,0:32:48.20,Dialogue,,0,0,0,,Încă respiră.
 Dialogue: 99,0:32:48.20,0:32:50.11,Dialogue,,0,0,0,,Folosește-ți puterea, Kahm!
 Dialogue: 99,0:32:50.95,0:32:53.03,Dialogue,,0,0,0,,Nu am mai folosit această \Ntehnică până acum,
 Dialogue: 99,0:32:53.03,0:32:57.08,Dialogue,,0,0,0,,dar doar cei cu sânge \Nregal o pot folosi.
-Dialogue: 99,0:33:02.96,0:33:06.76,Dialogue,,0,0,0,,Alertă! Intrusul a evadat!
-Dialogue: 99,0:33:06.76,0:33:09.63,Dialogue,,0,0,0,,Și se pare că a răpit-o \Npe prințesa Kahm!
-Dialogue: 99,0:33:09.63,0:33:13.01,Dialogue,,0,0,0,,Toți soldații din palat sunt \Nîn stare de alertă maximă!
+Dialogue: 99,0:33:02.96,0:33:06.76,Dialogue,,0,0,0,,{\an8\i1}Alertă! Intrusul a evadat!
+Dialogue: 99,0:33:06.76,0:33:09.63,Dialogue,,0,0,0,,{\an8\i1}Și se pare că a răpit-o \Npe prințesa Kahm!
+Dialogue: 99,0:33:09.63,0:33:13.01,Dialogue,,0,0,0,,{\an8\i1}Toți soldații din palat sunt \Nîn stare de alertă maximă!
 Dialogue: 99,0:33:28.69,0:33:30.74,Dialogue,,0,0,0,,Noi îi vom ține ocupați.
 Dialogue: 99,0:33:41.17,0:33:44.13,Dialogue,,0,0,0,,Haide să ne distrăm un pic \Ncât timp îi ținem pe loc.
 Dialogue: 99,0:33:44.13,0:33:45.09,Dialogue,,0,0,0,,Să ne dezlănțuim.
@@ -415,7 +416,7 @@ Dialogue: 99,0:35:41.08,0:35:42.37,Dialogue,,0,0,0,,La naiba! Suntem urmăriți!
 Dialogue: 99,0:35:49.67,0:35:51.34,Dialogue,,0,0,0,,Ajutor!
 Dialogue: 99,0:35:51.34,0:35:53.80,Dialogue,,0,0,0,,Dă-mi mâna, Prințesă! \NTe voi salva eu!
 Dialogue: 99,0:35:54.72,0:35:55.88,Dialogue,,0,0,0,,Oh, serios?
-Dialogue: 99,0:36:07.85,0:36:10.06,Dialogue,,0,0,0,,Hangarul e imediat după asta.
+Dialogue: 99,0:36:07.85,0:36:10.06,Dialogue,,0,0,0,,Hangarul e imediat în față.
 Dialogue: 99,0:36:11.23,0:36:12.57,Dialogue,,0,0,0,,A fost floare la ureche.
 Dialogue: 99,0:36:28.37,0:36:29.75,Dialogue,,0,0,0,,Auci.
 Dialogue: 99,0:36:30.29,0:36:31.34,Dialogue,,0,0,0,,Ești bine?
@@ -438,7 +439,7 @@ Dialogue: 99,0:37:55.84,0:37:58.67,Dialogue,,0,0,0,,Atunci loviți-le motoarele.
 Dialogue: 99,0:37:59.30,0:38:00.01,Dialogue,,0,0,0,,Foc!
 Dialogue: 99,0:38:07.22,0:38:08.77,Dialogue,,0,0,0,,Contraatacăm și noi?
 Dialogue: 99,0:38:08.77,0:38:09.77,Dialogue,,0,0,0,,Nu încă. E prea devreme.
-Dialogue: 99,0:38:16.90,0:38:19.07,Dialogue,,0,0,0,,Către toate navele:
+Dialogue: 99,0:38:16.90,0:38:19.07,Dialogue,,0,0,0,,Către toate unitățile:
 Dialogue: 99,0:38:19.07,0:38:22.49,Dialogue,,0,0,0,,Înconjurați navele \Nlui Kahm și Geobaldi!
 Dialogue: 99,0:38:32.16,0:38:33.33,Dialogue,,0,0,0,,E de rău.
 Dialogue: 99,0:38:33.33,0:38:35.08,Dialogue,,0,0,0,,Nu putem sări în \Nhiperspațiu ca să scăpăm?
@@ -461,9 +462,9 @@ Dialogue: 99,0:39:26.14,0:39:27.26,Dialogue,,0,0,0,,E complet descoperit acum.
 Dialogue: 99,0:39:27.93,0:39:30.76,Dialogue,,0,0,0,,Trageți cu tunul principal \Nla putere maximă!
 Dialogue: 99,0:39:31.14,0:39:32.64,Dialogue,,0,0,0,,Asta e mult prea periculos!
 Dialogue: 99,0:39:38.15,0:39:41.15,Dialogue,,0,0,0,,Ce naiba încercați să faceți? \NV-ați pierdut cumva mințile?
-Dialogue: 99,0:39:42.48,0:39:43.69,Dialogue,,0,0,0,,Ai grijă de tine, Kahm!
-Dialogue: 99,0:39:43.69,0:39:44.65,Dialogue,,0,0,0,,Hei, vierme...
-Dialogue: 99,0:39:45.99,0:39:47.91,Dialogue,,0,0,0,,O lăsăm pe prințesă în seama ta.
+Dialogue: 99,0:39:42.48,0:39:43.69,Dialogue,,0,0,0,,{\i1}Ai grijă de tine, Kahm!
+Dialogue: 99,0:39:43.69,0:39:44.65,Dialogue,,0,0,0,,{\i1}Hei, vierme...
+Dialogue: 99,0:39:45.99,0:39:47.91,Dialogue,,0,0,0,,{\i1}O lăsăm pe prințesă în seama ta.
 Dialogue: 99,0:39:47.91,0:39:49.16,Dialogue,,0,0,0,,Geobaldi.
 Dialogue: 99,0:39:51.04,0:39:52.66,Dialogue,,0,0,0,,Îi avem în vizor!
 Dialogue: 99,0:39:53.00,0:39:55.66,Dialogue,,0,0,0,,S-a zis cu tine, Geobaldi.
